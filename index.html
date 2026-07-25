@@ -899,7 +899,7 @@
         recipe.directions.forEach(step => {
             const div = document.createElement('div');
             
-            let isHeader = (step.startsWith('**') && step.endsWith('**')) || /^\\s*step\\s+\\d+/i.test(step);
+            let isHeader = (step.startsWith('**') && step.endsWith('**')) || /^\s*step\s+\d+/i.test(step);
             if (isHeader) {
                 stepIdx = 1; // Reset step counter for instructions under this header
                 const subHeader = step.replace(/^\*\*|\*\*$/g, '');
