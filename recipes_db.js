@@ -3371,12 +3371,11 @@ const RECIPES_DB = [
         "directions": [],
         "notes": [],
         "tags": [
-            "Dessert",
-            "Breakfast",
-            "Bread",
-            "Drink"
+            "Bread"
         ],
-        "methods": [],
+        "methods": [
+            "Bake"
+        ],
         "images": [
             "images/cinnamon_apple_star_bread_with_maple_icing_1.jpg",
             "images/cinnamon_apple_star_bread_with_maple_icing_2.jpg",
@@ -3488,13 +3487,10 @@ const RECIPES_DB = [
         ],
         "notes": [],
         "tags": [
-            "Dessert",
-            "Breakfast",
-            "Bread"
+            "Dessert"
         ],
         "methods": [
-            "Bake",
-            "Fry"
+            "Bake"
         ],
         "images": [
             "images/cinnamon_sweet_potato_breakfast_cookies_1.jpg"
@@ -4244,7 +4240,7 @@ const RECIPES_DB = [
             "Vegan option: use \u00be cup vegan mayo instead of the yogurt and regular mayo. This recipe was tested with Sir Kensington's Fabanaise. Use maple syrup in place of the honey."
         ],
         "tags": [
-            "Dip"
+            "Side"
         ],
         "methods": [
             "Blend"
@@ -5488,7 +5484,7 @@ const RECIPES_DB = [
         ],
         "notes": [],
         "tags": [
-            "Sauce"
+            "Side"
         ],
         "methods": [
             "Saut\u00e9",
@@ -8000,7 +7996,7 @@ const RECIPES_DB = [
             "Always mix vinaigrettes only in a glass bowl (with a whisk for the best blend), as aluminum bowls will react with the acidity of vinegar and change the flavor."
         ],
         "tags": [
-            "Dressing"
+            "Side"
         ],
         "methods": [],
         "images": [
