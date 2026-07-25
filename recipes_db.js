@@ -99,8 +99,19 @@ const RECIPES_DB = [
     {
         "id": "almond_chocolate_chip_energy_balls",
         "title": "Almond Chocolate Chip Energy Balls",
-        "description": "by Jen and Emily\nPrep Time: 10 minutes\nKeywords: blender breakfast snack\nIngredients (makes 11 balls)\n1 cup sliced almonds\n8 dates, pitted\n1/4 cup dried cherries\n2 tablespoons unsweetened coconut flakes\n1 tablespoons hemp seeds\n2 teaspoons maple syrup\n1/4 cup mini chocolate chips\n2 tablespoons pumpkin seeds\n1 tablespoons water",
-        "ingredients": [],
+        "description": "by Jen and Emily\nPrep Time: 10 minutes\nKeywords: blender breakfast snack",
+        "ingredients": [
+            "**Ingredients (makes 11 balls)**",
+            "1 cup sliced almonds",
+            "8 dates, pitted",
+            "1/4 cup dried cherries",
+            "2 tablespoons unsweetened coconut flakes",
+            "1 tablespoons hemp seeds",
+            "2 teaspoons maple syrup",
+            "1/4 cup mini chocolate chips",
+            "2 tablespoons pumpkin seeds",
+            "1 tablespoons water"
+        ],
         "directions": [
             "Add all ingredients except chocolate chips, pumpkin seeds, and water to a blender.",
             "Pulse 15-20 times, until the dates have been broken down and the mixture is coarsely chopped. Scrape sides if necessary.",
@@ -144,8 +155,10 @@ const RECIPES_DB = [
             "Make the dressing: in a small bowl combine the mayo, oil, lemon juice, honey, garlic powder, salt, and pepper. Whisk until well combined, about 2-3 minutes. Set aside.",
             "In a large bowl, toss together all of the salad ingredients \u2013 broccoli, cauliflower, apple, red onion, celery, green onion, dried cranberries, feta cheese, and almonds or walnuts.",
             "Add the dressing to the large bowl and toss until well combined. Let salad sit in the fridge for 30 minutes to allow veggies to marinate in the dressing (optional step but recommended)",
-            "Store leftovers in an airtight container in the fridge for up to 4 days.",
-            "NUTRITION INFORMATION",
+            "Store leftovers in an airtight container in the fridge for up to 4 days."
+        ],
+        "notes": [
+            "**NUTRITION INFORMATION**",
             "Serving Size: 1/10 of recipe (1 cup)",
             "Calories: 275",
             "Fat: 22 g",
@@ -156,7 +169,6 @@ const RECIPES_DB = [
             "Sugar: 11 g)",
             "Protein: 4 g"
         ],
-        "notes": [],
         "tags": [
             "Salad"
         ],
@@ -811,7 +823,7 @@ const RECIPES_DB = [
         "notes": [
             "**NUTRITION**",
             "Per serving: 330 calories; 24 g fat (6 g sat, 14 g mono); 203 mg cholesterol; 19 g carbohydrates; 0 g added sugars; 11 g total sugars; 13 g protein; 5 g fiber; 700 mg sodium; 965 mg potassium.",
-            "Nutrition Bonus: Vitamin C (171% daily value), Vitamin A (71% dv), Folate (23% dv)",
+            "**Nutrition Bonus: Vitamin C (171% daily value), Vitamin A (71% dv), Folate (23% dv)**",
             "Carbohydrate Servings: 1 1/2",
             "Exchanges: 3 1/2 vegetable, 1 1/2 medium-fat meat, 3 fat"
         ],
@@ -1841,11 +1853,12 @@ const RECIPES_DB = [
             "Stir in the dill, parsley, and chives. If you prefer a thicker texture, let it set in the fridge. The longer it sets, the thicker the dressing will be.",
             "Prepare the salad: Preheat the oven to 400\u00b0F. Prepare the buffalo coating by combining the hot sauce, olive oil, apple cider vinegar, paprika, garlic powder, maple syrup, and sea salt flakes.",
             "Line a large baking tray with parchment paper. Using your hands, break the tofu into small chunks. Spread the tofu and cauliflower onto the baking tray, and coat with the buffalo sauce. Bake for 25 minutes, on the middle rack of the oven.",
-            "In a large bowl, combine the lettuce, baked buffalo cauliflower, tofu, bell peppers, pickled onions, avocado, and pecans. Drizzle with the healthy ranch dressing, et voila!",
-            "Nutritional Information - Per Serving",
+            "In a large bowl, combine the lettuce, baked buffalo cauliflower, tofu, bell peppers, pickled onions, avocado, and pecans. Drizzle with the healthy ranch dressing, et voila!"
+        ],
+        "notes": [
+            "**Nutritional Information - Per Serving**",
             "Calories 524kcal | Carbohydrates 33g | Protein 31g | Fat 35g | Sodium 446mg | Fiber 9g | Vitamin A 334IU | Vitamin C 82mg | Calcium 711mg | Iron 7mg"
         ],
-        "notes": [],
         "tags": [
             "Salad"
         ],
@@ -2526,12 +2539,13 @@ const RECIPES_DB = [
             "Step 3",
             "Add the rest of the ingredients and stir together. Cover the pan and simmer for about 15 minutes, stirring every 5 minutes to keep from burning.",
             "Step 4",
-            "Ladle the soup into 4 serving bowls and enjoy! Leftover stew can be stored in air-tight container and saved for lunch the next day.",
-            "Nutritional analysis per serving",
-            "calories 204 \u2022 fat 24 g \u2022 saturated fat 20 g \u2022 cholesterol 0 mg \u2022 fiber 6 g \u2022 protein 6 g \u2022 carbohydrate 18 g \u2022 sodium 588 m"
+            "Ladle the soup into 4 serving bowls and enjoy! Leftover stew can be stored in air-tight container and saved for lunch the next day."
         ],
         "directions": [],
-        "notes": [],
+        "notes": [
+            "**Nutritional analysis per serving**",
+            "calories 204 \u2022 fat 24 g \u2022 saturated fat 20 g \u2022 cholesterol 0 mg \u2022 fiber 6 g \u2022 protein 6 g \u2022 carbohydrate 18 g \u2022 sodium 588 m"
+        ],
         "tags": [
             "Soup"
         ],
@@ -2569,12 +2583,13 @@ const RECIPES_DB = [
             "Step 3",
             "Add the rest of the ingredients and stir together. Cover the pan and simmer for about 15 minutes, stirring every 5 minutes to keep from burning.",
             "Step 4",
-            "Ladle the soup into 4 serving bowls and enjoy! Leftover stew can be stored in air-tight container and saved for lunch the next day.",
-            "Nutritional analysis per serving",
-            "calories 204 \u2022 fat 24 g \u2022 saturated fat 20 g \u2022 cholesterol 0 mg \u2022 fiber 6 g \u2022 protein 6 g \u2022 carbohydrate 18 g \u2022 sodium 588 m"
+            "Ladle the soup into 4 serving bowls and enjoy! Leftover stew can be stored in air-tight container and saved for lunch the next day."
         ],
         "directions": [],
-        "notes": [],
+        "notes": [
+            "**Nutritional analysis per serving**",
+            "calories 204 \u2022 fat 24 g \u2022 saturated fat 20 g \u2022 cholesterol 0 mg \u2022 fiber 6 g \u2022 protein 6 g \u2022 carbohydrate 18 g \u2022 sodium 588 m"
+        ],
         "tags": [
             "Soup"
         ],
@@ -3390,8 +3405,19 @@ const RECIPES_DB = [
     {
         "id": "cinnamon_sweet_potato_breakfast_cookies",
         "title": "Cinnamon Sweet Potato Breakfast Cookies",
-        "description": "Ingredients (Makes 12 cookies):\n1 cup mashed sweet potato (about \u00bd medium sweet potato)\n\u00bc cup almond butter (or peanut butter for variation)\n\u00bc cup maple syrup (or honey if not vegan)\n1 tsp vanilla extract\n1\u00bd cups rolled oats (not instant \u2013 for best texture)\n\u00bd tsp ground cinnamon\n\u00bc tsp salt\n\u00bc cup raisins (optional but recommended for extra chewiness)\n\u00bc cup chopped walnuts (or pecans for added crunch)",
-        "ingredients": [],
+        "description": "",
+        "ingredients": [
+            "**Ingredients (Makes 12 cookies):**",
+            "1 cup mashed sweet potato (about \u00bd medium sweet potato)",
+            "\u00bc cup almond butter (or peanut butter for variation)",
+            "\u00bc cup maple syrup (or honey if not vegan)",
+            "1 tsp vanilla extract",
+            "1\u00bd cups rolled oats (not instant \u2013 for best texture)",
+            "\u00bd tsp ground cinnamon",
+            "\u00bc tsp salt",
+            "\u00bc cup raisins (optional but recommended for extra chewiness)",
+            "\u00bc cup chopped walnuts (or pecans for added crunch)"
+        ],
         "directions": [
             "Step 1: Prep Oven & Baking Sheet",
             "Preheat oven to 350\u00b0F (175\u00b0C) .",
@@ -3424,7 +3450,7 @@ const RECIPES_DB = [
         ],
         "notes": [],
         "tags": [
-            "Dessert"
+            "Breakfast"
         ],
         "methods": [
             "Bake"
@@ -3472,8 +3498,10 @@ const RECIPES_DB = [
             "4. Melt butter with oil in a large skillet over medium heat. Add potato, onion, carrots, celery and mushrooms, sprinkle with 2 tsp. salt and 1/2 tsp. pepper and stir well. Cover and cook, stirring occasionally, until vegetables have softened, 15 to 20 minutes.",
             "5. Sprinkle flour over vegetables. Cook, stirring, for 3 minutes. Add 2 cups of reserved broth and milk, increase heat to high and bring to a boil, stirring constantly. Reduce heat to medium and cook, stirring, for 3 minutes. Stir in peas, reserved chicken and thyme. If mixture is very thick, thin with some of reserved broth. Season with additional salt and pepper, if desired. Transfer to baking dish.",
             "6. Brush some of beaten egg around edges of baking dish. Roll out dough between 2 pieces of plastic wrap to a 14- by 10-inch rectangle. Roll dough onto rolling pin and unroll it on top of baking dish. Patch any tears. Press pastry to edges of dish, trim if necessary and crimp to seal. Brush top of pie with remaining egg. Cut a few slits in the top to allow steam to escape. Place on baking sheet and bake until top is golden and filling is bubbly, 50 to 60 minutes. Let rest for 10 minutes before serving.",
-            "JANUARY 2013",
-            "Nutritional Information",
+            "JANUARY 2013"
+        ],
+        "notes": [
+            "**Nutritional Information**",
             "Calories 762",
             "Fat 42 g",
             "Satfat 18 g",
@@ -3483,7 +3511,6 @@ const RECIPES_DB = [
             "Cholesterol 147 mg",
             "Sodium 573 mg"
         ],
-        "notes": [],
         "tags": [
             "Entree"
         ],
@@ -3826,13 +3853,14 @@ const RECIPES_DB = [
         ],
         "directions": [
             "Combine cranberries, sugar, water and cinnamon stick in a saucepan. Bring to a boil, reduce heat and let simmer 10 minutes. Cool completely (sauce will thicken upon cooling).",
-            "Add 1 1/2 cups cooled cranberry mixture from step 1 with remaining ingredients and stir well. Let sit 4 hours or overnight.",
-            "NUTRITION INFORMATION Yield: 10 servings, Serving Size: 1/2 cup",
+            "Add 1 1/2 cups cooled cranberry mixture from step 1 with remaining ingredients and stir well. Let sit 4 hours or overnight."
+        ],
+        "notes": [
+            "**NUTRITION INFORMATION Yield: 10 servings, Serving Size: 1/2 cup**",
             "Amount Per Serving: Calories: 347 Calories",
             "\u00a9Holly Nilsson for SpendWithPennies.com. Content and photographs are copyright protected. Sharing of this recipe is both encouraged and appreciated. Copying and/or pasting full recipes to any social media is strictly prohibited. Please view my photo use policy here.",
             "Recipe Permalink: https://www.spendwithpennies.com/cranberry-millionaire-salad/"
         ],
-        "notes": [],
         "tags": [
             "Dessert"
         ],
@@ -3847,9 +3875,31 @@ const RECIPES_DB = [
     {
         "id": "cranberry_orange_pecan_bread_recipe",
         "title": "Cranberry Orange Pecan Bread Recipe",
-        "description": "Ingredients :\n1/2 cup pecans, chopped coarse\n1 tablespoon grated zest from 1 large orange\n1/3 cup freshly squeezed orange juice\n2/3 cup buttermilk\n6 tablespoons unsalted butter, melted and cooled slightly\n1 large egg, beaten lightly\n2 cups all-purpose flour\n1 cup granulated sugar\n1 teaspoon table salt\n1 teaspoon baking powder\n1/4 teaspoon baking soda\n1 1/2 cups cranberries chopped coarsely\nDirections :\nPreheat the oven to 375F 180C degrees.\nGrease bottom and sides of a 9 x 5-inch loaf pan; dust with flour, tapping out excess.\nSpread the pecans onto a baking sheet and place in preheated oven 5-7 minutes until fragrant. Shake the baking sheet halfway through baking so the nuts will toast evenly. Remove nuts from oven and set aside to cool completely.\nIn a small bowl, stir together orange juice, zest, buttermilk, butter, and egg; set aside. In a large bowl, whisk together flour, sugar, salt, baking powder, and baking soda in large bowl. Stir liquid ingredients into the dry until just moistened. Gently stir in cranberries and pecans. Do not overmix.\nScrape batter into prepared loaf pan and smooth surface with a rubber spatula. Bake 20 minutes, then reduce heat to 350 degrees; continue to bake until golden brown and toothpick inserted in center of loaf comes out clean, about 45 minutes longer.\nCool in pan 10 minutes, then transfer to wire rack and cool completely before serving, at least 1 hour.",
-        "ingredients": [],
-        "directions": [],
+        "description": "",
+        "ingredients": [
+            "**Ingredients :**",
+            "1/2 cup pecans, chopped coarse",
+            "1 tablespoon grated zest from 1 large orange",
+            "1/3 cup freshly squeezed orange juice",
+            "2/3 cup buttermilk",
+            "6 tablespoons unsalted butter, melted and cooled slightly",
+            "1 large egg, beaten lightly",
+            "2 cups all-purpose flour",
+            "1 cup granulated sugar",
+            "1 teaspoon table salt",
+            "1 teaspoon baking powder",
+            "1/4 teaspoon baking soda",
+            "1 1/2 cups cranberries chopped coarsely"
+        ],
+        "directions": [
+            "**Directions :**",
+            "Preheat the oven to 375F 180C degrees.",
+            "Grease bottom and sides of a 9 x 5-inch loaf pan; dust with flour, tapping out excess.",
+            "Spread the pecans onto a baking sheet and place in preheated oven 5-7 minutes until fragrant. Shake the baking sheet halfway through baking so the nuts will toast evenly. Remove nuts from oven and set aside to cool completely.",
+            "In a small bowl, stir together orange juice, zest, buttermilk, butter, and egg; set aside. In a large bowl, whisk together flour, sugar, salt, baking powder, and baking soda in large bowl. Stir liquid ingredients into the dry until just moistened. Gently stir in cranberries and pecans. Do not overmix.",
+            "Scrape batter into prepared loaf pan and smooth surface with a rubber spatula. Bake 20 minutes, then reduce heat to 350 degrees; continue to bake until golden brown and toothpick inserted in center of loaf comes out clean, about 45 minutes longer.",
+            "Cool in pan 10 minutes, then transfer to wire rack and cool completely before serving, at least 1 hour."
+        ],
         "notes": [],
         "tags": [
             "Bread"
@@ -4537,8 +4587,10 @@ const RECIPES_DB = [
     {
         "id": "crunchy_thai_chickpea_salad",
         "title": "Crunchy Thai Chickpea Salad",
-        "description": "Why You\u2019ll Love This Recipe\nThere\u2019s so much to adore about Crunchy Thai Chickpea Salad. Here\u2019s why it\u2019s a must-try:\nPacked with Protein and Fiber : Chickpeas provide plant-based protein and keep you feeling full longer.\nBold and Zesty Flavors : The Thai-inspired dressing is tangy, spicy, and utterly addictive.\nCrisp and Refreshing : Loaded with crunchy veggies for a satisfying texture in every bite.\nCustomizable : Add your favorite veggies, nuts, or herbs to make it your own.\nMeal Prep Friendly : Stays fresh in the fridge for days, making it perfect for busy weeks.\nIngredients You\u2019ll Need\nThe secret to this salad lies in its balance of textures and bold flavors. Here\u2019s what you\u2019ll need:",
+        "description": "Why You\u2019ll Love This Recipe\nThere\u2019s so much to adore about Crunchy Thai Chickpea Salad. Here\u2019s why it\u2019s a must-try:\nPacked with Protein and Fiber : Chickpeas provide plant-based protein and keep you feeling full longer.\nBold and Zesty Flavors : The Thai-inspired dressing is tangy, spicy, and utterly addictive.\nCrisp and Refreshing : Loaded with crunchy veggies for a satisfying texture in every bite.\nCustomizable : Add your favorite veggies, nuts, or herbs to make it your own.\nMeal Prep Friendly : Stays fresh in the fridge for days, making it perfect for busy weeks.",
         "ingredients": [
+            "**Ingredients You\u2019ll Need**",
+            "The secret to this salad lies in its balance of textures and bold flavors. Here\u2019s what you\u2019ll need:",
             "**For the Salad:**",
             "2 cans (15 oz each) chickpeas (rinsed, drained, and patted dry)",
             "1 cup shredded cabbage (green or purple)",
@@ -4694,6 +4746,7 @@ const RECIPES_DB = [
             "Parmesan & basil leaves for garnish"
         ],
         "directions": [
+            "**Recipe Directions**",
             "Boil potatoes, then transfer to a 20cm greased baking tin and crush. Press firmly, creating the sides. Drizzle with olive oil, sprinkle with salt, and bake at 200\u00b0C (fan) for 40-45 minutes.",
             "Add mozzarella, tomatoes, shallots, and spinach.",
             "Whisk eggs, cream cheese, salt, pepper, nutmeg, garlic powder, and milk. Pour over the potato base.",
@@ -4814,11 +4867,12 @@ const RECIPES_DB = [
             "Brush burger patties with olive oil; coat with crushed cumin seeds. Blot excess moisture from pineapple slices and lightly coat with olive oil.",
             "Grill pineapple slices on the rack of an uncovered grill directly over medium-high heat for 3 to 4 minutes per side or until heated through. Transfer to a cutting board. Add meatless patties to grill rack; cook for 4 minutes per side or until heated through, adding pita bread the last 3 to 4 minutes of grilling. Cover and keep warm.",
             "Chop pineapple and place in a bowl; stir in relish.",
-            "Serve veggie burgers on pita bread with pineapple mixture. If desired, top with fresh basil and chopped peanuts.",
-            "Nutrition Facts (Cumin-Crusted Veggie Burgers with Pineapple Salsa)",
+            "Serve veggie burgers on pita bread with pineapple mixture. If desired, top with fresh basil and chopped peanuts."
+        ],
+        "notes": [
+            "**Nutrition Facts (Cumin-Crusted Veggie Burgers with Pineapple Salsa)**",
             "Per serving: 316 kcal cal., 5 g fat (1 g sat. fat, 1 g polyunsaturated fat, 3 g monounsatured fat), 0 mg chol., 619 mg sodium, 52 g carb., 6 g fiber, 12 g sugar, 19 g pro. Percent Daily Values are based on a 2,000 calorie diet"
         ],
-        "notes": [],
         "tags": [
             "Entree"
         ],
@@ -5501,7 +5555,7 @@ const RECIPES_DB = [
         "notes": [
             "**NUTRITION**",
             "Per serving: 499 calories; 31 g fat (4 g sat, 18 g mono); 0 mg cholesterol; 45 g carbohydrates; 0 g added sugars; 10 g total sugars; 16 g protein; 13 g fiber; 626 mg sodium; 1024 mg potassium.",
-            "Nutrition Bonus: Vitamin A (188% daily value), Vitamin C (105% dv), Folate (90% dv), Iron (40% dv)",
+            "**Nutrition Bonus: Vitamin A (188% daily value), Vitamin C (105% dv), Folate (90% dv), Iron (40% dv)**",
             "Carbohydrate Servings: 3",
             "Exchanges: 2 starch, 1 1/2 vegetable, 1 lean meat, 5 1/2 fat"
         ],
@@ -5891,9 +5945,38 @@ const RECIPES_DB = [
     {
         "id": "feta_parmesan_roasted_stuffed_dates",
         "title": "Feta-Parmesan Roasted Stuffed Dates",
-        "description": "Indulge in the sweet and savory flavors of Feta-Parmesan Roasted Stuffed Dates, a delightful appetizer or snack recipe. Tender dates, stuffed with a creamy feta-Parmesan mixture, roasted to perfection, and finished with a drizzle of balsamic glaze.\nIngredients :\n10 ounces pitted Medjool dates, sliced open on one side\nHoney, for drizzling\n3 ounces feta cheese, sliced into 1-inch pieces\n3/4 cup shredded Parmesan cheese\n1/3 cup walnuts, finely chopped\n1 tablespoon rosemary, finely chopped\n2 tablespoons scallions\n2 tablespoons chopped parsley (or arugula)\n1 1/2 teaspoons olive oil\n1 1/2 teaspoons honey\n1 teaspoon orange zest\n1/4 teaspoon salt\nPepper, to taste\nDirections :\nPreheat the oven to 375\u00b0F.\nIn a bowl, combine walnuts, rosemary, scallions, parsley, olive oil, honey, orange zest, salt, and pepper.\nIn a separate bowl, place honey and in a small plate, add shredded Parmesan.\nDip each piece of feta in honey, then coat with Parmesan.\nStuff each date with the coated feta.\nArrange stuffed dates in a casserole dish and sprinkle with the prepared topping.\nBake for 15 minutes until the dates are warm and topping is golden.\nRemove from the oven, drizzle with honey, and serve warm.\nHealth Benefits:\n1. Rich in Fiber: Dates support healthy digestion.\n2. Good Source of Calcium: Feta and Parmesan cheese provide calcium.\n3. Antioxidant-Rich: Dates contain antioxidants",
-        "ingredients": [],
-        "directions": [],
+        "description": "Indulge in the sweet and savory flavors of Feta-Parmesan Roasted Stuffed Dates, a delightful appetizer or snack recipe. Tender dates, stuffed with a creamy feta-Parmesan mixture, roasted to perfection, and finished with a drizzle of balsamic glaze.",
+        "ingredients": [
+            "**Ingredients :**",
+            "10 ounces pitted Medjool dates, sliced open on one side",
+            "Honey, for drizzling",
+            "3 ounces feta cheese, sliced into 1-inch pieces",
+            "3/4 cup shredded Parmesan cheese",
+            "1/3 cup walnuts, finely chopped",
+            "1 tablespoon rosemary, finely chopped",
+            "2 tablespoons scallions",
+            "2 tablespoons chopped parsley (or arugula)",
+            "1 1/2 teaspoons olive oil",
+            "1 1/2 teaspoons honey",
+            "1 teaspoon orange zest",
+            "1/4 teaspoon salt",
+            "Pepper, to taste"
+        ],
+        "directions": [
+            "**Directions :**",
+            "Preheat the oven to 375\u00b0F.",
+            "In a bowl, combine walnuts, rosemary, scallions, parsley, olive oil, honey, orange zest, salt, and pepper.",
+            "In a separate bowl, place honey and in a small plate, add shredded Parmesan.",
+            "Dip each piece of feta in honey, then coat with Parmesan.",
+            "Stuff each date with the coated feta.",
+            "Arrange stuffed dates in a casserole dish and sprinkle with the prepared topping.",
+            "Bake for 15 minutes until the dates are warm and topping is golden.",
+            "Remove from the oven, drizzle with honey, and serve warm.",
+            "Health Benefits:",
+            "1. Rich in Fiber: Dates support healthy digestion.",
+            "2. Good Source of Calcium: Feta and Parmesan cheese provide calcium.",
+            "3. Antioxidant-Rich: Dates contain antioxidants"
+        ],
         "notes": [],
         "tags": [
             "Appetizer"
@@ -6003,7 +6086,7 @@ const RECIPES_DB = [
         ],
         "notes": [
             "**Nutrition**",
-            "Nutrition Per Serving",
+            "**Nutrition Per Serving**",
             "Calories 270",
             "Fat 15 g (7 g sat, 6 g mono)",
             "Cholesterol 103 mg",
@@ -6012,7 +6095,7 @@ const RECIPES_DB = [
             "Fiber 1 g",
             "Sodium 351 mg",
             "Potassium 643 mg",
-            "Nutrition Bonus Potassium (18% daily value).",
+            "**Nutrition Bonus Potassium (18% daily value).**",
             "Carbohydrate Serving 1/2",
             "Exchanges 4 lean meat, 2 1/2 fat",
             "From EatingWell January/February 2015",
@@ -6321,11 +6404,12 @@ const RECIPES_DB = [
             "2.",
             "Heat wheat berries in a microwave-safe bowl for 2 minutes; stir and heat 1 more minute, until thawed.",
             "3.",
-            "Toss wheat berries, lentils, beets, lettuce, spinach and pistachios in bowl with dressing. Gently fold in salmon, if desired.",
-            "NUTRITION INFORMATION",
+            "Toss wheat berries, lentils, beets, lettuce, spinach and pistachios in bowl with dressing. Gently fold in salmon, if desired."
+        ],
+        "notes": [
+            "**NUTRITION INFORMATION**",
             "Per Serving: cal. (kcal) 424, Fat, total (g) 10, chol. (mg) 20, sat. fat (g) 1, carb. (g) 64, fiber (g) 15, pro. (g) 33, sodium (mg) 765, Percent Daily Values are based on a 2,000 calorie diet"
         ],
-        "notes": [],
         "tags": [
             "Salad"
         ],
@@ -6424,8 +6508,24 @@ const RECIPES_DB = [
     {
         "id": "hasselback_butternut_squash",
         "title": "Hasselback Butternut Squash",
-        "description": "BY: RENA\nSERVINGS: 4\nPREP: 15 MINUTES\nCOOK: 25 MINUTES\nTOTAL: 35 MINUTES\nIngredients Needed\nButternut squash: Learn more about butternut squash in this How to Cut Butternut Squash Tutorial.\nButter: This can be switched out with avocado or olive oil. Even coconut oil will work.\nGarlic cloves, minced: Use fresh garlic.\nHoney: or you may use maple syrup as a vegan option.\nChili flakes: optional if you don\u2019t like or have chili flakes.\nFresh thyme: you can also use dried thyme.\nSalt and freshly ground pepper\nPrep your squash \u2013 Cut the butternut squash evenly in half lengthwise. Scoop out the inside and discard. Then, peel off the skin. Place on a baking sheet, and cut side down.\nMake your glaze \u2013 In a small bowl, whisk melted butter with honey, garlic, chili, and thyme. Then, brush the squash with half the mix.\nRoast \u2013 Roast in the oven for 20-25 minutes. Remove from oven and allow to cool until ready to handle. 400 degrees\nSlice \u2013 Place the squash halves on a cutting board and, using a very sharp knife, slice it thinly, but not all the way through.\nRoast again \u2013 Return the squash to the same baking sheet and brush with the remaining garlic butter mixture Return to the oven and roast for an additional 15-20 minutes.\nServe and enjoy\nCALORIES: 87KCALCARBOHYDRATES: 9GFAT: 5GSATURATED FAT: 3GCHOLESTEROL: 15MGSODIUM: 59MGPOTASSIUM: 9MGSUGAR: 8GVITAMIN A: 390IUVITAMIN C: 1.7MGCALCIUM: 6MGIRON: 0.2MG",
-        "ingredients": [],
+        "description": "BY: RENA\nSERVINGS: 4\nPREP: 15 MINUTES\nCOOK: 25 MINUTES\nTOTAL: 35 MINUTES",
+        "ingredients": [
+            "**Ingredients Needed**",
+            "Butternut squash: Learn more about butternut squash in this How to Cut Butternut Squash Tutorial.",
+            "Butter: This can be switched out with avocado or olive oil. Even coconut oil will work.",
+            "Garlic cloves, minced: Use fresh garlic.",
+            "Honey: or you may use maple syrup as a vegan option.",
+            "Chili flakes: optional if you don\u2019t like or have chili flakes.",
+            "Fresh thyme: you can also use dried thyme.",
+            "Salt and freshly ground pepper",
+            "Prep your squash \u2013 Cut the butternut squash evenly in half lengthwise. Scoop out the inside and discard. Then, peel off the skin. Place on a baking sheet, and cut side down.",
+            "Make your glaze \u2013 In a small bowl, whisk melted butter with honey, garlic, chili, and thyme. Then, brush the squash with half the mix.",
+            "Roast \u2013 Roast in the oven for 20-25 minutes. Remove from oven and allow to cool until ready to handle. 400 degrees",
+            "Slice \u2013 Place the squash halves on a cutting board and, using a very sharp knife, slice it thinly, but not all the way through.",
+            "Roast again \u2013 Return the squash to the same baking sheet and brush with the remaining garlic butter mixture Return to the oven and roast for an additional 15-20 minutes.",
+            "Serve and enjoy",
+            "CALORIES: 87KCALCARBOHYDRATES: 9GFAT: 5GSATURATED FAT: 3GCHOLESTEROL: 15MGSODIUM: 59MGPOTASSIUM: 9MGSUGAR: 8GVITAMIN A: 390IUVITAMIN C: 1.7MGCALCIUM: 6MGIRON: 0.2MG"
+        ],
         "directions": [],
         "notes": [],
         "tags": [
@@ -6441,9 +6541,31 @@ const RECIPES_DB = [
     {
         "id": "hawaiian_pineapple_cake",
         "title": "Hawaiian pineapple cake!!!",
-        "description": "I love tropical flavours in food, and with the pineapple and coconut in this Hawaiian cake, I of course love this recipe!\nIt\u2019s one of those cakes that gets better with time \u2013 it\u2019s just as delicious on day four as it is on day one!\nIngredients :\nfor cake\n2 cups flour\n1\u00be cup sugar\n2 teaspoons of baking soda\n2 eggs\n1 x 20 oz / 570 g canned crushed pineapple in its own juice (do not filter the juice)\n1 cup sweetened coconut flakes\n1 cup chopped walnuts\nfrost\n1 x eight ounces / 225 g soft cream cheese\n1 cup / \u00bd cup / 115 g, softened unsalted butter\nA cup of icing sugar (powdered)\n2 teaspoons vanilla\na little salt\nDirections :\nPreheat oven to 180\u00b0C/350\u00b0F/Gas 4 and grease a 9 x 13 inch (33 cm x 23 cm) baking tray.Mix together flour, sugar, baking powder, eggs, chopped pineapple, juice, coconut and walnuts. In a large bowl, using your hand, until well blended.\nTransfer the baking mixture to a greased baking pan.Bake for 45 minutes until cooked through.) Cool completely in a pan.Use an electric mixer to put the cream cheese in a medium bowl and stir until it is creamy.Add butter, powdered sugar, vanilla extract, and salt, and blend with a blender until smooth.\nSpread the cream cheese over the cake and sprinkle with chopped walnuts.Cut into 24 servings and eat immediately.Or wrap the cake (no more cuts) and refrigerate before serving.\nEnjoy !",
-        "ingredients": [],
-        "directions": [],
+        "description": "I love tropical flavours in food, and with the pineapple and coconut in this Hawaiian cake, I of course love this recipe!\nIt\u2019s one of those cakes that gets better with time \u2013 it\u2019s just as delicious on day four as it is on day one!",
+        "ingredients": [
+            "**Ingredients :**",
+            "for cake",
+            "2 cups flour",
+            "1\u00be cup sugar",
+            "2 teaspoons of baking soda",
+            "2 eggs",
+            "1 x 20 oz / 570 g canned crushed pineapple in its own juice (do not filter the juice)",
+            "1 cup sweetened coconut flakes",
+            "1 cup chopped walnuts",
+            "frost",
+            "1 x eight ounces / 225 g soft cream cheese",
+            "1 cup / \u00bd cup / 115 g, softened unsalted butter",
+            "A cup of icing sugar (powdered)",
+            "2 teaspoons vanilla",
+            "a little salt"
+        ],
+        "directions": [
+            "**Directions :**",
+            "Preheat oven to 180\u00b0C/350\u00b0F/Gas 4 and grease a 9 x 13 inch (33 cm x 23 cm) baking tray.Mix together flour, sugar, baking powder, eggs, chopped pineapple, juice, coconut and walnuts. In a large bowl, using your hand, until well blended.",
+            "Transfer the baking mixture to a greased baking pan.Bake for 45 minutes until cooked through.) Cool completely in a pan.Use an electric mixer to put the cream cheese in a medium bowl and stir until it is creamy.Add butter, powdered sugar, vanilla extract, and salt, and blend with a blender until smooth.",
+            "Spread the cream cheese over the cake and sprinkle with chopped walnuts.Cut into 24 servings and eat immediately.Or wrap the cake (no more cuts) and refrigerate before serving.",
+            "Enjoy !"
+        ],
         "notes": [],
         "tags": [
             "Dessert"
@@ -6467,8 +6589,10 @@ const RECIPES_DB = [
             "1 tbsp cornstarch",
             "1 tbsp water",
             "1/2 cup chopped green onions",
-            "1/2 cup canned pineapple chunks (optional)",
-            "Directions:m",
+            "1/2 cup canned pineapple chunks (optional)"
+        ],
+        "directions": [
+            "**Directions:m**",
             "In a bowl, combine soy sauce, brown sugar, garlic, ginger, and pineapple juice to create the teriyaki marinade.",
             "Marinate chicken breasts in this mixture and refrigerate for at least 1 hour or overnight.",
             "Preheat grill or skillet over medium heat.",
@@ -6479,7 +6603,6 @@ const RECIPES_DB = [
             "Slice cooked chicken and serve with thickened teriyaki sauce, garnished with green onions and optional pineapple chunks.",
             "Prep Time: 1 hour 10 minutes | Cooking Time: 15 minutes | Total Time: 1 hour 25 minutes | Kcal: 310 | Servings: 4"
         ],
-        "directions": [],
         "notes": [],
         "tags": [
             "Entree"
@@ -6640,8 +6763,10 @@ const RECIPES_DB = [
             "1/4 cup raisins or nuts",
             "1 cup good dark chocolate chunks (Lily\u2019s brand is my fave)",
             "1 tsp vanilla",
-            "1 tsp cinnamon",
-            "Instructions :",
+            "1 tsp cinnamon"
+        ],
+        "directions": [
+            "**Instructions :**",
             "Preheat oven to 350 degrees.",
             "Preheat the Oven: Set your oven to preheat at 350\u00b0F (177\u00b0C).",
             "Prepare the Wet Ingredients: In a large mixing bowl, combine the mashed bananas and apple sauce. Stir them together until they are well mixed.",
@@ -6655,7 +6780,6 @@ const RECIPES_DB = [
             "Enjoy: Once cooled, your healthy cookies are ready to be enjoyed!",
             "These cookies are a great healthy alternative, perfect for satisfying sweet cravings without added sugars or flours. Enjoy your baking!"
         ],
-        "directions": [],
         "notes": [],
         "tags": [
             "Dessert"
@@ -6721,11 +6845,12 @@ const RECIPES_DB = [
             "Stir in corn, heavy cream, parsley, salt, black pepper and cayenne. Let sit until corn is heated through.",
             "Tip",
             "For easy cleanup: spacer",
-            "Line your slow cooker with a disposable slow cooker liner. Add ingredients as directed in recipe. Once your dish is finished cooking, spoon the food out of your slow cooker and simply dispose of the liner. Do not lift or transport the disposable liner with food inside.",
-            "NUTRITION INFORMATION",
+            "Line your slow cooker with a disposable slow cooker liner. Add ingredients as directed in recipe. Once your dish is finished cooking, spoon the food out of your slow cooker and simply dispose of the liner. Do not lift or transport the disposable liner with food inside."
+        ],
+        "notes": [
+            "**NUTRITION INFORMATION**",
             "Per Serving: cal. (kcal) 309, Fat, total (g) 8, chol. (mg) 27, sat. fat (g) 5, carb. (g) 56, fiber (g) 10, pro. (g) 7, sodium (mg) 1132, Percent Daily Values are based on a 2,000 calorie diet"
         ],
-        "notes": [],
         "tags": [
             "Soup"
         ],
@@ -7250,7 +7375,7 @@ const RECIPES_DB = [
     {
         "id": "inside_out_lasagna",
         "title": "Inside-Out Lasagna",
-        "description": "From EatingWell:\u00a0 January/February 2010\nYour rating: None Average: 3.8 (336 votes)\nLike\t1,072 people like this. Be the first of your friends.\nHere we take basic lasagna ingredients\u2014ricotta cheese, pasta and tomatoes\u2014and skip the layering and long baking time to make a super-quick and satisfying meal for the whole family. To cut down on prep time, look for presliced mushrooms. For meat lovers, brown some crumbled turkey sausage along with the onions and garlic. Serve with: Steamed broccoli and whole-grain baguette.\nREADER'S COMMENT:\n\"This was very bland. I would add a little more salt and pepper. Mine ended up watery too because of the mushrooms and using baby spinach. To solve the issue though, I added the ricotta to the pan after everything cooked so it can be...\nMakes: 4 servings, about 1 1/2 cups each\nActive Time: 25 minutes\nTotal Time: 25 minutes\nNUTRITION PROFILE\nDiabetes appropriate | Low calorie | Low cholesterol | Low saturated fat | Healthy weight | Heart healthy | High fiber | High potassium | High calcium |\nView Our Nutrition Guidelines \u00bb\nsecond row",
+        "description": "From EatingWell:\u00a0 January/February 2010\nYour rating: None Average: 3.8 (336 votes)\nLike\t1,072 people like this. Be the first of your friends.\nHere we take basic lasagna ingredients\u2014ricotta cheese, pasta and tomatoes\u2014and skip the layering and long baking time to make a super-quick and satisfying meal for the whole family. To cut down on prep time, look for presliced mushrooms. For meat lovers, brown some crumbled turkey sausage along with the onions and garlic. Serve with: Steamed broccoli and whole-grain baguette.\nREADER'S COMMENT:\n\"This was very bland. I would add a little more salt and pepper. Mine ended up watery too because of the mushrooms and using baby spinach. To solve the issue though, I added the ricotta to the pan after everything cooked so it can be...\nMakes: 4 servings, about 1 1/2 cups each\nActive Time: 25 minutes\nTotal Time: 25 minutes",
         "ingredients": [
             "8 ounces whole-wheat rotini or fusilli",
             "1 tablespoon extra-virgin olive oil",
@@ -7271,9 +7396,13 @@ const RECIPES_DB = [
             "Toss the sauce with the pasta and divide among 4 bowls. Dollop each serving with 3 tablespoons of ricotta."
         ],
         "notes": [
+            "**NUTRITION PROFILE**",
+            "Diabetes appropriate | Low calorie | Low cholesterol | Low saturated fat | Healthy weight | Heart healthy | High fiber | High potassium | High calcium |",
+            "View Our Nutrition Guidelines \u00bb",
+            "second row",
             "**NUTRITION**",
             "Per serving: 364 calories; 9 g fat (3 g sat, 4 g mono); 14 mg cholesterol; 55 g carbohydrates; 0 g added sugars; 16 g protein; 7 g fiber; 588 mg sodium; 786 mg potassium.",
-            "Nutrition Bonus: Vitamin A (90% daily value), Vitamin C (50% dv), Folate (25% dv), Potassium (22% dv), Calcium (21% dv), Iron (20% dv)."
+            "**Nutrition Bonus: Vitamin A (90% daily value), Vitamin C (50% dv), Folate (25% dv), Potassium (22% dv), Calcium (21% dv), Iron (20% dv).**"
         ],
         "tags": [
             "Entree"
@@ -7354,7 +7483,7 @@ const RECIPES_DB = [
     {
         "id": "italian_baked_chicken_and_pastina",
         "title": "Italian Baked Chicken and Pastina",
-        "description": "PREP TIME15 Min TOTAL TIME 55 Min SERVES 4\nDIRECTIONS FOR: ITALIAN BAKED CHICKEN AND PASTINA",
+        "description": "PREP TIME15 Min TOTAL TIME 55 Min SERVES 4",
         "ingredients": [
             "1 cup pastina pasta (or any small pasta)",
             "2 Tbsp olive oil",
@@ -7371,6 +7500,7 @@ const RECIPES_DB = [
             "1 Tbsp butter, plus more for buttering the baking dish"
         ],
         "directions": [
+            "**DIRECTIONS FOR: ITALIAN BAKED CHICKEN AND PASTINA**",
             "1. Preheat the oven to 400\u00baF.",
             "2. Bring a medium pot of salted water to a boil over high heat. Add the pasta and cook until just tender, stirring occasionally, about 5 minutes. Drain pasta into a large mixing bowl.",
             "3. Meanwhile, put the olive oil in a medium saute pan over medium heat. Add the chicken and cook for 3 minutes. Add the onions and garlic, stirring to combine, and cook until the onions are soft and the chicken is cooked through, about 5 minutes more. Put the chicken mixture into the bowl with the cooked pasta. Add the canned tomatoes, mozzarella cheese, parsley, salt, and pepper. Stir to combine. Place the mixture in a buttered 8 by 8 by 2-inch baking dish. In a small bowl mix together the bread crumbs and the Parmesan cheese. Sprinkle over the top of the pasta mixture. Dot the top with small bits of butter. Bake until the top is golden brown, about 30 minutes."
@@ -7451,11 +7581,12 @@ const RECIPES_DB = [
             "Combine vinegar, sugar and salt in a medium bowl, stirring to dissolve. Add the cucumbers and sesame seeds; toss well to combine. Serve immediately.",
             "Tip:",
             "1.",
-            "Tip: To toast sesame seeds, heat a small dry skillet over low heat. Add sesame seeds and stir constantly until golden and fragrant, about 2 minutes. Transfer to a small bowl and let cool.",
-            "NUTRITION INFORMATION",
+            "Tip: To toast sesame seeds, heat a small dry skillet over low heat. Add sesame seeds and stir constantly until golden and fragrant, about 2 minutes. Transfer to a small bowl and let cool."
+        ],
+        "notes": [
+            "**NUTRITION INFORMATION**",
             "Per Serving: cal. (kcal) 46, Fat, total (g) 2, carb. (g) 4, fiber (g) 1, pro. (g) 1, sodium (mg) 147, Potassium (mg) 137, iron (mg) 6.3, Vegetables () 1, Fat () 0.5, Percent Daily Values are based on a 2,000 calorie diet"
         ],
-        "notes": [],
         "tags": [
             "Salad"
         ],
@@ -7558,10 +7689,22 @@ const RECIPES_DB = [
     {
         "id": "korean_buckwheat_noodle_bowl",
         "title": "Korean Buckwheat Noodle Bowl",
-        "description": "Serves 4\n30 minutes or fewer\nPear is an unexpected addition to this subtly sweet and spicy dish.\n4 oz. dried Korean buckwheat noodles or soba noodles\n1 firm pear, such as Bosc, chopped\n1 cup julienned English cucumber\n\u00bd cup grated daikon radish\n3 Tbs. low-sodium soy sauce\n1 \u00bd Tbs. toasted sesame oil\n2 tsp. sugar\n2 tsp. chile paste\n2 cloves garlic, minced (2 tsp.)\n2 hard-boiled eggs, cut into wedges\n1 green onion, chopped (2 Tbs.)\n1 Tbs. toasted sesame seeds\n1. Cook noodles according to package directions. Drain, and rinse under cold water, then drain again. Transfer to bowl, and toss with pear, cucumber, and radish.\n2. Whisk soy sauce, sesame oil, sugar, chile paste, and garlic with 1 Tbs. water in small bowl. Pour sauce over noodles, and toss to mix. Serve garnished with egg wedges, green onion, and sesame seeds.\nnutritional information\nPer 1 1/4-cup serving:\nCalories: 247\nProtein: 8 g\nTotal Fat: 10 g\nSaturated Fat: 1 g\nCarbohydrates: 35 g\nCholesterol: 91 mg\nSodium: 466 mg\nFiber: 4 g\nSugar: 9 g",
+        "description": "Serves 4\n30 minutes or fewer\nPear is an unexpected addition to this subtly sweet and spicy dish.\n4 oz. dried Korean buckwheat noodles or soba noodles\n1 firm pear, such as Bosc, chopped\n1 cup julienned English cucumber\n\u00bd cup grated daikon radish\n3 Tbs. low-sodium soy sauce\n1 \u00bd Tbs. toasted sesame oil\n2 tsp. sugar\n2 tsp. chile paste\n2 cloves garlic, minced (2 tsp.)\n2 hard-boiled eggs, cut into wedges\n1 green onion, chopped (2 Tbs.)\n1 Tbs. toasted sesame seeds\n1. Cook noodles according to package directions. Drain, and rinse under cold water, then drain again. Transfer to bowl, and toss with pear, cucumber, and radish.\n2. Whisk soy sauce, sesame oil, sugar, chile paste, and garlic with 1 Tbs. water in small bowl. Pour sauce over noodles, and toss to mix. Serve garnished with egg wedges, green onion, and sesame seeds.",
         "ingredients": [],
         "directions": [],
-        "notes": [],
+        "notes": [
+            "**nutritional information**",
+            "Per 1 1/4-cup serving:",
+            "Calories: 247",
+            "Protein: 8 g",
+            "Total Fat: 10 g",
+            "Saturated Fat: 1 g",
+            "Carbohydrates: 35 g",
+            "Cholesterol: 91 mg",
+            "Sodium: 466 mg",
+            "Fiber: 4 g",
+            "Sugar: 9 g"
+        ],
         "tags": [
             "Entree"
         ],
@@ -7710,8 +7853,7 @@ const RECIPES_DB = [
             "3 Tbsp dry white wine (vegan-friendly, if available)",
             "1 (14.5-oz) can vegetable broth",
             "3 cups baby spinach",
-            "\u00bd Tbsp fresh lemon juice",
-            "Nutritional yeast (optional)"
+            "\u00bd Tbsp fresh lemon juice"
         ],
         "directions": [
             "Preheat oven to 450\u00b0F. Toss 1 Tbsp oil, garlic, soy sauce, red pepper, and broccoli in a bowl. Spread on a lightly greased rimmed baking sheet. Bake 20 minutes or until edges are browned and crisp.",
@@ -7719,7 +7861,9 @@ const RECIPES_DB = [
             "Add \u00bd cup broth; cook, stirring often, until liquid is absorbed. Repeat with remaining broth, \u00bd cup at a time, cooking 12 minutes or until orzo is tender.",
             "Stir in spinach, lemon juice, and desired amount of nutritional yeast. Season with salt and pepper to taste. Top with broccoli."
         ],
-        "notes": [],
+        "notes": [
+            "**Nutritional yeast (optional)**"
+        ],
         "tags": [
             "Side"
         ],
@@ -7906,6 +8050,7 @@ const RECIPES_DB = [
             "\u00bd\u00a0teaspoon\u00a0pepper"
         ],
         "directions": [
+            "**Recipe:**",
             "Into a glass bowl, add in all the ingredients and give it a good mix. Then, pour into a container and refrigerate. Use as much as necessary for your salad.",
             "2. Balsamic Vinaigrette",
             "\u00bc cup olive oil",
@@ -7915,14 +8060,19 @@ const RECIPES_DB = [
             "1/8 tsp black pepper powder",
             "1 tbsp fresh mint leaves, minced",
             "Salt to taste",
+            "**Recipe:**",
             "Into a glass bowl, add in all the ingredients and give it a good mix. Then, pour into a container and refrigerate. Use as much as necessary for your salad.",
             "3. Honey-Mustard Vinaigrette",
+            "**Recipe:**",
             "Into a glass bowl, add in all the ingredients and give it a good mix. Then, pour into a container and refrigerate. Use as much as necessary for your salad.",
             "4. Asian Vinaigrette",
+            "**Recipe:**",
             "Into a glass bowl, add in all the ingredients and give it a good mix. Then, pour into a container and refrigerate. Use as much as necessary for your salad.",
             "5. Wine Vinaigrette",
+            "**Recipe:**",
             "Into a glass bowl, add in all the ingredients and give it a good mix. Then, pour into a container and refrigerate. Use as much as necessary for your salad.",
             "6. Creamy Vinaigrette",
+            "**Recipe:**",
             "Into a glass bowl, add in all the ingredients and give it a good mix. Then, pour into a container and refrigerate. Use as much as necessary for your salad."
         ],
         "notes": [
@@ -7958,8 +8108,16 @@ const RECIPES_DB = [
     {
         "id": "loaded_smashed_tater_tots",
         "title": "Loaded Smashed Tater Tots",
-        "description": "PREP: 15 minutes\nCOOK: 20 minutes\nTOTAL: 35 minutes\nSERVINGS: 30 Tater Tots\nIngredients\u00a0\u2028\u202830x Frozen Tater Tots/Mini Hash Browns(see notes)\n\u25a2\n50g / 1/2 cup Cheddar, grated (or as needed)\n\u25a2 \u2028\u2028100g / 3.5oz Sour Cream, or as needed\n\u25a2 \u2028\u20285 slices of Streaky Bacon, cooked, cooled and finely diced\n\u25a2 \u2028\u202830-45g / 1-1.5oz Pickled Jalape\u00f1os, finely diced\n\u25a2 \u2028\u20281-2 tbsp finely diced Fresh Chives",
-        "ingredients": [],
+        "description": "PREP: 15 minutes\nCOOK: 20 minutes\nTOTAL: 35 minutes\nSERVINGS: 30 Tater Tots",
+        "ingredients": [
+            "**Ingredients\u00a0\u2028\u202830x Frozen Tater Tots/Mini Hash Browns(see notes)**",
+            "\u25a2",
+            "50g / 1/2 cup Cheddar, grated (or as needed)",
+            "\u25a2 \u2028\u2028100g / 3.5oz Sour Cream, or as needed",
+            "\u25a2 \u2028\u20285 slices of Streaky Bacon, cooked, cooled and finely diced",
+            "\u25a2 \u2028\u202830-45g / 1-1.5oz Pickled Jalape\u00f1os, finely diced",
+            "\u25a2 \u2028\u20281-2 tbsp finely diced Fresh Chives"
+        ],
         "directions": [
             "Preheat the oven to 200C/400F.",
             "Space out the tater tots/mini hash browns on a large baking tray (keep in mind they'll increase in size once smashed). Bake in the oven for 8 minutes.",
@@ -8148,14 +8306,14 @@ const RECIPES_DB = [
             "Add chicken broth, sun-dried tomatoes, and whipping cream. Add seasoning and allow to simmer.",
             "Add your cheese while constantly stirring.",
             "Pour sauce over chicken and bake in the oven for 30-35 minutes at 400\u00b0F.",
-            "Serve over Mashed Potatoes."
-        ],
-        "notes": [
-            "**Recipe Notes**",
+            "Serve over Mashed Potatoes.",
+            "Recipe Notes",
             "You can adjust the level of spiciness by increasing or decreasing the amount of red pepper flakes.",
             "For a healthier option, you can use half-and-half or milk instead of heavy cream, though the sauce may be slightly thinner.",
-            "This dish pairs wonderfully with pasta, rice, or crusty bread to soak up the delicious sauce.",
-            "Nutrition Facts (Approximate)",
+            "This dish pairs wonderfully with pasta, rice, or crusty bread to soak up the delicious sauce."
+        ],
+        "notes": [
+            "**Nutrition Facts (Approximate)**",
             "Serving Size: 1 chicken breast with sauce",
             "Calories: 450",
             "Total Fat: 28g",
@@ -8204,13 +8362,14 @@ const RECIPES_DB = [
             "Arrange the Vegetables: Place the marinated chicken breasts in the baking dish. Surround them with cherry tomatoes, zucchini, red onion, bell pepper, and Kalamata olives.",
             "Add the Feta Cheese: Sprinkle the crumbled feta cheese over the top of the chicken and vegetables.",
             "Bake the Dish: Cover the baking dish with aluminum foil and bake for 25-30 minutes. Remove the foil and bake for an additional 10-15 minutes, or until the chicken is cooked through and the vegetables are tender.",
-            "Garnish and Serve: Remove from the oven and let it rest for a few minutes. Garnish with fresh parsley before serving. Enjoy this delicious and healthy Mediterranean-inspired meal!",
-            "Nutritional Information:",
+            "Garnish and Serve: Remove from the oven and let it rest for a few minutes. Garnish with fresh parsley before serving. Enjoy this delicious and healthy Mediterranean-inspired meal!"
+        ],
+        "notes": [
+            "**Nutritional Information:**",
             "\u23f0 Prep Time: 10 minutes | Baking Time: 35-45 minutes | Total Time: 45-55 minutes",
             "\ud83d\udd25 Kcal: Approximately 350 kcal per serving | \ud83c\udf7d\ufe0f Servings: 4 servings",
             "#MediterraneanChickenBake #HealthyRecipes #OnePanMeal #EasyDinner #MediterraneanFlavors\""
         ],
-        "notes": [],
         "tags": [
             "Entree"
         ],
@@ -8364,7 +8523,7 @@ const RECIPES_DB = [
         "notes": [
             "**Notes**",
             "Store any pasta salad in an airtight container in the fridge for up to three days. For the best flavor, let the salad come to room temperature and toss before serving.",
-            "Nutritional values provided are an estimate and will vary depending on the brands used.",
+            "**Nutritional values provided are an estimate and will vary depending on the brands used.**",
             "**Nutrition**",
             "Calories: 271kcal | Carbohydrates: 28g | Protein: 6g | Fat: 15g | Saturated Fat: 3g | Polyunsaturated Fat: 2g | Monounsaturated Fat: 10g | Cholesterol: 7mg | Sodium: 430mg | Potassium: 171mg | Fiber: 2g | Sugar: 2g | Vitamin A: 508IU | Vitamin C: 4mg | Calcium: 64mg | Iron: 1mg"
         ],
@@ -8633,7 +8792,7 @@ const RECIPES_DB = [
         "notes": [
             "**Notes**",
             "Jalapenos: for a milder sauce, skip or remove the seeds.",
-            "Nutritional Information - Per Serving",
+            "**Nutritional Information - Per Serving**",
             "Calories 550kcal | Carbohydrates 64g | Protein 24g | Fat 16g | Sodium 401mg | Fiber 22g | Vitamin A 1940IU | Vitamin C 102mg | Calcium 227mg | Iron 6mg"
         ],
         "tags": [
@@ -8676,11 +8835,12 @@ const RECIPES_DB = [
             "total: $6.13",
             "cost per serving: $1.53",
             "CHANGE UP:",
-            "For a heartier version of this soup, substitute browned Italian sausage or cut-up chicken for the garbanzo beans. Vary the greens by swapping chopped fresh chard or kale for the spinach.",
-            "Nutrition Facts (Minestrone)",
+            "For a heartier version of this soup, substitute browned Italian sausage or cut-up chicken for the garbanzo beans. Vary the greens by swapping chopped fresh chard or kale for the spinach."
+        ],
+        "notes": [
+            "**Nutrition Facts (Minestrone)**",
             "Per serving: 234 kcal cal., 2 g fat (0 g sat. fat, 1 g polyunsaturated fat, 1 g monounsatured fat), 0 mg chol., 759 mg sodium, 46 g carb., 7 g fiber, 12 g sugar, 10 g pro. Percent Daily Values are based on a 2,000 calorie diet"
         ],
-        "notes": [],
         "tags": [
             "Soup"
         ],
@@ -8773,7 +8933,7 @@ const RECIPES_DB = [
         "notes": [
             "**Nutrition**",
             "Calories: 200kcal \u00b7 Carbohydrates: 36g \u00b7 Protein: 4g \u00b7 Fat: 5g \u00b7 Saturated Fat: 2g \u00b7 Cholesterol: 35mg \u00b7 Sodium: 283mg \u00b7 Potassium: 158mg \u00b7 Fiber: 2g \u00b7 Sugar: 19g \u00b7 Vitamin A: 2439IU \u00b7 Vitamin C: 3mg \u00b7 Calcium: 24mg \u00b7 Iron: 1mg",
-            "Nutritional information given is an automatic calculation and can vary based on the exact products you use and any changes you make to the recipe. If these numbers are very important to you, I would recommend calculating them yourself.",
+            "**Nutritional information given is an automatic calculation and can vary based on the exact products you use and any changes you make to the recipe. If these numbers are very important to you, I would recommend calculating them yourself.**",
             "Other Notes",
             "Course: BreakfastCuisine: AmericanKeyword: morning glory muffins, muffins recipe",
             "https://bellyfull.net/morning-glory-muffins/"
@@ -9888,12 +10048,13 @@ const RECIPES_DB = [
             "1.",
             "In a 5- to 6-quart Dutch oven, cook onions in hot oil until tender, stirring occasionally. Add the garlic and cook for 2 minutes. Stir in the beans, sweet potato, zucchini, the water, broth, tomato paste, chili powder, cumin and oregano. Bring to boiling; reduce heat. Simmer, covered, for 5 minutes.",
             "2.",
-            "Stir in the quinoa. Return to boiling; reduce heat. Simmer, uncovered, for 20 to 25 minutes or until quinoa and potatoes are tender. Season to taste with salt and pepper. If you like, top each serving with Greek yogurt and/or cilantro.",
-            "NUTRITION INFORMATION",
+            "Stir in the quinoa. Return to boiling; reduce heat. Simmer, uncovered, for 20 to 25 minutes or until quinoa and potatoes are tender. Season to taste with salt and pepper. If you like, top each serving with Greek yogurt and/or cilantro."
+        ],
+        "notes": [
+            "**NUTRITION INFORMATION**",
             "Per Serving: cal. (kcal) 248, Fat, total (g) 5, chol. (mg) 0, sat. fat (g) 1, carb. (g) 44, Monounsaturated fat (g) 3, Polyunsaturated fat (g) 1, Trans fatty acid (g) 0, fiber (g) 9, sugar (g) 6, pro. (g) 11, vit. A (IU) 4257.68, vit. C (mg) 12.24, Thiamin (mg) 0.14, Riboflavin (mg) 0.16, Niacin (mg) 1.39, Pyridoxine (Vit. B6) (mg) 0.3, Folate (\u00b5g) 54.94, Cobalamin (Vit. B12) (\u00b5g) 0, sodium (mg) 808, Potassium (mg) 555, calcium (mg) 89, iron (mg) 4.42, Percent Daily Values are based on a 2,000 calorie diet",
             "Figure: Image-BF01A61F"
         ],
-        "notes": [],
         "tags": [
             "Entree"
         ],
@@ -9990,11 +10151,12 @@ const RECIPES_DB = [
         "directions": [
             "Cook the rice according to the packet instructions.",
             "Blend the peanut butter, lime juice, chilli, garlic, ginger, coconut sugar, tamari, and soy milk. If you do not have a mini blender, mince the chilli, garlic, and ginger as finely as possible and whisk all the ingredients together. Add more liquid as needed to reach the desired consistency.",
-            "In a large bowl, combine the cooked rice, edamame, red bell pepper, cabbage, mango, avocado, mint, green onions, sesame seeds, and fried shallots. Drizzle with the Spicy Peanut Ginger Sauce, and enjoy!",
-            "Nutritional Information - Per Serving",
+            "In a large bowl, combine the cooked rice, edamame, red bell pepper, cabbage, mango, avocado, mint, green onions, sesame seeds, and fried shallots. Drizzle with the Spicy Peanut Ginger Sauce, and enjoy!"
+        ],
+        "notes": [
+            "**Nutritional Information - Per Serving**",
             "Calories 593kcal | Carbohydrates 75g | Protein 28g | Fat 25g | Sodium 418mg | Fiber 18g | Vitamin A 252IU | Vitamin C 184mg | Calcium 238mg | Iron 8mg"
         ],
-        "notes": [],
         "tags": [
             "Salad"
         ],
@@ -10142,12 +10304,13 @@ const RECIPES_DB = [
             "Add the dressing ingredients to the blender and blend until smooth.",
             "When the butternut is cooked, add the butternut pieces to the top of the salad.",
             "Slice up an avocado and divide evenly between the two plates.",
-            "Pour cashew cream over the top of each salad.",
-            "NUTRITION INFORMATION",
-            "Serving size:\u00a01 Serving (of 2) Calories:\u00a0721 Fat:\u00a036.7g Saturated fat:\u00a05.8g Carbohydrates:\u00a094.4g Sugar:\u00a032.7g Sodium:\u00a0450mg Fiber:\u00a024.9g Protein:\u00a017.2g"
+            "Pour cashew cream over the top of each salad."
         ],
         "directions": [],
-        "notes": [],
+        "notes": [
+            "**NUTRITION INFORMATION**",
+            "Serving size:\u00a01 Serving (of 2) Calories:\u00a0721 Fat:\u00a036.7g Saturated fat:\u00a05.8g Carbohydrates:\u00a094.4g Sugar:\u00a032.7g Sodium:\u00a0450mg Fiber:\u00a024.9g Protein:\u00a017.2g"
+        ],
         "tags": [
             "Salad"
         ],
@@ -10270,7 +10433,7 @@ const RECIPES_DB = [
     {
         "id": "roasted_cabbage_salad",
         "title": "Roasted Cabbage Salad",
-        "description": "Cabbage sweetens in the hot oven and is paired with a sharp, cheesy Caesar-like dressing for a deeply satisfying side dish that pairs well with roasted chicken, pork or steak. Don\u2019t be tempted to squeeze all the cabbage onto one baking sheet. Spreading it out between two prevents the cabbage from steaming and helps it caramelize.\nBy Melissa Gray  Updated on September 19, 2024\nTested by Craig Ruff\nReviewed by Dietitian Emily Lachtrupp, M.S., RD\nActive Time: 20 mins\nTotal Time: 55 mins\nServings: 4 servings\nNutrition Profile:\nSesame-Free Diabetes-Friendly Nut-Free High-Fiber Vegetarian Egg-Free",
+        "description": "Cabbage sweetens in the hot oven and is paired with a sharp, cheesy Caesar-like dressing for a deeply satisfying side dish that pairs well with roasted chicken, pork or steak. Don\u2019t be tempted to squeeze all the cabbage onto one baking sheet. Spreading it out between two prevents the cabbage from steaming and helps it caramelize.\nBy Melissa Gray  Updated on September 19, 2024\nTested by Craig Ruff\nReviewed by Dietitian Emily Lachtrupp, M.S., RD\nActive Time: 20 mins\nTotal Time: 55 mins\nServings: 4 servings",
         "ingredients": [
             "1 small head green cabbage, chopped into 1-inch pieces (about 8 cups)",
             "4 tablespoons extra-virgin olive oil, divided",
@@ -10290,6 +10453,8 @@ const RECIPES_DB = [
             "EatingWell.com, October 2023"
         ],
         "notes": [
+            "**Nutrition Profile:**",
+            "Sesame-Free Diabetes-Friendly Nut-Free High-Fiber Vegetarian Egg-Free",
             "**Nutrition Facts**",
             "Serving Size about 1 cup",
             "Calories 176",
@@ -11234,6 +11399,7 @@ const RECIPES_DB = [
             "1/2 cup chopped fresh basil"
         ],
         "directions": [
+            "**Recipe**",
             "li id=\"comment-count-tab\"><a href=\"http://www.eatingwell.com/recipes/southern_ratatouille.html?section=comments#tabs\">Add/Read Comments ()</a></li",
             "Add/Read Reviews (0)",
             "RIGHT COL",
@@ -11247,10 +11413,6 @@ const RECIPES_DB = [
             "Serving Size: about 1 cup",
             "Active Time: 25 minutes",
             "Total Time: 40 minutes",
-            "NUTRITION PROFILE",
-            "Healthy weight | Heart healthy | Diabetes appropriate | Low carbohydrate | Low calorie | Low cholesterol | Low saturated fat | Low sodium | High fiber | High potassium | Gluten free |",
-            "View Our Nutrition Guidelines \u00bb",
-            "second row",
             "Heat oil in a large pot over high heat. Add zucchini, eggplant, onion, poblano and bell pepper. Cook, stirring often, until the vegetables are seared and starting to soften, about 5 minutes. Stir in okra, tomatoes, water, thyme, salt and pepper; bring to a boil.",
             "Reduce heat to maintain a low simmer; partially cover and simmer, stirring often, until the vegetables are tender, 15 to 20 minutes. Remove from heat and stir in garlic and basil. Serve warm, at room temperature or even cold.",
             "TIPS & NOTES",
@@ -11258,9 +11420,13 @@ const RECIPES_DB = [
             "Seed your tomatoes for seed-free soups, sauces and stews: Cut the tomato in half crosswise and scoop out the seeds with your finger while gently squeezing."
         ],
         "notes": [
+            "**NUTRITION PROFILE**",
+            "Healthy weight | Heart healthy | Diabetes appropriate | Low carbohydrate | Low calorie | Low cholesterol | Low saturated fat | Low sodium | High fiber | High potassium | Gluten free |",
+            "View Our Nutrition Guidelines \u00bb",
+            "second row",
             "**NUTRITION**",
             "Per serving: 84 calories; 2 g fat (0 g sat, 1 g mono); 0 mg cholesterol; 15 g carbohydrates; 0 g added sugars; 7 g total sugars; 3 g protein; 6 g fiber; 305 mg sodium; 671 mg potassium.",
-            "Nutrition Bonus: Vitamin C (84% daily value), Vitamin A (32% dv), Folate & Potassium (19% dv), Magnesium (16% dv)"
+            "**Nutrition Bonus: Vitamin C (84% daily value), Vitamin A (32% dv), Folate & Potassium (19% dv), Magnesium (16% dv)**"
         ],
         "tags": [
             "Side"
@@ -11411,10 +11577,23 @@ const RECIPES_DB = [
     {
         "id": "sriracha_seared_tofu_and_spicy_udon_noodles",
         "title": "Sriracha-Seared Tofu and Spicy Udon Noodles",
-        "description": "Serves 6\n30 minutes or fewer\nJessie Grearson, a writer in Falmouth, Maine, likes making this quick, comforting meal for her family on weeknights. To amp up the heat, sprinkle with red pepper flakes and drizzle with extra sriracha.\n8 oz. udon noodles\n\u00bd cup broccoli florets\n2 Tbs. low-sodium soy sauce\n1 Tbs. sriracha chile-garlic sauce\n1 Tbs. toasted sesame oil\n1 14-oz. pkg. extra-firm tofu, cut into 3 slabs and patted dry\n\u2153 cup smooth peanut butter\nLime wedges, for garnish, optional\nFresh cilantro, for garnish, optional\n1. Brush grill grates with oil, and preheat grill to medium.\n2. Cook udon noodles according to package directions, drain, and set aside.\n3. Meanwhile, steam broccoli 5 minutes in steamer, or until crisp-tender.\n4. Combine soy sauce, sriracha, and sesame oil in small bowl. Brush tofu slabs with half of soy-sriracha mixture. Place tofu on grill, and cook 2 to 3 minutes per side, or until golden and grill-marked. Cut tofu into bite-size pieces.\n5. Add peanut butter to remaining soy-sriracha mixture, and stir to combine. Toss sauce with udon noodles and broccoli, and top with tofu. Serve with lime wedges and cilantro, if using.\nnutritional information\nPer 3/4-cup:\nCalories: 315\nProtein: 16 g\nTotal Fat: 14 g\nSaturated Fat: 2 g\nCarbohydrates: 33 g\nCholesterol: 0 mg\nSodium: 355 mg\nFiber: 4 g\nSugar: 3 g\nVegan",
+        "description": "Serves 6\n30 minutes or fewer\nJessie Grearson, a writer in Falmouth, Maine, likes making this quick, comforting meal for her family on weeknights. To amp up the heat, sprinkle with red pepper flakes and drizzle with extra sriracha.\n8 oz. udon noodles\n\u00bd cup broccoli florets\n2 Tbs. low-sodium soy sauce\n1 Tbs. sriracha chile-garlic sauce\n1 Tbs. toasted sesame oil\n1 14-oz. pkg. extra-firm tofu, cut into 3 slabs and patted dry\n\u2153 cup smooth peanut butter\nLime wedges, for garnish, optional\nFresh cilantro, for garnish, optional\n1. Brush grill grates with oil, and preheat grill to medium.\n2. Cook udon noodles according to package directions, drain, and set aside.\n3. Meanwhile, steam broccoli 5 minutes in steamer, or until crisp-tender.\n4. Combine soy sauce, sriracha, and sesame oil in small bowl. Brush tofu slabs with half of soy-sriracha mixture. Place tofu on grill, and cook 2 to 3 minutes per side, or until golden and grill-marked. Cut tofu into bite-size pieces.\n5. Add peanut butter to remaining soy-sriracha mixture, and stir to combine. Toss sauce with udon noodles and broccoli, and top with tofu. Serve with lime wedges and cilantro, if using.",
         "ingredients": [],
         "directions": [],
-        "notes": [],
+        "notes": [
+            "**nutritional information**",
+            "Per 3/4-cup:",
+            "Calories: 315",
+            "Protein: 16 g",
+            "Total Fat: 14 g",
+            "Saturated Fat: 2 g",
+            "Carbohydrates: 33 g",
+            "Cholesterol: 0 mg",
+            "Sodium: 355 mg",
+            "Fiber: 4 g",
+            "Sugar: 3 g",
+            "Vegan"
+        ],
         "tags": [
             "Entree"
         ],
@@ -11672,7 +11851,7 @@ const RECIPES_DB = [
     {
         "id": "summer_vegetable_cr\u00eapes",
         "title": "Summer Vegetable Cr\u00eapes",
-        "description": "From EatingWell:\u00a0 July/August 2008\nAverage: 4.2 (264 votes)\nCr\u00eapes aren't just for dessert\u2014they make a quick and savory weeknight dinner. Here they're filled with ricotta cheese, green beans, zucchini and corn and topped with a chive-cream sauce. Don't skip the step of placing a piece of parchment or wax paper under each cr\u00eape as you fill it\u2014without it, the cr\u00eapes are tricky to roll. Serve with: A tossed salad.\nMakes: 4 servings\nActive Time: 30 minutes\nTotal Time: 30 minutes\nNUTRITION PROFILE\nDiabetes appropriate | Low calorie | Low cholesterol | High calcium |\nView Our Nutrition Guidelines \u00bb\nsecond row",
+        "description": "From EatingWell:\u00a0 July/August 2008\nAverage: 4.2 (264 votes)\nCr\u00eapes aren't just for dessert\u2014they make a quick and savory weeknight dinner. Here they're filled with ricotta cheese, green beans, zucchini and corn and topped with a chive-cream sauce. Don't skip the step of placing a piece of parchment or wax paper under each cr\u00eape as you fill it\u2014without it, the cr\u00eapes are tricky to roll. Serve with: A tossed salad.\nMakes: 4 servings\nActive Time: 30 minutes\nTotal Time: 30 minutes",
         "ingredients": [
             "1/3 cup reduced-fat sour cream",
             "1/2 cup chopped fresh chives, divided, plus more for garnish",
@@ -11697,9 +11876,13 @@ const RECIPES_DB = [
             "\u201cReady-to-use\u201d cr\u00e8pes are fast and convenient. Look for them in the produce section of the market or near refrigerated tortillas."
         ],
         "notes": [
+            "**NUTRITION PROFILE**",
+            "Diabetes appropriate | Low calorie | Low cholesterol | High calcium |",
+            "View Our Nutrition Guidelines \u00bb",
+            "second row",
             "**NUTRITION**",
             "Per serving: 302 calories; 17 g fat (8 g sat, 6 g mono); 46 mg cholesterol; 25 g carbohydrates; 15 g protein; 3 g fiber; 687 mg sodium; 485 mg potassium.",
-            "Nutrition Bonus: Calcium & Vitamin C (35% daily value), Vitamin A (20% dv)."
+            "**Nutrition Bonus: Calcium & Vitamin C (35% daily value), Vitamin A (20% dv).**"
         ],
         "tags": [
             "Appetizer"
@@ -12116,11 +12299,12 @@ const RECIPES_DB = [
             "TOPPING TIPS:",
             "Top each salad with crushed tortilla chips.",
             "*",
-            "Because hot chile peppers contain volatile oils that can burn your skin and eyes, avoid contact with chiles as much as possible. When working with chile peppers, wear plastic or rubber gloves. If your bare hands do touch the chile peppers, wash your hands well with soap and water.",
-            "Nutrition Facts (Tex-Mex Chopped Salad) Per serving: 400 kcal cal., 24 g fat (3 g sat. fat, 3 g polyunsaturated fat, 17 g monounsatured fat), 0 mg chol., 646 mg sodium, 44 g carb., 11 g fiber, 8 g sugar, 10 g pro. Percent Daily Values are based on a 2,000 calorie diet"
+            "Because hot chile peppers contain volatile oils that can burn your skin and eyes, avoid contact with chiles as much as possible. When working with chile peppers, wear plastic or rubber gloves. If your bare hands do touch the chile peppers, wash your hands well with soap and water."
         ],
         "directions": [],
-        "notes": [],
+        "notes": [
+            "**Nutrition Facts (Tex-Mex Chopped Salad) Per serving: 400 kcal cal., 24 g fat (3 g sat. fat, 3 g polyunsaturated fat, 17 g monounsatured fat), 0 mg chol., 646 mg sodium, 44 g carb., 11 g fiber, 8 g sugar, 10 g pro. Percent Daily Values are based on a 2,000 calorie diet**"
+        ],
         "tags": [
             "Salad"
         ],
@@ -12267,10 +12451,23 @@ const RECIPES_DB = [
     {
         "id": "thai_composed_rice_salad_kao_yum_pahk_dai",
         "title": "Thai Composed Rice Salad (Kao Yum Pahk Dai)",
-        "description": "Serves 4\n30 minutes or fewer\nFor a Thai feast of flavors, textures, and colors, a mound of rice is surrounded by a variety of veggies and a sweet-tart fruit\u2014usually pineapple or green apple.\nDressing\n\u00bc cup lime juice\n\u00bc cup low-sodium soy sauce or tamari\n\u00bc cup chopped cilantro\n2 shallots, finely chopped (\u00bc cup)\n10 fresh basil or Thai basil leaves, thinly sliced\n2 Tbs. natural sugar, such as coconut sugar\n2 tsp. grated fresh ginger or galangal root\nSalad\n2 cups cooked brown rice, cooled\n1 cup fresh mung bean sprouts, or green sprouts, such as sweet pea shoots\n1 cup coarsely shredded carrots\n1 cup shredded green or red cabbage, or a combination\n1 cup diced pineapple or papaya, or 1 medium diced green apple\n1 cup thinly sliced cucumber, cut into half-circles\nGarnishes\n\u00bc cup thinly sliced lemongrass, optional\nLime wedges\n2 thinly sliced green onions, green parts only\n\u00bd cup toasted unsweetened shredded coconut\n1. To make Dressing: Stir together all ingredients in small bowl. Set aside.\n2. To make Salad: Coat soup bowl with nonstick cooking spray. Pack rice tightly into bowl, then invert rice onto middle of serving platter\nto form mound.\n3. Surround rice with sprouts, carrots, cabbage, pineapple, and cucumber in separate small mounds.\n4. Garnish platter with lemongrass (if using), lime wedges, and sliced green onion. Serve family-style, and pass Dressing and shredded coconut at the table for diners to serve themselves.\nnutritional information\nPer Serving (1/2 cup rice and 1 1/4 cups vegetables):\nCalories: 294\nProtein: 7 g\nTotal Fat: 8 g\nSaturated Fat: 7 g\nCarbohydrates: 49 g\nCholesterol: 0 mg\nSodium: 735 mg\nFiber: 6 g\nSugar: 16 g\nVegan",
+        "description": "Serves 4\n30 minutes or fewer\nFor a Thai feast of flavors, textures, and colors, a mound of rice is surrounded by a variety of veggies and a sweet-tart fruit\u2014usually pineapple or green apple.\nDressing\n\u00bc cup lime juice\n\u00bc cup low-sodium soy sauce or tamari\n\u00bc cup chopped cilantro\n2 shallots, finely chopped (\u00bc cup)\n10 fresh basil or Thai basil leaves, thinly sliced\n2 Tbs. natural sugar, such as coconut sugar\n2 tsp. grated fresh ginger or galangal root\nSalad\n2 cups cooked brown rice, cooled\n1 cup fresh mung bean sprouts, or green sprouts, such as sweet pea shoots\n1 cup coarsely shredded carrots\n1 cup shredded green or red cabbage, or a combination\n1 cup diced pineapple or papaya, or 1 medium diced green apple\n1 cup thinly sliced cucumber, cut into half-circles\nGarnishes\n\u00bc cup thinly sliced lemongrass, optional\nLime wedges\n2 thinly sliced green onions, green parts only\n\u00bd cup toasted unsweetened shredded coconut\n1. To make Dressing: Stir together all ingredients in small bowl. Set aside.\n2. To make Salad: Coat soup bowl with nonstick cooking spray. Pack rice tightly into bowl, then invert rice onto middle of serving platter\nto form mound.\n3. Surround rice with sprouts, carrots, cabbage, pineapple, and cucumber in separate small mounds.\n4. Garnish platter with lemongrass (if using), lime wedges, and sliced green onion. Serve family-style, and pass Dressing and shredded coconut at the table for diners to serve themselves.",
         "ingredients": [],
         "directions": [],
-        "notes": [],
+        "notes": [
+            "**nutritional information**",
+            "Per Serving (1/2 cup rice and 1 1/4 cups vegetables):",
+            "Calories: 294",
+            "Protein: 7 g",
+            "Total Fat: 8 g",
+            "Saturated Fat: 7 g",
+            "Carbohydrates: 49 g",
+            "Cholesterol: 0 mg",
+            "Sodium: 735 mg",
+            "Fiber: 6 g",
+            "Sugar: 16 g",
+            "Vegan"
+        ],
         "tags": [
             "Salad"
         ],
@@ -12364,8 +12561,14 @@ const RECIPES_DB = [
     {
         "id": "the_best_fruit_dip_ever",
         "title": "The Best Fruit Dip EVER",
-        "description": "by Jen and Emily\nPrep Time: 4 minutes\nIngredients (serves 8)\n1 (32 ounce) container Low-Fat Vanilla Yogurt\n1 (8 ounce) container Lite Cool Whip\n1 (3.4 ounce) box dry instant vanilla pudding mix\nFruit for serving",
-        "ingredients": [],
+        "description": "by Jen and Emily\nPrep Time: 4 minutes",
+        "ingredients": [
+            "**Ingredients (serves 8)**",
+            "1 (32 ounce) container Low-Fat Vanilla Yogurt",
+            "1 (8 ounce) container Lite Cool Whip",
+            "1 (3.4 ounce) box dry instant vanilla pudding mix",
+            "Fruit for serving"
+        ],
         "directions": [
             "In a large bowl, mix together vanilla yogurt, Cool Whip, and pudding mix until completely combined and you see no more lumps. The mixture will be a little bit gritty at first because the pudding hasn\u2019t had a chance to dissolve into the yogurt mixture yet.",
             "Cover with plastic wrap and allow to chill for about 30 minutes. Serve with your fruit of choice and enjoy!",
@@ -12789,13 +12992,14 @@ const RECIPES_DB = [
             "To a glass mason jar with a lid (or similar jar with a lid), add the orange juice, olive oil, garlic, salt, pepper, seal with lid, and shake vigorously to combine; about 1 to 2 minutes.",
             "Add the Greek yogurt and shake until creamy and incorporated, about 1 minute. Taste and check for seasoning balance, adding more salt, pepper, etc. as necessary. I prefer this dressing to be on the saltier side because it's\u00a0going to be coating a large bowl of\u00a0unseasoned kale, vegetables, and quinoa and you need it to read salty out of the jar to properly flavor the salad.",
             "Add desired amount of dressing to salad, toss well to combine, and serve immediately. Extra dressing will keep airtight in the fridge for up to 1 week; shake vigorously before using.",
-            "Dressing adapted from Food Network",
-            "NUTRITION INFORMATION",
-            "Nutrition analysis per serving (2 servings)",
+            "Dressing adapted from Food Network"
+        ],
+        "notes": [
+            "**NUTRITION INFORMATION**",
+            "**Nutrition analysis per serving (2 servings)**",
             "Calories 796, Total Fat 51g, Saturated Fat 15g, Trans Fat 0g, Total Carbohydrates 63g, Fiber 10g, Sugar 24g, Protein 29g, Sodium 2242mg",
             "Recipe from Averie Cooks."
         ],
-        "notes": [],
         "tags": [
             "Salad"
         ],
@@ -12842,8 +13046,11 @@ const RECIPES_DB = [
             ", if desired.",
             "5 | Add Brussels sprouts, 1/2 cup green onions, garlic, and ginger to pan, and stir-fry 1 to 2 minutes. Push vegetables to side of pan. Add eggs, and scramble until dry, pushing eggs into vegetable mixture once cooked.",
             "6 | Add drained noodles and half of Sauce to pan, and cook 2 to 3 minutes, or until most liquid has evaporated, tossing with two spatulas. Add half of remaining Sauce, and cook until pan is dry. Stir in remaining Sauce and bean sprouts, and cook 30 seconds more,",
-            "or until heated through and only some liquid remains. Transfer to serving bowl, and top with tofu, cilantro, and cashews. Garnish with remaining 1/2 cup green onions and lime wedges.",
-            "nutritional information",
+            "or until heated through and only some liquid remains. Transfer to serving bowl, and top with tofu, cilantro, and cashews. Garnish with remaining 1/2 cup green onions and lime wedges."
+        ],
+        "directions": [],
+        "notes": [
+            "**nutritional information**",
             "Per 3/4-cup serving:",
             "Calories: 360",
             "Protein: 8 g",
@@ -12855,8 +13062,6 @@ const RECIPES_DB = [
             "Fiber: 4 g",
             "Sugar: 13 g"
         ],
-        "directions": [],
-        "notes": [],
         "tags": [
             "Entree"
         ],
@@ -12894,12 +13099,7 @@ const RECIPES_DB = [
             "White beans (1 can, about 15 oz, drained and rinsed; cannellini or great northern beans work well)",
             "Garlic (2-3 cloves, minced)",
             "Lemon juice (2 tablespoons, fresh)",
-            "Tahini (2 tablespoons)",
-            "Nutritional yeast (2 tablespoons, optional, for a cheesy flavor)",
-            "Olive oil (2 tablespoons)",
-            "Ground black pepper (to taste)",
-            "Salt (to taste)",
-            "Fresh herbs (like parsley or dill, for garnish, optional)"
+            "Tahini (2 tablespoons)"
         ],
         "directions": [
             "Prepare the Ingredients:",
@@ -12913,7 +13113,13 @@ const RECIPES_DB = [
             "Serve:",
             "Transfer the dip to a serving bowl, garnish with fresh herbs if desired, and serve with pita chips, fresh vegetables, or crusty bread."
         ],
-        "notes": [],
+        "notes": [
+            "**Nutritional yeast (2 tablespoons, optional, for a cheesy flavor)**",
+            "Olive oil (2 tablespoons)",
+            "Ground black pepper (to taste)",
+            "Salt (to taste)",
+            "Fresh herbs (like parsley or dill, for garnish, optional)"
+        ],
         "tags": [
             "Appetizer"
         ],
@@ -13722,11 +13928,12 @@ const RECIPES_DB = [
             "2.",
             "Meanwhile, in extra-large bowl whisk together eggs and mayonnaise until combined. Stir in Pecorino-Romano cheese and 1 cup of the mozzarella cheese. Add cooked vegetables; toss to combine. Evenly spread vegetable mixture in prepared baking dish. Top with remaining mozzarella and cracker crumbs.",
             "3.",
-            "Bake, uncovered, for 20 to 25 minutes or until top is lightly browned and a knife inserted near center comes out clean. Let stand 10 minutes before serving. Makes 6 to 8 servings.",
-            "NUTRITION INFORMATION",
+            "Bake, uncovered, for 20 to 25 minutes or until top is lightly browned and a knife inserted near center comes out clean. Let stand 10 minutes before serving. Makes 6 to 8 servings."
+        ],
+        "notes": [
+            "**NUTRITION INFORMATION**",
             "Per Serving: cal. (kcal) 440, Fat, total (g) 32, chol. (mg) 188, sat. fat (g) 11, carb. (g) 21, Monounsaturated fat (g) 13, Polyunsaturated fat (g) 6, fiber (g) 5, sugar (g) 8, pro. (g) 23, vit. A (IU) 2040.79, vit. C (mg) 66.13, Thiamin (mg) 0.13, Riboflavin (mg) 0.42, Niacin (mg) 1.38, Pyridoxine (Vit. B6) (mg) 0.47, Folate (\u00b5g) 80.64, Cobalamin (Vit. B12) (\u00b5g) 0.67, sodium (mg) 942, Potassium (mg) 568, calcium (mg) 525.03, iron (mg) 1.8, Percent Daily Values are based on a 2,000 calorie diet"
         ],
-        "notes": [],
         "tags": [
             "Side"
         ],
