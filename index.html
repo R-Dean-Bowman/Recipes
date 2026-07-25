@@ -663,7 +663,7 @@
     }
 
     function searchRecipes(query, list) {
-        let terms = query.toLowerCase().split(/[\s,]+/);
+        let terms = query.toLowerCase().split(/[\\s,]+/);
         const stopWords = new Set(["please", "find", "a", "recipe", "that", "includes", "and", "or", "in", "with", "show", "me", "meals", "deserts", "desserts", "involve", "involving", "made", "of", "some", "include"]);
         let keywords = terms.filter(t => !stopWords.has(t) && t.length > 1);
         
@@ -861,7 +861,7 @@
         }
         
         // Description
-        modalDesc.innerHTML = recipe.description.replace(/\n/g, '<br>');
+        modalDesc.innerHTML = recipe.description.replace(/\\n/g, '<br>');
         modalDesc.style.display = recipe.description ? 'block' : 'none';
         
         // Ingredients with Checkbox items
@@ -871,7 +871,7 @@
             
             // Check if it's a section divider (bold)
             if (ing.startsWith('**') && ing.endsWith('**')) {
-                const headerText = ing.replace(/\*\*/g, '');
+                const headerText = ing.replace(/\\*\\*/g, '');
                 div.style.fontWeight = '600';
                 div.style.marginTop = '15px';
                 div.style.color = 'white';
@@ -899,8 +899,10 @@
         recipe.directions.forEach(step => {
             const div = document.createElement('div');
             
-            if (step.startsWith('**') && step.endsWith('**')) {
-                const subHeader = step.replace(/\*\*/g, '');
+            let isHeader = (step.startsWith('**') && step.endsWith('**')) || /^\\s*step\\s+\\d+/i.test(step);
+            if (isHeader) {
+                stepIdx = 1; // Reset step counter for instructions under this header
+                const subHeader = step.replace(/^\*\*|\*\*$/g, '');
                 div.style.fontWeight = '600';
                 div.style.marginTop = '20px';
                 div.style.marginBottom = '10px';
@@ -923,7 +925,7 @@
             recipe.notes.forEach(note => {
                 const p = document.createElement('p');
                 // Format markdown bold subheaders inside notes
-                let formattedNote = note.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+                let formattedNote = note.replace(/\\*\\*(.*?)\\*\\*/g, '<strong>$1</strong>');
                 p.innerHTML = formattedNote;
                 modalNotes.appendChild(p);
             });
