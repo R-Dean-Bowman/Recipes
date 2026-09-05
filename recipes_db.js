@@ -5,12 +5,12 @@ const RECIPES_DB = [
         "title": "4 Ingredient Peanut Butter Cookies",
         "description": "These 4 ingredient peanut butter cookies are so simple to make and melt in your mouth for a perfect sweet treat! They are egg-free, dairy-free, and gluten-free, making them a great allergy-friendly snack!\nPrep Time 5 minutes\nCook Time 10 minutes\nTotal Time 15 minutes\nCourse: SnackCuisine: AmericanServings: 16 mini cookies Author: Lily Payen",
         "ingredients": [
-            "Peanut Butter Cookies",
+            "**Peanut Butter Cookies**",
             "\u2153 cup natural peanut butter",
             "\u2154 cup almond flour",
             "3 tbsp maple syrup",
             "\u215b tsp vanilla extract",
-            "Peanut Butter Filling",
+            "**Peanut Butter Filling**",
             "3 tbsp natural peanut butter",
             "1 tsp maple syrup"
         ],
@@ -22,7 +22,7 @@ const RECIPES_DB = [
             "Bake the cookies for 9 to 10 minutes, until the edges are slightly golden. Let them cool completely. They may seem soft at first but will firm up as they cool.",
             "As the cookies are baking, prepare the peanut butter filling. Mix together the peanut butter and maple syrup until it slightly thickens.",
             "Spread about 1/2 teaspoon of the peanut butter filling on one fully-cooled cookie and top it with another cookie to form a mini sandwich. Repeat for the remaining cookies.",
-            "*Note: If you'd like to use peanut-shaped cutters to make the cookies resemble storebought nutter butter cookies, roll the dough between two sheets of parchment paper in a thin layer. Use the cutter to cut out the shapes and lightly press down and lift up slowly to form the peanut pattern. Be careful not to press too hard so that the mixture doesn't stick to the mixture. Gently peel away the scraps and reroll them to form more shapes (or roll and press them into small balls). Transfer the parchment paper directly onto a baking sheet to bake. Make sure to allow the cookies to cool completely before forming the sandwiches because they will be soft and fragile right out of the oven."
+            "Note: If you'd like to use peanut-shaped cutters to make the cookies resemble storebought nutter butter cookies, roll the dough between two sheets of parchment paper in a thin layer. Use the cutter to cut out the shapes and lightly press down and lift up slowly to form the peanut pattern. Be careful not to press too hard so that the mixture doesn't stick to the mixture. Gently peel away the scraps and reroll them to form more shapes (or roll and press them into small balls). Transfer the parchment paper directly onto a baking sheet to bake. Make sure to allow the cookies to cool completely before forming the sandwiches because they will be soft and fragile right out of the oven."
         ],
         "notes": [
             "**Notes**",
@@ -46,12 +46,18 @@ const RECIPES_DB = [
     {
         "id": "5_ingredient_butternut_squash_fritters",
         "title": "5-Ingredient Butternut Squash Fritters",
-        "description": "PREP: 15 MINUTES\nCOOK: 5 MINUTES\nYIELD: ABOUT 15 FRITTERS\n5 cups shredded butternut squash, lightly packed (See Kelly\u2019s Note)\n2/3 cup all-purpose flour\n2 large eggs, lightly beaten\n1 1/2 Tablespoons minced fresh sage\nVegetable oil",
-        "ingredients": [],
+        "description": "PREP: 15 MINUTES\nCOOK: 5 MINUTES\nYIELD: ABOUT 15 FRITTERS",
+        "ingredients": [
+            "5 cups shredded butternut squash, lightly packed (See Kelly\u2019s Note)",
+            "2/3 cup all-purpose flour",
+            "2 large eggs, lightly beaten",
+            "1 1/2 Tablespoons minced fresh sage",
+            "Vegetable oil"
+        ],
         "directions": [
             "In a large bowl, combine the shredded butternut squash, flour, eggs, minced sage, 1/4 teaspoon salt and 1/8 teaspoon pepper to the bowl, stirring until the mixture is combined. Line a plate with paper towels.",
             "Liberally coat the bottom of a large saut\u00e9 pan with vegetable oil and place it over medium-high heat. Once the oil is hot, scoop 3-tablespoon mounds of the mixture into the pan, pressing them lightly into rounds and spacing them at least 2 inches apart. Cook the fritters for 2 to 3 minutes, then flip them once and cook an additional 2 minutes until golden brown and cooked throughout. Transfer the fritters to the paper towel-lined plate and immediately sprinkle them with salt. Repeat the scooping and cooking process with the remaining mixture.",
-            "Kelly\u2019s Note:",
+            "**Kelly\u2019s Note:**",
             "Butternut squash can be peeled and then shredded on either the large hole of a box grater or, to save time, in a food processor."
         ],
         "notes": [],
@@ -76,7 +82,7 @@ const RECIPES_DB = [
             "3/4 cup 7-Up soda",
             "4 eggs",
             "2/3 cup vegetable oil",
-            "Glaze:",
+            "**Glaze:**",
             "1 3/4 cups powdered sugar",
             "2-4 tablespoons milk, or to taste",
             "2 tablespoons freshly squeezed lemon juice",
@@ -131,7 +137,7 @@ const RECIPES_DB = [
     {
         "id": "apple_broccoli_cauliflower_salad",
         "title": "Apple Broccoli Cauliflower Salad",
-        "description": "Add more veggies to your plate with this Apple Broccoli Cauliflower Salad that\u2019s tossed in a creamy, lemony garlic dressing.\nPrep: 20 minutes\nTotal: 20 minutes\nServings: 10 servings",
+        "description": "",
         "ingredients": [
             "4 \u2013 5 cups broccoli florets, chopped into bites size pieces (10-12 ounce bag)",
             "2 \u00bd -3 cups cauliflower florets, chopped into bite size pieces (10-ounce bag)",
@@ -142,7 +148,7 @@ const RECIPES_DB = [
             "\u00bd cup dried cranberries",
             "\u00bd cup feta cheese, crumbled (omit for dairy-free or Whole30)",
             "\u00bd cup lightly salted roasted almonds, roughly chopped (may substitute walnuts, pecans, or sunflower seed for nut free,",
-            "For the dressing:",
+            "**For the dressing:**",
             "\u00be cup mayo (use egg-free mayo for vegan)",
             "\u00bc cup olive oil or avocado oil",
             "3 tablespoons lemon juice (1 lemon)",
@@ -152,6 +158,10 @@ const RECIPES_DB = [
             "\u00bc teaspoon black pepper"
         ],
         "directions": [
+            "Add more veggies to your plate with this Apple Broccoli Cauliflower Salad that\u2019s tossed in a creamy, lemony garlic dressing.",
+            "Prep: 20 minutes",
+            "Total: 20 minutes",
+            "**Servings: 10 servings**",
             "Make the dressing: in a small bowl combine the mayo, oil, lemon juice, honey, garlic powder, salt, and pepper. Whisk until well combined, about 2-3 minutes. Set aside.",
             "In a large bowl, toss together all of the salad ingredients \u2013 broccoli, cauliflower, apple, red onion, celery, green onion, dried cranberries, feta cheese, and almonds or walnuts.",
             "Add the dressing to the large bowl and toss until well combined. Let salad sit in the fridge for 30 minutes to allow veggies to marinate in the dressing (optional step but recommended)",
@@ -220,9 +230,18 @@ const RECIPES_DB = [
     {
         "id": "apple_pie_bread",
         "title": "Apple Pie Bread",
-        "description": "1 can apple pie filling, mashed\n1 yellow cake mix\n4 eggs, slightly beaten\n1 cup self rising flour\n1 Tbsp cinnamon\n1 medium chopped apple\nWhisk all dry ingredients , add wet ingredients. Fold in apples. Pour in 2 loaf pans, greased. Sprinkle sugar and cinnamon on top. Bake in 325 oven for 35 to 45 minutes.",
-        "ingredients": [],
-        "directions": [],
+        "description": "",
+        "ingredients": [
+            "1 can apple pie filling, mashed",
+            "1 yellow cake mix",
+            "4 eggs, slightly beaten",
+            "1 cup self rising flour",
+            "1 Tbsp cinnamon",
+            "1 medium chopped apple"
+        ],
+        "directions": [
+            "Whisk all dry ingredients , add wet ingredients. Fold in apples. Pour in 2 loaf pans, greased. Sprinkle sugar and cinnamon on top. Bake in 325 oven for 35 to 45 minutes."
+        ],
         "notes": [],
         "tags": [
             "Bread"
@@ -278,12 +297,12 @@ const RECIPES_DB = [
         "title": "Apple Stuffed Acorn Squash",
         "description": "Acorn Squash Stuffed with Apples can be an appetizer, side dish, or dessert! This versatile recipe is a perfect choice for the holidays (Thanksgiving and Christmas) as well as for any time of the year when you can find acorn squash! This delicious and easy-to-make side dish features cinnamon, brown sugar, and lemon juice, and is meatless, vegetarian, and gluten-free!\nCourse Dessert, Side Dish\nCuisine American, Mediterranean\nKeyword apple stuffed acorn squash, stuffed acorn squash with apples\nPrep Time 20\nminutes\nminutes\nCook Time 30\nminutes\nminutes\nTotal Time 50\nminutes\nminutes\nServings 4 people\nCalories 443kcal\nAuthor Julia",
         "ingredients": [
-            "Acorn squash",
+            "**Acorn squash**",
             "2 acorn squash medium",
             "4 tablespoons butter",
             "2 tablespoons brown sugar",
             "1 tablespoon cinnamon",
-            "Caramelized apples",
+            "**Caramelized apples**",
             "4 apples 2 green, 2 red",
             "3 tablespoons brown sugar",
             "\u00bd teaspoon cinnamon",
@@ -293,20 +312,20 @@ const RECIPES_DB = [
             "fresh thyme"
         ],
         "directions": [
-            "Roast acorn squash",
+            "**Roast acorn squash**",
             "Preheat oven to 400 F.",
             "Prepare the acorn squash. Cut off the top and the bottom of each acorn squash to create a flat base. Keep fingers away from the knife to avoid injury. And, make sure not to cut too deep into the base of the squash. Slice each squash in half. Use a spoon to scoop out the seeds and fleshy strands tangled with the seeds.",
             "Combine melted butter with brown sugar and cinnamon in a small bowl.",
             "Coat the insides of the squash halves with the butter mixture.",
             "Place acorn squash cut sides down on a parchment paper-lined baking sheet.",
             "Roast in the preheated oven at 400 F for 30 minutes.",
-            "Make caramelized apples",
+            "**Make caramelized apples**",
             "While the squash is being roasted, prepare the apples. I used 4 apples (2 red and 2 green for presentation purposes. Core the apples and slice each one length-wise.",
             "Place sliced apples into a large bowl, add brown sugar, cinnamon, and lemon juice, and mix. Let apples sit for about 15 minutes to release juices.",
             "In a large pan, heat 2 tablespoons of butter on high heat. Add sliced apples (without juice at the bottom of the pan) and cook on high heat for about 3 or 5 minutes, checking periodically. After 3 or 5 minutes, flip the sliced apples to the other side and let them cook on medium-high heat for another 3 or 5 minutes. Remove from heat.",
             "Depending on how hot your stove gets, it might take you less or more time to cook apples, the key is to brown them or even get a slightly \u201cburned\u201d effect. But don\u2019t overdo it, once the apples have this \u201croasted\u201d appearance.",
             "Right after you remove the pan with roasted sliced apples from the heat, immediately add honey \u2013 it will make apples sizzle and will caramelize them beautifully, off the heat.",
-            "How to stuff acorn squash",
+            "**How to stuff acorn squash**",
             "By this time, you have roasted the acorn squash for 30 minutes. The acorn squash should be soft and cooked through. If you have unusually large squash and it's not cooked through, roast it for 10 or 15 minutes longer. Remove them from the oven and turn the cooked squash halves cut sides up.",
             "Divide the caramelized apple mixture among the 4 halves and stuff the squash until the mixture is leveled.",
             "Sprinkle the apple mixture with the fresh thyme. You can also, optionally, pour the delicious juices from the bowl that you used for apples over the stuffed portion of each squash."
@@ -329,9 +348,16 @@ const RECIPES_DB = [
     {
         "id": "are_you_kidding_me_cake",
         "title": "ARE YOU KIDDING ME CAKE",
-        "description": "3 large eggs\n1 box cake mix (any flavor)\n1 can pie filling (any flavor)...\nPut the three ingredients into a bowl, mix them well, and bake for 35 minutes at 350 degrees in a 9x13 pan.\nIt\u2019s got almost a pudding-cake kind of consistency, lighter than pound cake. It\u2019s spotted on the inside with little pieces of whatever fruit filling you are using. The edges are crispy, like you would get on brownies.",
-        "ingredients": [],
-        "directions": [],
+        "description": "",
+        "ingredients": [
+            "3 large eggs",
+            "1 box cake mix (any flavor)",
+            "1 can pie filling (any flavor)..."
+        ],
+        "directions": [
+            "Put the three ingredients into a bowl, mix them well, and bake for 35 minutes at 350 degrees in a 9x13 pan.",
+            "It\u2019s got almost a pudding-cake kind of consistency, lighter than pound cake. It\u2019s spotted on the inside with little pieces of whatever fruit filling you are using. The edges are crispy, like you would get on brownies."
+        ],
         "notes": [],
         "tags": [
             "Dessert"
@@ -382,8 +408,9 @@ const RECIPES_DB = [
     {
         "id": "asian_crunch_salad_with_ginger_dressing_meal_prep",
         "title": "Asian Crunch Salad with Ginger Dressing (Meal Prep)",
-        "description": "Mallory\nThis Asian Crunch Salad recipe is the perfect balance of crunchy, savory, and sweet. Fresh vegetables are mixed with roasted cashews and shredded chicken - all topped with a zesty lime & sesame ginger dressing. If you're into crunchy salads made with colorful and vibrant vegetables, add this to your meal prep for the week!\nPREP TIME 20 minutes\nCOOK TIME 5 minutes\nCOURSE lunch\nCUISINE Asian\nSERVINGS 4 servings\nCALORIES 260 kcal\nEQUIPMENT\n1 vegetable chopper optional",
+        "description": "Mallory\nThis Asian Crunch Salad recipe is the perfect balance of crunchy, savory, and sweet. Fresh vegetables are mixed with roasted cashews and shredded chicken - all topped with a zesty lime & sesame ginger dressing. If you're into crunchy salads made with colorful and vibrant vegetables, add this to your meal prep for the week!\nPREP TIME 20 minutes\nCOOK TIME 5 minutes\nCOURSE lunch\nCUISINE Asian\nSERVINGS 4 servings\nCALORIES 260 kcal\nEQUIPMENT",
         "ingredients": [
+            "1 vegetable chopper optional",
             "2 cups green cabbage, shredded",
             "2 cups purple cabbage, shredded",
             "2 carrots, grated (about 1\u00bd cups)",
@@ -407,7 +434,7 @@ const RECIPES_DB = [
         ],
         "directions": [
             "With a sharp knife, food processor, or boxed vegetable chopper, finely shred your crunchy veggies and chop the herbs and cashews. Combine the salad ingredients in a large mixing bowl.",
-            "To make the dressing, mix together all the ingredients in a small bowl or container with a lid and whisk until the oil is emulsified. Hereare the full instructions for the Lime Ginger Dressing!",
+            "**To make the dressing, mix together all the ingredients in a small bowl or container with a lid and whisk until the oil is emulsified. Hereare the full instructions for the Lime Ginger Dressing!**",
             "Pour the Lime Ginger dressing on top of the salad and give it a good toss.",
             "For the dressing, use a citrus zester to grate your ginger.",
             "For a shortcut, use\u00a0packaged slaw\u00a0and a bag of\u00a0shredded carrots. Give it a quick run through with your knife to make finer pieces.",
@@ -433,24 +460,24 @@ const RECIPES_DB = [
         "description": "This bright and healthy Asian Quinoa Salad is great for an easy lunch or dinner. It is also great to take to parties! It is always a hit!\nyield: SERVES 4 prep time: 10 MINUTES cook time: 20 MINUTES total time: 30 MINUTES",
         "ingredients": [
             "**FOR THE SALAD:**",
-            "\u2022\t1 cup quinoa",
-            "\u2022\t2 cups water",
-            "\u2022\t1/4 teaspoon salt",
-            "\u2022\t1 cup chopped red cabbage",
-            "\u2022\t1 cup shelled and cooked edamame",
-            "\u2022\t1 red bell pepper, chopped",
-            "\u2022\t1/2 cup shredded carrots",
-            "\u2022\t1 cup diced cucumber",
-            "FOR THE DRESSING:",
-            "\u2022\t1/4 cup lite soy sauce or tamari sauce (low sodium)",
-            "\u2022\t1 tablespoon sesame oil",
-            "\u2022\t1 tablespoon rice wine vinegar",
-            "\u2022\t2 tablespoons chopped green onion",
-            "\u2022\t1/4 cup chopped cilantro",
-            "\u2022\t1 tablespoon sesame seeds",
-            "\u2022\t1/4 teaspoon grated ginger",
-            "\u2022\t1/8 teaspoon red pepper flakes",
-            "\u2022\tSalt and black pepper, to taste (taste before adding salt, you might not need any)"
+            "1 cup quinoa",
+            "2 cups water",
+            "1/4 teaspoon salt",
+            "1 cup chopped red cabbage",
+            "1 cup shelled and cooked edamame",
+            "1 red bell pepper, chopped",
+            "1/2 cup shredded carrots",
+            "1 cup diced cucumber",
+            "**FOR THE DRESSING:**",
+            "1/4 cup lite soy sauce or tamari sauce (low sodium)",
+            "1 tablespoon sesame oil",
+            "1 tablespoon rice wine vinegar",
+            "2 tablespoons chopped green onion",
+            "1/4 cup chopped cilantro",
+            "1 tablespoon sesame seeds",
+            "1/4 teaspoon grated ginger",
+            "1/8 teaspoon red pepper flakes",
+            "Salt and black pepper, to taste (taste before adding salt, you might not need any)"
         ],
         "directions": [
             "1\tAdd water, quinoa, and salt to a medium saucepan and bring to a boil over medium heat. Boil for 5 minutes. Turn the heat to low and simmer for about 15 minutes, or until water is absorbed. Remove from heat and fluff with a fork.",
@@ -483,8 +510,9 @@ const RECIPES_DB = [
             "1 bunch of asparagus, ends trimmed and cut into 1-inch segments",
             "3-4 ounces smoked salmon, roughly chopped",
             "1/2 cup grated Parmesan cheese (or cheese of your choice)",
-            "Fresh dill or chives for garnish (optional)",
-            "Guidelines:",
+            "Fresh dill or chives for garnish (optional)"
+        ],
+        "directions": [
             "Prepare the Oven: Turn the oven on to 375\u00b0F (190\u00b0C) and leave it there.",
             "Get the egg mixture ready. Whisk the eggs, milk or cream, salt, and pepper in a large mixing basin until well blended. Put aside.",
             "To saut\u00e9 the vegetables, place a pan that is oven-safe over medium heat and add butter or olive oil. After adding the finely chopped onion, saut\u00e9 it for three to four minutes, or until it becomes transparent and soft. When the asparagus is brilliant green and barely tender, add the pieces and simmer for a further three to four minutes.",
@@ -495,7 +523,6 @@ const RECIPES_DB = [
             "Garnish and Serve: Take the frittata out of the oven and let it a few minutes to cool before serving. Cut into wedges and reheat.",
             "In conclusion, this frittata with smoked salmon and asparagus is an elegant and filling dish that works well at any time of day. Your family and friends will be impressed by the perfect balance of tastes created by the combination of soft asparagus, savory smoked salmon, and creamy eggs. This frittata is a flexible meal that you\u2019ll want to cook again and again since it\u2019s simple to create and full of nutrients. Present it with a crisp salad or some crusty bread, and have a delicious, fine dining experience in your home."
         ],
-        "directions": [],
         "notes": [],
         "tags": [
             "Breakfast"
@@ -511,8 +538,11 @@ const RECIPES_DB = [
     {
         "id": "autumn_crunch_pasta_salad",
         "title": "AUTUMN CRUNCH PASTA SALAD",
-        "description": "5.0 from 3 reviews\nAuthor: Chelsea\nServes: 6-8 as a side",
+        "description": "",
         "ingredients": [
+            "5.0 from 3 reviews",
+            "Author: Chelsea",
+            "Serves: 6-8 as a side",
             "5 ounces fresh spinach (half a 10 ounce bag)",
             "1 and 1/2 cups dry small pasta",
             "3/4 cup chopped celery",
@@ -581,13 +611,13 @@ const RECIPES_DB = [
             "Cut acorn squash in half and scoop out the insides. Drizzle with olive oil and sprinkle with salt and pepper. Roast cut side up for for about 35-50 minutes or until your squash is tender in the middle and browned around the edges. (The timing will depend on your squash. If it\u2019s taking too long to become tender, flip it upside down for a portion of the roasting time).",
             "Meanwhile, heat oil in a large skillet over medium heat. Add the onion and a few pinches of salt and pepper. Cook the onion until translucent, then add the garlic, cumin, coriander and stir. Add the green chiles and stir again, then add the quinoa, black beans, scallions, pepitas, feta cheese, a squeeze of lime and a more salt and pepper, to taste.",
             "Remove skillet from the heat, let it cool, then stir in the diced avocado. Taste and adjust seasonings.",
-            "Scoop the filling into the acorn squashes halves. (note: if you\u2019re not scooping the filling into the squashes right away, scoop the mixture out of the pan and into a bowl and set aside."
+            "Scoop the filling into the acorn squashes halves. (note: if you\u2019re not scooping the filling into the squashes right away, scoop the mixture out of the pan and into a bowl and set aside.",
+            "**Recipe by Love and Lemons at http://www.loveandlemons.com/avocado-quinoa-stuffed-acorn-squash/**"
         ],
         "notes": [
             "**Notes**",
             "Make ahead tip: make the quinoa pilaf up to two days in advance and store it in the fridge. Wait to add the avocado until ready to stuff & serve.",
-            "Vegan option: skip the cheese.",
-            "Recipe by Love and Lemons at http://www.loveandlemons.com/avocado-quinoa-stuffed-acorn-squash/"
+            "Vegan option: skip the cheese."
         ],
         "tags": [
             "Side"
@@ -613,7 +643,7 @@ const RECIPES_DB = [
             "\u00bc cup fresh cilantro finely chopped",
             "1 tablespoon olive oil",
             "1 clove garlic minced",
-            "Salad Ingredients",
+            "**Salad Ingredients**",
             "2 ears sweet corn husks and silks removed (corn on the cob)",
             "10 oz cherry tomatoes halved",
             "1 avocado diced",
@@ -645,14 +675,15 @@ const RECIPES_DB = [
     {
         "id": "avocado_mango_salad",
         "title": "Avocado Mango Salad",
-        "description": "PREP TIME 10 minutes\nCOOK TIME 5 minutes\nTOTAL TIME 15 minutes\nSERVINGS 4 people\nCALORIES PER SERVING\n354 kca",
+        "description": "PREP TIME 10 minutes\nCOOK TIME 5 minutes\nTOTAL TIME 15 minutes\nSERVINGS 4 people\nCALORIES PER SERVING",
         "ingredients": [
-            "Dressing",
+            "354 kca",
+            "**Dressing**",
             "3 tablespoons freshly squeezed lime juice",
             "\u00bc cup extra virgin olive oil",
             "2 tablespoons honey",
             "salt and pepper to taste",
-            "Salad",
+            "**Salad**",
             "5 oz arugula",
             "1 mango ripe, peeled, pit removed, diced into bite-sized pieces",
             "1 avocado peeled, cored, and diced",
@@ -684,22 +715,19 @@ const RECIPES_DB = [
         "title": "Bacon Guacamole Deviled Eggs",
         "description": "",
         "ingredients": [
-            "Meat",
-            "\u2022 4 strips Bacon, thick cut crisp and crumbled cooked",
-            "Produce",
-            "\u2022 1 Avocado, large pitted and cubed",
-            "\u2022 2 cloves Garlic",
-            "\u2022 1 tbsp Onion, dried",
-            "Refrigerated",
-            "\u2022 6 Eggs, large hard",
-            "Condiments",
-            "\u2022 1 tbsp Lime juice, fresh",
-            "\u2022 2 tbsp Salsa",
-            "Baking & Spices",
-            "\u2022 1 pinch Cayenne pepper",
-            "\u2022 1/2 tsp Sea salt"
+            "4 strips Bacon, thick cut crisp and crumbled cooked",
+            "1 Avocado, large pitted and cubed",
+            "2 cloves Garlic",
+            "1 tbsp Onion, dried",
+            "6 Eggs, large hard",
+            "1 tbsp Lime juice, fresh",
+            "2 tbsp Salsa",
+            "1 pinch Cayenne pepper",
+            "1/2 tsp Sea salt"
         ],
-        "directions": [],
+        "directions": [
+            "Mix and place into the eggs"
+        ],
         "notes": [],
         "tags": [
             "Appetizer"
@@ -717,14 +745,14 @@ const RECIPES_DB = [
         "title": "Baked Burrata Recipe",
         "description": "By Julie Blanner\nThis Baked Burrata Recipe is an easy, decadent appetizer filled with roasted tomatoes, garlic, olive oil, and topped with fresh basil. It is fragrant and savory\u2026 perfect for creamy Burrata Bruschetta or as a summer salad topper.\nPrep: 10 minutes\nCook: 25 minutes\nTotal: 35 minutes\nServings: 8",
         "ingredients": [
-            "\u20222 cups cherry tomatoes halved",
-            "\u20223 tablespoons olive oil",
-            "\u20223 cloves garlic sliced",
-            "\u2022\u00bc teaspoon sea salt",
-            "\u20221 tablespoon oregano fresh",
-            "\u20228 ounces mozzarella or burrata",
-            "\u20222 tablespoons basil fresh, sliced",
-            "\u2022\u215b cup balsamic glaze",
+            "2 cups cherry tomatoes halved",
+            "3 tablespoons olive oil",
+            "3 cloves garlic sliced",
+            "\u00bc teaspoon sea salt",
+            "1 tablespoon oregano fresh",
+            "8 ounces mozzarella or burrata",
+            "2 tablespoons basil fresh, sliced",
+            "\u215b cup balsamic glaze",
             "crostini or sliced veggies for dipping or serving"
         ],
         "directions": [
@@ -754,8 +782,14 @@ const RECIPES_DB = [
     {
         "id": "baked_chicken_taquitos",
         "title": "Baked Chicken Taquitos",
-        "description": "5 from 46 Ratings\nThese Homemade Baked Chicken Taquitos rival anything you\u2019ll buy at the store. Super easy, flavorful, and freeze beautifully so you can make extra and have a meal for later!\nPrep Time: 20 minutes\nCook Time: 20 minutes\nTotal Time: 40 minutes\nServings: 12 taquitos",
+        "description": "",
         "ingredients": [
+            "5 from 46 Ratings",
+            "These Homemade Baked Chicken Taquitos rival anything you\u2019ll buy at the store. Super easy, flavorful, and freeze beautifully so you can make extra and have a meal for later!",
+            "Prep Time: 20 minutes",
+            "Cook Time: 20 minutes",
+            "Total Time: 40 minutes",
+            "Servings: 12 taquitos",
             "3 ounces cream cheese, softened",
             "1/4 cup salsa (red or green)",
             "1 tablespoon lime juice",
@@ -816,11 +850,11 @@ const RECIPES_DB = [
             "Slice 2 garlic cloves. Toss with tomatoes, onion, 3 tablespoons oil, parsley and 1/4 teaspoon each salt and pepper in a large bowl. Spread evenly on a large rimmed baking sheet or in a shallow roasting pan. Roast until the tomatoes are shriveled and browned, about 45 minutes.",
             "Chop the remaining garlic clove. Heat the remaining 1 tablespoon oil in a large skillet over medium heat. Add the garlic and chiles; cook, stirring, for 2 minutes. Add cumin and cook, stirring, for 30 seconds. Stir in the tomato mixture, the remaining 1/2 teaspoon salt and basil. Bring to a simmer and cook, stirring occasionally, until the tomatoes are mostly broken down, 6 to 8 minutes.",
             "Make 4 deep indentations in the sauce with the back of a spoon and carefully crack an egg into each. Sprinkle the eggs with the remaining 1/4 teaspoon pepper. Cover and cook over medium-low until the whites are set, 6 to 8 minutes.",
-            "Remove from heat, sprinkle with feta and let stand, covered, for 2 minutes. (The eggs will continue to cook a bit as they stand.) Garnish with parsley and serve with hot sauce, if desired.",
-            "TIPS & NOTES",
-            "Make Ahead Tip: Refrigerate tomato sauce for up to 4 days."
+            "Remove from heat, sprinkle with feta and let stand, covered, for 2 minutes. (The eggs will continue to cook a bit as they stand.) Garnish with parsley and serve with hot sauce, if desired."
         ],
         "notes": [
+            "**TIPS & NOTES**",
+            "Make Ahead Tip: Refrigerate tomato sauce for up to 4 days.",
             "**NUTRITION**",
             "Per serving: 330 calories; 24 g fat (6 g sat, 14 g mono); 203 mg cholesterol; 19 g carbohydrates; 0 g added sugars; 11 g total sugars; 13 g protein; 5 g fiber; 700 mg sodium; 965 mg potassium.",
             "**Nutrition Bonus: Vitamin C (171% daily value), Vitamin A (71% dv), Folate (23% dv)**",
@@ -981,9 +1015,36 @@ const RECIPES_DB = [
     {
         "id": "barbeque_tempeh_sandwich",
         "title": "Barbeque Tempeh Sandwich",
-        "description": "Published On April 30, 2015 | In American | By Hallelujah Diet | 2 Comments\nPrep Time 5 Minutes\nCook Time 20 Minutes\nYield 2\nMy barbeque sauce is smoky, spicy and sweet, and it contrasts perfectly with the creamy, tangy slaw and the sour crunch of the dill pickle. Who said you can\u2019t have BBQ on a plant-based diet?! (This recipe can be made gluten-free)\nBarbeque sauce (recipe follows)\nSlaw (recipe follows)\nChipotle Barbeque Sauce:\n\u00bd medium onion, finely chopped\n5-6 garlic cloves, minced\n1 cup organic ketchup\n1-4 chipotle peppers in adobo sauce (depending on how spicy you like it)\n3 T. apple cider vinegar\n2 T. maple syrup\n1 T. organic molasses\n\u00bd-1 tsp. smoked paprika\n\u00bd tsp. sea salt\nCracked black pepper to taste\n1 T. coconut oil for saut\u00e9ing\nIn a small saucepan, heat the coconut oil over medium heat. Add onion and saut\u00e9 for 2-3 min. Add garlic, and saut\u00e9 for another 2-3 min. Add in the rest of the ingredients and let simmer on low heat for 15-20 minutes. Remove from heat, and allow to cool slightly. When the mixture is not piping hot, add it to a food processor or blender, and blend until smooth. Taste, and re-season to your liking if necessary. Makes approx. 1 \u00bd cups of sauce (you won\u2019t mind having a little extra, trust me).\nSlaw:\n2 cups finely shredded green cabbage\n2 cups finely shredded red cabbage\n\u00bd cup grated carrot\n\u00bc cup finely sliced or chopped red onion\n\u00bc cup finely chopped cilantro\n3 T. Veganaise\n2 T. Dijon mustard\n1-2 T. lemon juice\n1 tsp. raw agave nectar\nSea salt and freshly cracked black pepper to taste\nWhisk together Veganaise, Dijon, lemon juice, agave, and salt and pepper in a small bowl. In a larger mixing bowl combine cabbage, carrot, onion, and cilantro, and pour in dressing. Mix well, so that everything is fully incorporated.\nFillet your tempeh into \u00bc inch thick slices, and smother with the barbeque sauce. Let it marinate in the sauce for 30 min. up to overnight. Bake the marinated tempeh at 400 degrees for about 20 minutes.",
-        "ingredients": [],
-        "directions": [],
+        "description": "Published On April 30, 2015 | In American | By Hallelujah Diet | 2 Comments\nPrep Time 5 Minutes\nCook Time 20 Minutes\nYield 2\nMy barbeque sauce is smoky, spicy and sweet, and it contrasts perfectly with the creamy, tangy slaw and the sour crunch of the dill pickle. Who said you can\u2019t have BBQ on a plant-based diet?! (This recipe can be made gluten-free)\nBarbeque sauce (recipe follows)\nSlaw (recipe follows)\nChipotle Barbeque Sauce:",
+        "ingredients": [
+            "\u00bd medium onion, finely chopped",
+            "5-6 garlic cloves, minced",
+            "1 cup organic ketchup",
+            "1-4 chipotle peppers in adobo sauce (depending on how spicy you like it)",
+            "3 T. apple cider vinegar",
+            "2 T. maple syrup",
+            "1 T. organic molasses",
+            "\u00bd-1 tsp. smoked paprika",
+            "\u00bd tsp. sea salt",
+            "Cracked black pepper to taste",
+            "1 T. coconut oil for saut\u00e9ing"
+        ],
+        "directions": [
+            "In a small saucepan, heat the coconut oil over medium heat. Add onion and saut\u00e9 for 2-3 min. Add garlic, and saut\u00e9 for another 2-3 min. Add in the rest of the ingredients and let simmer on low heat for 15-20 minutes. Remove from heat, and allow to cool slightly. When the mixture is not piping hot, add it to a food processor or blender, and blend until smooth. Taste, and re-season to your liking if necessary. Makes approx. 1 \u00bd cups of sauce (you won\u2019t mind having a little extra, trust me).",
+            "**Slaw:**",
+            "2 cups finely shredded green cabbage",
+            "2 cups finely shredded red cabbage",
+            "\u00bd cup grated carrot",
+            "\u00bc cup finely sliced or chopped red onion",
+            "\u00bc cup finely chopped cilantro",
+            "3 T. Veganaise",
+            "2 T. Dijon mustard",
+            "1-2 T. lemon juice",
+            "1 tsp. raw agave nectar",
+            "Sea salt and freshly cracked black pepper to taste",
+            "Whisk together Veganaise, Dijon, lemon juice, agave, and salt and pepper in a small bowl. In a larger mixing bowl combine cabbage, carrot, onion, and cilantro, and pour in dressing. Mix well, so that everything is fully incorporated.",
+            "Fillet your tempeh into \u00bc inch thick slices, and smother with the barbeque sauce. Let it marinate in the sauce for 30 min. up to overnight. Bake the marinated tempeh at 400 degrees for about 20 minutes."
+        ],
         "notes": [],
         "tags": [
             "Entree"
@@ -999,8 +1060,9 @@ const RECIPES_DB = [
     {
         "id": "basque_vegetable_rice",
         "title": "Basque Vegetable Rice",
-        "description": "From EatingWell:\u00a0 September/October 2007\nZucchini, onion, tomatoes and bell peppers stud this paella-inspired rice dish. You may add other vegetables, such as mushrooms and peas, or if you like something heartier, some slightly spicy Italian sausage is a good choice.\n6 servings, 1 1/3 cups each | Active Time: 40 minutes | Total Time: 1 1/2 hours",
+        "description": "From EatingWell:\u00a0 September/October 2007\nZucchini, onion, tomatoes and bell peppers stud this paella-inspired rice dish. You may add other vegetables, such as mushrooms and peas, or if you like something heartier, some slightly spicy Italian sausage is a good choice.",
         "ingredients": [
+            "6 servings, 1 1/3 cups each | Active Time: 40 minutes | Total Time: 1 1/2 hours",
             "2 tablespoons extra-virgin olive oil",
             "1 small dried red chile pepper, such as chile de arbol, broken",
             "1 medium onion, quartered and thinly sliced",
@@ -1028,7 +1090,7 @@ const RECIPES_DB = [
             "Per serving : 250 Calories; 6 g Fat; 1 g Sat; 4 g Mono; 0 mg Cholesterol; 45 g Carbohydrates; 5 g Protein; 5 g Fiber; 434 mg Sodium; 439 mg Potassium",
             "212 Carbohydrate Serving",
             "Exchanges: 2 1/2 starch, 1 vegetable, 1 fat",
-            "Tips & Notes",
+            "**Tips & Notes**",
             "Tip: Valencia rice (sometimes called paella rice) is Spanish-grown, short-grain rice classically used when making paella. It differs from other short-grain rice because of its ability to absorb moisture without breaking down. When fully cooked, the individual grains of rice remain whole. 'Bomba' is the best variety. Find it in specialty markets or online at tienda.com. Arborio rice can be used as a substitute, but yields a creamier dish."
         ],
         "tags": [
@@ -1045,9 +1107,28 @@ const RECIPES_DB = [
     {
         "id": "bean_bolognese",
         "title": "Bean Bolognese",
-        "description": "Makes: 4 servings, about cup sauce each active time: 40 minutes total: 40 minutes\nFiber-rich beans stand in for the beef and pork in this surprisingly rich-tasting vegetar- ian take on pasta Bolognese. Without the meat, the dish has only a third of the fat and 80 percent less saturated fat. To make the perfect meal, serve with a peppery arugula salad and warm, crusty Italian bread.\n1 \u00a014-ounce can salad beans (see Tip) or other beans, rinsed, divided\n2 \u00a0tablespoons extra-virgin olive oil\n1 small onion, chopped\ncup chopped carrot\ncup chopped celery\nteaspoon salt\n4 cloves garlic, chopped\n1 bay leaf\ncup white wine\n1 14-ounce can diced tomatoes\ncup chopped fresh parsley, divided\n8 ounces whole-wheat fettuccine\ncup freshly grated Parmesan cheese\n1. Put a large pot of water on to boil. Mash cup beans in a small bowl with a fork.\n2. Heat oil in a medium saucepan over medium heat. Add onion, carrot, celery and salt; cover and cook, stirring occasionally, until softened, about 10 minutes. Add garlic and bay leaf; cook, stirring, until fragrant, about 15 seconds. Add wine; increase heat to high and boil until most of the liquid evap- orates, 3 to 4 minutes. Add tomatoes and their juices, 2 tablespoons parsley and the mashed beans. Bring to a lively simmer and cook, stirring occasionally, until thickened, about 6 minutes. Add the remaining whole beans; cook, stirring occasionally, until heated through, 1 to 2 minutes more.\n3. Meanwhile, cook pasta in the boiling water until just tender, about 9 minutes or accord- ing to package directions. Drain.\n4. Divide the pasta among 4 bowls. Discard the bay leaf and top the pasta with the sauce; sprinkle with Parmesan and the remaining parsley.\nPer serving: 443 calories; 11 g fat (3 g sat, 6 g mono); 9 mg cholesterol; 67 g carbohy- drate; 0 g added sugars; 19 g protein; 13 g fiber; 739 mg sodium; 502 mg potassium. nutrition bonus: Vitamin A (70% daily value), Iron (28% dv), Vitamin C (27% dv), Magne- sium (24% dv), Calcium (21% dv). Carbohydrate servings: 4\nexchanges: 3 starch, 1 vegetable, 1 lean meat, 1 fat",
-        "ingredients": [],
-        "directions": [],
+        "description": "Makes: 4 servings, about cup sauce each active time: 40 minutes total: 40 minutes\nFiber-rich beans stand in for the beef and pork in this surprisingly rich-tasting vegetarian take on pasta Bolognese. Without the meat, the dish has only a third of the fat and 80 percent less saturated fat. To make the perfect meal, serve with a peppery arugula salad and warm, crusty Italian bread.\nPer serving: 443 calories; 11 g fat (3 g sat, 6 g mono); 9 mg cholesterol; 67 g carbohydrate; 0 g added sugars; 19 g protein; 13 g fiber; 739 mg sodium; 502 mg potassium. nutrition bonus: Vitamin A (70% daily value), Iron (28% dv), Vitamin C (27% dv), Magnesium (24% dv), Calcium (21% dv). Carbohydrate servings: 4 exchanges: 3 starch, 1 vegetable, 1 lean meat, 1 fat",
+        "ingredients": [
+            "1 14-ounce can salad beans (see Tip) or other beans, rinsed, divided",
+            "2 tablespoons extra-virgin olive oil",
+            "1 small onion, chopped",
+            "cup chopped carrot",
+            "cup chopped celery",
+            "teaspoon salt",
+            "4 cloves garlic, chopped",
+            "1 bay leaf",
+            "cup white wine",
+            "1 14-ounce can diced tomatoes",
+            "cup chopped fresh parsley, divided",
+            "8 ounces whole-wheat fettuccine",
+            "cup freshly grated Parmesan cheese"
+        ],
+        "directions": [
+            "1. Put a large pot of water on to boil. Mash cup beans in a small bowl with a fork.",
+            "2. Heat oil in a medium saucepan over medium heat. Add onion, carrot, celery and salt; cover and cook, stirring occasionally, until softened, about 10 minutes. Add garlic and bay leaf; cook, stirring, until fragrant, about 15 seconds. Add wine; increase heat to high and boil until most of the liquid evap- orates, 3 to 4 minutes. Add tomatoes and their juices, 2 tablespoons parsley and the mashed beans. Bring to a lively simmer and cook, stirring occasionally, until thickened, about 6 minutes. Add the remaining whole beans; cook, stirring occasionally, until heated through, 1 to 2 minutes more.",
+            "3. Meanwhile, cook pasta in the boiling water until just tender, about 9 minutes or accord- ing to package directions. Drain.",
+            "4. Divide the pasta among 4 bowls. Discard the bay leaf and top the pasta with the sauce; sprinkle with Parmesan and the remaining parsley."
+        ],
         "notes": [],
         "tags": [
             "Entree"
@@ -1066,7 +1147,7 @@ const RECIPES_DB = [
         "description": "",
         "ingredients": [
             "1 Beef Brisket",
-            "DRY RUB:",
+            "**DRY RUB:**",
             "1 teaspoon salt",
             "1 teaspoon chili powder",
             "1/2 teaspoon garlic powder",
@@ -1122,12 +1203,13 @@ const RECIPES_DB = [
             "1 medium onion, peeled and chopped",
             "5 medium carrots, peeled and cut into 1/4-inch rounds",
             "2 large baking potatoes, peeled and cut into 3/4-inch cubes",
-            "2 teaspoons salt",
+            "2 teaspoons salt"
+        ],
+        "directions": [
             "Combine the flour and pepper in a bowl, add the beef and toss to coat well. Heat 3 teaspoons of the oil in a large pot. Add the beef a few pieces at a time; do not overcrowd. Cook, turning the pieces until beef is browned on all sides, about 5 minutes per batch; add more oil as needed between batches.",
             "Remove the beef from the pot and add the vinegar and wine. Cook over medium-high heat, scraping the pan with a wooden spoon to loosen any browned bits. Add the beef, beef broth and bay leaves. Bring to a boil, then reduce to a slow simmer.",
             "Cover and cook, skimming broth from time to time, until the beef is tender, about 1 1/2 hours. Add the onions and carrots and simmer, covered, for 10 minutes. Add the potatoes and simmer until vegetables are tender, about 30 minutes more. Add broth or water if the stew is dry. Season with salt and pepper to taste. Ladle among 4 bowls and serve."
         ],
-        "directions": [],
         "notes": [],
         "tags": [
             "Entree"
@@ -1149,7 +1231,7 @@ const RECIPES_DB = [
             "1.5 lb beets cooked, peeled, sliced",
             "1 tablespoon olive oil",
             "1 tablespoon honey",
-            "Salad ingredients",
+            "**Salad ingredients**",
             "5 oz baby spinach",
             "2 cups mandarin oranges segments (3 mandarin oranges peeled and segmented)",
             "\u2153 cup red onions sliced",
@@ -1208,7 +1290,7 @@ const RECIPES_DB = [
         "title": "Beetroot, Squash & Chickpea Salad Bowl",
         "description": "Helen Ridgeway Helen Ridgeway\nThis easy beetroot, squash and chickpea salad is the perfect warm salad for autumn and winter. With fresh rocket, crunchy walnuts, chickpeas and pomegranate seeds, it\u2019s beautiful as well as nutritious.\nPREP TIME 10 minutes\nCOOK TIME 25 minutes\nTOTAL TIME 35 minutes\nCOURSE Salad, Side Dish\nSERVINGS 4\nCALORIES 479 kcal",
         "ingredients": [
-            "Salad ingredients:",
+            "**Salad ingredients:**",
             "1 medium butternut squash",
             "2 large beetroots",
             "2 x 400g tin of chickpeas (2x 14oz)",
@@ -1217,7 +1299,7 @@ const RECIPES_DB = [
             "Large handful of rocket leaves",
             "50 g walnuts (\u00bd cup)",
             "Seeds of half a pomegranate",
-            "Dressing ingredients:",
+            "**Dressing ingredients:**",
             "3 tbsp olive oil",
             "2 tbsp balsamic vinegar",
             "1 tbsp maple syrup",
@@ -1256,43 +1338,43 @@ const RECIPES_DB = [
         "title": "Best Cranberry Orange Scones",
         "description": "",
         "ingredients": [
-            "For the Scones:",
-            "\u2022 2 cups all-purpose flour",
-            "\u2022 1/4 cup granulated sugar",
-            "\u2022 1 tablespoon baking powder",
-            "\u2022 1/4 teaspoon salt",
-            "\u2022 1/2 teaspoon ground cinnamon",
-            "\u2022 1/2 cup unsalted butter, cold and cubed",
-            "\u2022 1 large egg",
-            "\u2022 1/2 cup heavy cream",
-            "\u2022 1 teaspoon vanilla extract",
-            "\u2022 1 tablespoon orange zest (from about 1 orange)",
-            "\u2022 1 cup fresh or dried cranberries (if using dried, soak in warm water for 10 minutes)",
-            "\u2022 1 tablespoon coarse sugar (for topping)",
-            "For the Orange Glaze:",
-            "\u2022 1 cup powdered sugar",
-            "\u2022 2 tablespoons fresh orange juice",
-            "\u2022 1 teaspoon orange zest (optional)"
+            "**For the Scones:**",
+            "2 cups all-purpose flour",
+            "1/4 cup granulated sugar",
+            "1 tablespoon baking powder",
+            "1/4 teaspoon salt",
+            "1/2 teaspoon ground cinnamon",
+            "1/2 cup unsalted butter, cold and cubed",
+            "1 large egg",
+            "1/2 cup heavy cream",
+            "1 teaspoon vanilla extract",
+            "1 tablespoon orange zest (from about 1 orange)",
+            "1 cup fresh or dried cranberries (if using dried, soak in warm water for 10 minutes)",
+            "1 tablespoon coarse sugar (for topping)",
+            "**For the Orange Glaze:**",
+            "1 cup powdered sugar",
+            "2 tablespoons fresh orange juice",
+            "1 teaspoon orange zest (optional)"
         ],
         "directions": [
-            "1 Prepare the Scone Dough:",
+            "**1 Prepare the Scone Dough:**",
             "\u25e6 Preheat your oven to 400\u00b0F (200\u00b0C). Line a baking sheet with parchment paper or a silicone mat.",
             "\u25e6 In a large bowl, whisk together the flour, sugar, baking powder, salt, and cinnamon.",
             "\u25e6 Add the cold, cubed butter to the flour mixture. Use a pastry cutter or your fingers to cut the butter into the flour until the mixture resembles coarse crumbs with pea-sized pieces of butter.",
             "\u25e6 In a separate bowl, whisk together the egg, heavy cream, vanilla extract, and orange zest.",
             "\u25e6 Pour the wet ingredients into the dry ingredients and stir gently until just combined. Be careful not to overmix.",
             "\u25e6 Fold in the cranberries.",
-            "2 Shape and Cut the Scones:",
+            "**2 Shape and Cut the Scones:**",
             "\u25e6 Turn the dough out onto a lightly floured surface and gently knead it just a few times to bring it together. Pat the dough into a 1-inch thick disk.",
             "\u25e6 Use a sharp knife to cut the dough into 8 wedges (like a pizza).",
             "\u25e6 Place the scones on the prepared baking sheet, spacing them about 2 inches apart.",
             "\u25e6 Sprinkle the tops with coarse sugar for a little crunch and sparkle.",
-            "3 Bake the Scones:",
+            "**3 Bake the Scones:**",
             "\u25e6 Bake in the preheated oven for 18-20 minutes, or until the scones are golden brown on the edges and cooked through.",
             "\u25e6 Allow the scones to cool on the baking sheet for 5 minutes, then transfer them to a wire rack to cool completely.",
-            "4 Prepare the Orange Glaze:",
+            "**4 Prepare the Orange Glaze:**",
             "\u25e6 In a small bowl, whisk together the powdered sugar, orange juice, and orange zest (if using) until smooth. The glaze should be pourable but not too thin. If needed, add a bit more powdered sugar or juice to reach the desired consistency.",
-            "5 Glaze the Scones:",
+            "**5 Glaze the Scones:**",
             "\u25e6 Once the scones have cooled, drizzle the orange glaze over the top of each scone. Allow the glaze to set before serving.",
             "Prep Time: 15 minutes | Cook Time: 20 minutes | Total Time: 35 minutes\ufffdServings: 8 scones\ufffdCalorie Count per Serving: ~300-350 Kcal",
             "These Best Cranberry Orange Scones are perfect for breakfast or a special treat. With a tender, flaky texture and the bright, zesty flavor of orange paired with the tartness of cranberries, topped with a sweet orange glaze, they\u2019re sure to become a favorite! \ud83c\udf4a\ud83c\udf6a"
@@ -1387,9 +1469,21 @@ const RECIPES_DB = [
     {
         "id": "black_bean_breakfast_burrito_with_plantains_and_mango_salsa",
         "title": "Black Bean Breakfast Burrito with Plantains and Mango Salsa",
-        "description": "Serves 4\n30 minutes or fewer\nRipe plantains have a starchy consistency like potatoes, but with more fiber.\n2 cups sliced ripe plantains (2 medium)\n1 lime, juiced and zest grated (2 Tbs. juice and 1 tsp. zest)\n1 15-oz. can black beans, drained and rinsed\n\u00bd cup prepared mango salsa, plus more for serving, optional\n4 8-inch flour tortillas, warmed\n1. Combine plantains, lime juice, and 1/2 cup water in small saucepan. Bring to a boil over medium heat, cover pan, and simmer 20 minutes, or until plantains are very soft. Mash with fork or potato masher, and stir in lime zest. Season with salt and pepper, if desired.\n2. Combine beans and salsa in small saucepan; warm over medium heat 3 to 5 minutes, stirring occasionally. Season with salt and pepper, if desired.\n3. Spread heaping 1/4 cup plantains on bottom half of each tortilla, leaving 2-inch border. Top with 1/2 cup bean mixture. Fold sides of tortilla over filling, then roll from bottom up. Serve with additional salsa, if using.",
-        "ingredients": [],
-        "directions": [],
+        "description": "Serves 4",
+        "ingredients": [
+            "30 minutes or fewer",
+            "Ripe plantains have a starchy consistency like potatoes, but with more fiber.",
+            "2 cups sliced ripe plantains (2 medium)",
+            "1 lime, juiced and zest grated (2 Tbs. juice and 1 tsp. zest)",
+            "1 15-oz. can black beans, drained and rinsed",
+            "\u00bd cup prepared mango salsa, plus more for serving, optional",
+            "4 8-inch flour tortillas, warmed"
+        ],
+        "directions": [
+            "1. Combine plantains, lime juice, and 1/2 cup water in small saucepan. Bring to a boil over medium heat, cover pan, and simmer 20 minutes, or until plantains are very soft. Mash with fork or potato masher, and stir in lime zest. Season with salt and pepper, if desired.",
+            "2. Combine beans and salsa in small saucepan; warm over medium heat 3 to 5 minutes, stirring occasionally. Season with salt and pepper, if desired.",
+            "3. Spread heaping 1/4 cup plantains on bottom half of each tortilla, leaving 2-inch border. Top with 1/2 cup bean mixture. Fold sides of tortilla over filling, then roll from bottom up. Serve with additional salsa, if using."
+        ],
         "notes": [],
         "tags": [
             "Breakfast"
@@ -1404,12 +1498,25 @@ const RECIPES_DB = [
     },
     {
         "id": "black_bean_burger",
-        "title": "black bean burger.",
-        "description": "Here is my black bean burger recipe.\nMakes 4 burgers this size shown in the pic.",
+        "title": "Black bean burger",
+        "description": "Here is my black bean burger recipe. Makes 4 burgers this size shown in the pic.",
         "ingredients": [
-            "1 8oz can of black beans drained,rinced, and mashed, 1/2 chopped red bell pepper,  1/2 white onion chopped finely, 1 celery stalk with the leaves chopped finely,  1sp of crushed red pepper flakes,  parsley, garlic and onion powder,  cummin,  turmeric,  all purpose seasoning,  and salt. 2 tbsp of my secret ingredient that's not so secret anymore \ud83e\udd23 G hughs sugar free BBQ sauce. NEXT LEVEL DELICIOUS."
+            "1 8oz can of black beans drained rinsed, and mashed",
+            "1/2 chopped red bell pepper,",
+            "1/2 white onion chopped finely,",
+            "1 celery stalk with the leaves chopped finely,",
+            "1sp of crushed red pepper flakes,",
+            "parsley, garlic and onion powder,",
+            "cummin,",
+            "turmeric,",
+            "all purpose seasoning,",
+            "salt.",
+            "2 tbsp of my secret ingredient that's not so secret anymore: G hughs sugar free BBQ sauce."
         ],
-        "directions": [],
+        "directions": [
+            "Make into patties",
+            "Fry"
+        ],
         "notes": [],
         "tags": [
             "Entree"
@@ -1437,10 +1544,10 @@ const RECIPES_DB = [
             "\u2013 1 large beaten egg",
             "\u2013 1/2 cup + 2 tablespoons whole milk",
             "\u2013 1 cup blackberries fresh or frozen if frozen, do not thaw",
-            "For the Egg Wash:",
+            "**For the Egg Wash:**",
             "\u2013 1 large beaten egg",
             "\u2013 1 teaspoon milk or water",
-            "For the Glaze:",
+            "**For the Glaze:**",
             "\u2013 2 tablespoons fresh lime juice",
             "\u2013 3/4 cup confectioners sugar"
         ],
@@ -1476,33 +1583,33 @@ const RECIPES_DB = [
         "title": "Blue Cheese, Walnut, and Thyme Pull-Apart Puff Pastry Twirl",
         "description": "",
         "ingredients": [
-            "- Puff pastry sheets",
-            "- 1 tablespoon honey (per sheet)",
-            "- Chopped walnuts",
-            "- Crumbled blue cheese",
-            "- Grated Parmesan cheese",
-            "- Fresh thyme leaves",
-            "- Sea salt",
-            "- Cracked pepper",
-            "- Milk (for brushing)"
+            "Puff pastry sheets",
+            "1 tablespoon honey (per sheet)",
+            "Chopped walnuts",
+            "Crumbled blue cheese",
+            "Grated Parmesan cheese",
+            "Fresh thyme leaves",
+            "Sea salt",
+            "Cracked pepper",
+            "Milk (for brushing)"
         ],
         "directions": [
             "1. Preheat Your Oven:",
-            "- Start by preheating your oven to 180\u00b0C (350\u00b0F). If using an electric non-fan forced oven, increase the temperature to 200\u00b0C (390\u00b0F).",
+            "Start by preheating your oven to 180\u00b0C (350\u00b0F). If using an electric non-fan forced oven, increase the temperature to 200\u00b0C (390\u00b0F).",
             "2. Prepare the Pastry:",
-            "- Drizzle 1 tablespoon of honey over each sheet of puff pastry.",
+            "Drizzle 1 tablespoon of honey over each sheet of puff pastry.",
             "3. Add the Toppings:",
-            "- Divide the chopped walnuts, crumbled blue cheese, and grated Parmesan cheesecake \ud83d\udc40\ud83c\udf52\ud83c\udf52\ud83e\udd51\ud83c\udf52evenly between the two sheets of puff pastry.",
-            "- Sprinkle fresh thyme leaves on   top, then season with sea salt and cracked pepper.",
+            "Divide the chopped walnuts, crumbled blue cheese, and grated Parmesan cheesecake \ud83d\udc40\ud83c\udf52\ud83c\udf52\ud83e\udd51\ud83c\udf52evenly between the two sheets of puff pastry.",
+            "Sprinkle fresh thyme leaves on   top, then season with sea salt and cracked pepper.",
             "4. Roll and Cut:",
-            "- Roll up each sheet of pastry tightly. Then, cut each roll in half lengthwise. You may need to tuck the pastry in after cutting to keep the filling intact.",
+            "Roll up each sheet of pastry tightly. Then, cut each roll in half lengthwise. You may need to tuck the pastry in after cutting to keep the filling intact.",
             "5. Twist and Shape:",
-            "- On a sheet of baking paper, carefully twist each length of pastry and form them into a round coil shape.",
+            "On a sheet of baking paper, carefully twist each length of pastry and form them into a round coil shape.",
             "6. Brush and Bake:",
-            "- Brush the pastry coils with milk to ensure a golden finish.",
-            "- Bake in the preheated oven for about 25-30 minutes, or until the pastry is puffed, golden, and cooked through.",
+            "Brush the pastry coils with milk to ensure a golden finish.",
+            "Bake in the preheated oven for about 25-30 minutes, or until the pastry is puffed, golden, and cooked through.",
             "7. Finish and Serve:",
-            "- Remove from the oven, scatter extra thyme leaves on top, and serve warm.",
+            "Remove from the oven, scatter extra thyme leaves on top, and serve warm.",
             "Enjoy your flavorful Blue Cheese, Walnut, and Thyme Pull-Apart Puff Pastry Twirls!"
         ],
         "notes": [],
@@ -1525,14 +1632,16 @@ const RECIPES_DB = [
             "8 date, pitted \u2013 Dates, medjool",
             "1/2 cup \u2013 flaxseed, ground",
             "2 tablespoon \u2013 chia seeds",
-            "Filling:",
+            "**Filling:**",
             "6 oz \u2013 cashews",
             "2 tbsp \u2013 Coconut Cream",
             "3 tablespoon \u2013 coconut oil",
             "3 tablespoon \u2013 maple syrup, pure",
             "1/2 cup \u2013 blueberries",
-            "Soak the cashews for at least 6 hours",
-            "To make the crust, you will need to pit and chop the dates.",
+            "Soak the cashews for at least 6 hours"
+        ],
+        "directions": [
+            "**To make the crust, you will need to pit and chop the dates.**",
             "Blend the chopped dates in a food processor until a ball forms around the edge of the blender.",
             "In a bowl combine the processed dates, flax meal and chia seed. Knead well with your hands.",
             "Press the mixture by hand into a lightly oiled 5 inch spring form pan. Place the crust in the fridge while you prepare the filling.",
@@ -1541,7 +1650,6 @@ const RECIPES_DB = [
             "Decorate the cake after it\u2019s frozen if desired.",
             "Let sit at room temperature for 10 minutes before serving."
         ],
-        "directions": [],
         "notes": [],
         "tags": [
             "Dessert"
@@ -1598,10 +1706,10 @@ const RECIPES_DB = [
         "title": "Bottled Strawberry Lemonade Concentrate",
         "description": "",
         "ingredients": [
-            "- 6 cups strawberries, hulled and halved",
-            "- 4 cups freshly squeezed lemon juice (about 16 lemons)",
-            "- 6 cups granulated sugar",
-            "- 6 cups water"
+            "6 cups strawberries, hulled and halved",
+            "4 cups freshly squeezed lemon juice (about 16 lemons)",
+            "6 cups granulated sugar",
+            "6 cups water"
         ],
         "directions": [
             "1. Prepare the Strawberries: In a large blender or food processor, puree the strawberries until smooth.",
@@ -1612,8 +1720,8 @@ const RECIPES_DB = [
             "6. Seal Jars: Wipe the rims of the jars with a clean, damp cloth and seal with sterilized lids and bands.",
             "7. Process Jars: Process the jars in a boiling water bath for 15 minutes to ensure they are sealed properly.",
             "8. Cool: Remove the jars from the water bath and let them cool completely on a towel or rack.",
-            "To Serve:",
-            "- Mix 1 part concentrate with 3 parts water or soda water. Adjust to taste.",
+            "**To Serve:**",
+            "Mix 1 part concentrate with 3 parts water or soda water. Adjust to taste.",
             "Prep Time: 20 minutes | Cooking Time: 10 minutes | Total Time: 30 minutes"
         ],
         "notes": [],
@@ -1660,31 +1768,6 @@ const RECIPES_DB = [
         ]
     },
     {
-        "id": "bread",
-        "title": "Bread",
-        "description": "I don't buy bread anymore! New perfect recipe for quick bread in 5 minutes. baking bread.",
-        "ingredients": [
-            "5.5 cups of flour",
-            "562.5 ml (2 1/4 cup) of water",
-            "2 1/4 tsp of active dry yeast",
-            "1/4 cup of sugar",
-            "2 tbsp. of olive oil",
-            "1 tbsp. of salt",
-            "Butter (optional, for topping)"
-        ],
-        "directions": [],
-        "notes": [],
-        "tags": [
-            "Bread"
-        ],
-        "methods": [
-            "Bake"
-        ],
-        "images": [
-            "images/bread_1.jpg"
-        ]
-    },
-    {
         "id": "breakfast_egg_salad",
         "title": "Breakfast Egg Salad",
         "description": "Creamy, ready in minutes\u2014perfect for a nourishing start to your day!\nCredit: @marinawrightwellness",
@@ -1724,8 +1807,10 @@ const RECIPES_DB = [
     {
         "id": "breakfast_enchiladas_with_roasted_poblano_sauce",
         "title": "Breakfast Enchiladas with Roasted Poblano Sauce",
-        "description": "Author: Cookie and KatePrep Time: 35 minutesCook Time: 20 minutesTotal Time: 55 minutesYield: 3-4 1xCategory: Breakfast\n\u2605\u2605\u2605\u2605\u2605\n4.8 from 4 reviews\nBreakfast enchiladas stuffed with scrambled eggs and saut\u00e9ed veggies, smothered in savory, homemade roasted poblano sauce. This recipe is for Heidi, who requested a breakfast casserole.",
+        "description": "Author: Cookie and KatePrep Time: 35 minutesCook Time: 20 minutesTotal Time: 55 minutesYield: 3-4 1xCategory: Breakfast\n\u2605\u2605\u2605\u2605\u2605",
         "ingredients": [
+            "4.8 from 4 reviews",
+            "Breakfast enchiladas stuffed with scrambled eggs and saut\u00e9ed veggies, smothered in savory, homemade roasted poblano sauce. This recipe is for Heidi, who requested a breakfast casserole.",
             "**Sauce**",
             "1 poblano pepper",
             "2 teaspoons extra virgin olive oil",
@@ -1740,7 +1825,7 @@ const RECIPES_DB = [
             "\u00bc teaspoon cayenne pepper",
             "1 small can (15 ounces) tomato sauce (I used Muir Glenn)",
             "Optional: \u00bc cup water, to thin out the sauce",
-            "Filling",
+            "**Filling**",
             "2 small roasted red peppers, diced (jarred or fresh)",
             "3\u20134 large portobello mushroomed, stemmed, gills scraped out, and diced into thin one-inch strips",
             "\u00bd red onion, diced",
@@ -1776,23 +1861,20 @@ const RECIPES_DB = [
     },
     {
         "id": "brussel_sprout_salad__a_harvest_salad_with_a_festive_touch",
-        "title": "Brussel Sprout Salad: A Harvest Salad With a Festive Touch",
+        "title": "Brussel Sprout Salad: A Harvest Salad with a Festive Touch",
         "description": "SERVINGS 4\nPREP TIME 15 minutes",
         "ingredients": [
+            "Salad",
             "5-6 cups shredded brussel sprouts",
             "1 cup chopped radicchio",
             "2 pomegranates",
             "1 1/2 cupsmaple glazed pecans (1 \u00bd cups pecans + 1 \u00bd tbs maple syrup toasted in pan and cooled)",
-            "1",
             "cup diced apple",
-            "1",
             "cup torn mint",
-            "1",
             "cup shaved parmesan cheese",
-            "DRESSING",
+            "Dressing",
             "2 tsp Dijon mustard",
-            "1",
-            "large garlic clove minced",
+            "1 large garlic clove minced",
             "1 lemon juiced and zested",
             "1/4 cup apple cider vinegar",
             "1 tbsp maple syrup or honey",
@@ -1801,7 +1883,9 @@ const RECIPES_DB = [
             "1 tsp pepper",
             "1 cup olive oil"
         ],
-        "directions": [],
+        "directions": [
+            "Mix salad and dressing"
+        ],
         "notes": [],
         "tags": [
             "Salad"
@@ -1872,8 +1956,9 @@ const RECIPES_DB = [
     {
         "id": "butter_chicken_meatballs",
         "title": "BUTTER CHICKEN MEATBALLS",
-        "description": "yield: 6 SERVINGS\nprep: 20 MINUTES\ncook: 35MINUTES\nMINUTES\ntotal: 55 MINUTES\nEveryone's favorite butter chicken made into the most tender, most amazing meatballs! So saucy, so good. Serve with rice + naan!\n4.9 stars (33 ratings)",
+        "description": "yield: 6 SERVINGS\nprep: 20 MINUTES\ncook: 35MINUTES\nMINUTES\ntotal: 55 MINUTES\nEveryone's favorite butter chicken made into the most tender, most amazing meatballs! So saucy, so good. Serve with rice + naan!",
         "ingredients": [
+            "4.9 stars (33 ratings)",
             "4 tablespoons unsalted butter",
             "\u00bd medium sweet onion, diced",
             "1 jalapeno, seeded and diced, optional",
@@ -1896,7 +1981,7 @@ const RECIPES_DB = [
         ],
         "directions": [
             "Preheat oven to 425 degrees F. Line a baking sheet with parchment paper.",
-            "To make the meatballs, combine chicken, Panko, egg, cilantro, curry powder, 1 teaspoon salt and 1/2 teaspoon pepper in a large bowl. Using a wooden spoon or clean hands, stir until well combined. Roll the mixture into 3/4-to-1-inch meatballs, forming about 36-40 meatballs.",
+            "**To make the meatballs, combine chicken, Panko, egg, cilantro, curry powder, 1 teaspoon salt and 1/2 teaspoon pepper in a large bowl. Using a wooden spoon or clean hands, stir until well combined. Roll the mixture into 3/4-to-1-inch meatballs, forming about 36-40 meatballs.**",
             "Place meatballs in a single layer onto the prepared baking sheet. Place into oven and bake until lightly browned and cooked through, about 15 minutes.",
             "Melt butter in a large skillet over medium heat. Add onion and jalapeno, if using. Cook, stirring occasionally, until tender, about 3-4 minutes.",
             "Stir in garlic, ginger, garam masala and turmeric until fragrant, about 1 minute.",
@@ -1934,7 +2019,7 @@ const RECIPES_DB = [
             "1/4 tsp salt",
             "1/8 tsp cayenne pepper",
             "1.5 cups old-fashioned rolled oats [not instant]",
-            "the toppings:",
+            "**the toppings:**",
             "4 burger buns [I used a bakery poppyseed onion bun - amazing!]",
             "4 slices of pepper jack cheese",
             "romaine lettuce",
@@ -2009,7 +2094,7 @@ const RECIPES_DB = [
             "Heat 1 tablespoon olive oil in a large, high-sided, heavy-bottomed skillet (such as cast iron or stainless steel) on medium heat.",
             "Slice cooked sausage into coins and add to the skillet.",
             "Cook on medium heat for 5 minutes on one side until nicely browned, then flip over and cook for about 3 minutes on the other side.",
-            "Assembly",
+            "**Assembly**",
             "Add spinach to the sausage and cook on medium-low heat until wilted.",
             "Add rinsed and drained black beans and cooked orzo (drained of any liquid). Mix to combine. Add roasted butternut squash cubes. Stir everything together carefully.",
             "Season with salt and pepper.",
@@ -2074,20 +2159,20 @@ const RECIPES_DB = [
         "description": "Total Time: 1 hour, 40 minutes\nYield: 8 servings",
         "ingredients": [
             "Follow Julia on Pinterest and Facebook to get more recipes and dinner ideas for your weekly meal planning!",
-            "Butternut Squash Filling:",
+            "**Butternut Squash Filling:**",
             "2 cups butternut squash puree (about half of squash)",
             "1 cup ricotta cheese",
             "1/2 cup milk (or more, if needed)",
             "1/4 + 1/8 teaspoon salt",
             "1/4 teaspoon nutmeg",
-            "Spinach Filling:",
+            "**Spinach Filling:**",
             "1 cup cooked spinach (8 oz uncooked)",
             "1 cup ricotta cheese",
             "1 cup mozzarella cheese",
             "2 garlic cloves, minced",
             "1/4 teaspoon salt",
             "pepper, to taste",
-            "Other Ingredients:",
+            "**Other Ingredients:**",
             "10 oz lasagna noodles, cooked (for gluten free, use Tinkyada brown rice lasagna noodles)",
             "1 and 1/2 cups mozzarella cheese (or more)",
             "1/2 cup Parmesan cheese (on top)",
@@ -2097,13 +2182,13 @@ const RECIPES_DB = [
         ],
         "directions": [
             "Preheat oven to 375 F.",
-            "Butternut Squash Filling:",
+            "**Butternut Squash Filling:**",
             "For this filling, you will need to have pre-cooked butternut squash puree. Using food processor, combine 2 cups of butternut squash puree with Ricotta cheese, milk, salt and nutmeg. Add more milk if needed (to make the butternut squash filling very creamy). Mix very well, taste and add more salt, if needed.",
-            "Spinach Filling:",
+            "**Spinach Filling:**",
             "Combine spinach, Ricotta cheese, mozzarella, garlic, salt and pepper. Mix, taste, and add more salt and pepper, if needed.",
-            "Cooking lasagna noodles:",
+            "**Cooking lasagna noodles:**",
             "Bring a very large pot of water to boil, and cook lasagna noodles according to package instructions. Rinse in cold water, drain. Using knife, trim noodles to fit your baking dish (if necessary).",
-            "Lasagna assembly:",
+            "**Lasagna assembly:**",
             "Prepare a baking dish - I used a casserole dish 11 inches x 8.5 inches x 3 inches deep. Grease the lasagna dish lightly with olive oil spray. Spread 1/3 of butternut squash filling on the bottom of the dish. Sprinkle lightly with mozzarella cheese. Top with cooked lasagna noodles without overlapping (I used 3 noodles).",
             "Spread half of spinach filling over the noodles. Top lightly with Mozzarella cheese. Top with cooked noodles.",
             "Spread another layer (1/3) of butternut squash mixture, then sprinkle lightly with Mozzarella cheese. Top with cooked noodles.",
@@ -2127,16 +2212,16 @@ const RECIPES_DB = [
         "title": "Butternut Squash Pasta Salad with Brussels Sprouts, Pecans, and Cranberries",
         "description": "Butternut Squash Pasta Salad is a delicious Fall comfort food perfect for cozy cold nights. This meatless holiday side dish is bursting with Autumn flavors and spices (cinnamon and maple syrup) and will make a great addition to your traditional Thanksgiving or Christmas menu.\nCourse Side Dish\nCuisine American\nKeyword butternut squash pasta salad, fall pasta salad, thanksgiving pasta salad\nPrep Time 20 minutes\nCook Time 20 minutes\nTotal Time 40 minutes\nServings 6 servings\nCalories 472kcal\nAuthor Julia",
         "ingredients": [
-            "Roasted Brussels Sprouts:",
+            "**Roasted Brussels Sprouts:**",
             "12 oz Brussels sprouts ends trimmed, yellow leaves removed, each sliced in half",
             "2 tablespoons olive oil",
             "\u00bc teaspoon Salt to taste",
-            "Roasted Butternut Squash:",
+            "**Roasted Butternut Squash:**",
             "1 lb butternut squash peeled, seeded, and cubed into 1-inch cubes (I used butternut squash that was 7.5 inches long)",
             "1 tablespoon olive oil",
             "2 tablespoons maple syrup",
             "\u00bd teaspoon ground cinnamon",
-            "Other Ingredients:",
+            "**Other Ingredients:**",
             "8 oz pasta",
             "1 cup pecan halves",
             "\u00bd cup dried cranberries",
@@ -2158,10 +2243,10 @@ const RECIPES_DB = [
             "How to toast pecans",
             "Toast the pecans for about 5 minutes (maybe a bit longer) in the preheated oven at 350 F until they get darker in color.",
             "Note: pecans burn really fast, so make sure to check the nuts after 5 minutes and frequently afterwords.",
-            "Assembly",
+            "**Assembly**",
             "In a large bowl, combine roasted Brussels sprouts, roasted butternut squash, cooked and drained pasta, pecans, and cranberries, and mix to combine.",
             "Salad dressing options",
-            "There are 4 salad dressing options that you can drizzle over this butternut squash salad:",
+            "**There are 4 salad dressing options that you can drizzle over this butternut squash salad:**",
             "Option 1. Combine 3 or 4 tablespoons of balsamic vinegar and 2 tablespoons of olive oil in a small bowl and whisk to emulsify.",
             "Option 2. Drizzle the salad with balsamic glaze (store-purchased) or homemade. To make a balsamic glaze, combine 1 cup of balsamic vinegar + \u00bc cup of honey or brown sugar and cook it down until reduced at least by half. Consistency should be thick enough to coat the back of the spoon but should not be overly thick.",
             "Option 3. Use 2 or 3 tablespoons of maple syrup plus 2 or 3 tablespoons of freshly squeezed lemon juice (not the bottled kind) as a salad dressing.",
@@ -2191,9 +2276,28 @@ const RECIPES_DB = [
     {
         "id": "cabbage_salad",
         "title": "Cabbage Salad",
-        "description": "I eat this cabbage salad for dinner every day and lose belly fat fast! Cucumber recipes\n1/3 cabbage\n1/4 teaspoon salt\n1-2 cucumbers\n1/4 teaspoon salt\n1/2 onion\n1 teaspoon rice vinegar\n1/3 red cabbage\n1 carrot\n20g walnuts\n2 cloves of garlic\n2 tablespoons olive oil\n1 tablespoon honey\n2 tablespoons mustard\n1 teaspoon soy sauce",
-        "ingredients": [],
-        "directions": [],
+        "description": "I eat this cabbage salad for dinner every day and lose belly fat fast! Cucumber recipes",
+        "ingredients": [
+            "Salad",
+            "1/3 cabbage",
+            "1/4 teaspoon salt",
+            "1-2 cucumbers",
+            "1/4 teaspoon salt",
+            "1/2 onion",
+            "1 teaspoon rice vinegar",
+            "1/3 red cabbage",
+            "1 carrot",
+            "20g walnuts",
+            "Dressing",
+            "2 cloves of garlic",
+            "2 tablespoons olive oil",
+            "1 tablespoon honey",
+            "2 tablespoons mustard",
+            "1 teaspoon soy sauce"
+        ],
+        "directions": [
+            "Mix salad and dressing"
+        ],
         "notes": [],
         "tags": [
             "Salad"
@@ -2206,19 +2310,22 @@ const RECIPES_DB = [
     {
         "id": "cabbage_carrot_and_apple_slaw",
         "title": "Cabbage, Carrot and Apple Slaw",
-        "description": "I can't stop eating this cabbage, carrot and apple salad. So fresh and crunchy!",
+        "description": "",
         "ingredients": [
+            "Salad",
             "200-400 grams cabbage, finely shredded",
             "1 carrot, peeled and grated",
             "1 green apple, cored and thinly sliced",
             "Spring onion, chopped",
             "Dill or parsley, chopped (optional)",
+            "Dressing",
             "Lemon juice, to taste",
             "Olive oil, to taste",
-            "Salt, to taste",
-            "Source: Weight Watchers Recipe."
+            "Salt, to taste"
         ],
-        "directions": [],
+        "directions": [
+            "Mix salad and dressing"
+        ],
         "notes": [],
         "tags": [
             "Salad"
@@ -2231,9 +2338,23 @@ const RECIPES_DB = [
     {
         "id": "caesar_salad_dressing",
         "title": "Caesar salad dressing",
-        "description": "3 Anchovy fillets\n1 tbsp minced Garlic\n\u00bd tsp Worcestershire sauce\n1 Egg Yolk\n2 tbsp Lemon Juice\n\u00bd tsp Dijon Mustard\n\u00bc Olive Oil\n\u00bd cup Vegetable Oil\n\u00bc cup Grated Parmesan\nSalt and Black Pepper (to taste)\nLeave running and slowly add olive oil and then vegetable oil through the liquid feed. This should produce a thick dressing.\nAdd in grated Parmesan and pulse to blend. Add salt, pepper, and additional lemon juice to taste.",
-        "ingredients": [],
-        "directions": [],
+        "description": "",
+        "ingredients": [
+            "3 Anchovy fillets",
+            "1 tbsp minced Garlic",
+            "\u00bd tsp Worcestershire sauce",
+            "1 Egg Yolk",
+            "2 tbsp Lemon Juice",
+            "\u00bd tsp Dijon Mustard",
+            "\u00bc Olive Oil",
+            "\u00bd cup Vegetable Oil",
+            "\u00bc cup Grated Parmesan",
+            "Salt and Black Pepper (to taste)",
+            "Leave running and slowly add olive oil and then vegetable oil through the liquid feed. This should produce a thick dressing."
+        ],
+        "directions": [
+            "Add in grated Parmesan and pulse to blend. Add salt, pepper, and additional lemon juice to taste."
+        ],
         "notes": [],
         "tags": [
             "Salad"
@@ -2248,8 +2369,9 @@ const RECIPES_DB = [
     {
         "id": "carrot_quinoa_oatmeal_breakfast_cookies",
         "title": "Carrot Quinoa Oatmeal Breakfast Cookies",
-        "description": "4.5 from 2 reviews\nRecipe type: breakfast, snack\nServes: 12 large cookies",
+        "description": "",
         "ingredients": [
+            "4.5 from 2 reviews",
             "1 cup oat flour (made from 1\u00bc cups whole rolled oats)*",
             "1 cup (additional) whole rolled oats* (see note)",
             "\u00bd teaspoon baking powder",
@@ -2266,6 +2388,8 @@ const RECIPES_DB = [
             "\u00bd cup dried cranberries"
         ],
         "directions": [
+            "**Recipe type: breakfast, snack**",
+            "Serves: 12 large cookies",
             "Preheat the oven to 350\u00b0F and line a large baking sheet with parchment paper.",
             "Use a food processor or a blender to process the 1\u00bc cups rolled oats into a fine flour and measure out one level cup. In a large bowl, stir together the flour, the remaining 1 cup whole oats, baking powder, baking soda, cinnamon and sea salt. Fold in the quinoa and then the shredded carrots, stirring until the carrots are completely coated with flour.",
             "In a small bowl, combine the flaxseed and warm water and set aside to thicken for about 5 minutes. In a medium bowl, combine the almond butter, coconut oil, and maple syrup and stir well to incorporate. Stir in the flaxseed mixture.",
@@ -2287,18 +2411,19 @@ const RECIPES_DB = [
     {
         "id": "cauliflower_cheddar_biscuits",
         "title": "Cauliflower Cheddar Biscuits",
-        "description": "Makes 4 servings:\n\u2022 3 greens \u2022 1 leaner protein\u2022 1.5 condiments",
+        "description": "Makes 4 servings:",
         "ingredients": [
-            "\u2022 4 cups (13.6 oz) cauliflower, cut into florets (8 greens)",
-            "\u2022 2 cups (6.2 oz) broccoli, cut into florets (4 greens)",
-            "\u2022 1 1/2 cup (6 oz) low fat cheddar cheese, grated (1 leaner protein)",
-            "\u2022 12 oz non-fat greek yogurt (1 leanest protein)",
-            "\u2022 4 eggs & 8 egg whites (2 leaner protein)",
-            "\u2022 3 tablespoons water",
-            "\u2022 3/4 teaspoon salt (3 condiments)",
-            "\u2022 1/2 teaspoon onion powder (1 condiment)",
-            "\u2022 1/2 teaspoon garlic powder (1 condiment)",
-            "\u2022 \u00bd teaspoon of freshly ground pepper (1 condiment)"
+            "3 greens \u2022 1 leaner protein\u2022 1.5 condiments",
+            "4 cups (13.6 oz) cauliflower, cut into florets (8 greens)",
+            "2 cups (6.2 oz) broccoli, cut into florets (4 greens)",
+            "1 1/2 cup (6 oz) low fat cheddar cheese, grated (1 leaner protein)",
+            "12 oz non-fat greek yogurt (1 leanest protein)",
+            "4 eggs & 8 egg whites (2 leaner protein)",
+            "3 tablespoons water",
+            "3/4 teaspoon salt (3 condiments)",
+            "1/2 teaspoon onion powder (1 condiment)",
+            "1/2 teaspoon garlic powder (1 condiment)",
+            "\u00bd teaspoon of freshly ground pepper (1 condiment)"
         ],
         "directions": [
             "1. Preheat oven to 400\u00ba F lightly grease 1-2 (mini) muffin tin(s) with non-stick spray.",
@@ -2333,11 +2458,11 @@ const RECIPES_DB = [
             "1/4 teaspoon garlic powder",
             "1/4 teaspoon onion powder",
             "Salt and pepper, to taste",
-            "Olive oil or cooking spray for frying",
-            "Here are the recipes",
-            "https://newmediterraneandietsrecipes.com/?aff=55"
+            "Olive oil or cooking spray for frying"
         ],
-        "directions": [],
+        "directions": [
+            "Mix and fry"
+        ],
         "notes": [],
         "tags": [
             "Side"
@@ -2403,7 +2528,7 @@ const RECIPES_DB = [
             "1 lime, sliced into wedges",
             "extra-virgin olive oil",
             "sea salt and freshly ground black pepper",
-            "Green Chile Cashew Cream:",
+            "**Green Chile Cashew Cream:**",
             "1 cup cashews, soaked 3 to 4 hours, preferably overnight, drained and rinsed",
             "2 tablespoons canned mild green chiles, more if desired",
             "1 scallion, chopped",
@@ -2474,7 +2599,7 @@ const RECIPES_DB = [
             "The main function of the pumpkin seeds is to add some crunch. Feel free to use different seeds or nuts if you\u2019re out of pumpkin seeds.",
             "Not a fan of beans? Roast some tofu or tempeh instead of chickpeas.",
             "You can enjoy it as a side dish or a hearty main meal. If you\u2019re feeling extra playful, you can even use it as a wrap or pita filling.",
-            "Calories: 518.5kcal, Carbohydrates: 68.9g, Protein: 18.5g, Fat: 20.4g, Saturated Fat: 3.1g, Polyunsaturated Fat: 5.8g, Monounsaturated Fat: 6.8g, Trans Fat: 0.003g, Cholesterol: 0.9mg, Sodium: 1032.1mg, Potassium: 855.1mg, Fiber: 12.1g, Sugar: 4.4g, Vitamin A:"
+            "**Calories: 518.5kcal, Carbohydrates: 68.9g, Protein: 18.5g, Fat: 20.4g, Saturated Fat: 3.1g, Polyunsaturated Fat: 5.8g, Monounsaturated Fat: 6.8g, Trans Fat: 0.003g, Cholesterol: 0.9mg, Sodium: 1032.1mg, Potassium: 855.1mg, Fiber: 12.1g, Sugar: 4.4g, Vitamin A:**"
         ],
         "notes": [],
         "tags": [
@@ -2491,8 +2616,20 @@ const RECIPES_DB = [
     {
         "id": "cauliflower__fried_rice",
         "title": "Cauliflower \"Fried Rice",
-        "description": "I LOVE fried rice, and often make my own fried rice at home with brown rice which is delicious. But sometimes when I want to cut down on my carbs, I opt for cauliflower rice.\nI posted this Cilantro Lime Cauliflower \"Rice\" a while back, and it was a huge hit. So I decided to play around with that recipe and make this Asian version to go with the Orange Chicken I posted yesterday, and my husband (who detests cauliflower) was pretty amazed how the meal turned out. The portions are generous and you get a serving or two of vegetables into your diet.\nIf you like this, you may also like:\nBrown Fried Rice\nAsian Edamame Fried Rice\nPineapple Shrimp Fried Rice\nSpicy Shrimp Fried Rice\nCauliflower \"Fried Rice\"\nSkinnytaste.com\nServings: 4 \u2022 Size: heaping 1 1/3 cups \u2022 Old Points: 2 pt \u2022 Points+: 3 pts\nCalories: 108 \u2022 Fat: 3 g \u2022 Carbs: 14 \u2022 Fiber: 6 \u2022 Protein: 9 g \u2022 Sugar: 1\nSodium: 868 mg \u2022 Cholesterol: 47 mg\n1 medium head (about 24 oz) cauliflower, rinsed\n1 tbsp sesame oil\n2 egg whites\n1 large egg\npinch of salt\ncooking spray\n1/2 small onion, diced fine\n1/2 cup frozen peas and carrots\n2 garlic cloves, minced\n5 scallions, diced, whites and greens separated\n3 tbsp soy sauce, or more to taste (Tamari for Gluten Free)",
-        "ingredients": [],
+        "description": "I LOVE fried rice, and often make my own fried rice at home with brown rice which is delicious. But sometimes when I want to cut down on my carbs, I opt for cauliflower rice.\nI posted this Cilantro Lime Cauliflower \"Rice\" a while back, and it was a huge hit. So I decided to play around with that recipe and make this Asian version to go with the Orange Chicken I posted yesterday, and my husband (who detests cauliflower) was pretty amazed how the meal turned out. The portions are generous and you get a serving or two of vegetables into your diet.\nIf you like this, you may also like:\nBrown Fried Rice\nAsian Edamame Fried Rice\nPineapple Shrimp Fried Rice\nSpicy Shrimp Fried Rice\nCauliflower \"Fried Rice\"\nSkinnytaste.com\nServings: 4 \u2022 Size: heaping 1 1/3 cups \u2022 Old Points: 2 pt \u2022 Points+: 3 pts\nCalories: 108 \u2022 Fat: 3 g \u2022 Carbs: 14 \u2022 Fiber: 6 \u2022 Protein: 9 g \u2022 Sugar: 1\nSodium: 868 mg \u2022 Cholesterol: 47 mg",
+        "ingredients": [
+            "1 medium head (about 24 oz) cauliflower, rinsed",
+            "1 tbsp sesame oil",
+            "2 egg whites",
+            "1 large egg",
+            "pinch of salt",
+            "cooking spray",
+            "1/2 small onion, diced fine",
+            "1/2 cup frozen peas and carrots",
+            "2 garlic cloves, minced",
+            "5 scallions, diced, whites and greens separated",
+            "3 tbsp soy sauce, or more to taste (Tamari for Gluten Free)"
+        ],
         "directions": [
             "Remove the core and let the cauliflower dry completely. Coarsely chop into florets, then place half of the cauliflower in a food processor and pulse until the cauliflower is small and has the texture of rice or couscous \u2013 don't over process or it will get mushy. Set aside and repeat with the remaining cauliflower.",
             "\ufffc",
@@ -2532,7 +2669,9 @@ const RECIPES_DB = [
             "1 can full-fat, unsweetened coconut milk",
             "1 teaspoon sea salt",
             "2 tablespoons chopped cilantro",
-            "Step 1",
+            "Step 1"
+        ],
+        "directions": [
             "In a medium stock pot, heat the coconut oil for 30 seconds",
             "Step 2",
             "Add the cumin seeds and stir until they start to sputter. Then add the onions and cook for another minute, and then, add the tomatoes, stir and cook for a few more minutes until the tomatoes soften.",
@@ -2541,7 +2680,6 @@ const RECIPES_DB = [
             "Step 4",
             "Ladle the soup into 4 serving bowls and enjoy! Leftover stew can be stored in air-tight container and saved for lunch the next day."
         ],
-        "directions": [],
         "notes": [
             "**Nutritional analysis per serving**",
             "calories 204 \u2022 fat 24 g \u2022 saturated fat 20 g \u2022 cholesterol 0 mg \u2022 fiber 6 g \u2022 protein 6 g \u2022 carbohydrate 18 g \u2022 sodium 588 m"
@@ -2576,7 +2714,9 @@ const RECIPES_DB = [
             "1 can full-fat, unsweetened coconut milk",
             "1 teaspoon sea salt",
             "2 tablespoons chopped cilantro",
-            "Step 1",
+            "Step 1"
+        ],
+        "directions": [
             "In a medium stock pot, heat the coconut oil for 30 seconds",
             "Step 2",
             "Add the cumin seeds and stir until they start to sputter. Then add the onions and cook for another minute, and then, add the tomatoes, stir and cook for a few more minutes until the tomatoes soften.",
@@ -2585,7 +2725,6 @@ const RECIPES_DB = [
             "Step 4",
             "Ladle the soup into 4 serving bowls and enjoy! Leftover stew can be stored in air-tight container and saved for lunch the next day."
         ],
-        "directions": [],
         "notes": [
             "**Nutritional analysis per serving**",
             "calories 204 \u2022 fat 24 g \u2022 saturated fat 20 g \u2022 cholesterol 0 mg \u2022 fiber 6 g \u2022 protein 6 g \u2022 carbohydrate 18 g \u2022 sodium 588 m"
@@ -2641,7 +2780,7 @@ const RECIPES_DB = [
         "title": "Chicken Enchiladas",
         "description": "These easy Mexican-style chicken enchiladas are made with juicy chicken thigh meat and rolled into warm corn tortillas with a Mexican cheese blend, green onions, and jalape\u00f1os. I drizzle the baked enchiladas with a quick homemade cilantro-lime crema and top them with avocado slices. Use store-bought or homemade red enchilada sauce (recipe provided).\nCourse Main Course\nCuisine Mexican\nKeyword chicken enchiladas\nPrep Time 10 minutes\nCook Time 40 minutes\nTotal Time 50 minutes\nServings 6\nAuthor Julia",
         "ingredients": [
-            "Chicken Filling",
+            "**Chicken Filling**",
             "2 tablespoons neutral oil",
             "2 pounds boneless skinless lchicken thighs pat dry",
             "1 teaspoon dried oregano",
@@ -2654,21 +2793,21 @@ const RECIPES_DB = [
             "3 cups Mexican blend cheese divided",
             "12 corn tortillas",
             "28 oz red or green enchilada sauce store-bought or make it from scratch (see recipe below)",
-            "Cilantro Lime Crema",
+            "**Cilantro Lime Crema**",
             "15 oz Mexican crema",
             "1 medium lime zest",
             "2 medium limes freshly squeezed juice",
             "1 bunch cilantro (large stems - removed, small - left in)",
             "1 clove garlic",
             "salt and pepper to taste",
-            "Optional Toppings",
+            "**Optional Toppings**",
             "cilantro roughly chopped",
             "green onion roughly chopped",
             "avocado slices",
             "extra enchilada sauce"
         ],
         "directions": [
-            "Make Chicken Filling",
+            "**Make Chicken Filling**",
             "Place a rack in the middle of your oven and preheat to 350 degrees.",
             "Combine the dried oregano, ground cumin, garlic powder, salt, and pepper in a small bowl.",
             "Heat a large skillet or nonstick pan with the neutral oil to medium high while you season your chicken thighs all over with the spice mix.",
@@ -2679,9 +2818,9 @@ const RECIPES_DB = [
             "Working with one tortilla at a time, making sure to keep the unused tortillas covered with the towel to keep them warm, evenly fill each with the chicken, green onion, jalapenos if using, and 1 \u00bd cups of Mexican blend cheese. Repeat this process until you\u2019ve filled the casserole dish.",
             "Ladle 1 cup of enchilada sauce over the enchiladas, evenly coating them. Pour the remaining sauce into a small sauce pot, cover, and keep on low heat on the stove.",
             "Sprinkle the remaining 1 \u00bd cups of Mexican blend cheese on top, wrap with aluminum foil, and bake for 20-25 minutes or until the sauce is bubbling and the cheese is melted.",
-            "Make Cilantro Lime Crema",
+            "**Make Cilantro Lime Crema**",
             "While the enchiladas are baking, combine the Mexican crema, lime zest, lime juice, cilantro, garlic, salt and pepper to taste in a blender or to a large cup that can fit an immersion blender inside. Blend until smooth and adjust with salt and pepper. Transfer to a squeeze bottle or measuring cup with a spout.",
-            "Serving",
+            "**Serving**",
             "Once the enchiladas are finished cooking, remove the foil. Top with cilantro, green onions, avocado slices, extra enchilada sauce if desired. Serve and drizzle with the crema, extra toppings, and extra sauce if you like. Serve alongside calabacitas, rice, beans, or any side you love to eat with enchiladas!"
         ],
         "notes": [],
@@ -2801,7 +2940,7 @@ const RECIPES_DB = [
             "In a large skillet, cook chicken seasoned with salt and pepper, and Italian seasoning, until cooked through. Slice into thin strips once the chicken is cooked.",
             "Salad dressing",
             "In a medium bowl, combine all dressing ingredients: mayonnaise, Greek yogurt, honey, Dijon mustard, and poppy seeds. Whisk until well combined. Add salt, to taste.",
-            "Assembly",
+            "**Assembly**",
             "In a large bowl, combine all salad ingredients: cooked and drained pasta, sliced cooked chicken, toasted pecans, and cranberries. Add salad dressing and toss to coat. Add salt, to taste, if needed."
         ],
         "notes": [
@@ -2826,26 +2965,26 @@ const RECIPES_DB = [
         "title": "Chicken Scampi with Garlic Parmesan Rice",
         "description": "",
         "ingredients": [
-            "For the Chicken:",
-            "- 1 pound boneless, skinless chicken breasts, sliced into thin strips",
-            "- Salt and pepper, to taste",
-            "- 2 tablespoons olive oil",
-            "- 4 cloves garlic, minced",
-            "- 1/2 cup chicken broth",
-            "- Juice of 1 lemon",
-            "- 1/4 cup white wine (optional)",
-            "- 2 tablespoons unsalted butter",
-            "- 2 tablespoons chopped fresh parsley",
-            "For the Garlic Parmesan Rice:",
-            "- 1 cup long-grain white rice",
-            "- 2 cups chicken broth",
-            "- 2 cloves garlic, minced",
-            "- 1/4 cup grated Parmesan cheese",
-            "- Salt and pepper, to taste",
-            "- Chopped fresh parsley, for garnish"
+            "**For the Chicken:**",
+            "1 pound boneless, skinless chicken breasts, sliced into thin strips",
+            "Salt and pepper, to taste",
+            "2 tablespoons olive oil",
+            "4 cloves garlic, minced",
+            "1/2 cup chicken broth",
+            "Juice of 1 lemon",
+            "1/4 cup white wine (optional)",
+            "2 tablespoons unsalted butter",
+            "2 tablespoons chopped fresh parsley",
+            "**For the Garlic Parmesan Rice:**",
+            "1 cup long-grain white rice",
+            "2 cups chicken broth",
+            "2 cloves garlic, minced",
+            "1/4 cup grated Parmesan cheese",
+            "Salt and pepper, to taste",
+            "Chopped fresh parsley, for garnish"
         ],
         "directions": [
-            "For the Chicken:",
+            "**For the Chicken:**",
             "1. Season the chicken strips with salt and pepper.",
             "2. In a large skillet, heat olive oil over medium-high heat.",
             "3. Add the seasoned chicken strips to the skillet and cook for 3-4 minutes per side until golden brown and cooked through.",
@@ -2856,13 +2995,13 @@ const RECIPES_DB = [
             "8. Stir in butter until melted and well combined.",
             "9. Return the cooked chicken to the skillet, tossing to coat in the sauce.",
             "10. Sprinkle chopped parsley over the chicken just before serving.",
-            "For the Garlic Parmesan Rice:",
+            "**For the Garlic Parmesan Rice:**",
             "1. In a medium saucepan, combine rice, chicken broth, and minced garlic.",
             "2. Bring to a boil over high heat, then reduce the heat to low.",
             "3. Cover and simmer for 15-20 minutes or until the rice is tender and the liquid is absorbed.",
             "4. Remove from heat and stir in grated Parmesan cheese.",
             "5. Season with salt and pepper to taste.",
-            "To Serve:",
+            "**To Serve:**",
             "1. Divide the garlic Parmesan rice among plates or bowls.",
             "2. Top with chicken scampi and spoon some of the sauce over the chicken and rice.",
             "3. Garnish with chopped fresh parsley.",
@@ -2882,7 +3021,7 @@ const RECIPES_DB = [
     },
     {
         "id": "chicken_thighs_potatoes_delight",
-        "title": "\ud83c\udf57 Chicken Thighs & Potatoes Delight!",
+        "title": "Chicken Thighs & Potatoes Delight!",
         "description": "I indulge in this flavorful dish almost every day - crispy chicken thighs and tender potatoes!",
         "ingredients": [
             "1. 5 Chicken thighs \ud83c\udf57",
@@ -2890,14 +3029,16 @@ const RECIPES_DB = [
             "3. 5 Potatoes \ud83e\udd54",
             "4. 2 Carrots \ud83e\udd55",
             "5. 3 Garlic cloves \ud83e\uddc4",
-            "6. 1 Onion \ud83e\uddc5",
+            "6. 1 Onion \ud83e\uddc5"
+        ],
+        "directions": [
             "7. A small bunch of Parsley \ud83c\udf3f",
             "8. 50g Butter \ud83e\uddc8",
             "9. 80g Honey \ud83c\udf6f",
             "10. 80g Sweet chili sauce \ud83c\udf36\ufe0f",
             "11. 50ml Soy sauce \ud83e\udd61",
             "12. 1 tablespoon Mustard \ud83c\udf6f",
-            "Cooking Process:",
+            "**Cooking Process:**",
             "1. Season chicken thighs with salt and pepper.",
             "2. Cut potatoes into chunks.",
             "3. Coarsely chop carrots.",
@@ -2908,7 +3049,6 @@ const RECIPES_DB = [
             "8. Place potatoes in a baking dish, add chicken thighs on top, and pour over the honey sauce.",
             "9. Bake in the oven at 180\u00b0C for 40 minutes."
         ],
-        "directions": [],
         "notes": [],
         "tags": [
             "Entree"
@@ -2923,19 +3063,28 @@ const RECIPES_DB = [
     },
     {
         "id": "chicken_tikka_marsala",
-        "title": "Chicken Tikka Marsala",
+        "title": "Chicken Tikka Masala",
         "description": "",
         "ingredients": [
-            "\u00be Ib. boneless skinless chicken thighs, cubed",
+            "\u00be lb. boneless skinless chicken thighs, cubed",
             "\u215e tsp salt",
             "1\u00bd tsp tikka masala or tandoori masala spice mix",
-            "\u2022",
             "2 scallions, trimmed and minced",
             "1\u00bd cups canned diced tomatoes",
             "\u00bd cup water",
-            "3 tosp sour cream  \u2022 1 cup cauliflower ric  \u2022 2 tbsp fresh cilantro, chopped"
+            "3 tbsp sour cream",
+            "1 cup cauliflower rice",
+            "2 tbsp fresh cilantro, chopped"
         ],
-        "directions": [],
+        "directions": [
+            "1. Toss the cubed chicken with the salt, tikka masala (or tandoori masala) spice mix and scallions.",
+            "2. Add the tomatoes and water to a saucepan and bring to a boil. Add the seasoned chicken and gently return to a boil, stirring frequently.",
+            "3. Simmer for about 15 minutes without a lid, allowing the tomatoes to reduce into a thick sauce. Stir occasionally and if needed, add more water during cooking.",
+            "4. Once sauce is thick, add the sour cream and mix well; set aside.",
+            "**Image Reference 1:**",
+            "**Image Reference 2:**",
+            "**Image Reference 3:**"
+        ],
         "notes": [],
         "tags": [
             "Entree"
@@ -2955,14 +3104,14 @@ const RECIPES_DB = [
         "title": "Chicken Zucchini and Corn Burgers Recipe",
         "description": "",
         "ingredients": [
-            "For yogurt sauce:",
+            "**For yogurt sauce:**",
             "1 cup Greek yogurt",
             "2 teaspoons grated lemon zest",
             "2 tablespoons fresh lemon juice",
             "2 garlic cloves minced",
             "1 tablespoon olive oil",
             "\u00bd teaspoon salt",
-            "For the burgers:",
+            "**For the burgers:**",
             "1 lb. ground chicken",
             "\u00bd cup panko bread crumbs",
             "1 medium zucchini coarsely chopped",
@@ -2977,7 +3126,7 @@ const RECIPES_DB = [
             "\u00bd teaspoon freshly ground black pepper",
             "2 tablespoons chopped cilantro",
             "3-4 tablespoons olive oil for searing",
-            "For the Tomato-Cucumber Relish:",
+            "**For the Tomato-Cucumber Relish:**",
             "1 pint cherry or grape tomatoes quartered",
             "\u2153 medium seedless English cucumber finely diced",
             "2 green onions finely sliced",
@@ -3013,14 +3162,14 @@ const RECIPES_DB = [
         "title": "Chickpea Salad Recipe",
         "description": "This Chickpea Salad Recipe is fresh, filling, and tossed with a lemon dressing you\u2019ll want to use on everything.\nPrep Time 25 minutes\nCook Time 25 minutes\nTotal Time 50 minutes\nCourse: Dinner, Salad, VegetarianCuisine: AmericanKeyword: chickpea salad, chickpea salad recipeServings: 4 servings Author: Chelsea LordsCost: $11.06\nEquipment\nSheet pan (15\" x 10\") lined\nADVERTISING",
         "ingredients": [
-            "Chickpeas",
+            "**Chickpeas**",
             "1 can (15-ounces) chickpeas rinsed, drained, and dried",
             "1 tablespoon olive oil",
             "1/2 teaspoon ground cumin",
             "1/2 teaspoon ground chili powder",
             "1/4 teaspoon cayenne pepper optional",
             "1/4 teaspoon salt",
-            "Salad",
+            "**Salad**",
             "1 cup pearled couscous see note 1",
             "1-1/2 cups chopped cucumber",
             "1-1/2 cups halved cherry tomatoes",
@@ -3028,7 +3177,7 @@ const RECIPES_DB = [
             "1/4 cup finely chopped flat-leaf parsley",
             "1/2 cup jarred roasted red bell pepper diced, optional",
             "Crumbled feta cheese optional",
-            "Dressing (see note 2)",
+            "**Dressing (see note 2)**",
             "1/4 cup red wine vinegar",
             "2 tablespoons Dijon-style mustard",
             "1 teaspoon dried oregano",
@@ -3056,9 +3205,18 @@ const RECIPES_DB = [
     {
         "id": "chickpea_salad",
         "title": "Chickpea Salad",
-        "description": "Another delicious and colorful salad you can make in few minutes!\nA can of washed and filtered chickpeas.\n4-5 tablespoons canned corn.\n1/4 finely chopped red onion.\n1/4 chopped red bell pepper\nA handful of finely chopped parsley\nSeasoning: salt, oil, lemon.\nMix everything and serve!\ud83d\udc95",
-        "ingredients": [],
-        "directions": [],
+        "description": "Another delicious and colorful salad you can make in few minutes!",
+        "ingredients": [
+            "A can of washed and filtered chickpeas.",
+            "4-5 tablespoons canned corn.",
+            "1/4 finely chopped red onion.",
+            "1/4 chopped red bell pepper",
+            "A handful of finely chopped parsley",
+            "Seasoning: salt, oil, lemon."
+        ],
+        "directions": [
+            "Mix everything and serve"
+        ],
         "notes": [],
         "tags": [
             "Salad"
@@ -3070,8 +3228,8 @@ const RECIPES_DB = [
     },
     {
         "id": "chickpea_veggie_burgers",
-        "title": "CHICKPEA VEGGIE BURGERS",
-        "description": "PREP TIME 10 mins\nCOOK TIME 10 mins\nTOTAL TIME 20 mins\nThese easy to make veggie burgers are bursting with flavour and make an excellent alternative to store-bought versions. Try them on the BBQ for a delicious meal perfect for a summer afternoon.\nAuthor: Deryn Macey\nRecipe type: Entree\nCuisine: Vegan\nServes: 6-8",
+        "title": "Chickpea Veggie Burgers",
+        "description": "PREP TIME 10 mins\nCOOK TIME 10 mins\nTOTAL TIME 20 mins\nThese easy to make veggie burgers are bursting with flavour and make an excellent alternative to store-bought versions. Try them on the BBQ for a delicious meal perfect for a summer afternoon.\nAuthor: Deryn Macey",
         "ingredients": [
             "1 can chickpeas, drained, well-rinsed,and mashed",
             "\u00bd red onion, finely diced",
@@ -3088,6 +3246,9 @@ const RECIPES_DB = [
             "2 tbsp olive oil"
         ],
         "directions": [
+            "**Recipe type: Entree**",
+            "Cuisine: Vegan",
+            "Serves: 6-8",
             "After draining and rinsing the chickpeas, place them in a bowl and mash them with a fork.",
             "Add all the other ingredients to the bowl.",
             "Use your hands to mix very well.",
@@ -3173,7 +3334,7 @@ const RECIPES_DB = [
         "ingredients": [
             "4 bananas (or more), sliced",
             "Raspberries",
-            "For the Chocolate Dip:",
+            "**For the Chocolate Dip:**",
             "1 (32 ounce) container Low-Fat Vanilla Yogurt",
             "1 (8 ounce) container Lite Cool Whip",
             "1 (3.4 ounce) box dry instant chocolate pudding mix",
@@ -3198,9 +3359,17 @@ const RECIPES_DB = [
     {
         "id": "christmas_margaritas",
         "title": "Christmas Margaritas",
-        "description": "6 oz Tequila\n4 oz Orange liquor\n12 oz pomegranate juice\n3 oz lime juice\n2 oz orange juice\nYield 4 use blender for frozen. That would mean you need to add ice \ud83e\udd26\u200d\u2640\ufe0f",
-        "ingredients": [],
-        "directions": [],
+        "description": "Yield 4",
+        "ingredients": [
+            "6 oz Tequila",
+            "4 oz Orange liquor",
+            "12 oz pomegranate juice",
+            "3 oz lime juice",
+            "2 oz orange juice"
+        ],
+        "directions": [
+            "Use blender for frozen. That would mean you need to add ice."
+        ],
         "notes": [],
         "tags": [
             "Drink"
@@ -3217,18 +3386,18 @@ const RECIPES_DB = [
         "title": "Chuy's Creamy Jalapeno Dip Copycat Recipe",
         "description": "https://copykat.com/wprm_print/23756\nWhip up copycat Chuy's jalapeno dip at home in just 5 minutes! Silky, tangy, and with the perfect kick of heat, this versatile sauce is sure to become your new Tex-Mex essential.\nCourseAppetizer\nCuisineMexican\nKeywordDip Recipe\nPrep Time5minutes\u00a0minutes\nTotal Time5minutes\u00a0minutes\nServings12\nCalories186kcal\nAuthorStephanie Manley",
         "ingredients": [
-            "\u25a21\u00a0cup\u00a0sour cream",
-            "\u25a21\u00a0cup\u00a0mayonnaise",
-            "\u25a21\u00a0tablespoon\u00a0cilantro leaves",
-            "\u25a25\u00a0tablespoons\u00a0dry ranch dressing mix",
-            "\u25a22\u00a0tablespoons\u00a0tomatillo salsa\u00a0such as La Coste\u00f1a Green Salsa",
-            "\u25a21/2\u00a0cup\u00a0pickled jalape\u00f1o peppers",
-            "\u25a22\u00a0tablespoons\u00a0fresh lime juice"
+            "1\u00a0cup\u00a0sour cream",
+            "1\u00a0cup\u00a0mayonnaise",
+            "1\u00a0tablespoon\u00a0cilantro leaves",
+            "5\u00a0tablespoons\u00a0dry ranch dressing mix",
+            "2\u00a0tablespoons\u00a0tomatillo salsa\u00a0such as La Coste\u00f1a Green Salsa",
+            "1/2\u00a0cup\u00a0pickled jalape\u00f1o peppers",
+            "2\u00a0tablespoons\u00a0fresh lime juice"
         ],
         "directions": [
             "Place all the ingredients into a blender and pulse 7 or 8 times.",
             "Transfer to a bowl and serve.",
-            "Recipe Tips",
+            "**Recipe Tips**",
             "For the canned tomatillo salsa, I recommend canned La Costena Green Medium Mexican Salsa. The recipe can be made without the green salsa, and it will still be very close in flavor."
         ],
         "notes": [
@@ -3315,7 +3484,7 @@ const RECIPES_DB = [
         "title": "Cinna-bun Cake in the oven",
         "description": "",
         "ingredients": [
-            "Base:",
+            "**Base:**",
             "3 cups flour",
             "1/4 teaspoon salt",
             "1 cup sugar",
@@ -3324,12 +3493,12 @@ const RECIPES_DB = [
             "2 eggs",
             "2 teaspoons vanilla",
             "1/2 cup butter, melted",
-            "Topping:",
+            "**Topping:**",
             "1 cup butter, softened",
             "1 cup brown sugar",
             "2 tablespoons flour",
             "1 tablespoon cinnamon",
-            "Glaze:",
+            "**Glaze:**",
             "2 cups powdered sugar",
             "5 tablespoons milk",
             "1 teaspoon vanilla"
@@ -3361,14 +3530,16 @@ const RECIPES_DB = [
             "All-purpose flour\u00a0for the bread dough will yield a softer, more tender dough than if you were using a bread flour. Bread flours have a higher protein content and will therefore produce a chewier bread. Stick with all-purpose flour for a softer, more pastry-like bread.",
             "Potato flakes\u00a0help to soften the dough as well as extend its shelf life. Yes, these potato flakes are simply the boxed, instant mashed potato flakes you get from the grocery store. I tested this recipe both with and without the potato flakes and noticed that with them, the bread stayed fresher an extra day than the one I made without the potato flakes. If you\u2019d rather leave these out, just decrease the amount of milk you use (check the recipe notes for measurements) \u2013 you\u2019ll still get a yummy bread either way!",
             "Yeast: The yeast in this recipe can be either instant (rapid rise) yeast or active dry yeast. In the recipe and video, I show how to incorporate active dry yeast by allowing it to foam up before adding the rest of the ingredients. If you are using an instant yeast, you can skip this step and simply add the yeast with all of the ingredients. To read more about how these two yeasts work, you can read my article,\u00a0Active Dry Yeast vs. Instant Yeast. If you are using a natural yeast (sourdough starter), you can swap it out for the commercial yeast. About 100 grams of sourdough starter is equal to 5 to 7 grams of instant/dried yeast. When you swap these out, you must also decrease the correct amount of water/liquid and flour from your recipe that you have now added from your sourdough starter. Also, remember rise times will increase as well when using a sourdough starter. Go\u00a0HERE\u00a0to learn how to create a starter from scratch.",
-            "The filling:\u00a0All of these ingredients work together for the most perfectly apple spiced flavor. The sugars create a sweet, caramel flavor. Lots of cinnamon and a touch of nutmeg create those cozy Fall flavors we love! I use fresh apples in the filling \u2013 using apples fresh creates a slight crunch. Add in a chopped nut \u2013 I love pecans but walnuts would be yummy too. If you\u2019re not a nut fan, leave these out and it will still be delicious!",
-            "The steps for making Cinnamon Apple Star Bread",
+            "**The filling:\u00a0All of these ingredients work together for the most perfectly apple spiced flavor. The sugars create a sweet, caramel flavor. Lots of cinnamon and a touch of nutmeg create those cozy Fall flavors we love! I use fresh apples in the filling \u2013 using apples fresh creates a slight crunch. Add in a chopped nut \u2013 I love pecans but walnuts would be yummy too. If you\u2019re not a nut fan, leave these out and it will still be delicious!**",
+            "**The steps for making Cinnamon Apple Star Bread**",
             "You\u2019ll love how easy this bread dough is to put together \u2013 it\u2019s one of those recipes that you can just put all of the ingredients into the mixer and simply turn it on and walk away. It turns out great every time!",
             "I suggest using a\u00a0food scale\u00a0to weigh your ingredients \u2013 that takes so much of the guess work out of making this recipe!",
             "Make the dough: Simply add all of the dough ingredients to the bowl of your stand mixer. Turn it on and let it mix and then knead for 6 minutes. By the time the gluten develops the dough, it should be pulling away from the sides of the bowl. Place your dough in a greased bowl, cover it and let it rise until doubled in size. Depending on how warm your kitchen is, this could take anywhere from 60-90 minutes. *If you want to make this ahead of time, refrigerate the dough after mixing and let it slow proof in the refrigerator overnight \u2013 roll it up and bake the next morning.",
             "While your dough is rising, you can get your filling ready. In one bowl, combine the sugars, cinnamon and nutmeg. Peel, core and slice the apples. Then, cut the apple slices in half or thirds \u2013 these thinly sliced apple chunks make it easier to twist the dough later when you shape your star bread. After your dough has risen, divide it into three equal pieces. Each piece should weigh about 10 ounces.",
             "With a rolling pin, roll out your first piece of dough to a circle about 11-inches in diameter.\u00a0Silicone Rolling Mats\u00a0work so well for this process \u2013 they have circles with measurements to guide you as you roll out. They also help keep your dough from sticking to your work surface, allowing you to use less flour when rolling out.",
-            "Transferring the dough to a piece of parchment can be tricky. I use the same technique for transferring\u00a0pie crusts\u00a0to a pie plate to do this. Flour the dough and fold it in half. Flour it again and fold it in half again \u2013 you\u2019ll end up with a triangular shaped dough that has been folded into quarters. Now you can easily pick it up and transfer it to a piece of parchment. Unfold it and if it has shrunk a bit, you can slide your parchment over the top of your rolling mat and roll the dough back out to 11 inches.",
+            "Transferring the dough to a piece of parchment can be tricky. I use the same technique for transferring\u00a0pie crusts\u00a0to a pie plate to do this. Flour the dough and fold it in half. Flour it again and fold it in half again \u2013 you\u2019ll end up with a triangular shaped dough that has been folded into quarters. Now you can easily pick it up and transfer it to a piece of parchment. Unfold it and if it has shrunk a bit, you can slide your parchment over the top of your rolling mat and roll the dough back out to 11 inches."
+        ],
+        "directions": [
             "Spread on melted butter, sprinkle on half of the cinnamon sugar filling, apples and pecans, leaving a one-inch border. Slide that parchment off to the side.",
             "With your second piece of dough, repeat steps 3-4. When you place the rolled out dough on top of the first layer, gently stretch out the edges, lining them up together. Press the edges together to keep them in place. Add the remainder of the melted butter, cinnamon sugar, apples and pecans. Slide the parchment to the side.",
             "Roll out the third piece of dough and transfer it to the top of the second layer. Again, stretch out the edges and line them all up together. Press the edges to seal all three layers together.",
@@ -3380,10 +3551,9 @@ const RECIPES_DB = [
             "Enjoy the yummiest Cinnamon Apple Bread ever!",
             "Step 1Step 2Step 3Step 5Step 8Step 9Drizzle with Maple IcingSlice and enjoy!",
             "Look at that beautiful bread! It\u2019s so soft and full of flavors you\u2019ll love! It\u2019s best enjoyed the same day, but will stay good to enjoy for up to two days (if it lasts that long!).",
-            "My number one tip for making this bread",
+            "**My number one tip for making this bread**",
             "This is such a fun bread to make! I know you\u2019ll love creating it! The most important tip I can suggest for a successful bake is to try the line up the edges of the layers the best you can. This will give you a more sculptured and precise look as you twist up the pieces of dough."
         ],
-        "directions": [],
         "notes": [],
         "tags": [
             "Bread"
@@ -3423,20 +3593,20 @@ const RECIPES_DB = [
             "Preheat oven to 350\u00b0F (175\u00b0C) .",
             "Line a baking sheet with parchment paper or silicone mat for easy removal.",
             "Step 2: Mix Wet Ingredients",
-            "In a large bowl, combine:",
+            "**In a large bowl, combine:**",
             "Mashed sweet potato",
             "Almond butter",
             "Maple syrup",
             "Vanilla extract",
             "Stir until smooth and well blended.",
             "Step 3: Add Dry Ingredients",
-            "To the wet mixture, add:",
+            "**To the wet mixture, add:**",
             "Rolled oats",
             "Cinnamon",
             "Salt",
             "Stir until fully combined\u2014the mixture will be thick and slightly sticky.",
             "Step 4: Fold in Mix-ins",
-            "Gently fold in:",
+            "**Gently fold in:**",
             "Raisins",
             "Chopped walnuts",
             "This adds texture and contrast while keeping everything wholesome.",
@@ -3465,13 +3635,13 @@ const RECIPES_DB = [
         "description": "When you need comfort food for a crowd, look no further than this classic chicken pot pie. Layers of diced veggies and shredded chicken are topped with a delicious homemade crust to ensure that each forkful delivers full-on flavor.\nServes: 8\nCost per Serving: $2.25",
         "ingredients": [
             "+\u00a0Add To Shopping List",
-            "Pastry:",
+            "**Pastry:**",
             "3 cups all-purpose flour $",
             "1 teaspoon salt",
             "1/2 teaspoon pepper",
             "8 tablespoons unsalted butter, chilled, cut into pieces",
             "10 tablespoon solid-stick vegetable shortening, chilled, cut into pieces $",
-            "Filling:",
+            "**Filling:**",
             "2 pounds boneless, skinless chicken breast, trimmed of excess fat $",
             "4 cups low-sodium chicken broth",
             "6 tablespoons unsalted butter",
@@ -3593,8 +3763,9 @@ const RECIPES_DB = [
     {
         "id": "coconut_crusted_tofu_with_peach_lemongrass_salsa",
         "title": "Coconut-Crusted Tofu with Peach-Lemongrass Salsa",
-        "description": "http://www.eatingwell.com/recipes/coconut_crusted_tofu_with_peach_lemongrass_salsa.html\nFrom EatingWell:\u00a0 June/July 2006\nThe crunchy-crisp tofu and our spicy-sweet salsa are inspired by that restaurant-chain classic, deep-fried coconut shrimp. Make it a meal: Stir fresh cilantro into basmati rice and serve alongside. Try sliced bananas drizzled with \"lite\" coconut milk for dessert.\n4 servings, 2 tofu steaks & 2/3 cup salsa each | Active Time: 35 minutes | Total Time: 35 minutes",
+        "description": "http://www.eatingwell.com/recipes/coconut_crusted_tofu_with_peach_lemongrass_salsa.html\nFrom EatingWell:\u00a0 June/July 2006\nThe crunchy-crisp tofu and our spicy-sweet salsa are inspired by that restaurant-chain classic, deep-fried coconut shrimp. Make it a meal: Stir fresh cilantro into basmati rice and serve alongside. Try sliced bananas drizzled with \"lite\" coconut milk for dessert.",
         "ingredients": [
+            "4 servings, 2 tofu steaks & 2/3 cup salsa each | Active Time: 35 minutes | Total Time: 35 minutes",
             "3 medium peaches, peeled, pitted and diced",
             "1-2 jalapenos, preferably red, seeded and minced",
             "1 2-inch piece fresh lemongrass, minced, or 1 teaspoon dried (see Note)",
@@ -3619,7 +3790,7 @@ const RECIPES_DB = [
             "Per serving : 251 Calories; 16 g Fat; 4 g Sat; 9 g Mono; 0 mg Cholesterol; 19 g Carbohydrates; 11 g Protein; 3 g Fiber; 491 mg Sodium; 313 mg Potassium",
             "1 Carbohydrate Serving",
             "Exchanges: 1 other carbohydrate, 1 medium-fat meat, 2 fat",
-            "Tips & Notes",
+            "**Tips & Notes**",
             "Note: Lemongrass, essential to Thai and Vietnamese cooking, is an edible grass with bright lemon fragrance and taste. Find it fresh in the produce section of large supermarkets, at Asian food stores and chopped and dried in specialty spice sections. Purchase from Penzeys Spices, (800) 741-7787, www.penzeys.com."
         ],
         "tags": [
@@ -3636,9 +3807,26 @@ const RECIPES_DB = [
     {
         "id": "collard_greens_dip_with_bacon",
         "title": "COLLARD GREENS DIP WITH BACON",
-        "description": "2 tablespoon olive oil\n2 bunches fresh collard greens, rinsed and chopped\n4 bacon slices, chopped\n1/2 yellow onion, chopped\n3 garlic cloves, chopped\n1/4 cup dry white wine\n12 ounces cream cheese, cut into pieces\n1 (8-oz.) container plain yogurt\n1/2 teaspoon red pepper flakes\nKosher salt and freshly ground black pepper\n3/4 cup freshly grated Parmesan, divided\nHeat 1 tbsp olive oil in Dutch oven at medium heat. Add collard greens and cover, allowing to wilt for about 10 minutes, stirring as necessary. Remove to a\u00a0separate\u00a0bowl.\nCook bacon in microwave over paper towels. Drain.\nSaut\u00e9 onions in remaining olive oil until tender, about 4 \u2013 5 minutes. Add garlic and saute for another 30 seconds. Pour in wine and cook 1 to 2 minutes, stirring to loosen particles from bottom of Dutch oven. Stir in collard greens, cream cheese, plain yogurt, red pepper flakes, and 1/2 cup Parmesan cheese. Season liberally with salt and pepper. Cook, stirring often, 6 to 8 minutes or until cheese is melted and mixture is thoroughly heated. Transfer to a lightly greased 1 1/2-qt. baking dish (I used a sour dough bread bowl). Sprinkle evenly with lremaining 1/4 cup Parmesan cheese.\nTo serve: \u00a0Pour into cups while hot, or into a bread bowl, and broil 4 to 5 minutes or until cheese is lightly browned. Sprinkle evenly with bacon. Serve with pita bread or tortilla chips.",
-        "ingredients": [],
-        "directions": [],
+        "description": "",
+        "ingredients": [
+            "2 tablespoon olive oil",
+            "2 bunches fresh collard greens, rinsed and chopped",
+            "4 bacon slices, chopped",
+            "1/2 yellow onion, chopped",
+            "3 garlic cloves, chopped",
+            "1/4 cup dry white wine",
+            "12 ounces cream cheese, cut into pieces",
+            "1 (8-oz.) container plain yogurt",
+            "1/2 teaspoon red pepper flakes",
+            "Kosher salt and freshly ground black pepper",
+            "3/4 cup freshly grated Parmesan, divided"
+        ],
+        "directions": [
+            "Heat 1 tbsp olive oil in Dutch oven at medium heat. Add collard greens and cover, allowing to wilt for about 10 minutes, stirring as necessary. Remove to a\u00a0separate\u00a0bowl.",
+            "Cook bacon in microwave over paper towels. Drain.",
+            "Saut\u00e9 onions in remaining olive oil until tender, about 4 \u2013 5 minutes. Add garlic and saute for another 30 seconds. Pour in wine and cook 1 to 2 minutes, stirring to loosen particles from bottom of Dutch oven. Stir in collard greens, cream cheese, plain yogurt, red pepper flakes, and 1/2 cup Parmesan cheese. Season liberally with salt and pepper. Cook, stirring often, 6 to 8 minutes or until cheese is melted and mixture is thoroughly heated. Transfer to a lightly greased 1 1/2-qt. baking dish (I used a sour dough bread bowl). Sprinkle evenly with lremaining 1/4 cup Parmesan cheese.",
+            "To serve: \u00a0Pour into cups while hot, or into a bread bowl, and broil 4 to 5 minutes or until cheese is lightly browned. Sprinkle evenly with bacon. Serve with pita bread or tortilla chips."
+        ],
         "notes": [],
         "tags": [
             "Appetizer"
@@ -3658,7 +3846,7 @@ const RECIPES_DB = [
         "ingredients": [
             "4 bone-in, skin-on chicken thighs",
             "4 chicken drumsticks",
-            "Salt and freshly ground black pepper, to taste",
+            "**Salt and freshly ground black pepper, to taste**",
             "2 \u00bd tablespoons vegetable oil",
             "4 ounces lardons or slab bacon, diced",
             "1 large yellow onion, chopped",
@@ -3673,14 +3861,14 @@ const RECIPES_DB = [
             "4 tablespoons unsalted butter",
             "8 ounces peeled pearl onions, (see notes)",
             "8 ounces cremini mushrooms, sliced",
-            "Beurre mani\u00e9: 1 tablespoon flour and 1 tablespoon softened butter, optional",
+            "**Beurre mani\u00e9: 1 tablespoon flour and 1 tablespoon softened butter, optional**",
             "\u2153 cup chopped parsley",
-            "EQUIPMENT",
-            "Dutch Oven",
-            "Saut\u00e9 Pan"
+            "**EQUIPMENT**",
+            "**Dutch Oven**",
+            "**Saut\u00e9 Pan**"
         ],
         "directions": [
-            "Preheat oven to 350\u00baF.",
+            "**Preheat oven to 350\u00baF.**",
             "Pat dry the chicken pieces with a paper towel and season generously with salt and pepper. Reserve.",
             "In a large Dutch oven or heavy-bottomed pot, heat 1 teaspoon vegetable oil, over medium-high heat. Add the lardons or bacon and cook until golden, about 6-8 minutes. Remove the lardons with a slotted spoon and reserve, leaving the drippings in the pot.",
             "Add more oil if needed, then add the chicken, without overcrowding the pot. Depending on the size of your pot, you might need to work in batches. Brown the chicken on all sides until golden brown, about 8-10 minutes. Remove the chicken to the plate with the lardons and reserve.",
@@ -3773,17 +3961,17 @@ const RECIPES_DB = [
             "1/2x",
             "1x",
             "2x",
-            "Couscous Sweet Potato Black Bean Salad",
+            "**Couscous Sweet Potato Black Bean Salad**",
             "3/4 cup couscous",
             "1 cup water",
             "2 sweet potatoes, peeled and diced (about 3 cups)",
-            "one 14-ounce can black beans, drained and rinsed",
+            "**one 14-ounce can black beans, drained and rinsed**",
             "2 cups baby spinach, cut into small pieces",
             "4 ounces crumbled feta cheese",
-            "half a red onion, thinly sliced",
+            "**half a red onion, thinly sliced**",
             "1/2 cup chopped pistachios (optional)",
-            "black pepper to taste",
-            "Lime Basil Vinaigrette",
+            "**black pepper to taste**",
+            "**Lime Basil Vinaigrette**",
             "1 bunch of fresh basil (1/2 cup packed)",
             "1/2 cup olive oil",
             "juice of 1-2 limes (to taste)",
@@ -3853,13 +4041,13 @@ const RECIPES_DB = [
         ],
         "directions": [
             "Combine cranberries, sugar, water and cinnamon stick in a saucepan. Bring to a boil, reduce heat and let simmer 10 minutes. Cool completely (sauce will thicken upon cooling).",
-            "Add 1 1/2 cups cooled cranberry mixture from step 1 with remaining ingredients and stir well. Let sit 4 hours or overnight."
+            "Add 1 1/2 cups cooled cranberry mixture from step 1 with remaining ingredients and stir well. Let sit 4 hours or overnight.",
+            "**Recipe Permalink: https://www.spendwithpennies.com/cranberry-millionaire-salad/**"
         ],
         "notes": [
             "**NUTRITION INFORMATION Yield: 10 servings, Serving Size: 1/2 cup**",
             "Amount Per Serving: Calories: 347 Calories",
-            "\u00a9Holly Nilsson for SpendWithPennies.com. Content and photographs are copyright protected. Sharing of this recipe is both encouraged and appreciated. Copying and/or pasting full recipes to any social media is strictly prohibited. Please view my photo use policy here.",
-            "Recipe Permalink: https://www.spendwithpennies.com/cranberry-millionaire-salad/"
+            "\u00a9Holly Nilsson for SpendWithPennies.com. Content and photographs are copyright protected. Sharing of this recipe is both encouraged and appreciated. Copying and/or pasting full recipes to any social media is strictly prohibited. Please view my photo use policy here."
         ],
         "tags": [
             "Dessert"
@@ -3877,7 +4065,6 @@ const RECIPES_DB = [
         "title": "Cranberry Orange Pecan Bread Recipe",
         "description": "",
         "ingredients": [
-            "**Ingredients :**",
             "1/2 cup pecans, chopped coarse",
             "1 tablespoon grated zest from 1 large orange",
             "1/3 cup freshly squeezed orange juice",
@@ -3892,7 +4079,6 @@ const RECIPES_DB = [
             "1 1/2 cups cranberries chopped coarsely"
         ],
         "directions": [
-            "**Directions :**",
             "Preheat the oven to 375F 180C degrees.",
             "Grease bottom and sides of a 9 x 5-inch loaf pan; dust with flour, tapping out excess.",
             "Spread the pecans onto a baking sheet and place in preheated oven 5-7 minutes until fragrant. Shake the baking sheet halfway through baking so the nuts will toast evenly. Remove nuts from oven and set aside to cool completely.",
@@ -3911,10 +4097,29 @@ const RECIPES_DB = [
     },
     {
         "id": "cranberry_orange_scones",
-        "title": "Cranberry orange scones",
-        "description": "2 cups all-purpose flour\n\u00bd cup granulated sugar\n1 tablespoon baking powder\n\u00bd teaspoon baking soda\n\u00bd teaspoon salt\n\u00bd cup unsalted butter, cold and cubed\n1 cup fresh cranberries (or dried if you prefer)\nZest and juice of 1 large orange\n\u00bd cup buttermilk (or milk with a splash of vinegar)\n1 egg (optional, for egg wash)\nHaving these ingredients ready will streamline your baking experience. Make sure to preheat your oven to 400\u00b0F (200\u00b0C) so it\u2019s hot and ready for those scones!\nMix the dry ingredients for the perfect base\nIn a large mixing bowl, whisk together the dry ingredients: all-purpose flour, sugar, baking powder, baking soda, and salt. This step is crucial as it helps to evenly distribute the leavening agents, ensuring your scones rise beautifully. It\u2019s also worth noting that this is where you can introduce a bit of creativity. For instance, you could substitute a portion of the flour with whole wheat flour for added nutrition.\nIncorporate the cold butter for flaky texture\nNext, it\u2019s time to add the cold butter. Cut the butter into small cubes and add it to the dry mixture. With your fingers or a pastry cutter, mix until the mixture resembles coarse crumbs. Why is this step important? The cold butter creates those beloved flaky layers. You can even try using a food processor for a quick and efficient method, though I personally enjoy the tactile experience of doing it by hand.\nCombine wet and dry ingredients carefully\nIn a separate bowl, mix your wet ingredients\u2014the orange zest, juice, and buttermilk. Gently fold the wet ingredients into the dry mixture until just combined. Overmixing is the enemy of scones, as it can lead to a tough texture. Ideally, the dough will be slightly sticky but cohesive, reminiscent of a thick pancake batter. For an extra burst of flavor, consider folding in some chopped nuts or adding chocolate chips!\nShape and cut the scones\nNow comes the fun part: shaping your Cranberry Orange Scones. Lightly flour your surface and gently turn the dough out onto it. Pat the dough into a circle about 1 inch thick. If you want traditional triangle scones, cut the circle into wedges. Alternatively, you can use a biscuit cutter for perfectly round scones. This is also the stage where you can brush the tops with an egg wash for an extra glossy finish.\nBake to golden perfection\nPlace your scones on a baking sheet lined with parchment paper and pop them into the preheated oven. Bake for about 15-20 minutes, or until they are golden brown and baked through. The aroma wafting through your kitchen will be irresistible! If you want to ensure they are cooked through, you can use a toothpick to check for doneness; it should come out clean.\nCommon Pitfalls to Avoid\nWhile baking these lovely scones, there are a few common traps to watch for. First, be careful not to add too much liquid. A wet dough can hinder flaky layers\u2014aim for a soft but manageable consistency. Second, avoid baking for too long; they should be golden but not overly browned. Lastly, don\u2019t forget to chill the dough before baking. This small step can make a huge difference in texture!",
-        "ingredients": [],
-        "directions": [],
+        "title": "Cranberry Orange Scones",
+        "description": "",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "\u00bd cup granulated sugar",
+            "1 tablespoon baking powder",
+            "\u00bd teaspoon baking soda",
+            "\u00bd teaspoon salt",
+            "\u00bd cup unsalted butter, cold and cubed",
+            "1 cup fresh cranberries (or dried if you prefer)",
+            "Zest and juice of 1 large orange",
+            "\u00bd cup buttermilk (or milk with a splash of vinegar)",
+            "1 egg (optional, for egg wash)"
+        ],
+        "directions": [
+            "Having these ingredients ready will streamline your baking experience. Make sure to preheat your oven to 400\u00b0F (200\u00b0C) so it\u2019s hot and ready for those scones!",
+            "Mix the dry ingredients for the perfect base: In a large mixing bowl, whisk together the dry ingredients: all-purpose flour, sugar, baking powder, baking soda, and salt. This step is crucial as it helps to evenly distribute the leavening agents, ensuring your scones rise beautifully. It\u2019s also worth noting that this is where you can introduce a bit of creativity. For instance, you could substitute a portion of the flour with whole wheat flour for added nutrition.",
+            "Incorporate the cold butter for flaky texture: Next, it\u2019s time to add the cold butter. Cut the butter into small cubes and add it to the dry mixture. With your fingers or a pastry cutter, mix until the mixture resembles coarse crumbs. Why is this step important? The cold butter creates those beloved flaky layers. You can even try using a food processor for a quick and efficient method, though I personally enjoy the tactile experience of doing it by hand.",
+            "Combine wet and dry ingredients carefully: In a separate bowl, mix your wet ingredients\u2014the orange zest, juice, and buttermilk. Gently fold the wet ingredients into the dry mixture until just combined. Overmixing is the enemy of scones, as it can lead to a tough texture. Ideally, the dough will be slightly sticky but cohesive, reminiscent of a thick pancake batter. For an extra burst of flavor, consider folding in some chopped nuts or adding chocolate chips!",
+            "Shape and cut the scones: Now comes the fun part: shaping your Cranberry Orange Scones. Lightly flour your surface and gently turn the dough out onto it. Pat the dough into a circle about 1 inch thick. If you want traditional triangle scones, cut the circle into wedges. Alternatively, you can use a biscuit cutter for perfectly round scones. This is also the stage where you can brush the tops with an egg wash for an extra glossy finish.",
+            "Bake to golden perfection: Place your scones on a baking sheet lined with parchment paper and pop them into the preheated oven. Bake for about 15-20 minutes, or until they are golden brown and baked through. The aroma wafting through your kitchen will be irresistible! If you want to ensure they are cooked through, you can use a toothpick to check for doneness; it should come out clean.",
+            "Common Pitfalls to Avoid: While baking these lovely scones, there are a few common traps to watch for. First, be careful not to add too much liquid. A wet dough can hinder flaky layers\u2014aim for a soft but manageable consistency. Second, avoid baking for too long; they should be golden but not overly browned. Lastly, don\u2019t forget to chill the dough before baking. This small step can make a huge difference in texture!"
+        ],
         "notes": [],
         "tags": [
             "Bread"
@@ -3964,7 +4169,7 @@ const RECIPES_DB = [
     {
         "id": "cranberry_pistachio_biscotti",
         "title": "Cranberry Pistachio Biscotti",
-        "description": "Prep 25 m\nCook 45 m\nReady In 1 h 20 m\nRecipe By:Gerry Meyer\n\"The red and green make a great Christmas cookie. Have used other nuts instead of pistachios with success. If your pistachios are salted, omit the 1/4 teaspoon salt from the recipe.\"",
+        "description": "Prep 25 m\nCook 45 m\nReady In 1 h 20 m",
         "ingredients": [
             "1/4 cup light olive oil",
             "3/4 cup white sugar",
@@ -3978,6 +4183,8 @@ const RECIPES_DB = [
             "1 1/2 cups pistachio nuts"
         ],
         "directions": [
+            "**Recipe By:Gerry Meyer**",
+            "\"The red and green make a great Christmas cookie. Have used other nuts instead of pistachios with success. If your pistachios are salted, omit the 1/4 teaspoon salt from the recipe.\"",
             "Preheat the oven to 300 degrees F (150 degrees C). Hi Celia FF",
             "In a large bowl, mix together oil and sugar until well blended. Mix in the vanilla and almond extracts, then beat in the eggs. Combine flour, salt, and baking powder; gradually stir into egg mixture. Mix in cranberries and nuts by hand.",
             "Divide dough in half. Form two logs (12x2 inches) on a cookie sheet that has been lined with parchment paper. Dough may be sticky; wet hands with cool water to handle dough more easily.",
@@ -4007,8 +4214,10 @@ const RECIPES_DB = [
             "\u00bd tsp vanilla extract",
             "\u00bd cup dried cranberries, chopped",
             "\u00bd cup pistachios, chopped",
-            "\ud83d\udd25 Instructions:",
-            "Prepare the Dough",
+            "**\ud83d\udd25 Instructions:**",
+            "Prepare the Dough"
+        ],
+        "directions": [
             "In a bowl, beat softened butter and powdered sugar until creamy.",
             "Mix in vanilla extract.",
             "Add flour and salt, stirring until a soft dough forms.",
@@ -4022,19 +4231,18 @@ const RECIPES_DB = [
             "Place on a baking sheet and bake for 12\u201315 minutes or until edges are lightly golden.",
             "Cool & Serve",
             "Let cookies cool on a wire rack before enjoying!",
-            "\u23f3 Recipe Details:",
+            "**\u23f3 Recipe Details:**",
             "Prep Time: 10 minutes",
             "Chill Time: 1 hour",
             "Bake Time: 15 minutes",
             "Total Time: 1 hour 25 minutes",
             "Servings: 20 cookies",
-            "\ud83d\udc96 Why You\u2019ll Love It:",
+            "**\ud83d\udc96 Why You\u2019ll Love It:**",
             "\u2714 Buttery, melt-in-your-mouth shortbread \ud83c\udf6a",
             "\u2714 Sweet, tart cranberries & crunchy pistachios \ud83c\udf3f",
             "\u2714 Perfect for holidays or gifting \ud83c\udf81",
             "A cookie you\u2019ll keep coming back for! \ud83d\ude0d\ud83c\udf7d\ufe0f"
         ],
-        "directions": [],
         "notes": [],
         "tags": [
             "Dessert"
@@ -4049,10 +4257,41 @@ const RECIPES_DB = [
     {
         "id": "creamy_cauliflower_enchiladas",
         "title": "Creamy Cauliflower Enchiladas",
-        "description": "",
-        "ingredients": [],
-        "directions": [],
-        "notes": [],
+        "description": "Cauliflower is one versatile veggie, and these enchiladas are here to prove it! You'll use it in two ways, rolling some roasted cauliflower into the enchilada filling and blending more into the zesty, creamy sauce. Top the enchiladas with cheese for extra richness (and a crave-worthy cheese pull), or skip it for a lighter vegan version. We love them both ways!",
+        "ingredients": [
+            "1 small head cauliflower",
+            "8 ounces cremini mushrooms, quartered",
+            "\u00bd medium white onion, cut into wedges",
+            "1 jalape\u00f1o pepper, stemmed and halved",
+            "2 unpeeled garlic cloves",
+            "1 cup water",
+            "\u00bd cup raw cashews",
+            "\u00bc cup extra-virgin olive oil, plus more for drizzling",
+            "2 tablespoons fresh lime juice, plus wedges for serving",
+            "1 teaspoon ground coriander",
+            "1 teaspoon ground cumin",
+            "1 teaspoon sea salt, plus more for sprinkling",
+            "\u00bd cup fresh cilantro",
+            "8 tortillas, warmed (I like a corn and flour blend)",
+            "\u00be cup grated Monterey Jack cheese (optional)",
+            "Desired toppings",
+            "Freshly ground black pepper"
+        ],
+        "directions": [
+            "1. Preheat the oven to 425\u00b0F. Line two baking sheets with parchment paper and brush a 9x13-inch baking dish with olive oil.",
+            "2. Chop the cauliflower florets and cores into small pieces and place on one of the baking sheets. Place the mushrooms, onion, jalape\u00f1o, and garlic cloves on the second baking sheet. Drizzle with olive oil and sprinkle with salt and pepper and roast for 20 to 25 minutes, or until the vegetables are golden brown and tender. When cool to the touch, chop the onions.",
+            "3. Measure 1\u00bd cups of the roasted cauliflower and place in a blender with half of the roasted onions, the jalape\u00f1o, peeled roasted garlic, water, cashews, olive oil, lime juice, coriander, cumin, salt, and several grinds of pepper. Blend until creamy. Add the cilantro and pulse to combine.",
+            "4. Spread \u00bd cup of the sauce at the bottom of the prepared baking dish. Fill each tortilla with a spoonful of the remaining sauce, the mushrooms, and the remaining cauliflower and onions. Roll and place each tortilla in the baking dish seam side down. Top with the remaining sauce and sprinkle with the cheese, if using. Bake, covered, for 20 minutes. If using the cheese, uncover and broil for 3 to 5 minutes, or until the cheese is browned and bubbling.",
+            "5. Remove from the oven and top with desired toppings. Serve with lime wedges."
+        ],
+        "notes": [
+            "**Notes**",
+            "SERVES 4",
+            "GLUTEN-FREE: Use gluten-free tortillas.",
+            "VEGAN: Skip the cheese.",
+            "Garnish tip: Top these enchiladas with fresh garnishes like cilantro, diced white onion, radishes, and thinly sliced jalapeno or serrano peppers for a pop of color and crunch!",
+            "Image Reference 1:"
+        ],
         "tags": [
             "Entree"
         ],
@@ -4068,8 +4307,9 @@ const RECIPES_DB = [
     {
         "id": "creamy_chicken_and_cauliflower",
         "title": "CREAMY CHICKEN AND CAULIFLOWER",
-        "description": "yield: 4 SERVINGS\nprep: 20 MINUTES\ncook: 35 MINUTES\ntotal: 55 MINUTES\nTender, juicy golden-brown chicken cooked in a heavenly cream sauce with roasted cauliflower + baby spinach!\n4.8 stars (21 ratings)",
+        "description": "yield: 4 SERVINGS\nprep: 20 MINUTES\ncook: 35 MINUTES\ntotal: 55 MINUTES\nTender, juicy golden-brown chicken cooked in a heavenly cream sauce with roasted cauliflower + baby spinach!",
         "ingredients": [
+            "4.8 stars (21 ratings)",
             "5 cups cauliflower florets",
             "2 tablespoons olive oil",
             "Kosher salt and freshly ground black pepper, to taste",
@@ -4100,7 +4340,7 @@ const RECIPES_DB = [
         ],
         "notes": [
             "**NOTES**",
-            "*Chicken broth can be used for white wine as a non-alcoholic substitute."
+            "Chicken broth can be used for white wine as a non-alcoholic substitute."
         ],
         "tags": [
             "Entree"
@@ -4117,8 +4357,25 @@ const RECIPES_DB = [
     {
         "id": "creamy_chicken_orzo_bake_tuscan_style",
         "title": "Creamy Chicken Orzo Bake Tuscan Style",
-        "description": "This creamy Chicken Orzo Bake is such an easy dinner recipe for busy weeknights! It's serious comfort food that the whole family will love. Just combine everything in an oven-safe dish and bake.\nPREP TIME\n10\nminutes\nmins\nCOOK TIME\n30\nminutes\nmins\nCOURSE\nDinner\nCUISINE\nMediterranean\nSERVINGS\n6 servings\nCALORIES\n400 kcal\nEQUIPMENT\n1 9x13 in baking dish",
+        "description": "This creamy Chicken Orzo Bake is such an easy dinner recipe for busy weeknights! It's serious comfort food that the whole family will love. Just combine everything in an oven-safe dish and bake.\nPREP TIME",
         "ingredients": [
+            "10",
+            "minutes",
+            "mins",
+            "COOK TIME",
+            "30",
+            "minutes",
+            "mins",
+            "COURSE",
+            "Dinner",
+            "CUISINE",
+            "Mediterranean",
+            "SERVINGS",
+            "6 servings",
+            "CALORIES",
+            "400 kcal",
+            "**EQUIPMENT**",
+            "1 9x13 in baking dish",
             "1 tablespoon extra virgin olive oil",
             "1 lb chicken breasts or chicken thighs chicken",
             "1 teaspoon kosher salt more to taste",
@@ -4238,11 +4495,35 @@ const RECIPES_DB = [
     },
     {
         "id": "creamy_orzo_asparagus_and_peas",
-        "title": "Creamy Orzo Asparagus and peas",
-        "description": "",
-        "ingredients": [],
-        "directions": [],
-        "notes": [],
+        "title": "Creamy Orzo with Asparagus & Peas",
+        "description": "This quick orzo pasta is a great back-pocket weeknight recipe. It has the same luxurious texture and rich flavor as risotto, but it cooks in a fraction of the time! You'll love how this fresh medley of spring veggies contrasts with the creamy base, but feel free to switch the asparagus based on the season. Grilled or saut\u00e9ed zucchini, blanched broccolini, or saut\u00e9ed broccoli rabe would be lovely here too.",
+        "ingredients": [
+            "\u00bc cup extra-virgin olive oil",
+            "2 leeks, white and light green parts, chopped (2 cups)",
+            "1 teaspoon sea salt",
+            "\u00bc cup dry white wine",
+            "2 garlic cloves, grated",
+            "16 ounces orzo pasta",
+            "3\u00bd to 4 cups vegetable broth",
+            "2 teaspoons lemon zest, plus more for garnish",
+            "1 bunch asparagus, trimmed and chopped into 1-inch pieces",
+            "\u00be cup frozen peas",
+            "2 tablespoons fresh lemon juice, plus wedges for serving",
+            "Fresh herbs (basil and/or tarragon), for garnish",
+            "Microgreens, for garnish (optional)",
+            "Freshly ground black pepper"
+        ],
+        "directions": [
+            "1. Heat 3 tablespoons of the olive oil in a medium Dutch oven over medium heat. Add the leeks, \u00bd teaspoon of the salt, and several grinds of pepper and saut\u00e9 for 6 to 8 minutes, or until softened. Stir in the wine and let it cook down for 30 seconds. Reduce the heat to low and add the garlic, orzo, and 3 cups of the broth. Stir, cover, and let simmer for 10 minutes, stirring occasionally to prevent sticking. Uncover and stir in the lemon zest and another \u00bd cup of the broth. Cook, stirring, over low heat for 6 to 8 minutes, or until the mixture is creamy and the orzo is cooked through.",
+            "2. Meanwhile, bring a medium pot of salted water to a boil. Drop the asparagus and peas into the boiling water and blanch for 1 to 2 minutes, or until tender-crisp but still bright green. Drain, transfer to a colander bowl, and pat dry. Transfer the vegetables to a large bowl and toss with the remaining 1 tablespoon olive oil, the remaining \u00bd teaspoon salt, the lemon juice, and several grinds of pepper.",
+            "3. Before serving, check the orzo's consistency. If it has thickened too much, add in the remaining \u00bd cup broth. Portion the orzo into bowls and top with the vegetable mixture. Garnish with fresh herbs, lemon zest, and microgreens, if using. Season to taste and serve with lemon wedges."
+        ],
+        "notes": [
+            "**Notes**",
+            "SERVES 4",
+            "VEGAN",
+            "Image Reference 1:"
+        ],
         "tags": [
             "Side"
         ],
@@ -4289,7 +4570,7 @@ const RECIPES_DB = [
             "Add 2.5 cups of chicken stock, \u00bd teaspoon salt, and \u00bc teaspoon Italian seasoning to the skillet with orzo. Bring to a boil, then reduce to a simmer and cook for about 5 or 10 minutes, occasionally stirring to prevent the orzo from sticking to the bottom of the pan, until the orzo is cooked through.",
             "Add spinach, and stir it in until it wilts on low-medium heat.",
             "Add \u00bd cup of heavy cream, and stir to combine. Season with salt and pepper, if needed.",
-            "Assembly",
+            "**Assembly**",
             "Add roasted butternut squash to the cooked orzo. Top with fresh thyme."
         ],
         "notes": [
@@ -4361,15 +4642,17 @@ const RECIPES_DB = [
         "description": "",
         "ingredients": [
             "2 SERVINGS",
-            "1\u00a0teaspoon olive oil",
-            "2\u00a0ounces onion (finely chopped)",
-            "1/2\u00a0teaspoon garlic paste",
-            "2\u00a0tablespoons sun dried tomatoes (chopped)",
-            "1/4\u00a0cup heavy cream",
+            "1 teaspoon olive oil",
+            "2 ounces onion (finely chopped)",
+            "\u00bd teaspoon garlic paste",
+            "2 tablespoons sun dried tomatoes (chopped)",
+            "\u00bc cup heavy cream",
             "salt",
             "black pepper"
         ],
-        "directions": [],
+        "directions": [
+            "Mix"
+        ],
         "notes": [],
         "tags": [
             "Side"
@@ -4393,7 +4676,7 @@ const RECIPES_DB = [
             "1/2 lebanese cucumber, peeled, seed removed, julienned",
             "1/2 carrot, peeled, julienned",
             "Some cooking oil",
-            "dressing:",
+            "**dressing:**",
             "1 Tbsp Korean chilli paste (gochujang)",
             "2 Tbsp rice vinegar",
             "1 Tbsp soy sauce",
@@ -4453,9 +4736,22 @@ const RECIPES_DB = [
     {
         "id": "crock_pot_green_enchilada_chicken_soup",
         "title": "Crock Pot Green Enchilada Chicken Soup",
-        "description": "Love this soup especially since I can start it in the morning before work and it\u2019s ready at the end of the day with little prep:  even better the next day\n*2.5 lbs of boneless skinless Chicken Breasts or thighs\n*28 oz can of Green Enchilada sauce\n*24oz of Chicken broth\n*1 Cup half and half or heavy whipping cream\n* 2 Cups Monterey jack cheese\n*4 oz cream cheese, cubed at room temp\n*4oz Green Salsa ( salsa verde)\n*Salt and Pepper to taste\n1. In Crock Pot add Chicken breasts or thighs, green enchilada sauce and chicken broth...cook on low for 6-8 hrs\n2. About 30 min before serving Remove Chicken and Shred.  the add shredded chicken, Jack Cheese, Cream Cheese, 1/2 and 1/2 and green salsa to crock pot. stir until cheeses are melted. * you can add additional salsa for taste.\n3. You can top with sliced avacado, Cilantro, green onion and sour cream and add strips of Crisp tortillas if you like!.\nServe and enjoy\ud83d\ude0b\ud83d\ude0b",
-        "ingredients": [],
-        "directions": [],
+        "description": "Love this soup especially since I can start it in the morning before work and it\u2019s ready at the end of the day with little prep:  even better the next day",
+        "ingredients": [
+            "2.5 lbs of boneless skinless Chicken Breasts or thighs",
+            "28 oz can of Green Enchilada sauce",
+            "24oz of Chicken broth",
+            "1 Cup half and half or heavy whipping cream",
+            "2 Cups Monterey jack cheese",
+            "4 oz cream cheese, cubed at room temp",
+            "4oz Green Salsa ( salsa verde)",
+            "Salt and Pepper to taste"
+        ],
+        "directions": [
+            "1. In Crock Pot add Chicken breasts or thighs, green enchilada sauce and chicken broth...cook on low for 6-8 hrs",
+            "2. About 30 min before serving Remove Chicken and Shred.  the add shredded chicken, Jack Cheese, Cream Cheese, 1/2 and 1/2 and green salsa to crock pot. stir until cheeses are melted. * you can add additional salsa for taste.",
+            "3. You can top with sliced avacado, Cilantro, green onion and sour cream and add strips of Crisp tortillas if you like!."
+        ],
         "notes": [],
         "tags": [
             "Soup"
@@ -4558,7 +4854,7 @@ const RECIPES_DB = [
             "1/2 cup chopped raw almonds",
             "1/2 cup raw sunflower seeds",
             "1/3 cup organic raisins",
-            "Vinaigrette:",
+            "**Vinaigrette:**",
             "3 Tbsp olive oil",
             "1/2 cup lemon juice",
             "1 Tbsp grated fresh ginger",
@@ -4590,7 +4886,7 @@ const RECIPES_DB = [
         "description": "Why You\u2019ll Love This Recipe\nThere\u2019s so much to adore about Crunchy Thai Chickpea Salad. Here\u2019s why it\u2019s a must-try:\nPacked with Protein and Fiber : Chickpeas provide plant-based protein and keep you feeling full longer.\nBold and Zesty Flavors : The Thai-inspired dressing is tangy, spicy, and utterly addictive.\nCrisp and Refreshing : Loaded with crunchy veggies for a satisfying texture in every bite.\nCustomizable : Add your favorite veggies, nuts, or herbs to make it your own.\nMeal Prep Friendly : Stays fresh in the fridge for days, making it perfect for busy weeks.",
         "ingredients": [
             "**Ingredients You\u2019ll Need**",
-            "The secret to this salad lies in its balance of textures and bold flavors. Here\u2019s what you\u2019ll need:",
+            "**The secret to this salad lies in its balance of textures and bold flavors. Here\u2019s what you\u2019ll need:**",
             "**For the Salad:**",
             "2 cans (15 oz each) chickpeas (rinsed, drained, and patted dry)",
             "1 cup shredded cabbage (green or purple)",
@@ -4600,7 +4896,7 @@ const RECIPES_DB = [
             "1/4 cup chopped peanuts (or cashews for crunch)",
             "2 green onions (sliced thinly)",
             "1/4 cup fresh cilantro (chopped)",
-            "For the Dressing:",
+            "**For the Dressing:**",
             "3 tablespoons lime juice (about 2 limes)",
             "2 tablespoons soy sauce (or tamari for gluten-free)",
             "1 tablespoon sesame oil",
@@ -4608,16 +4904,18 @@ const RECIPES_DB = [
             "1 teaspoon sriracha (adjust to taste for spice level)",
             "1 clove garlic (minced)",
             "1 teaspoon grated ginger (optional but recommended)",
-            "Optional Toppings:",
+            "**Optional Toppings:**",
             "Sesame seeds",
             "Extra cilantro",
             "Crushed red pepper flakes",
             "Step-by-Step Instructions",
-            "Ready to whip up this vibrant, flavor-packed salad? Follow these easy steps:",
+            "**Ready to whip up this vibrant, flavor-packed salad? Follow these easy steps:**",
             "Step 1: Prepare the Vegetables",
             "Rinse and dry the chickpeas thoroughly\u2014this helps them crisp up if you roast them (optional).",
             "Shred the cabbage, julienne the carrots, slice the bell pepper, and dice the cucumber. Place all the prepared veggies in a large mixing bowl.",
-            "Step 2: Make the Dressing",
+            "Step 2: Make the Dressing"
+        ],
+        "directions": [
             "In a small bowl, whisk together the lime juice, soy sauce, sesame oil, honey, sriracha, minced garlic, and grated ginger until well combined. Taste and adjust seasoning as needed\u2014add more sriracha for heat or honey for sweetness.",
             "Step 3: Assemble the Salad",
             "Add the chickpeas, shredded cabbage, carrots, bell pepper, cucumber, green onions, and cilantro to the mixing bowl.",
@@ -4629,7 +4927,6 @@ const RECIPES_DB = [
             "Serve immediately for maximum crunch, or chill in the refrigerator for 30 minutes to let the flavors meld.",
             "Pair with grilled chicken, tofu, or shrimp for a heartier meal, if desired."
         ],
-        "directions": [],
         "notes": [],
         "tags": [
             "Salad"
@@ -4645,21 +4942,21 @@ const RECIPES_DB = [
     {
         "id": "crunchy_thai_peanut_salad",
         "title": "Crunchy Thai Peanut Salad",
-        "description": "4.99 from 75 votes\nPrep:\n10\nminutes\nmins\nCook:\n0\nminutes\nmins\nTotal:\n10\nminutes\nmins\nServings: 6 servings",
+        "description": "Servings: 6 servings",
         "ingredients": [
-            "\u25a2 \u2028\u20280.5 cup of creamy peanut butter",
-            "\u25a2 \u2028\u20280.5 cup of water",
-            "\u25a2 \u2028\u20284 garlic cloves, minced",
-            "\u25a2 \u2028\u20282 teaspoon of minced ginger",
-            "\u25a2 \u2028\u20284 teaspoons of soy sauce",
-            "\u25a2 \u2028\u20285 teaspoons of apple cider vinegar",
-            "\u25a2 \u2028\u20282 teaspoon of agave or brown sugar or maple syrup",
-            "\u25a2 \u2028\u20284 cups of shredded romaine lettuce",
-            "\u25a2 \u2028\u20284 cups of shredded purple cabbage",
-            "\u25a2 \u2028\u20284 carrots, grated",
-            "\u25a2 \u2028\u20281 cup of chopped cilantro",
-            "\u25a2 \u2028\u2028Chopped peanuts, optional for garnish",
-            "\u25a2 \u2028\u2028Plant-based protein of your choice (we used edamame in the photo), optional"
+            "0.5 cup of creamy peanut butter",
+            "0.5 cup of water",
+            "4 garlic cloves, minced",
+            "2 teaspoon of minced ginger",
+            "4 teaspoons of soy sauce",
+            "5 teaspoons of apple cider vinegar",
+            "2 teaspoon of agave or brown sugar or maple syrup",
+            "4 cups of shredded romaine lettuce",
+            "4 cups of shredded purple cabbage",
+            "4 carrots, grated",
+            "1 cup of chopped cilantro",
+            "Chopped peanuts, optional for garnish",
+            "Plant-based protein of your choice (we used edamame in the photo), optional"
         ],
         "directions": [
             "In a standard bowl, whisk together the peanut butter, water, garlic, ginger, soy sauce, vinegar, and sweetener, until thoroughly combined.",
@@ -4667,11 +4964,6 @@ const RECIPES_DB = [
             "Pour in the dressing and toss together. Sprinkle on the peanuts and plant-based protein, if using."
         ],
         "notes": [
-            "**Notes**",
-            "Here\u2019s the grocery list to add to your cart.",
-            "For a well-balanced meal: Make sure to include an added plant protein. For a heartier meal with carbs, also add noodles or quinoa.",
-            "To save time: Use pre-shredded ingredients or use a food processor shredding disk to get the job done in practically seconds.",
-            "Allow it to marinate: We recommend preparing the dressing in advance to allow the flavors to meld. An hour is great, but overnight is even better.",
             "**Nutrition**",
             "Calories: 181kcal",
             "Carbohydrates: 17g",
@@ -4703,8 +4995,36 @@ const RECIPES_DB = [
     {
         "id": "crunchy_zucchini_fritters_with_avocado_dill_dip_my_favorite",
         "title": "Crunchy Zucchini Fritters with Avocado Dill Dip (My Favorite",
-        "description": "If you\u2019ve never had the chance to try \u00a0zucchini fritters then this recipe is for you!\nThese fritters are unbelievably easy to make, low calorie, and the perfect way to sneak in some veggies!\u00a0I\u2019m warning you that this recipe will undoubtedly make your taste buds dance. They are jam packed with all of the right flavors and they are healthy for you! It\u2019s almost guaranteed that this will be a household favorite.\u00a0\u00a0 This will definitely please adults and children alike. Hope you Enjoy Your Zucchini Fritters!\nThis dish is perfect to take on a picnic or to a potluck! All I can say about this dish is yum, yum. It is one of my all-time favorites!\nFritter Ingredients\n1 large zucchini or 2 small\n1 clove of garlic peeled and minced\n\u00bc Cup fresh basil; we grown our own, but you can find it at any grocery store\n\u00bc cup fresh oregano. Ditto\n1 tablespoon lemon zest\n2 organic eggs or \u2018Flax Egg\u2019\n\u00bc cup gluten free flour\n\u00bc teaspoon Onion powder or to taste\n1 teaspoon salt or to taste\n\u00bc teaspoon of pepper or to taste\n\ufffc\nZucchini Fritter with Avocado Dill Dip\nThis dish is perfect to take on a picnic or to a potluck! All I can say about this dish is yum, yum. It is one of my all-time favorites!\nFritter Ingredients\n1 large zucchini or 2 small\n1 clove of garlic peeled and minced\n\u00bc Cup fresh basil; we grown our own, but you can find it at any grocery store\n\u00bc cup fresh oregano. Ditto\n1 tablespoon lemon zest\n2 organic eggs or \u2018Flax Egg\u2019\n\u00bc cup gluten free flour\n\u00bc teaspoon Onion powder or to taste\n1 teaspoon salt or to taste\n\u00bc teaspoon of pepper or to taste\nDip Ingredients\nAvocado dip base\n\u00bd cup finely chopped dill",
-        "ingredients": [],
+        "description": "If you\u2019ve never had the chance to try \u00a0zucchini fritters then this recipe is for you!\nThese fritters are unbelievably easy to make, low calorie, and the perfect way to sneak in some veggies!\u00a0I\u2019m warning you that this recipe will undoubtedly make your taste buds dance. They are jam packed with all of the right flavors and they are healthy for you! It\u2019s almost guaranteed that this will be a household favorite.\u00a0\u00a0 This will definitely please adults and children alike. Hope you Enjoy Your Zucchini Fritters!\nThis dish is perfect to take on a picnic or to a potluck! All I can say about this dish is yum, yum. It is one of my all-time favorites!\nFritter Ingredients",
+        "ingredients": [
+            "1 large zucchini or 2 small",
+            "1 clove of garlic peeled and minced",
+            "\u00bc Cup fresh basil; we grown our own, but you can find it at any grocery store",
+            "\u00bc cup fresh oregano. Ditto",
+            "1 tablespoon lemon zest",
+            "2 organic eggs or \u2018Flax Egg\u2019",
+            "\u00bc cup gluten free flour",
+            "\u00bc teaspoon Onion powder or to taste",
+            "1 teaspoon salt or to taste",
+            "\u00bc teaspoon of pepper or to taste",
+            "\ufffc",
+            "Zucchini Fritter with Avocado Dill Dip",
+            "This dish is perfect to take on a picnic or to a potluck! All I can say about this dish is yum, yum. It is one of my all-time favorites!",
+            "Fritter Ingredients",
+            "1 large zucchini or 2 small",
+            "1 clove of garlic peeled and minced",
+            "\u00bc Cup fresh basil; we grown our own, but you can find it at any grocery store",
+            "\u00bc cup fresh oregano. Ditto",
+            "1 tablespoon lemon zest",
+            "2 organic eggs or \u2018Flax Egg\u2019",
+            "\u00bc cup gluten free flour",
+            "\u00bc teaspoon Onion powder or to taste",
+            "1 teaspoon salt or to taste",
+            "\u00bc teaspoon of pepper or to taste",
+            "Dip Ingredients",
+            "Avocado dip base",
+            "\u00bd cup finely chopped dill"
+        ],
         "directions": [
             "Using the large holes of a box grater, grate zucchini. Place zucchini in a colander set in the sink and toss with 1/2 teaspoons salt. Let stand 10 minutes, and then wring zucchini dry in a clean kitchen towel to remove moisture. Place zucchini in a large bowl and gently mix in egg, garlic, basil, oregano, lemon zest, onion powder, salt and pepper. Mix well to combine. Slowly add flour, stirring so no lumps form.",
             "Heat 2 tablespoons coconut oil or olive oil in a large saut\u00e9 pan over medium-high heat until the oil sizzles when you drop a small amount of zucchini mixture into the pan. Carefully drop about 2 tablespoons zucchini mixture into pan; repeat, spacing fritters a few inches apart.",
@@ -4777,7 +5097,7 @@ const RECIPES_DB = [
     },
     {
         "id": "cucumber_roll_ups",
-        "title": "cucumber roll-ups",
+        "title": "Cucumber Roll-ups",
         "description": "For a no-bake appetizer that comes together in a snap, try these vegetarian rolls that are reminiscent of sushi.\nYIELD 12 roll-ups",
         "ingredients": [
             "2 ounces goat cheese",
@@ -4787,7 +5107,6 @@ const RECIPES_DB = [
             "1 large cucumber, cut into 12 1 1/4-inch ribbons"
         ],
         "directions": [
-            "1.",
             "In a small bowl, stir together goat cheese, dill, and salt. For each roll-up, place 1/4 teaspoon of the cheese mixture at one end of a cucumber strip, press a pepper slice on top, and roll. Secure the end with a dab of cheese."
         ],
         "notes": [],
@@ -4832,8 +5151,17 @@ const RECIPES_DB = [
     {
         "id": "cucumber_tomato_and_avocado_salad",
         "title": "Cucumber, Tomato, and Avocado Salad",
-        "description": "Here\u2019s what you will need:\n1 English cucumber\n4 Roma tomatoes\n3 ripe avocados\n\u00bd red onion\n\u00bc cup cilantro\nJuice of 1 lemon\nSalt and black pepper to taste\n2 Tbsp. extra virgin olive oil",
-        "ingredients": [],
+        "description": "Here\u2019s what you will need:",
+        "ingredients": [
+            "1 English cucumber",
+            "4 Roma tomatoes",
+            "3 ripe avocados",
+            "\u00bd red onion",
+            "\u00bc cup cilantro",
+            "Juice of 1 lemon",
+            "Salt and black pepper to taste",
+            "2 Tbsp. extra virgin olive oil"
+        ],
         "directions": [
             "1. Place sliced cucumber, tomatoes, avocados, onion, and cilantro in a large salad bowl.",
             "2. Toss with olive oil, lemon juice, salt, and pepper.",
@@ -4887,9 +5215,28 @@ const RECIPES_DB = [
     {
         "id": "curried_squash_soup",
         "title": "Curried Squash Soup",
-        "description": "6 servings\nThe trick to preparing this soup quickly is to cut the vegetables into small pieces and as thinly as possible. Don\u2019t be intimidated by the unusual shape and tough skin of butternut squash. It peels easily with a swivel peeler or sharp serrated knife. If unavailable, substitute peeled sweet potatoes.\n5 cups vegetable broth\n1 Tbs. olive oil\n6 medium cloves garlic, minced\n1 \u00bd cups diced celery\n1 cup diced onion\n\u00bd cup diced carrot\n2 Tbs. curry powder\n1 Tbs. minced fresh ginger\n5 cups peeled, thinly sliced butternut squash (2-inch pieces)\n\u00bc cup pure maple syrup\n1 tsp. cider vinegar\nIn small saucepan, bring 3 cups broth to a boil over high heat.\nMeanwhile, in large, heavy saucepan, heat oil over medium heat. Add garlic, celery, onion, carrot, curry powder, ginger and pinch of salt and cook, stirring often, 5 minutes. Increase heat to high and stir in boiling broth, squash and 1/2 teaspoon salt. Bring to a boil, cover, reduce heat to medium and cook 10 minutes.\nUncover saucepan and stir well with wooden spoon until squash breaks down easily. Stir in maple syrup and vinegar. Remove from heat.\nTransfer mixture to blender or food processor in batches and carefully blend until smooth. Return to saucepan and warm through, adding as much remaining 2 cups broth as needed. Serve hot.",
-        "ingredients": [],
-        "directions": [],
+        "description": "",
+        "ingredients": [
+            "6 servings",
+            "The trick to preparing this soup quickly is to cut the vegetables into small pieces and as thinly as possible. Don\u2019t be intimidated by the unusual shape and tough skin of butternut squash. It peels easily with a swivel peeler or sharp serrated knife. If unavailable, substitute peeled sweet potatoes.",
+            "5 cups vegetable broth",
+            "1 Tbs. olive oil",
+            "6 medium cloves garlic, minced",
+            "1 \u00bd cups diced celery",
+            "1 cup diced onion",
+            "\u00bd cup diced carrot",
+            "2 Tbs. curry powder",
+            "1 Tbs. minced fresh ginger",
+            "5 cups peeled, thinly sliced butternut squash (2-inch pieces)",
+            "\u00bc cup pure maple syrup",
+            "1 tsp. cider vinegar"
+        ],
+        "directions": [
+            "In small saucepan, bring 3 cups broth to a boil over high heat.",
+            "Meanwhile, in large, heavy saucepan, heat oil over medium heat. Add garlic, celery, onion, carrot, curry powder, ginger and pinch of salt and cook, stirring often, 5 minutes. Increase heat to high and stir in boiling broth, squash and 1/2 teaspoon salt. Bring to a boil, cover, reduce heat to medium and cook 10 minutes.",
+            "Uncover saucepan and stir well with wooden spoon until squash breaks down easily. Stir in maple syrup and vinegar. Remove from heat.",
+            "Transfer mixture to blender or food processor in batches and carefully blend until smooth. Return to saucepan and warm through, adding as much remaining 2 cups broth as needed. Serve hot."
+        ],
         "notes": [],
         "tags": [
             "Soup"
@@ -5056,9 +5403,33 @@ const RECIPES_DB = [
     {
         "id": "easy_chicken_madeira_recipe",
         "title": "Easy Chicken Madeira Recipe:",
-        "description": "1 lb (2 large) Chicken Breasts, halved lengthwise and pounded to an even 1/4\u2033 thickness\n1 lb asparagus, blanched*\nSalt and Pepper\n4 Tbsp Butter, divided\n2 Tbsp Olive Oil, divided\n16 oz button mushrooms, thickly sliced\n1 small or 1/2 medium yellow onion, finely diced\n2 large garlic cloves, minced\n2 Tbsp fresh parsley, finely chopped, plus to garnish\n1 1/2 cups Madeira Wine (sweet white wine)*\n1 1/2 cups beef stock or broth\n1/2 cup whipping Cream (heavy or regular)\nSalt and Pepper to taste\n1 cup mozzarella cheese, shredded\nHow to Make Copycat Chicken Madeira:\n1. To blanch asparagus: Remove fibrous stems from asparagus by snapping them off (watch video above). To blanch asparagus, fill a medium pot with 6 cups water, bring to a boil and add 1 Tbsp salt. Add asparagus and boil uncovered until crisp tender and bright green (2-3 minutes then remove immediately from hot water and set aside).\n\ufffc\n2. Place a large heavy (oven-safe) pan over medium/high heat and melt in 2 Tbsp butter and 1 Tbsp oil. Add thickly sliced mushrooms and cook 5 minutes until soft. Stir in diced onion and cook 3 minutes. Add minced garlic cloves then season with 1/4 tsp salt and 1/4 tsp black pepper and 2 Tbsp fresh parsley. Cook another 2 minutes then remove mixture to a plate and wipe skillet clean with wet paper towel.\n3. Slice chicken breasts in half lengthwise and pound each cutlet between plastic wrap until no more than 1/4\u2033 thick. Season chicken breasts all over with 1/2 tsp salt and 1/4 tsp black pepper. Place same pan over medium/high heat and add 2 Tbsp butter and 1 Tbsp oil. When butter is finished foaming, add chicken breasts and saute 3 to 4 minutes per side or until golden brown and cooked through. Remove chicken from pan to the same plate as mushrooms.\n3. Slice chicken breasts in half lengthwise and pound each cutlet between plastic wrap until no more than 1/4\u2033 thick. Season chicken breasts all over with 1/2 tsp salt and 1/4 tsp black pepper. Place same pan over medium/high heat and add 2 Tbsp butter and 1 Tbsp oil. When butter is finished foaming, add chicken breasts and saute 3 to 4 minutes per side or until golden brown and cooked through. Remove chicken from pan to the same plate as mushrooms.\n5. Return chicken to the pan, turning it to coat in the sauce. Top with mushrooms, asparagus and sprinkle 1 cup of mozzarella cheese over the top. Broil 3-4 minutes or until cheese is melted. Remove from oven, garnish with fresh parsley.\n\ufffc",
-        "ingredients": [],
-        "directions": [],
+        "description": "",
+        "ingredients": [
+            "1 lb (2 large) Chicken Breasts, halved lengthwise and pounded to an even 1/4\u2033 thickness",
+            "1 lb asparagus, blanched*",
+            "Salt and Pepper",
+            "4 Tbsp Butter, divided",
+            "2 Tbsp Olive Oil, divided",
+            "16 oz button mushrooms, thickly sliced",
+            "1 small or 1/2 medium yellow onion, finely diced",
+            "2 large garlic cloves, minced",
+            "2 Tbsp fresh parsley, finely chopped, plus to garnish",
+            "1 1/2 cups Madeira Wine (sweet white wine)*",
+            "1 1/2 cups beef stock or broth",
+            "1/2 cup whipping Cream (heavy or regular)",
+            "Salt and Pepper to taste",
+            "1 cup mozzarella cheese, shredded"
+        ],
+        "directions": [
+            "**How to Make Copycat Chicken Madeira:**",
+            "1. To blanch asparagus: Remove fibrous stems from asparagus by snapping them off (watch video above). To blanch asparagus, fill a medium pot with 6 cups water, bring to a boil and add 1 Tbsp salt. Add asparagus and boil uncovered until crisp tender and bright green (2-3 minutes then remove immediately from hot water and set aside).",
+            "\ufffc",
+            "2. Place a large heavy (oven-safe) pan over medium/high heat and melt in 2 Tbsp butter and 1 Tbsp oil. Add thickly sliced mushrooms and cook 5 minutes until soft. Stir in diced onion and cook 3 minutes. Add minced garlic cloves then season with 1/4 tsp salt and 1/4 tsp black pepper and 2 Tbsp fresh parsley. Cook another 2 minutes then remove mixture to a plate and wipe skillet clean with wet paper towel.",
+            "3. Slice chicken breasts in half lengthwise and pound each cutlet between plastic wrap until no more than 1/4\u2033 thick. Season chicken breasts all over with 1/2 tsp salt and 1/4 tsp black pepper. Place same pan over medium/high heat and add 2 Tbsp butter and 1 Tbsp oil. When butter is finished foaming, add chicken breasts and saute 3 to 4 minutes per side or until golden brown and cooked through. Remove chicken from pan to the same plate as mushrooms.",
+            "3. Slice chicken breasts in half lengthwise and pound each cutlet between plastic wrap until no more than 1/4\u2033 thick. Season chicken breasts all over with 1/2 tsp salt and 1/4 tsp black pepper. Place same pan over medium/high heat and add 2 Tbsp butter and 1 Tbsp oil. When butter is finished foaming, add chicken breasts and saute 3 to 4 minutes per side or until golden brown and cooked through. Remove chicken from pan to the same plate as mushrooms.",
+            "5. Return chicken to the pan, turning it to coat in the sauce. Top with mushrooms, asparagus and sprinkle 1 cup of mozzarella cheese over the top. Broil 3-4 minutes or until cheese is melted. Remove from oven, garnish with fresh parsley.",
+            "\ufffc"
+        ],
         "notes": [],
         "tags": [
             "Entree"
@@ -5074,9 +5445,31 @@ const RECIPES_DB = [
     {
         "id": "easy_chicken_madeira",
         "title": "Easy Chicken Madeira",
-        "description": "1 lb (2 large) Chicken Breasts, halved lengthwise and pounded to an even 1/4\u2033 thickness\n1 lb asparagus, blanched*\nSalt and Pepper\n4 Tbsp Butter, divided\n2 Tbsp Olive Oil, divided\n16 oz button mushrooms, thickly sliced\n1 small or 1/2 medium yellow onion, finely diced\n2 large garlic cloves, minced\n2 Tbsp fresh parsley, finely chopped, plus to garnish\n1 1/2 cups Madeira Wine (sweet white wine)*\n1 1/2 cups beef stock or broth\n1/2 cup whipping Cream (heavy or regular)\nSalt and Pepper to taste\n1 cup mozzarella cheese, shredded\nHow to Make Copycat Chicken Madeira:\n1. To blanch asparagus: Remove fibrous stems from asparagus by snapping them off (watch video above). To blanch asparagus, fill a medium pot with 6 cups water, bring to a boil and add 1 Tbsp salt. Add asparagus and boil uncovered until crisp tender and bright green (2-3 minutes then remove immediately from hot water and set aside).\n2. Place a large heavy (oven-safe) pan over medium/high heat and melt in 2 Tbsp butter and 1 Tbsp oil. Add thickly sliced mushrooms and cook 5 minutes until soft. Stir in diced onion and cook 3 minutes. Add minced garlic cloves then season with 1/4 tsp salt and 1/4 tsp black pepper and 2 Tbsp fresh parsley. Cook another 2 minutes then remove mixture to a plate and wipe skillet clean with wet paper towel.\n3. Slice chicken breasts in half lengthwise and pound each cutlet between plastic wrap until no more than 1/4\u2033 thick. Season chicken breasts all over with 1/2 tsp salt and 1/4 tsp black pepper. Place same pan over medium/high heat and add 2 Tbsp butter and 1 Tbsp oil. When butter is finished foaming, add chicken breasts and saute 3 to 4 minutes per side or until golden brown and cooked through. Remove chicken from pan to the same plate as mushrooms.\n3. Slice chicken breasts in half lengthwise and pound each cutlet between plastic wrap until no more than 1/4\u2033 thick. Season chicken breasts all over with 1/2 tsp salt and 1/4 tsp black pepper. Place same pan over medium/high heat and add 2 Tbsp butter and 1 Tbsp oil. When butter is finished foaming, add chicken breasts and saute 3 to 4 minutes per side or until golden brown and cooked through. Remove chicken from pan to the same plate as mushrooms.\n5. Return chicken to the pan, turning it to coat in the sauce. Top with mushrooms, asparagus and sprinkle 1 cup of mozzarella cheese over the top. Broil 3-4 minutes or until cheese is melted. Remove from oven, garnish with fresh parsley.",
-        "ingredients": [],
-        "directions": [],
+        "description": "",
+        "ingredients": [
+            "1 lb (2 large) Chicken Breasts, halved lengthwise and pounded to an even 1/4\u2033 thickness",
+            "1 lb asparagus, blanched*",
+            "Salt and Pepper",
+            "4 Tbsp Butter, divided",
+            "2 Tbsp Olive Oil, divided",
+            "16 oz button mushrooms, thickly sliced",
+            "1 small or 1/2 medium yellow onion, finely diced",
+            "2 large garlic cloves, minced",
+            "2 Tbsp fresh parsley, finely chopped, plus to garnish",
+            "1 1/2 cups Madeira Wine (sweet white wine)*",
+            "1 1/2 cups beef stock or broth",
+            "1/2 cup whipping Cream (heavy or regular)",
+            "Salt and Pepper to taste",
+            "1 cup mozzarella cheese, shredded"
+        ],
+        "directions": [
+            "**How to Make Copycat Chicken Madeira:**",
+            "1. To blanch asparagus: Remove fibrous stems from asparagus by snapping them off (watch video above). To blanch asparagus, fill a medium pot with 6 cups water, bring to a boil and add 1 Tbsp salt. Add asparagus and boil uncovered until crisp tender and bright green (2-3 minutes then remove immediately from hot water and set aside).",
+            "2. Place a large heavy (oven-safe) pan over medium/high heat and melt in 2 Tbsp butter and 1 Tbsp oil. Add thickly sliced mushrooms and cook 5 minutes until soft. Stir in diced onion and cook 3 minutes. Add minced garlic cloves then season with 1/4 tsp salt and 1/4 tsp black pepper and 2 Tbsp fresh parsley. Cook another 2 minutes then remove mixture to a plate and wipe skillet clean with wet paper towel.",
+            "3. Slice chicken breasts in half lengthwise and pound each cutlet between plastic wrap until no more than 1/4\u2033 thick. Season chicken breasts all over with 1/2 tsp salt and 1/4 tsp black pepper. Place same pan over medium/high heat and add 2 Tbsp butter and 1 Tbsp oil. When butter is finished foaming, add chicken breasts and saute 3 to 4 minutes per side or until golden brown and cooked through. Remove chicken from pan to the same plate as mushrooms.",
+            "3. Slice chicken breasts in half lengthwise and pound each cutlet between plastic wrap until no more than 1/4\u2033 thick. Season chicken breasts all over with 1/2 tsp salt and 1/4 tsp black pepper. Place same pan over medium/high heat and add 2 Tbsp butter and 1 Tbsp oil. When butter is finished foaming, add chicken breasts and saute 3 to 4 minutes per side or until golden brown and cooked through. Remove chicken from pan to the same plate as mushrooms.",
+            "5. Return chicken to the pan, turning it to coat in the sauce. Top with mushrooms, asparagus and sprinkle 1 cup of mozzarella cheese over the top. Broil 3-4 minutes or until cheese is melted. Remove from oven, garnish with fresh parsley."
+        ],
         "notes": [],
         "tags": [
             "Entree"
@@ -5109,7 +5502,7 @@ const RECIPES_DB = [
             "2 Tablespoons Italian Parsley, finely chopped"
         ],
         "directions": [
-            "To make this salmon piccata, start by preparing the salmon. Place the salmon filets on a cutting board and season them generously with sea salt and ground black pepper. Then, set them aside.",
+            "**To make this salmon piccata, start by preparing the salmon. Place the salmon filets on a cutting board and season them generously with sea salt and ground black pepper. Then, set them aside.**",
             "Next, chop the shallot, mash the garlic, and juice and zest the lemon into individual bowls, and set them aside.",
             "Next, heat a pan, on the stove, over medium-low heat, and add in the olive oil.",
             "While the pan is heating, cut a square of parchment paper, large enough to cover the bottom of the pan.",
@@ -5160,12 +5553,12 @@ const RECIPES_DB = [
             "Add in coated flank steak and carrots and stir again until everything is coated in the sauce.",
             "Cover and cook on HIGH for 2-3 hours or on LOW for about 4 hours, until steak is cooked and tender.",
             "Serve over white rice and m",
-            "garnished with green onions and sesame seeds if desired."
+            "garnished with green onions and sesame seeds if desired.",
+            "**Recipe originally seen on The Slow Roasted Italian**"
         ],
         "notes": [
             "**Notes**",
-            "Slice your flank steak against the grain. \u00a0As you\u2019re looking at the beef, you\u2019ll see lines, like the grain on a piece of wood. \u00a0You want to slice it across those lines, not alongside them. \u00a0Doing this ensures an incredibly tender piece of beef.",
-            "Recipe originally seen on The Slow Roasted Italian"
+            "Slice your flank steak against the grain. \u00a0As you\u2019re looking at the beef, you\u2019ll see lines, like the grain on a piece of wood. \u00a0You want to slice it across those lines, not alongside them. \u00a0Doing this ensures an incredibly tender piece of beef."
         ],
         "tags": [
             "Entree"
@@ -5181,8 +5574,9 @@ const RECIPES_DB = [
     {
         "id": "eatingwell_power_salad",
         "title": "EatingWell Power Salad",
-        "description": "http://www.eatingwell.com/recipes/eatingwell_power_salad.html\nFrom EatingWell:\u00a0 March/April 2007, The EatingWell Diet (2007)\nHere's our take on a traditional chef's salad, which is anything but light fare when it's heaped with meats and cheeses. Our version keeps the satisfaction factor with lean turkey breast and reduced-fat Swiss cheese - and adds plenty of colorful vegetables to the mix.\n2 servings, about 4 cups each | Active Time: 10 minutes | Total Time: 10 minutes",
+        "description": "http://www.eatingwell.com/recipes/eatingwell_power_salad.html\nFrom EatingWell:\u00a0 March/April 2007, The EatingWell Diet (2007)\nHere's our take on a traditional chef's salad, which is anything but light fare when it's heaped with meats and cheeses. Our version keeps the satisfaction factor with lean turkey breast and reduced-fat Swiss cheese - and adds plenty of colorful vegetables to the mix.",
         "ingredients": [
+            "2 servings, about 4 cups each | Active Time: 10 minutes | Total Time: 10 minutes",
             "Creamy Dill Ranch Dressing",
             "1 small shallot, peeled",
             "3/4 cup nonfat cottage cheese",
@@ -5228,15 +5622,15 @@ const RECIPES_DB = [
         "description": "Prep: 15 minutes\nCook: 5 minutes\nChill: 1 hour\nTotal: 1 hour 2 minutes\nServings: 6 servings",
         "ingredients": [
             "1X",
-            "\u25a2 16 ounces frozen shelled edamame",
-            "\u25a2 15 ounces black beans drained and rinsed",
-            "\u25a2 15 ounces corn kernels drained",
-            "\u25a2 1 cup cherry tomatoes halved",
-            "\u25a2 1 large ripe avocado pitted and diced",
-            "\u25a2 \u00bd cup finely chopped red onion",
-            "\u25a2 \u00bc cup minced cilantro",
-            "\u25a2 Juice of 1 lime",
-            "\u25a2  tsp of salt"
+            "16 ounces frozen shelled edamame",
+            "15 ounces black beans drained and rinsed",
+            "15 ounces corn kernels drained",
+            "1 cup cherry tomatoes halved",
+            "1 large ripe avocado pitted and diced",
+            "\u00bd cup finely chopped red onion",
+            "\u00bc cup minced cilantro",
+            "Juice of 1 lime",
+            "tsp of salt"
         ],
         "directions": [
             "Cook the edamame according to the package directions. Drain and let cool slightly.",
@@ -5347,9 +5741,27 @@ const RECIPES_DB = [
     {
         "id": "eggplant_parmesan_with_creamed_spinach",
         "title": "Eggplant Parmesan with Creamed Spinach",
-        "description": "Serves 4\nSpinach adds a modern note to this classic Italian dish.\n\u00bd cup all-purpose flour\n\u00bd cup panko breadcrumbs, divided\n\u00bd cup grated Parmesan cheese\n1 large egg\n4 \u00be-inch-thick center-cut eggplant slices\n1 9-oz. bag frozen spinach\n1 oz. reduced-fat cream cheese\n\u00be cup prepared refrigerated thick marinara sauce, such as Buitoni\n\u00bd cup packed coarsely grated mozzarella or fontina cheese\n1. Position rack in center of oven, and preheat to 375\u00b0F. Coat baking sheet with cooking spray.\n2. Place flour in pie dish or soup plate. Add panko and Parmesan to second pie dish or soup plate; whisk to blend. Reserve 2 Tbs. panko mixture. Add egg to third pie dish or soup plate; whisk to blend. Season eggplant with salt and pepper, if desired. Coat slices with flour, then egg, then panko mixture; press to adhere. Coat slices on both sides with cooking spray, and arrange on baking sheet.\n3. Bake eggplant 12 minutes, or until bottoms are brown and crisp. Loosen slices from sheet, and flip over. Bake 12 to 13 minutes longer, or until both sides are brown and crisp, and eggplant is tender.\n4. Meanwhile, coat large skillet with cooking spray; add spinach. Toss over medium-high heat 2 to 3 minutes, or until wilted. Scrape into towel-lined sieve, and firmly press out excess liquid. Transfer spinach to work surface, and\nfinely chop.\n5. Recoat skillet with cooking spray. Add spinach, cream cheese, and 1 Tbs. reserved panko mixture. Cook over medium-high heat 3 to 4 minutes, or until mixture is very thick, adding remaining 1 Tbs. reserved panko (if necessary) to thicken.\n6. Spread marinara sauce atop eggplant on baking sheet. Spoon or spread spinach over top, leaving border of sauce visible. Sprinkle with mozzarella, and bake 4 to 5 minutes, or until topping is heated through.",
-        "ingredients": [],
-        "directions": [],
+        "description": "Serves 4\nSpinach adds a modern note to this classic Italian dish.",
+        "ingredients": [
+            "\u00bd cup all-purpose flour",
+            "\u00bd cup panko breadcrumbs, divided",
+            "\u00bd cup grated Parmesan cheese",
+            "1 large egg",
+            "4 \u00be-inch-thick center-cut eggplant slices",
+            "1 9-oz. bag frozen spinach",
+            "1 oz. reduced-fat cream cheese",
+            "\u00be cup prepared refrigerated thick marinara sauce, such as Buitoni",
+            "\u00bd cup packed coarsely grated mozzarella or fontina cheese"
+        ],
+        "directions": [
+            "1. Position rack in center of oven, and preheat to 375\u00b0F. Coat baking sheet with cooking spray.",
+            "2. Place flour in pie dish or soup plate. Add panko and Parmesan to second pie dish or soup plate; whisk to blend. Reserve 2 Tbs. panko mixture. Add egg to third pie dish or soup plate; whisk to blend. Season eggplant with salt and pepper, if desired. Coat slices with flour, then egg, then panko mixture; press to adhere. Coat slices on both sides with cooking spray, and arrange on baking sheet.",
+            "3. Bake eggplant 12 minutes, or until bottoms are brown and crisp. Loosen slices from sheet, and flip over. Bake 12 to 13 minutes longer, or until both sides are brown and crisp, and eggplant is tender.",
+            "4. Meanwhile, coat large skillet with cooking spray; add spinach. Toss over medium-high heat 2 to 3 minutes, or until wilted. Scrape into towel-lined sieve, and firmly press out excess liquid. Transfer spinach to work surface, and",
+            "finely chop.",
+            "5. Recoat skillet with cooking spray. Add spinach, cream cheese, and 1 Tbs. reserved panko mixture. Cook over medium-high heat 3 to 4 minutes, or until mixture is very thick, adding remaining 1 Tbs. reserved panko (if necessary) to thicken.",
+            "6. Spread marinara sauce atop eggplant on baking sheet. Spoon or spread spinach over top, leaving border of sauce visible. Sprinkle with mozzarella, and bake 4 to 5 minutes, or until topping is heated through."
+        ],
         "notes": [],
         "tags": [
             "Entree"
@@ -5365,8 +5777,9 @@ const RECIPES_DB = [
     {
         "id": "eggplant_pomodoro_pasta",
         "title": "Eggplant Pomodoro Pasta",
-        "description": "**Eggplant Pomodoro Pasta\nhttp://www.eatingwell.com/recipes/eggplant_pomodoro_pasta.html\nFrom EatingWell:\u00a0 July/August 2009\nDiced eggplant turns tender and tasty saut\u00e9ed with garlic and olive oil. Toss with fresh plum tomatoes, green olives and capers and you have a simple light summer sauce. We like it over angel hair pasta, but any type of pasta will work.\n6 servings | Active Time: 35 minutes | Total Time: 35 minutes",
+        "description": "http://www.eatingwell.com/recipes/eggplant_pomodoro_pasta.html\nFrom EatingWell:\u00a0 July/August 2009\nDiced eggplant turns tender and tasty saut\u00e9ed with garlic and olive oil. Toss with fresh plum tomatoes, green olives and capers and you have a simple light summer sauce. We like it over angel hair pasta, but any type of pasta will work.",
         "ingredients": [
+            "6 servings | Active Time: 35 minutes | Total Time: 35 minutes",
             "2 tablespoons extra-virgin olive oil",
             "1 medium eggplant, (about 1 pound), cut into 1/2-inch cubes",
             "2 cloves garlic, minced",
@@ -5488,7 +5901,7 @@ const RECIPES_DB = [
     {
         "id": "extra_saucy_coconut_fish_curry",
         "title": "Extra Saucy Coconut Fish Curry with Pomegranate",
-        "description": "Serves: 4 | Prep Time: 15 minutes | Cook Time: 20 minutes | Total Time: 35 minutes\n\nCod is a sort of bland, white fish I've always found a little boring. Here's what I have learned, though. Cod's mellow nature means it can be used in dishes with a super-flavorful sauce\u2014the fish takes on the taste of whatever you're serving it with. That said, I am pleased to introduce this coconut fish curry. It's quick cooking, healthy, and colorful, and each bowl is finished with toasted coconut for an unexpected but oh-so-good crunch.",
+        "description": "Serves: 4 | Prep Time: 15 minutes | Cook Time: 20 minutes | Total Time: 35 minutes\nCod is a sort of bland, white fish I've always found a little boring. Here's what I have learned, though. Cod's mellow nature means it can be used in dishes with a super-flavorful sauce\u2014the fish takes on the taste of whatever you're serving it with. That said, I am pleased to introduce this coconut fish curry. It's quick cooking, healthy, and colorful, and each bowl is finished with toasted coconut for an unexpected but oh-so-good crunch.",
         "ingredients": [
             "2 tablespoons coconut oil",
             "1/2 medium yellow onion, chopped",
@@ -5580,7 +5993,7 @@ const RECIPES_DB = [
             "2 tablespoons olive oil",
             "3 tablespoons maple syrup",
             "3 tablespoons lime juice freshly squeezed",
-            "Salad ingredients",
+            "**Salad ingredients**",
             "6 oz baby spinach",
             "1 cup pecan halves toasted, some of them chopped finely",
             "\u2153 cup goat cheese crumbled"
@@ -5591,7 +6004,7 @@ const RECIPES_DB = [
             "Heat 2 tablespoons of olive oil in a large skillet on medium-high heat.",
             "Add sliced apples and cook them for about 3 minutes per side or until soft and pliable. Remove from heat.",
             "Add maple syrup and lime juice and stir everything together.",
-            "Assembly",
+            "**Assembly**",
             "I prefer to arrange the salad in individual bowls for presentation purposes.",
             "Add baby spinach to each salad bowl.",
             "Chop up half of the nuts. Add pecans on top of the spinach.",
@@ -5622,14 +6035,14 @@ const RECIPES_DB = [
         "title": "Fall Salad with Butternut Squash-Figs-Pomegranate-Arugula",
         "description": "Fall Salad with Butternut Squash, Figs, Pomegranate, and Arugula\nPrep Time 30\nminutes\nminutes\nCook Time 30\nminutes\nminutes\nTotal Time 1\nhour\nhour\nServings 4 people\nCalories 271kcal\nAuthor Julia",
         "ingredients": [
-            "Roasted Butternut Squash",
+            "**Roasted Butternut Squash**",
             "2 cups butternut squash peeled, seeded, cubed",
             "1 tablespoon olive oil",
             "salt and pepper",
-            "Balsamic Vinaigrette",
+            "**Balsamic Vinaigrette**",
             "\u00bc cup balsamic vinegar",
             "3 tablespoons olive oil",
-            "Fall salad",
+            "**Fall salad**",
             "5 oz arugula",
             "\u2153 cup dried figs sliced",
             "\u00bc cup almonds sliced, lightly toasted",
@@ -5637,16 +6050,16 @@ const RECIPES_DB = [
             "1 tablespoon fresh thyme"
         ],
         "directions": [
-            "How to roast butternut squash",
+            "**How to roast butternut squash**",
             "Preheat oven to 400 F.",
             "Make sure the butternut squash is peeled, seeded, and cubed. For more details, take a look at this\u00a0recipe on how to peel, seed, cube, and roast butternut squash.",
             "In a medium bowl, toss cubed butternut squash with olive oil, salt, and pepper.",
             "Spread the squash on a parchment paper-lined baking sheet in one layer, without overcrowding.",
             "Roast on the middle rack in the preheated oven at 400 F for about 20 or 30 minutes. Remove from oven.",
-            "Balsamic Vinaigrette",
+            "**Balsamic Vinaigrette**",
             "In a small bowl, make the balsamic vinaigrette by whisking together Balsamic vinegar with olive oil until emulsified.",
             "Tip: see the recipe notes below to review my recommendations about the best balsamic vinegar to use.",
-            "Fall Salad",
+            "**Fall Salad**",
             "In a large bowl, combine arugula with roasted butternut squash. Add sliced dried figs, lightly toasted sliced almonds (see recipe notes below), and pomegranate arils.",
             "Drizzle with the Balsamic Vinaigrette - you do not need to use the whole amount. Just a touch. Toss to combine.",
             "Top with fresh thyme."
@@ -5684,7 +6097,7 @@ const RECIPES_DB = [
             "2 tablespoons Dijon mustard",
             "\u00bc cup maple syrup",
             "1 small lime - juice freshly squeezed",
-            "Salad ingredients",
+            "**Salad ingredients**",
             "8 oz bow tie pasta",
             "1 cup pumpkin seeds toasted",
             "8 oz baby spinach",
@@ -5701,7 +6114,7 @@ const RECIPES_DB = [
             "Combine all salad dressing ingredients in a mason jar. Whisk well with a fork, until emulsified. Add more lime juice to taste.",
             "Cook pasta",
             "Bring a large pot of water to a boil. Add pasta and cook according to the package instructions. Drain and rinse with cold water.",
-            "Assembly",
+            "**Assembly**",
             "Combine all the salad ingredients in a large serving bowl. Add the dressing (just enough, you don't have to use all of it). Toss to combine.",
             "When serving, top with fresh thyme (leaves only, no sprigs)."
         ],
@@ -5729,8 +6142,9 @@ const RECIPES_DB = [
     {
         "id": "fall_sheet_pan_chicken_and_veggies",
         "title": "Fall Sheet Pan Chicken and Veggies",
-        "description": "My fall sheet pan chicken and veggies dish is topped with a honey tahini glaze and comes together effortlessly with minimal dishes, making it the perfect weeknight dinner or meal prep friendly lunch. This meal is absolutely delicious and packed in fiber, lean protein and healthy fats for a balanced lunch or dinner you can feel good about!\nPREP TIME 15 minutes\nCOOK TIME 25 minutes\nTOTAL TIME 40 minutes\nCOURSE Dinner, Lunch, Main Course, Main Dish\nCUISINE American\nSERVINGS 4\nCALORIES 426 kcal\nEQUIPMENT\n1 XL Baking Sheet (15x21)",
+        "description": "My fall sheet pan chicken and veggies dish is topped with a honey tahini glaze and comes together effortlessly with minimal dishes, making it the perfect weeknight dinner or meal prep friendly lunch. This meal is absolutely delicious and packed in fiber, lean protein and healthy fats for a balanced lunch or dinner you can feel good about!\nPREP TIME 15 minutes\nCOOK TIME 25 minutes\nTOTAL TIME 40 minutes\nCOURSE Dinner, Lunch, Main Course, Main Dish\nCUISINE American\nSERVINGS 4\nCALORIES 426 kcal\nEQUIPMENT",
         "ingredients": [
+            "1 XL Baking Sheet (15x21)",
             "1-1.5 Pounds Boneless and Skinless Chicken Breast Diced",
             "1 Pound Brussels sprouts Sliced in half",
             "1-2 Medium to Large Red Apples of ChoiceSliced or Cubed",
@@ -5740,7 +6154,7 @@ const RECIPES_DB = [
             "Garlic Powder To taste",
             "Onion Powder To Taste",
             "Smoked Paprika To Taste",
-            "For the Dressing/glaze:",
+            "**For the Dressing/glaze:**",
             "2 Tablespoons Tahini",
             "1 Tablespoon Honey",
             "1 Fresh Garlic Clove Minced",
@@ -5788,7 +6202,7 @@ const RECIPES_DB = [
             "8 oz farfalle pasta"
         ],
         "directions": [
-            "How to caramelize onions:",
+            "**How to caramelize onions:**",
             "Heat 1 tablespoon olive oil on medium-high heat in a large skillet. Add sliced onions and cook on high heat for about 10 minutes, constantly stirring with the spatula.",
             "The onions should start to brown, but without burning.",
             "Reduce heat to medium and continue cooking onions for 10 more minutes, continuing to stir, as onions brown even more without burning. At this point add a pinch of salt over onions.",
@@ -5796,15 +6210,15 @@ const RECIPES_DB = [
             "In total, you should have cooked onions for 30 minutes.",
             "Remove the skillet from heat and sprinkle the onions with a small amount of balsamic vinegar to deglaze the pan.",
             "Using a spatula, stir the onions, scraping the bottom of the pan and coating onions with a pinch of balsamic vinegar you just added. Remove caramelized onions to a plate.",
-            "How to cook mushrooms and spinach:",
+            "**How to cook mushrooms and spinach:**",
             "Heat 1 tablespoon olive oil in the same skillet on medium heat. Add sliced mushrooms. Sprinkle with a pinch of salt.",
             "Cook mushrooms for about 5 minutes, occasionally stirring, until mushrooms are soft.",
             "Add fresh spinach to the skillet and stir on low heat just until spinach starts to wilt.",
-            "How to make creamy pasta sauce:",
+            "**How to make creamy pasta sauce:**",
             "Add half-and-half to the mushroom and spinach mixture and bring to a quick boil. Immediately reduce to simmer.",
             "Add \u2154 cup of shredded Parmesan cheese and \u00bc teaspoon salt. Keep stirring while the sauce simmers until the cheese melts.",
             "Add caramelized onions back to the skillet with the pasta sauce.",
-            "Cook pasta:",
+            "**Cook pasta:**",
             "Cook pasta according to package instructions. Drain.",
             "Add cooked and drained farfalle pasta to the creamy sauce. Stir on low heat for a couple of minutes to reheat.",
             "If the sauce is too thick, add a small amount of half-and-half to thin it out. If it is too thin, add a small amount of shredded Parmesan cheese, and stir it in, while the sauce simmers.",
@@ -5832,23 +6246,23 @@ const RECIPES_DB = [
         "title": "Farfalle Pasta with Spinach-Mushrooms-Caramelized",
         "description": "Creamy Farfalle with Spinach, Mushrooms, and Caramelized Onions.\u00a0 The bow-tie pasta is perfectly matched with rich and buttery Parmesan sauce!\u00a0 Serve this easy meatless Italian meal as-is, or with grilled chicken!\u00a0 Satisfying and comforting dinner that a whole family will love!\nCourse Main Course\nCuisine Italian\nKeyword bow tie pasta, farfalle\nPrep Time 20\nminutes\nminutes\nCook Time 30\nminutes\nminutes\nTotal Time 50\nminutes\nminutes\nServings 4 people\nCalories 511kcal\nAuthor Julia",
         "ingredients": [
-            "Caramelized onions",
+            "**Caramelized onions**",
             "1 tablespoon olive oil",
             "3 yellow onions , large, sliced",
             "\u00bc teaspoon salt",
             "1 tablespoon balsamic vinegar",
-            "Creamy pasta sauce",
+            "**Creamy pasta sauce**",
             "1 tablespoon olive oil",
             "10 oz mushrooms , sliced (I used button mushrooms)",
             "6 oz spinach",
             "1 cup half-and-half",
             "1 cup Parmesan cheese , shredded",
             "\u00bc teaspoon salt",
-            "Pasta",
+            "**Pasta**",
             "8 oz farfalle pasta"
         ],
         "directions": [
-            "How to caramelize onions:",
+            "**How to caramelize onions:**",
             "Heat 1 tablespoon olive oil on medium-high heat in a large skillet. Add sliced onions and cook on high heat for about 10 minutes, constantly stirring with the spatula.",
             "The onions should start to brown, but without burning.",
             "Reduce heat to medium and continue cooking onions for 10 more minutes, continuing to stir, as onions brown even more without burning. At this point add a pinch of salt over onions.",
@@ -5856,15 +6270,15 @@ const RECIPES_DB = [
             "In total, you should have cooked onions for 30 minutes.",
             "Remove the skillet from heat and sprinkle the onions with a small amount of balsamic vinegar to deglaze the pan.",
             "Using a spatula, stir the onions, scraping the bottom of the pan and coating onions with a pinch of balsamic vinegar you just added. Remove caramelized onions to a plate.",
-            "How to cook mushrooms and spinach:",
+            "**How to cook mushrooms and spinach:**",
             "Heat 1 tablespoon olive oil in the same skillet on medium heat. Add sliced mushrooms. Sprinkle with a pinch of salt.",
             "Cook mushrooms for about 5 minutes, occasionally stirring, until mushrooms are soft.",
             "Add fresh spinach to the skillet and stir on low heat just until spinach starts to wilt.",
-            "How to make creamy pasta sauce:",
+            "**How to make creamy pasta sauce:**",
             "Add half-and-half to the mushroom and spinach mixture and bring to a quick boil. Immediately reduce to simmer.",
             "Add \u2154 cup of shredded Parmesan cheese and \u00bc teaspoon salt. Keep stirring while the sauce simmers until the cheese melts.",
             "Add caramelized onions back to the skillet with the pasta sauce.",
-            "Cook pasta:",
+            "**Cook pasta:**",
             "Cook pasta according to package instructions. Drain.",
             "Add cooked and drained farfalle pasta to the creamy sauce. Stir on low heat for a couple of minutes to reheat.",
             "If the sauce is too thick, add a small amount of half-and-half to thin it out. If it is too thin, add a small amount of shredded Parmesan cheese, and stir it in, while the sauce simmers.",
@@ -5902,7 +6316,7 @@ const RECIPES_DB = [
             "1/4 red onion, thinly sliced",
             "2 cups roasted pumpkin cubes",
             "Fresh parsley for garnish",
-            "Dressing:",
+            "**Dressing:**",
             "3 tbsp olive oil",
             "2 tbsp balsamic vinegar",
             "Salt & pepper"
@@ -5930,9 +6344,20 @@ const RECIPES_DB = [
     {
         "id": "festive_dip",
         "title": "Festive Dip!!",
-        "description": "1 red pepper, seeded & diced\n2 jalapenos- seeded & diced\n2 cups frozen corn, or 1 can of corn (drained)\n1/2 can diced olives,drained\n1 (16 oz) pkg cream cheese (softened)\n1 packet Hidden Valley Ranch dip seasoning mix.\nMix the ranch dip mix with the cream cheese and then fold in the remaining ingredients.\nYou can use low fat or non fat cream cheese or neufchatel cheese in place of the cream cheese.\nServe with Wheat thin crackers or raw veggies, chips, etc.",
-        "ingredients": [],
-        "directions": [],
+        "description": "",
+        "ingredients": [
+            "1 red pepper, seeded & diced",
+            "2 jalapenos- seeded & diced",
+            "2 cups frozen corn, or 1 can of corn (drained)",
+            "1/2 can diced olives,drained",
+            "1 (16 oz) pkg cream cheese (softened)",
+            "1 packet Hidden Valley Ranch dip seasoning mix."
+        ],
+        "directions": [
+            "Mix the ranch dip mix with the cream cheese and then fold in the remaining ingredients.",
+            "You can use low fat or non fat cream cheese or neufchatel cheese in place of the cream cheese.",
+            "Serve with Wheat thin crackers or raw veggies, chips, etc."
+        ],
         "notes": [],
         "tags": [
             "Appetizer"
@@ -5947,7 +6372,6 @@ const RECIPES_DB = [
         "title": "Feta-Parmesan Roasted Stuffed Dates",
         "description": "Indulge in the sweet and savory flavors of Feta-Parmesan Roasted Stuffed Dates, a delightful appetizer or snack recipe. Tender dates, stuffed with a creamy feta-Parmesan mixture, roasted to perfection, and finished with a drizzle of balsamic glaze.",
         "ingredients": [
-            "**Ingredients :**",
             "10 ounces pitted Medjool dates, sliced open on one side",
             "Honey, for drizzling",
             "3 ounces feta cheese, sliced into 1-inch pieces",
@@ -5963,7 +6387,6 @@ const RECIPES_DB = [
             "Pepper, to taste"
         ],
         "directions": [
-            "**Directions :**",
             "Preheat the oven to 375\u00b0F.",
             "In a bowl, combine walnuts, rosemary, scallions, parsley, olive oil, honey, orange zest, salt, and pepper.",
             "In a separate bowl, place honey and in a small plate, add shredded Parmesan.",
@@ -5972,7 +6395,7 @@ const RECIPES_DB = [
             "Arrange stuffed dates in a casserole dish and sprinkle with the prepared topping.",
             "Bake for 15 minutes until the dates are warm and topping is golden.",
             "Remove from the oven, drizzle with honey, and serve warm.",
-            "Health Benefits:",
+            "**Health Benefits:**",
             "1. Rich in Fiber: Dates support healthy digestion.",
             "2. Good Source of Calcium: Feta and Parmesan cheese provide calcium.",
             "3. Antioxidant-Rich: Dates contain antioxidants"
@@ -6000,21 +6423,23 @@ const RECIPES_DB = [
             "Avocado Corn Relish (recipe follows)",
             "Cilantro Lime Vinaigrette (recipe follows)",
             "Chipotle Ranch dressing (recipe follows)",
-            "Vegan Taco Meat:",
+            "**Vegan Taco Meat:**",
             "2 cups raw walnuts, pre-soaked",
             "1 T. ground cumin",
             "1 T. ground coriander",
             "1 \u00bd T. tamari",
             "Pulse in food processor until mixture is crumbly and looks like ground beef. Remove and serve.",
-            "Pico De Gallo:",
+            "**Pico De Gallo:**",
             "2 medium tomatoes, diced small",
             "\u00bd small onion, minced",
             "2 T. chopped cilantro",
             "\u00bd jalape\u00f1o pepper, finely chopped (optional)",
             "Juice of \u00bd a lime, or to taste",
-            "Pinch of sea salt",
+            "Pinch of sea salt"
+        ],
+        "directions": [
             "Combine ingredients in a bowl and stir. Let sit unrefrigerated for 15 min to allow flavors to meld. Serve.",
-            "Avocado Corn Relish:",
+            "**Avocado Corn Relish:**",
             "2 ripe Haas avocados, diced small",
             "2 T. red onion, finely chopped",
             "3 T. chopped cilantro",
@@ -6023,7 +6448,7 @@ const RECIPES_DB = [
             "Juice of \u00bd lime or lemon",
             "Pinch of sea salt",
             "Combine ingredients in a bowl, and stir until everything is mixed together well. Serve and enjoy.",
-            "Cilantro Line Vinaigrette:",
+            "**Cilantro Line Vinaigrette:**",
             "Juice of 2 limes",
             "2 tsp. honey",
             "3 T. finely chopped cilantro",
@@ -6031,7 +6456,7 @@ const RECIPES_DB = [
             "1/3 cup grapeseed or light sesame oil",
             "Small pinch of sea salt",
             "Whisk all ingredients in a bowl, and serve.",
-            "Chipotle Ranch:",
+            "**Chipotle Ranch:**",
             "\u00bd cup Veganaise",
             "1 T. chives, finely chopped (can sub with dried chives)",
             "\u00bd tsp. onion powder",
@@ -6046,7 +6471,6 @@ const RECIPES_DB = [
             "Servings : 4",
             "Ready in : 20 Minutes"
         ],
-        "directions": [],
         "notes": [],
         "tags": [
             "Salad"
@@ -6062,8 +6486,12 @@ const RECIPES_DB = [
     {
         "id": "fish_with_coconut_shallot_sauce",
         "title": "Fish with Coconut-Shallot Sauce",
-        "description": "3.8 (18)\nThis easy fish recipe with a flavorful garlic, thyme and coconut sauce is perfect for a healthy weeknight dinner. Serve with brown rice, to soak up the creamy sauce, and a green salad with vinaigrette.\nYield: 4 servings\nActive Time: 30 Total",
+        "description": "",
         "ingredients": [
+            "3.8 (18)",
+            "This easy fish recipe with a flavorful garlic, thyme and coconut sauce is perfect for a healthy weeknight dinner. Serve with brown rice, to soak up the creamy sauce, and a green salad with vinaigrette.",
+            "Yield: 4 servings",
+            "Active Time: 30 Total",
             "3 large cloves garlic, chopped",
             "3/4 teaspoon kosher salt, divided",
             "2 tablespoons extra-virgin olive oil, divided",
@@ -6079,12 +6507,12 @@ const RECIPES_DB = [
             "Position rack in upper third of oven; preheat broiler to high. Line a baking sheet or broiler pan with foil and coat with cooking spray.",
             "Mash garlic and 1/2 teaspoon salt on a cutting board with a fork to make a thick paste. Combine with 1 tablespoon oil, thyme and teaspoon pepper. Place the fish on the prepared pan and spread the paste on top of it.",
             "Heat the remaining 1 tablespoon oil in a medium skillet over medium heat. Add shallot and cook, stirring, for 30 seconds. Add coconut milk, increase heat to medium-high and bring to a simmer. Reduce heat to medium-low and simmer until reduced to 3/4 cup, about 6 minutes. Season with the remaining 1/4 teaspoon salt and pepper to taste.",
-            "Meanwhile, broil the fish until just cooked through, 6 to 8 minutes. Spoon the sauce on top, sprinkle with coconut and serve with lime.",
-            "Tips & Notes",
-            "For the most up-to-date information about choosing sustainable seafood, go to seafoodwatch.org.",
-            "Coconut: Look for thin flakes of dried unsweetened coconut called coconut chips in the produce section or near other coconut in large supermarkets and natural-foods stores. To toast: Place coconut chips or flakes in a small dry skillet over medium-low heat and cook, stirring constantly, until light brown in spots, 4 to 8 minutes."
+            "Meanwhile, broil the fish until just cooked through, 6 to 8 minutes. Spoon the sauce on top, sprinkle with coconut and serve with lime."
         ],
         "notes": [
+            "**Tips & Notes**",
+            "For the most up-to-date information about choosing sustainable seafood, go to seafoodwatch.org.",
+            "Coconut: Look for thin flakes of dried unsweetened coconut called coconut chips in the produce section or near other coconut in large supermarkets and natural-foods stores. To toast: Place coconut chips or flakes in a small dry skillet over medium-low heat and cook, stirring constantly, until light brown in spots, 4 to 8 minutes.",
             "**Nutrition**",
             "**Nutrition Per Serving**",
             "Calories 270",
@@ -6118,7 +6546,7 @@ const RECIPES_DB = [
         "title": "Fresh and Flavorful Thai Chicken Salad with Creamy Peanut Dressing",
         "description": "",
         "ingredients": [
-            "For the Dressing:",
+            "**For the Dressing:**",
             "\u00bd cup peanut butter",
             "\u00bc cup soy sauce",
             "\u00bc cup chicken broth",
@@ -6138,21 +6566,21 @@ const RECIPES_DB = [
             "\u00bd cup green onions, chopped",
             "\u00bc cup cilantro, roughly chopped",
             "\u00bd cup honey-roasted peanuts",
-            "1/3 cup slivered almonds",
-            "Guidelines:",
+            "1/3 cup slivered almonds"
+        ],
+        "directions": [
             "Get the peanut dressing ready.",
             "Combine the peanut butter, soy sauce, chicken broth, lime juice, honey, sriracha, garlic powder, toasted sesame oil, and ground ginger in a medium-sized mixing bowl. To make the seasoning more to your liking, add additional lime juice for tang or extra sriracha for added heat.",
             "After the dressing is well combined, reserve it.",
             "To assemble the salad, put the chopped red bell pepper, green and red cabbage, julienned carrots, mandarin oranges, green onions, and cilantro in a large mixing bowl.",
             "Gently toss the salad ingredients to make sure they are evenly distributed.",
-            "Include the Dressing:",
+            "**Include the Dressing:**",
             "Over the salad mixture, drizzle the prepared peanut dressing. Toss everything together until the salad is uniformly covered with the dressing, using tongs or two big spoons.",
             "Add Crunch: Just before serving, top with slivered almonds and honey-roasted peanuts for a delectable crunch.",
             "Serve: As a main meal or side dish, serve the Thai chicken salad right away. It is a light, refreshing supper that goes well with grilled meats or may be eaten on its own.",
-            "In summary:",
+            "**In summary:**",
             "Tossed in a creamy, nutty dressing, this Thai chicken salad is the ideal combination of crunchy veggies, soft chicken, and sweet, acidic mandarin oranges. Slivered almonds and honey-roasted peanuts provide a lovely texture that ties everything together. This salad is a great choice for a nutritious lunch or supper that can be prepared in less than 30 minutes thanks to its robust tastes and beneficial ingredients. Savor the flavorful flavors of Thai-inspired food in the comfort of your own home!"
         ],
-        "directions": [],
         "notes": [],
         "tags": [
             "Salad"
@@ -6170,16 +6598,16 @@ const RECIPES_DB = [
         "title": "Fruit Pizza",
         "description": "Prep time 45 mins\nCook time 25 mins\nTotal time 1 hour 10 mins\nThis is a winning combination of healthiness and the best summertime flavors.\nServes: 8",
         "ingredients": [
-            "Oatmeal Cookie:",
+            "**Oatmeal Cookie:**",
             "1\u00bd Cups of Oats (GF if you prefer)",
             "\u2153 Cup of Almond Flour",
             "3 Tablespoons of Honey",
             "3 Ripe, Mashed Bananas",
-            "Fruit Dip:",
+            "**Fruit Dip:**",
             "1 (32 ounce) container Low-Fat Vanilla Yogurt",
             "1 (8 ounce) container Lite Cool Whip",
             "1 (3.4 ounce) box dry instant vanilla pudding mix",
-            "Fruit:",
+            "**Fruit:**",
             "Strawberries",
             "Blueberries",
             "Raspberries",
@@ -6268,9 +6696,30 @@ const RECIPES_DB = [
     {
         "id": "german_pancakes",
         "title": "German pancakes",
-        "description": "2T. Butter melt\n1Granny Smith Apple 1/4\" thick sliced\n1T. Brown sugar\n3/4 t. Cinnamon\nCook 5 minutes\nRemove Apples wipe cast\niron skillet\nPreheat oven 425F\nIn bowl\n3/4 C. Flour\n3T. Granulated sugar\n3large room temp eggs\n3/4 C. Warm whole milk\nMix\nIn skillet\n2T. Butter\nAdd Apples\nPour batter on top\nBake 425 for 18-20 minutes\nSprinkle with powdered sugar.",
-        "ingredients": [],
-        "directions": [],
+        "description": "",
+        "ingredients": [
+            "2T. Butter melt",
+            "1Granny Smith Apple 1/4\" thick sliced",
+            "1T. Brown sugar",
+            "3/4 t. Cinnamon"
+        ],
+        "directions": [
+            "Cook 5 minutes",
+            "Remove Apples wipe cast iron skillet",
+            "Preheat oven 425F",
+            "In bowl",
+            "3/4 C. Flour",
+            "3T. Granulated sugar",
+            "3large room temp eggs",
+            "3/4 C. Warm whole milk",
+            "Mix",
+            "In skillet",
+            "2T. Butter",
+            "Add Apples",
+            "Pour batter on top",
+            "Bake 425 for 18-20 minutes",
+            "Sprinkle with powdered sugar."
+        ],
         "notes": [],
         "tags": [
             "Breakfast"
@@ -6285,9 +6734,33 @@ const RECIPES_DB = [
     {
         "id": "greek_chicken_orzo_salad",
         "title": "Greek Chicken Orzo Salad",
-        "description": "greek dressing ingredients\nextra virgin olive oil\nred wine or balsamic vinegar\nhoney\nDijon mustard\nshallots\nfresh herbs \u2013 dill, basil, oregano, and or thyme\ngreek chicken orzo salad ingredients\nchicken tenders\nbasil pesto\nbalsamic vinegar\ndry orzo pasta\nfeta cheese\ncherry tomatoes\nPersian cucumbers\nkalamata olives\nroasted bell peppers\npepperoncini\nGrill the chicken\nToss the chicken with basil pesto and balsamic vinegar and heat up your grill. Grill each chicken tender until fully cooked through. Once finished cooking, you can chop or shred the chicken to use in the salad.\nIf you are vegetarian or looking to serve this as more of a side dish. You can omit the chicken from the recipe.\nCook the orzo\nThe final step is to assemble the salad. Once the orzo is tossed with the dressing, add all the remaining ingredients, the grilled chicken from above, cubes of feta cheese, cherry tomatoes, cucumbers, olives, roasted red peppers, and all those fresh herbs. You can also add some pepperoncini if you enjoy as well.",
-        "ingredients": [],
-        "directions": [],
+        "description": "",
+        "ingredients": [
+            "greek dressing ingredients",
+            "extra virgin olive oil",
+            "red wine or balsamic vinegar",
+            "honey",
+            "Dijon mustard",
+            "shallots",
+            "fresh herbs \u2013 dill, basil, oregano, and or thyme",
+            "chicken tenders",
+            "basil pesto",
+            "balsamic vinegar",
+            "dry orzo pasta",
+            "feta cheese",
+            "cherry tomatoes",
+            "Persian cucumbers",
+            "kalamata olives",
+            "roasted bell peppers",
+            "pepperoncini"
+        ],
+        "directions": [
+            "Grill the chicken",
+            "Toss the chicken with basil pesto and balsamic vinegar and heat up your grill. Grill each chicken tender until fully cooked through. Once finished cooking, you can chop or shred the chicken to use in the salad.",
+            "If you are vegetarian or looking to serve this as more of a side dish. You can omit the chicken from the recipe.",
+            "Cook the orzo",
+            "The final step is to assemble the salad. Once the orzo is tossed with the dressing, add all the remaining ingredients, the grilled chicken from above, cubes of feta cheese, cherry tomatoes, cucumbers, olives, roasted red peppers, and all those fresh herbs. You can also add some pepperoncini if you enjoy as well."
+        ],
         "notes": [],
         "tags": [
             "Salad"
@@ -6303,8 +6776,9 @@ const RECIPES_DB = [
     {
         "id": "greek_lemon_chicken_soup",
         "title": "GREEK LEMON CHICKEN SOUP",
-        "description": "yield: 6 SERVINGS\nprep: 10 MINUTES\ncook: 20 MINUTES\ntotal: 30 MINUTES\nA quick and easy 30 minute chicken soup - so cozy and comforting! We swap out the noodles for cannellini beans for added protein and fiber with way less calories! And the added lemon juice is so refreshing and vibrant!\n5 stars (12 ratings)",
+        "description": "yield: 6 SERVINGS\nprep: 10 MINUTES\ncook: 20 MINUTES\ntotal: 30 MINUTES\nA quick and easy 30 minute chicken soup - so cozy and comforting! We swap out the noodles for cannellini beans for added protein and fiber with way less calories! And the added lemon juice is so refreshing and vibrant!",
         "ingredients": [
+            "5 stars (12 ratings)",
             "2 tablespoons olive oil, divided",
             "1 pound boneless skinless chicken thighs, cut into 1-inch chunks",
             "Kosher salt and freshly ground black pepper",
@@ -6399,11 +6873,8 @@ const RECIPES_DB = [
             "1 can (6 oz) canned salmon (such as Wild Planet), drained (optional)"
         ],
         "directions": [
-            "1.",
             "In a large bowl, stir together yogurt, vinegar, dill, sugar, salt and pepper. Set aside.",
-            "2.",
             "Heat wheat berries in a microwave-safe bowl for 2 minutes; stir and heat 1 more minute, until thawed.",
-            "3.",
             "Toss wheat berries, lentils, beets, lettuce, spinach and pistachios in bowl with dressing. Gently fold in salmon, if desired."
         ],
         "notes": [
@@ -6424,26 +6895,31 @@ const RECIPES_DB = [
     {
         "id": "harvest_fall_salad_with_caramelized_shallot_dressing",
         "title": "Harvest Fall Salad with Caramelized Shallot Dressing",
-        "description": "6 servings\nPrep Time: 30 minutes\nCook Time: 45 minutes\nTotal Time: 1 hour 15 minutes\nServings:",
+        "description": "",
         "ingredients": [
-            "\u25a2 1 cup dry wild rice blend",
-            "\u25a2 2 medium sweet potatoes (about 12 to 16 oz.), peeled and cubed",
-            "\u25a2 12 oz. shredded/shaved or thinly sliced Brussels Sprouts",
-            "\u25a2 3 to 4 Tbsp. extra-virgin olive oil, divided",
-            "\u25a2 1 tsp. kosher salt, divided",
-            "\u25a2 2 heaping cups shredded rotisserie chicken",
-            "\u25a2 1/2 tsp. black pepper, divided",
-            "\u25a2 1/2 cup chopped pecans",
-            "\u25a2 1/3 cup pomegranate arils",
+            "6 servings",
+            "Prep Time: 30 minutes",
+            "Cook Time: 45 minutes",
+            "Total Time: 1 hour 15 minutes",
+            "**Servings:**",
+            "1 cup dry wild rice blend",
+            "2 medium sweet potatoes (about 12 to 16 oz.), peeled and cubed",
+            "12 oz. shredded/shaved or thinly sliced Brussels Sprouts",
+            "3 to 4 Tbsp. extra-virgin olive oil, divided",
+            "1 tsp. kosher salt, divided",
+            "2 heaping cups shredded rotisserie chicken",
+            "1/2 tsp. black pepper, divided",
+            "1/2 cup chopped pecans",
+            "1/3 cup pomegranate arils",
             "Caramelized Shallot Dressing",
-            "\u25a2 5 Tbsp. extra-virgin olive oil, divided",
-            "\u25a2 1/2 cup thinly sliced shallots",
-            "\u25a2 1 garlic clove, minced",
-            "\u25a2 1/4 cup sherry vinegar",
-            "\u25a2 1 Tbsp. Dijon mustard",
-            "\u25a2 1 Tbsp. honey",
-            "\u25a2 1 tsp. chopped fresh rosemary",
-            "\u25a2 1/4 tsp. each kosher salt and black pepper"
+            "5 Tbsp. extra-virgin olive oil, divided",
+            "1/2 cup thinly sliced shallots",
+            "1 garlic clove, minced",
+            "1/4 cup sherry vinegar",
+            "1 Tbsp. Dijon mustard",
+            "1 Tbsp. honey",
+            "1 tsp. chopped fresh rosemary",
+            "1/4 tsp. each kosher salt and black pepper"
         ],
         "directions": [
             "Preheat oven to 425\u00baF.",
@@ -6482,7 +6958,7 @@ const RECIPES_DB = [
             "1/8 teaspoon pepper",
             "2 cups frozen shredded hash brown potatoes, thawed",
             "1/4 cup shredded Asiago cheese",
-            "FILLING:",
+            "**FILLING:**",
             "3 large eggs",
             "1 tablespoon minced fresh chives",
             "1/3 cup shredded Colby-Monterey Jack cheese",
@@ -6510,14 +6986,15 @@ const RECIPES_DB = [
         "title": "Hasselback Butternut Squash",
         "description": "BY: RENA\nSERVINGS: 4\nPREP: 15 MINUTES\nCOOK: 25 MINUTES\nTOTAL: 35 MINUTES",
         "ingredients": [
-            "**Ingredients Needed**",
             "Butternut squash: Learn more about butternut squash in this How to Cut Butternut Squash Tutorial.",
             "Butter: This can be switched out with avocado or olive oil. Even coconut oil will work.",
             "Garlic cloves, minced: Use fresh garlic.",
             "Honey: or you may use maple syrup as a vegan option.",
             "Chili flakes: optional if you don\u2019t like or have chili flakes.",
             "Fresh thyme: you can also use dried thyme.",
-            "Salt and freshly ground pepper",
+            "Salt and freshly ground pepper"
+        ],
+        "directions": [
             "Prep your squash \u2013 Cut the butternut squash evenly in half lengthwise. Scoop out the inside and discard. Then, peel off the skin. Place on a baking sheet, and cut side down.",
             "Make your glaze \u2013 In a small bowl, whisk melted butter with honey, garlic, chili, and thyme. Then, brush the squash with half the mix.",
             "Roast \u2013 Roast in the oven for 20-25 minutes. Remove from oven and allow to cool until ready to handle. 400 degrees",
@@ -6526,7 +7003,6 @@ const RECIPES_DB = [
             "Serve and enjoy",
             "CALORIES: 87KCALCARBOHYDRATES: 9GFAT: 5GSATURATED FAT: 3GCHOLESTEROL: 15MGSODIUM: 59MGPOTASSIUM: 9MGSUGAR: 8GVITAMIN A: 390IUVITAMIN C: 1.7MGCALCIUM: 6MGIRON: 0.2MG"
         ],
-        "directions": [],
         "notes": [],
         "tags": [
             "Side"
@@ -6543,7 +7019,6 @@ const RECIPES_DB = [
         "title": "Hawaiian pineapple cake!!!",
         "description": "I love tropical flavours in food, and with the pineapple and coconut in this Hawaiian cake, I of course love this recipe!\nIt\u2019s one of those cakes that gets better with time \u2013 it\u2019s just as delicious on day four as it is on day one!",
         "ingredients": [
-            "**Ingredients :**",
             "for cake",
             "2 cups flour",
             "1\u00be cup sugar",
@@ -6560,7 +7035,6 @@ const RECIPES_DB = [
             "a little salt"
         ],
         "directions": [
-            "**Directions :**",
             "Preheat oven to 180\u00b0C/350\u00b0F/Gas 4 and grease a 9 x 13 inch (33 cm x 23 cm) baking tray.Mix together flour, sugar, baking powder, eggs, chopped pineapple, juice, coconut and walnuts. In a large bowl, using your hand, until well blended.",
             "Transfer the baking mixture to a greased baking pan.Bake for 45 minutes until cooked through.) Cool completely in a pan.Use an electric mixer to put the cream cheese in a medium bowl and stir until it is creamy.Add butter, powdered sugar, vanilla extract, and salt, and blend with a blender until smooth.",
             "Spread the cream cheese over the cake and sprinkle with chopped walnuts.Cut into 24 servings and eat immediately.Or wrap the cake (no more cuts) and refrigerate before serving.",
@@ -6613,6 +7087,36 @@ const RECIPES_DB = [
         ],
         "images": [
             "images/hawaiian_style_teriyaki_chicken_1.jpg"
+        ]
+    },
+    {
+        "id": "healthy_banana_rasin_and_nut_cookies",
+        "title": "Healthy Banana Rasin and Nut Cookies",
+        "description": "",
+        "ingredients": [
+            "3 mashed bananas (blackberries)",
+            "1/3 cup apple sauce",
+            "2 cups oats",
+            "1/4 cup almond milk",
+            "1/4 cup raisins or nuts",
+            "1 cup good pieces of dark chocolate (Lily\u2019s brand is my favorite)",
+            "1 tsp vanilla",
+            "1 tsp cinnamon"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees.",
+            "Mix all ingredients together and",
+            "Cook for 15 to 20 minutes. NO SUGAR! NO FLOUR"
+        ],
+        "notes": [],
+        "tags": [
+            "Dessert"
+        ],
+        "methods": [
+            "Bake"
+        ],
+        "images": [
+            "images/healthy_banana_rasin_and_nut_cookies_1.jpg"
         ]
     },
     {
@@ -6721,37 +7225,6 @@ const RECIPES_DB = [
         ]
     },
     {
-        "id": "healthy_cookies_2",
-        "title": "HEALTHY COOKIES",
-        "description": "",
-        "ingredients": [
-            "\u00b03 mashed bananas (blackberries)",
-            "\u00b01/3 cup apple sauce",
-            "\u00b02 cups oats",
-            "\u00b01/4 cup almond milk",
-            "\u00b01/4 cup raisins or nuts",
-            "\u00b01 cup good pieces of dark chocolate (Lily\u2019s brand is my favorite)",
-            "\u00b01 tsp vanilla",
-            "\u00b01 tsp cinnamon"
-        ],
-        "directions": [
-            "Preheat oven to 350 degrees.",
-            "* Methods :",
-            "Mix all ingredients together and",
-            "Cook for 15 to 20 minutes. NO SUGAR! NO FLOUR"
-        ],
-        "notes": [],
-        "tags": [
-            "Dessert"
-        ],
-        "methods": [
-            "Bake"
-        ],
-        "images": [
-            "images/healthy_cookies_2_1.jpg"
-        ]
-    },
-    {
         "id": "healthy_cookies_no_sugar_no_flour",
         "title": "HEALTHY COOKIES - NO SUGAR! NO FLOUR!",
         "description": "",
@@ -6766,7 +7239,6 @@ const RECIPES_DB = [
             "1 tsp cinnamon"
         ],
         "directions": [
-            "**Instructions :**",
             "Preheat oven to 350 degrees.",
             "Preheat the Oven: Set your oven to preheat at 350\u00b0F (177\u00b0C).",
             "Prepare the Wet Ingredients: In a large mixing bowl, combine the mashed bananas and apple sauce. Stir them together until they are well mixed.",
@@ -6792,10 +7264,22 @@ const RECIPES_DB = [
         ]
     },
     {
-        "id": "healthy_cookies",
-        "title": "Healthy Cookies",
-        "description": "I don't eat sugar! Healthy cookies without flour and sugar! Energy dessert recipe!\nCooking recipe and ingredients:\nDried apricots 70 gr. (2.5 ounces).\nTop up with cold water for 15-20 minutes.\nWalnuts 50 gr. (1.8 ounces).\nChop with a knife.\nHazelnuts 70 gr. (2.5 ounces).\nPumpkin seeds 30 gr. (1 ounce).\nSunflower seeds 40 gr. (1.4 ounces).\nSesame seeds 20 gr. (0.7 ounces).\nFlaxseed 20 gr. (0.7 ounces).\nAlmonds 60 g (2 oz).\nPine nuts 20 gr. (0.7 ounces).",
-        "ingredients": [],
+        "id": "healthy_nut_seed_cookies",
+        "title": "Healthy Nut & Seed Cookies",
+        "description": "Healthy Cookies.  I don't eat sugar! Healthy cookies without flour and sugar! Energy dessert recipe!",
+        "ingredients": [
+            "Dried apricots 70 gr. (2.5 ounces).",
+            "Top up with cold water for 15-20 minutes.",
+            "Walnuts 50 gr. (1.8 ounces).",
+            "Chop with a knife.",
+            "Hazelnuts 70 gr. (2.5 ounces).",
+            "Pumpkin seeds 30 gr. (1 ounce).",
+            "Sunflower seeds 40 gr. (1.4 ounces).",
+            "Sesame seeds 20 gr. (0.7 ounces).",
+            "Flaxseed 20 gr. (0.7 ounces).",
+            "Almonds 60 g (2 oz).",
+            "Pine nuts 20 gr. (0.7 ounces)."
+        ],
         "directions": [
             "Mix.",
             "Add dried apricots.",
@@ -6814,7 +7298,7 @@ const RECIPES_DB = [
             "Bake"
         ],
         "images": [
-            "images/healthy_cookies_1.jpg"
+            "images/healthy_nut_seed_cookies_1.jpg"
         ]
     },
     {
@@ -6839,13 +7323,10 @@ const RECIPES_DB = [
             "1/8 teaspoon cayenne pepper"
         ],
         "directions": [
-            "1.",
             "Combine leeks, squash, parsnips, carrots, barley and garlic in slow cooker. Stir in broth, 4 cups water, tomatoes and thyme. Cover and cook on HIGH for 6 hours or LOW for 8 hours.",
-            "2.",
             "Stir in corn, heavy cream, parsley, salt, black pepper and cayenne. Let sit until corn is heated through.",
-            "Tip",
-            "For easy cleanup: spacer",
-            "Line your slow cooker with a disposable slow cooker liner. Add ingredients as directed in recipe. Once your dish is finished cooking, spoon the food out of your slow cooker and simply dispose of the liner. Do not lift or transport the disposable liner with food inside."
+            "TIP",
+            "For easy cleanup: Line your slow cooker with a disposable slow cooker liner. Add ingredients as directed in recipe. Once your dish is finished cooking, spoon the food out of your slow cooker and simply dispose of the liner. Do not lift or transport the disposable liner with food inside."
         ],
         "notes": [
             "**NUTRITION INFORMATION**",
@@ -6867,16 +7348,16 @@ const RECIPES_DB = [
         "title": "Hearty Veggie Rolls with Peanut Sauce",
         "description": "",
         "ingredients": [
-            "- 8 rice paper wrappers",
-            "- 1/2 cup shredded red cabbage",
-            "- 1 carrot, julienned",
-            "- 1 cucumber, julienned",
-            "- 1/2 avocado, sliced",
-            "- Fresh mint and cilantro leaves",
-            "- 1/4 cup peanut butter",
-            "- 2 tbsp soy sauce",
-            "- 1 tbsp lime juice",
-            "- 1 tsp maple syrup"
+            "8 rice paper wrappers",
+            "1/2 cup shredded red cabbage",
+            "1 carrot, julienned",
+            "1 cucumber, julienned",
+            "1/2 avocado, sliced",
+            "Fresh mint and cilantro leaves",
+            "1/4 cup peanut butter",
+            "2 tbsp soy sauce",
+            "1 tbsp lime juice",
+            "1 tsp maple syrup"
         ],
         "directions": [
             "1. Prepare all the veggies and arrange them on a plate for easy assembly.",
@@ -6884,7 +7365,7 @@ const RECIPES_DB = [
             "3. Arrange the veggies, avocado, mint, and cilantro in the center. Roll tightly like a burrito. Repeat with remaining wrappers.",
             "4. For the peanut dipping sauce, whisk together peanut butter, soy sauce, lime juice, and maple syrup until smooth. Add water to thin if necessary.",
             "5. Serve the spring rolls with the peanut dipping sauce.",
-            "Recipe Information: | Preparation Time: 20 mins | Cooking Time: 0 mins | Total Time: 20 mins | Calories per Serving: 200 | Number of Servings: 4"
+            "**Recipe Information: | Preparation Time: 20 mins | Cooking Time: 0 mins | Total Time: 20 mins | Calories per Serving: 200 | Number of Servings: 4**"
         ],
         "notes": [],
         "tags": [
@@ -6901,8 +7382,9 @@ const RECIPES_DB = [
     {
         "id": "hidden_white_bean_tomato_soup",
         "title": "Hidden White Bean Tomato Soup",
-        "description": "5-6 servings",
+        "description": "",
         "ingredients": [
+            "5-6 servings",
             "4 vine ripened tomatoes, cut in half",
             "1 \u00bd cup cherry tomatoes",
             "2 heads garlic, tops sliced off",
@@ -6940,17 +7422,15 @@ const RECIPES_DB = [
         "title": "High Protein Chopped Salad",
         "description": "February 3, 2020\nby\u00a0Rachel Maser - CleanFoodCrush\nSalads",
         "ingredients": [
-            "For the Pesto, in food processor, combine:",
+            "**For the Pesto, in food processor, combine:**",
             "2 cups lightly packed fresh basil leaves",
             "4 cloves garlic, peeled",
             "6 Tbsps pine nuts",
             "1/2 cup grated all-natural parmigiano-reggiano cheese (optional)",
             "1 Tbsp fresh lemon juice",
             "1/2 tsp each sea salt and pepper",
-            "Begin running food processor then:",
-            "Add: 1/2 cup extra virgin olive oil, in a slow stream until emulsified, and fully incorporated and smooth.",
-            "You will need to scrape sides often.",
-            "Salad Ingredients",
+            "**Begin running food processor then:**",
+            "**Salad Ingredients**",
             "1 lb. chicken breast halves",
             "1 tsp avocado oil, or olive oil",
             "4 large eggs",
@@ -6965,6 +7445,8 @@ const RECIPES_DB = [
             "sea salt and fresh ground black pepper, to taste"
         ],
         "directions": [
+            "Add: 1/2 cup extra virgin olive oil, in a slow stream until emulsified, and fully incorporated and smooth.",
+            "You will need to scrape sides often.",
             "Season your chicken breasts with sea salt and pepper on both sides.",
             "Heat a large skillet over medium heat, then add 1 tsp of oil.",
             "Cook chicken until golden brown and no longer pink in the center, about 4 minutes on each side.",
@@ -6989,11 +7471,20 @@ const RECIPES_DB = [
     {
         "id": "homemade_coleslaw",
         "title": "Homemade Coleslaw Recipe:",
-        "description": "\u00bc  cup homemade mayo\n1-2 tablespoons apple cider vinegar\n1 tablespoons Dijon mustard\n\u00bc tsp sea salt\n\u215b tsp pepper\n1  teaspoon honey\n1 package shredded cabbage coleslaw mix (3-4 cups)\n1 cup shredded carrots",
-        "ingredients": [],
+        "description": "",
+        "ingredients": [
+            "\u00bc  cup homemade mayo",
+            "1-2 tablespoons apple cider vinegar",
+            "1 tablespoons Dijon mustard",
+            "\u00bc tsp sea salt",
+            "\u215b tsp pepper",
+            "1  teaspoon honey",
+            "1 package shredded cabbage coleslaw mix (3-4 cups)",
+            "1 cup shredded carrots"
+        ],
         "directions": [
             "Mix first 6 ingredients and combine with coleslaw mix and carrots.",
-            "Homemade Mayo Recipe:",
+            "**Homemade Mayo Recipe:**",
             "1 large egg yolk at room temperature",
             "1 Tbsp Dijon mustard",
             "1 Tbsp raw apple cider vinegar",
@@ -7005,7 +7496,7 @@ const RECIPES_DB = [
             "Then, slowly add the oil while moving the blender up and down slightly for 1-2 min or until the liquid becomes thick and has a Mayo consistency.",
             "Taste the mayonnaise and adjust with additional salt and vinegar or lemon juice.",
             "Store in mason jars",
-            "Cabbage has a TON of nutrients and benefits including:",
+            "**Cabbage has a TON of nutrients and benefits including:**",
             "\ud83d\udc9aSulfur & Vitamin C - helps detox heavy metals",
             "\ud83d\udc9aCholine and folate - Improves bile flow",
             "\ud83d\udc9aAntioxidants - Lowers inflammation and helps heal the liver",
@@ -7060,8 +7551,11 @@ const RECIPES_DB = [
     {
         "id": "homemade_pita_bread_recipe",
         "title": "Homemade pita bread recipe",
-        "description": "4.9 from 136 reviews\nAuthor: Suzy Karadsheh Total Time: 1 hour 48 minutes Yield: 8 whole pitas 1x\nMy family's authentic, fool-proof pita bread recipe is easy to make and requires a few ingredients you may already have on hand! Mix up the very simple dough, let it rise, and experience the magic of fresh, warm, perfectly puffy homemade pita bread. Baking",
+        "description": "",
         "ingredients": [
+            "4.9 from 136 reviews",
+            "Author: Suzy Karadsheh Total Time: 1 hour 48 minutes Yield: 8 whole pitas 1x",
+            "My family's authentic, fool-proof pita bread recipe is easy to make and requires a few ingredients you may already have on hand! Mix up the very simple dough, let it rise, and experience the magic of fresh, warm, perfectly puffy homemade pita bread. Baking",
             "Water",
             "2 tsp active dry yeast",
             "1/2 tsp sugar",
@@ -7079,7 +7573,14 @@ const RECIPES_DB = [
             "To bake pita in the oven:\u00a0Heat the oven to 475 degrees F and place a heavy-duty baking pan or large cast iron skillet on the middle rack to heat. Working in batches, place the rolled-out pitas directly on the hot baking baking sheet (I was only able to fit 2 at a time). Bake for 2 minutes on one side, and then, using a pair of tongs, carefully turn pita over to bake for 1 minute on the other side.\u00a0 The pita will puff nicely and should be ready. Remove from the oven and cover the baked pitas with a clean towel while you work on the rest of the pitas.",
             "To cook pita on stovetop:\u00a0Heat a cast iron skillet over medium-high heat. (Test by adding a couple drops of water to the skillet, the skillet is ready when the beads of water sizzle immediately). Drizzle a tiny bit of extra virgin olive oil and wipe off any excess. Working with one pita at a time, lay a rolled-out pita on the skillet and bake for 30 seconds, until bubbles start to form. Using a spatula, flip the pita over and cook for 1-2 minutes on\u00a0 the other side, until large toasted spots appear on the underside. Flip again and cook another 1-2 minutes to toast the other side. The pita is ready when it puffs up forming a pocket (sometimes, with this method, the pita may not puff or may only form a small pocket. Try pressing the surface of the pita gently with a clean towel). Keep baked pita covered with a clean towel while you work on the",
             "0 seconds of 1 minute, 43 seconds",
-            "Next Up"
+            "**Next Up**",
+            "**Method: Baked**",
+            "Cuisine: Mediterranean",
+            "<iframe title=\"nutritional information\" id=\"nutrifox-label-101776\" src=\"https://nutrifox.com/embed/label/101776\" style=\"width:100%;border-width:0;\"></iframe>",
+            "Keywords: Pita bread, homemade pita bread, bread",
+            "**DID YOU MAKE THIS RECIPE?**",
+            "Tag @themediterraneandish on Instagram and hashtag it #themediterraneandish",
+            "Find it online: https://www.themediterraneandish.com/homemade-pita-bread-recipe/"
         ],
         "notes": [
             "**NOTES**",
@@ -7090,14 +7591,7 @@ const RECIPES_DB = [
             "Visit our online shop to browse quality Mediterranean ingredients, including extra virgin olive oils and all-natural and organic spices",
             "Prep Time: 1 hour 45 mins",
             "Cook Time: 3 mins",
-            "Category: Pita Bread",
-            "Method: Baked",
-            "Cuisine: Mediterranean",
-            "<iframe title=\"nutritional information\" id=\"nutrifox-label-101776\" src=\"https://nutrifox.com/embed/label/101776\" style=\"width:100%;border-width:0;\"></iframe>",
-            "Keywords: Pita bread, homemade pita bread, bread",
-            "DID YOU MAKE THIS RECIPE?",
-            "Tag @themediterraneandish on Instagram and hashtag it #themediterraneandish",
-            "Find it online: https://www.themediterraneandish.com/homemade-pita-bread-recipe/"
+            "Category: Pita Bread"
         ],
         "tags": [
             "Bread"
@@ -7145,7 +7639,7 @@ const RECIPES_DB = [
             "Bake in the preheated oven until golden brown, 15 to 20 minutes.",
             "Step 8: Cool and Serve",
             "Remove from the oven and let cool for 5 minutes before serving.",
-            "Recipe Tips:",
+            "**Recipe Tips:**",
             "You can use all-purpose flour, but bread flour makes a superior crust.",
             "If you have a pizza stone, dust it with cornmeal and use it instead of a greased pizza pan."
         ],
@@ -7233,7 +7727,7 @@ const RECIPES_DB = [
             "3. Preheat the oven to 400F.",
             "4. Toss the potatoes with the second Tbsp of olive oil and a pinch of salt. Place them on a foil-lined half sheet pan and lay the chicken breasts on top. Add the broccoli to the pan, then drizzle the reserved sauce over top.",
             "5. Bake 35 minutes or until the chicken is cooked through and the potatoes are tender.",
-            "*If you prefer your broccoli to still have some crispness to it, don\u2019t add the broccoli to the pan until 15 minutes into the cooking time."
+            "If you prefer your broccoli to still have some crispness to it, don\u2019t add the broccoli to the pan until 15 minutes into the cooking time."
         ],
         "notes": [],
         "tags": [
@@ -7290,7 +7784,7 @@ const RECIPES_DB = [
         "title": "Iced Lemon Lavender Shortbread Cookies",
         "description": "",
         "ingredients": [
-            "For the Cookies:",
+            "**For the Cookies:**",
             "2 \u00bd cups all-purpose flour, spooned and leveled",
             "\u00be cup powdered sugar",
             "\u00bc tsp coarse Kosher salt (use half if using table salt)",
@@ -7299,24 +7793,24 @@ const RECIPES_DB = [
             "\u00be cup cold unsalted butter, cut into tablespoons",
             "\u00bd tsp vanilla extract",
             "2 tbsp fresh or bottled lemon juice",
-            "For the Icing:",
+            "**For the Icing:**",
             "1 cup powdered sugar",
             "2 tsp meringue powder",
             "2 \u00bd \u2013 3 tbsp fresh or bottled lemon juice",
             "Dried edible lavender or lemon zest, for decorating"
         ],
         "directions": [
-            "Prepare the Dough:",
+            "**Prepare the Dough:**",
             "In a food processor, combine flour, powdered sugar, salt, lemon zest, and lavender. Pulse to mix.",
             "While the processor is running, add butter one tablespoon at a time until the mixture is crumbly.",
             "Add vanilla extract and lemon juice. Process until the dough forms a ball.",
             "Transfer the dough to a lined 8 or 9-inch square baking pan. Press evenly into the pan.",
             "Cut into squares and prick with a fork. Chill in the refrigerator for 30 minutes.",
-            "Baking:",
+            "**Baking:**",
             "Preheat the oven to 300\u00b0F (150\u00b0C).",
             "Bake the chilled dough for about 45 minutes until golden and firm.",
             "Recut the cookies immediately after baking. Allow to cool completely in the pan.",
-            "Prepare the Icing:",
+            "**Prepare the Icing:**",
             "Mix powdered sugar with meringue powder. Gradually add lemon juice until smooth.",
             "Dip the tops of the cookies into the icing, then sprinkle with lavender or lemon zest.",
             "Allow the icing to set for at least 4-6 hours."
@@ -7355,12 +7849,13 @@ const RECIPES_DB = [
         ],
         "directions": [
             "Heat a Dutch oven over medium heat. Add curry powder, garam masala and mustard seeds and toast, stirring, until the spices begin to darken, about 1 minute. Transfer to a small bowl.",
-            "Add oil, onion, garlic, ginger and salt to the pot and cook, stirring, until softened, 3 to 4 minutes. Stir in eggplant, cauliflower, tomatoes, chickpeas, water and the reserved spices. Bring to a simmer. Cover, reduce heat and cook, stirring occasionally, until the vegetables are tender, 15 to 20 minutes. Top each serving with a dollop of yogurt, if desired.",
-            "Tips:",
+            "Add oil, onion, garlic, ginger and salt to the pot and cook, stirring, until softened, 3 to 4 minutes. Stir in eggplant, cauliflower, tomatoes, chickpeas, water and the reserved spices. Bring to a simmer. Cover, reduce heat and cook, stirring occasionally, until the vegetables are tender, 15 to 20 minutes. Top each serving with a dollop of yogurt, if desired."
+        ],
+        "notes": [
+            "**Tips:**",
             "Note: Hot Madras curry powder, located in the spice aisle of most supermarkets, adds a pleasant level of heat. Substitute regular curry powder for a milder flavor.",
             "Tip: Garam masala is a flavorful, fragrant blend of dry-roasted ground spices. It\u2019s in the spice section of most supermarkets and specialty stores."
         ],
-        "notes": [],
         "tags": [
             "Entree"
         ],
@@ -7464,10 +7959,27 @@ const RECIPES_DB = [
     },
     {
         "id": "iszechuan_vegetable_and_tofu_stir_fry",
-        "title": "ISzechuan Vegetable and Tofu Stir-Fry",
-        "description": "Serves 4\n30 minutes or fewer\n30 minutes or fewer   A stir-fry is everything you want a weeknight meal to be: fast, filling and fabulous. To ensure success, maintain a fairly high flame and keep the ingredients moving almost constantly in the pan. Serve over rice or noodles.\n2 tsp. peanut oil\n1 small onion, cut in half, then thinly sliced\n\u00bc cup red bell pepper strips\n\u00bd cup vegetable broth\n\u00bd cup fresh or frozen broccoli florets\n\u00bd cup baby carrots\n2 scallions (white and light green parts), slivered\n2 Tbs. grated fresh ginger\n1 tsp. red pepper flakes, or to taste\n\u00bd tsp. honey\n2 \u00bd Tbs. hoisin sauce\n1 lb. firm or baked tofu, well drained and cut into strips\nIn wok or large, heavy skillet, heat oil over medium-high heat. Add onion and bell pepper and stir-fry 1 minute. Add broth and bring to a boil. Add broccoli, carrots and scallions and stir-fry 2 minutes. Add ginger, red pepper flakes and honey; cover and cook until vegetables are crisp-tender, about 2 minutes.\nMeanwhile, in small bowl, mix hoisin sauce and 2 1/2 Tbs. water until well blended. Add to stir-fry and mix gently, then add tofu strips and toss gently. Cook, stirring occasionally, just until heated through. Serve right away",
-        "ingredients": [],
-        "directions": [],
+        "title": "Iszechuan Vegetable and Tofu Stir-Fry",
+        "description": "Serves 4",
+        "ingredients": [
+            "30 minutes or fewer   A stir-fry is everything you want a weeknight meal to be: fast, filling and fabulous. To ensure success, maintain a fairly high flame and keep the ingredients moving almost constantly in the pan. Serve over rice or noodles.",
+            "2 tsp. peanut oil",
+            "1 small onion, cut in half, then thinly sliced",
+            "\u00bc cup red bell pepper strips",
+            "\u00bd cup vegetable broth",
+            "\u00bd cup fresh or frozen broccoli florets",
+            "\u00bd cup baby carrots",
+            "2 scallions (white and light green parts), slivered",
+            "2 Tbs. grated fresh ginger",
+            "1 tsp. red pepper flakes, or to taste",
+            "\u00bd tsp. honey",
+            "2 \u00bd Tbs. hoisin sauce",
+            "1 lb. firm or baked tofu, well drained and cut into strips"
+        ],
+        "directions": [
+            "In wok or large, heavy skillet, heat oil over medium-high heat. Add onion and bell pepper and stir-fry 1 minute. Add broth and bring to a boil. Add broccoli, carrots and scallions and stir-fry 2 minutes. Add ginger, red pepper flakes and honey; cover and cook until vegetables are crisp-tender, about 2 minutes.",
+            "Meanwhile, in small bowl, mix hoisin sauce and 2 1/2 Tbs. water until well blended. Add to stir-fry and mix gently, then add tofu strips and toss gently. Cook, stirring occasionally, just until heated through. Serve right away"
+        ],
         "notes": [],
         "tags": [
             "Entree"
@@ -7520,9 +8032,24 @@ const RECIPES_DB = [
     {
         "id": "italian_eggplant_rago\u00fbt",
         "title": "Italian Eggplant Rago\u00fbt",
-        "description": "Serves 6\nThe meaty texture of eggplant makes it an ideal ingredient in vegetarian entr\u00e9es, and its antioxidant content makes it a nutritional powerhouse. Eggplant is rich in a phenolic compound called chlorogenic acid, a potent free-radical scavenger that confers antiviral, antimicrobial, and cholesterol-lowering benefits. Prep tip: Salting the eggplant before cooking it draws out any bitter juices and helps the vegetable hold its shape when cooked.\n2 medium eggplants, halved\n2 Tbs. salt\n2 Tbs. olive oil\n1 large onion, chopped (2 cups)\n2 cloves garlic, minced (2 tsp.)\n1 15-oz. can diced tomatoes, drained\n1 15-oz. can chickpeas, rinsed and drained\n2 Tbs. capers\n1 tsp. sugar\n\u00bc cup chopped fresh parsley\nScoop out center and seeds of eggplant halves. Cut eggplants into 3/4-inch dice. Toss with salt in bowl, and let stand 30 minutes. Drain, rinse well, and pat dry.\nHeat olive oil in large saucepan over medium heat. Add onion, and saut\u00e9 5minutes, or until softened. Add garlic, and cook 1 minute more, or until fragrant. Stir in tomatoes, chickpeas, and eggplants. Reduce heat to medium-low, and cook 15 minutes, or until eggplants are tender but not mushy. Stir in capers and sugar, and cook 2 minutes more. Fold in parsley, and season with black pepper.\n`",
-        "ingredients": [],
-        "directions": [],
+        "description": "Serves 6\nThe meaty texture of eggplant makes it an ideal ingredient in vegetarian entr\u00e9es, and its antioxidant content makes it a nutritional powerhouse. Eggplant is rich in a phenolic compound called chlorogenic acid, a potent free-radical scavenger that confers antiviral, antimicrobial, and cholesterol-lowering benefits. Prep tip: Salting the eggplant before cooking it draws out any bitter juices and helps the vegetable hold its shape when cooked.",
+        "ingredients": [
+            "2 medium eggplants, halved",
+            "2 Tbs. salt",
+            "2 Tbs. olive oil",
+            "1 large onion, chopped (2 cups)",
+            "2 cloves garlic, minced (2 tsp.)",
+            "1 15-oz. can diced tomatoes, drained",
+            "1 15-oz. can chickpeas, rinsed and drained",
+            "2 Tbs. capers",
+            "1 tsp. sugar",
+            "\u00bc cup chopped fresh parsley",
+            "Scoop out center and seeds of eggplant halves. Cut eggplants into 3/4-inch dice. Toss with salt in bowl, and let stand 30 minutes. Drain, rinse well, and pat dry."
+        ],
+        "directions": [
+            "Heat olive oil in large saucepan over medium heat. Add onion, and saut\u00e9 5minutes, or until softened. Add garlic, and cook 1 minute more, or until fragrant. Stir in tomatoes, chickpeas, and eggplants. Reduce heat to medium-low, and cook 15 minutes, or until eggplants are tender but not mushy. Stir in capers and sugar, and cook 2 minutes more. Fold in parsley, and season with black pepper.",
+            "`"
+        ],
         "notes": [],
         "tags": [
             "Side"
@@ -7564,39 +8091,6 @@ const RECIPES_DB = [
         ]
     },
     {
-        "id": "japanese_cucumber_salad",
-        "title": "Japanese cucumber salad",
-        "description": "This Japanese inspired cool, crisp salad is as elegant and well balanced as it is simple.\nSERVINGS\n4\nYIELD\n4 servings, about 1 cup each\nPREP TIME\n15 mins\nTOTAL TIME\n15 mins",
-        "ingredients": [
-            "2 medium cucumbers, or 1 large English cucumber",
-            "1/4 cup rice vinegar",
-            "1 teaspoon sugar",
-            "1/4 teaspoon salt",
-            "2 tablespoons sesame seeds, toasted (see Tip)"
-        ],
-        "directions": [
-            "1.",
-            "Peel cucumbers to leave alternating green stripes. Slice the cucumbers in half lengthwise; scrape the seeds out with a spoon. Using a food processor or sharp knife, cut into very thin slices. Place in a double layer of paper towel and squeeze gently to remove any excess moisture.",
-            "2.",
-            "Combine vinegar, sugar and salt in a medium bowl, stirring to dissolve. Add the cucumbers and sesame seeds; toss well to combine. Serve immediately.",
-            "Tip:",
-            "1.",
-            "Tip: To toast sesame seeds, heat a small dry skillet over low heat. Add sesame seeds and stir constantly until golden and fragrant, about 2 minutes. Transfer to a small bowl and let cool."
-        ],
-        "notes": [
-            "**NUTRITION INFORMATION**",
-            "Per Serving: cal. (kcal) 46, Fat, total (g) 2, carb. (g) 4, fiber (g) 1, pro. (g) 1, sodium (mg) 147, Potassium (mg) 137, iron (mg) 6.3, Vegetables () 1, Fat () 0.5, Percent Daily Values are based on a 2,000 calorie diet"
-        ],
-        "tags": [
-            "Salad"
-        ],
-        "methods": [
-            "Saut\u00e9",
-            "Boil"
-        ],
-        "images": []
-    },
-    {
         "id": "kale_apple_salad",
         "title": "Kale Apple Salad",
         "description": "May 21, 2022\nby\u00a0Rachel Maser - CleanFoodCrush\nPersons 4",
@@ -7607,7 +8101,7 @@ const RECIPES_DB = [
             "1 large green apple, cored and diced",
             "1/4 cup pecans, roughly chopped",
             "1/4 cup dried cranberries",
-            "Dressing:",
+            "**Dressing:**",
             "2 tsps Dijon mustard",
             "2 Tbsps mayonnaise or plain Greek yogurt",
             "sea salt and freshly ground black pepper, to taste, about 1/2 teaspoon each",
@@ -7633,9 +8127,9 @@ const RECIPES_DB = [
     {
         "id": "kale_salad_w__avocado_tahini_sauce",
         "title": "Kale salad w/ avocado tahini sauce",
-        "description": "Prep time 25 mins\nTotal time 25 mins\nAuthor: Jeanine Donofrio\nRecipe type: salad\nServes: serves 2 as a meal, 3-4 as a side",
+        "description": "Prep time 25 mins\nTotal time 25 mins\nAuthor: Jeanine Donofrio",
         "ingredients": [
-            "avocado tahini sauce:",
+            "**avocado tahini sauce:**",
             "1 small avocado (or \u00bd a large one)",
             "1\u00bd tablespoons tahini",
             "2 tablespoons lemon juice",
@@ -7643,7 +8137,7 @@ const RECIPES_DB = [
             "1 tablespoon olive oil",
             "2 tablespoons water",
             "salt and pepper",
-            "salad:",
+            "**salad:**",
             "2 cups kale, thinly sliced",
             "2 cups shaved brussels sprouts",
             "\u00bc cup radishes, sliced into matchsticks",
@@ -7653,6 +8147,8 @@ const RECIPES_DB = [
             "1 cup chopped basil"
         ],
         "directions": [
+            "**Recipe type: salad**",
+            "Serves: serves 2 as a meal, 3-4 as a side",
             "Place avocado, tahini, lemon juice, garlic, and olive oil into a food processor. Pulse, then add water salt and pepper and blend until creamy.",
             "In a large bowl, toss the kale, brussels sprouts, radishes and carrots with half the dressing. Mix well, then let it sit at room temp for about 15 minutes.",
             "Add white beans, almonds, basil and as much of the remaining dressing as you like. Taste and add more salt, pepper, and lemon juice as needed."
@@ -7672,9 +8168,32 @@ const RECIPES_DB = [
     {
         "id": "keto_caramelized_onion_and_gruy\u00e9re_quiche",
         "title": "KETO CARAMELIZED ONION AND GRUY\u00c9RE QUICHE",
-        "description": "For the crust\n1 1/2 cups almond flour\n1/2 teaspoon garlic powder\n1/4 teaspoon salt\n1/4 cup (1/2 stick) butter, melted\nFor the filling\n1/4 cup (1/2 stick) butter\n1 onion, thinly sliced\n4 ounces Gruy\u00e9re, grated\n6 Pete & Gerry's eggs\n2/3 cup heavy cream\n1 teaspoon salt\n1/2 teaspoon freshly ground black pepper\nTO MAKE THE CRUST\nPreheat the oven to 325F. In a medium bowl, whisk together almond flour, garlic powder, and salt. Stir in melted butter until the dough resembles coarse crumbs.\nTurn the loose dough out into a 9-inch glass or ceramic pie pan. Press firmly into the bottom and up the sides. Use a flat-bottomed glass or measuring cup to even out the bottom of the crust.\nCrimp edges of crust and prick the bottom all over with a fork. Bake 10-12 minutes, until slightly puffed and just starting to brown. Remove from oven and set aside to cool.\nTO MAKE THE FILLING\nIn a large skillet over medium-low heat, melt butter. Add onions and season with salt and pepper. Cook, stirring frequently, until onions are soft and caramelized, about 15-20 minutes. Take care not to let onions get crispy.\nFill the cooled crust with caramelized onions and half of the grated Gruy\u00e9re cheese.\nIn a large bowl, whisk together eggs, heavy cream, and a pinch each of salt and pepper. Pour egg mixture over the onions and cheese. Sprinkle the top of the quiche with remaining grated cheese.\nBake quiche 35-40 minutes or until the filling is just set in the center. Remove and let cool for 15 minutes before serving.",
-        "ingredients": [],
-        "directions": [],
+        "description": "For the crust",
+        "ingredients": [
+            "1 1/2 cups almond flour",
+            "1/2 teaspoon garlic powder",
+            "1/4 teaspoon salt",
+            "1/4 cup (1/2 stick) butter, melted",
+            "For the filling",
+            "1/4 cup (1/2 stick) butter",
+            "1 onion, thinly sliced",
+            "4 ounces Gruy\u00e9re, grated",
+            "6 Pete & Gerry's eggs",
+            "2/3 cup heavy cream",
+            "1 teaspoon salt",
+            "1/2 teaspoon freshly ground black pepper"
+        ],
+        "directions": [
+            "**TO MAKE THE CRUST**",
+            "Preheat the oven to 325F. In a medium bowl, whisk together almond flour, garlic powder, and salt. Stir in melted butter until the dough resembles coarse crumbs.",
+            "Turn the loose dough out into a 9-inch glass or ceramic pie pan. Press firmly into the bottom and up the sides. Use a flat-bottomed glass or measuring cup to even out the bottom of the crust.",
+            "Crimp edges of crust and prick the bottom all over with a fork. Bake 10-12 minutes, until slightly puffed and just starting to brown. Remove from oven and set aside to cool.",
+            "**TO MAKE THE FILLING**",
+            "In a large skillet over medium-low heat, melt butter. Add onions and season with salt and pepper. Cook, stirring frequently, until onions are soft and caramelized, about 15-20 minutes. Take care not to let onions get crispy.",
+            "Fill the cooled crust with caramelized onions and half of the grated Gruy\u00e9re cheese.",
+            "In a large bowl, whisk together eggs, heavy cream, and a pinch each of salt and pepper. Pour egg mixture over the onions and cheese. Sprinkle the top of the quiche with remaining grated cheese.",
+            "Bake quiche 35-40 minutes or until the filling is just set in the center. Remove and let cool for 15 minutes before serving."
+        ],
         "notes": [],
         "tags": [
             "Breakfast"
@@ -7689,12 +8208,28 @@ const RECIPES_DB = [
     {
         "id": "korean_buckwheat_noodle_bowl",
         "title": "Korean Buckwheat Noodle Bowl",
-        "description": "Serves 4\n30 minutes or fewer\nPear is an unexpected addition to this subtly sweet and spicy dish.\n4 oz. dried Korean buckwheat noodles or soba noodles\n1 firm pear, such as Bosc, chopped\n1 cup julienned English cucumber\n\u00bd cup grated daikon radish\n3 Tbs. low-sodium soy sauce\n1 \u00bd Tbs. toasted sesame oil\n2 tsp. sugar\n2 tsp. chile paste\n2 cloves garlic, minced (2 tsp.)\n2 hard-boiled eggs, cut into wedges\n1 green onion, chopped (2 Tbs.)\n1 Tbs. toasted sesame seeds\n1. Cook noodles according to package directions. Drain, and rinse under cold water, then drain again. Transfer to bowl, and toss with pear, cucumber, and radish.\n2. Whisk soy sauce, sesame oil, sugar, chile paste, and garlic with 1 Tbs. water in small bowl. Pour sauce over noodles, and toss to mix. Serve garnished with egg wedges, green onion, and sesame seeds.",
-        "ingredients": [],
-        "directions": [],
+        "description": "Serves 4",
+        "ingredients": [
+            "30 minutes or fewer",
+            "4 oz. dried Korean buckwheat noodles or soba noodles",
+            "1 firm pear, such as Bosc, chopped",
+            "1 cup julienned English cucumber",
+            "\u00bd cup grated daikon radish",
+            "3 Tbs. low-sodium soy sauce",
+            "1 \u00bd Tbs. toasted sesame oil",
+            "2 tsp. sugar",
+            "2 tsp. chile paste",
+            "2 cloves garlic, minced (2 tsp.)",
+            "2 hard-boiled eggs, cut into wedges",
+            "1 green onion, chopped (2 Tbs.)",
+            "1 Tbs. toasted sesame seeds"
+        ],
+        "directions": [
+            "Cook noodles according to package directions. Drain, and rinse under cold water, then drain again. Transfer to bowl, and toss with pear, cucumber, and radish.",
+            "Whisk soy sauce, sesame oil, sugar, chile paste, and garlic with 1 Tbs. water in small bowl. Pour sauce over noodles, and toss to mix. Serve garnished with egg wedges, green onion, and sesame seeds."
+        ],
         "notes": [
-            "**nutritional information**",
-            "Per 1 1/4-cup serving:",
+            "**nutritional information per 1 1/4-cup serving:**",
             "Calories: 247",
             "Protein: 8 g",
             "Total Fat: 10 g",
@@ -7798,8 +8333,9 @@ const RECIPES_DB = [
     {
         "id": "leek_asparagus_herb_soup",
         "title": "Leek, Asparagus & Herb Soup",
-        "description": "http://www.eatingwell.com/recipes/leek_asparagus_herb_soup.html\nFrom EatingWell:\u00a0 Spring 2003, The Essential EatingWell Cookbook (2004)\nLike a bouquet of fresh vegetables, this light but soothing soup is just the thing on a cool spring evening. It is important to cut the green vegetables into small pieces so they cook quickly, while retaining their bright color.\n6 servings, about 1 cup each | Active Time: 25 minutes | Total Time: 40 minutes",
+        "description": "http://www.eatingwell.com/recipes/leek_asparagus_herb_soup.html\nFrom EatingWell:\u00a0 Spring 2003, The Essential EatingWell Cookbook (2004)\nLike a bouquet of fresh vegetables, this light but soothing soup is just the thing on a cool spring evening. It is important to cut the green vegetables into small pieces so they cook quickly, while retaining their bright color.",
         "ingredients": [
+            "6 servings, about 1 cup each | Active Time: 25 minutes | Total Time: 40 minutes",
             "1 tablespoon extra-virgin olive oil",
             "2 medium leeks, trimmed, washed and finely chopped (1 1/2 cups)",
             "2 cloves garlic, minced",
@@ -8093,10 +8629,76 @@ const RECIPES_DB = [
     {
         "id": "lemon_zest_cake",
         "title": "Lemon Zest Cake",
-        "description": "Citrus fruit Use 75 milliliters (2.5 fluid ounces) of lemon juice.\nSugar, powdered: 100 grams (3.5 ounces)\nHow to Follow\nGet the Batter Ready:\nGas oven temperature should be 160\u00b0C, or 320\u00b0F.\nThree eggs, ninety grams of sugar, and a sprinkle of salt should be beaten to a pale, fluffy consistency in a large bowl.\nToss in 170 grams of melted butter and the zest from two lemons. Thoroughly combine.\nBefore folding the flour and baking powder combination into the egg mixture, sift the flour and baking powder together.\nTo get a smooth batter, add 2 tablespoons of milk and stir until combined.\nTo bake, first butter and flour a cake pan. Then pour in the batter.\nFor 50 minutes, or until a toothpick inserted in the middle comes out clean, bake in a preheated oven.\nThe Lemon Soak Must Be Prepared:\nWhile the cake is in the oven, dissolve the powdered sugar in 75 milliliters of lemon juice.\nTo soak the cake, take it out of the oven as soon as it's finished baking and use a toothpick to poke tiny holes all over the surface.\nAfter the cake has heated through, pour the lemon soak over it and let it soak in completely.\nWrap the cake in plastic and set it aside to cool entirely.\nExtra Details\nTips for Serving:\nTop the cake with vanilla ice cream or whipped cream and serve.\nFor this eye-catching splash of color, top with some fresh berries or more zest from one lemon.\nHints for Recipes:\nWhen adding melted butter to batter, wait until it has cooled somewhat and melted completely.\nJust a little touch of lemon essence in the batter will make it taste much more lemony.\nHealth Advantages:\nAntioxidants and vitamin C are found in lemons.\nCakes made with eggs have more protein and structure.\nFacts Regarding Nutrition:\nMeals that are free of nuts and suitable for vegetarians:\nAbout 220 calories\nThree grams of protein\nSugar: 30 grams\nLevel of fat: 10 grams\nFibre: 1 gram\nThe cake can keep for up to three days if sealed in a container and kept at room temperature.\nKeeps for up to five days in the fridge. Allow to cool to room temperature before to consumption.\nArguments in Favor of This Recipe:\nDelicious, invigorating lemon taste every morsel.\nThe ezoic\nThe lemon soak gives it a moist and delicate texture.\nEasy to make using basic materials.\nA delightful harmony of tartness and sweetness.\nIn summary\nA lovely and revitalizing treat, this Lemon Zest Cake will lift your spirits. The delicate, buttery cake and the tangy lemon soak harmonize in the most exquisite way. Anyone who like sweets with citrus flavors will adore this option. This cake is so delicious and moist that you will want to cook it again and again.\nQuestions and Answers about Ezoic\nWould lime work as a substitute for lemon?\nIt is possible to use another citrus fruit in place of the lime.\n\u00d7\nThe ezoic\nIs all-purpose flour an acceptable substitute for cake flour?\nSure, albeit the cake's texture might be a little thicker.\n\u00d7\nThe ezoic\nWhat are some alternatives to powdered sugar that I may use in the soak?\nGranulated sugar is one option, albeit it may not dissolve completely.\nWould it be possible to create this cake without gluten?\nSure, just swap out the regular flour with a gluten-free mix and use the same amount.\n\u00d7 \u00cf\nTo what extent is the cake too sugary?\nYou may adjust the batter's sugar content or the lemon soak's sugar content to suit your taste.\nThe ezoic\nCould poppy seeds be included into the batter?\nSure thing! You might enhance the texture and taste using poppy seeds.\nWhat can I do if the cake starts to cling to the pan?\nCoat the pan well with oil and flour, or line it with parchment paper for quicker removal.\nThe ezoic\nCould I sub in another kind of sugar for the batter?\nFor a richer taste, you may add brown sugar; however, it will change the color.\nWhich cake pan would work best with this recipe?\nThis recipe is perfect for a loaf pan or a circular cake pan.\nIs it possible to freeze cake?\nYes, you may freeze it for up to three months after securely wrapping it in plastic and foil. Allow to thaw at room temperature before to consumption.",
-        "ingredients": [],
-        "directions": [],
-        "notes": [],
+        "description": "",
+        "ingredients": [
+            "Citrus fruit Use 75 milliliters (2.5 fluid ounces) of lemon juice.",
+            "Sugar, powdered: 100 grams (3.5 ounces)"
+        ],
+        "directions": [
+            "Cake directions",
+            "**Get the Batter Ready:**",
+            "Gas oven temperature should be 160\u00b0C, or 320\u00b0F.",
+            "Three eggs, ninety grams of sugar, and a sprinkle of salt should be beaten to a pale, fluffy consistency in a large bowl. Just a little touch of lemon essence in the batter will make it taste much more lemony",
+            "Toss in 170 grams of melted butter and the zest from two lemons. Thoroughly combine. When adding melted butter to batter, wait until it has cooled somewhat and melted completely",
+            "Before folding the flour and baking powder combination into the egg mixture, sift the flour and baking powder together.",
+            "To get a smooth batter, add 2 tablespoons of milk and stir until combined.",
+            "To bake, first butter and flour a cake pan. Then pour in the batter.",
+            "For 50 minutes, or until a toothpick inserted in the middle comes out clean, bake in a preheated oven.",
+            "Lemon Soak Directions: While the cake is in the oven, dissolve the powdered sugar in 75 milliliters of lemon juice.",
+            "**Final assembly:**",
+            "To soak the cake, take it out of the oven as soon as it's finished baking and use a toothpick to poke tiny holes all over the surface.",
+            "After the cake has heated through, pour the lemon soak over it and let it soak in completely.",
+            "Wrap the cake in plastic and set it aside to cool entirely."
+        ],
+        "notes": [
+            "**Tips for Serving:**",
+            "Top the cake with vanilla ice cream or whipped cream and serve.",
+            "For this eye-catching splash of color, top with some fresh berries or more zest from one lemon.",
+            "Health Advantages:",
+            "Antioxidants and vitamin C are found in lemons.",
+            "Cakes made with eggs have more protein and structure.",
+            "Facts Regarding Nutrition:",
+            "Meals that are free of nuts and suitable for vegetarians:",
+            "About 220 calories",
+            "Three grams of protein",
+            "Sugar: 30 grams",
+            "Level of fat: 10 grams",
+            "Fibre: 1 gram",
+            "The cake can keep for up to three days if sealed in a container and kept at room temperature.",
+            "Keeps for up to five days in the fridge. Allow to cool to room temperature before to consumption.",
+            "Arguments in Favor of This Recipe:",
+            "Delicious, invigorating lemon taste every morsel.",
+            "In summary",
+            "A lovely and revitalizing treat, this Lemon Zest Cake will lift your spirits. The delicate, buttery cake and the tangy lemon soak harmonize in the most exquisite way. Anyone who like sweets with citrus flavors will adore this option. This cake is so delicious and moist that you will want to cook it again and again.",
+            "Questions and Answers about Ezoic",
+            "Would lime work as a substitute for lemon?",
+            "It is possible to use another citrus fruit in place of the lime.",
+            "\u00d7",
+            "The ezoic",
+            "Is all-purpose flour an acceptable substitute for cake flour?",
+            "Sure, albeit the cake's texture might be a little thicker.",
+            "\u00d7",
+            "The ezoic",
+            "What are some alternatives to powdered sugar that I may use in the soak?",
+            "Granulated sugar is one option, albeit it may not dissolve completely.",
+            "Would it be possible to create this cake without gluten?",
+            "Sure, just swap out the regular flour with a gluten-free mix and use the same amount.",
+            "\u00d7 \u00cf",
+            "To what extent is the cake too sugary?",
+            "You may adjust the batter's sugar content or the lemon soak's sugar content to suit your taste.",
+            "The ezoic",
+            "Could poppy seeds be included into the batter?",
+            "Sure thing! You might enhance the texture and taste using poppy seeds.",
+            "What can I do if the cake starts to cling to the pan?",
+            "Coat the pan well with oil and flour, or line it with parchment paper for quicker removal.",
+            "The ezoic",
+            "Could I sub in another kind of sugar for the batter?",
+            "For a richer taste, you may add brown sugar; however, it will change the color.",
+            "Which cake pan would work best with this recipe?",
+            "This recipe is perfect for a loaf pan or a circular cake pan.",
+            "Is it possible to freeze cake?",
+            "Yes, you may freeze it for up to three months after securely wrapping it in plastic and foil. Allow to thaw at room temperature before to consumption."
+        ],
         "tags": [
             "Dessert"
         ],
@@ -8110,13 +8712,12 @@ const RECIPES_DB = [
         "title": "Loaded Smashed Tater Tots",
         "description": "PREP: 15 minutes\nCOOK: 20 minutes\nTOTAL: 35 minutes\nSERVINGS: 30 Tater Tots",
         "ingredients": [
-            "**Ingredients\u00a0\u2028\u202830x Frozen Tater Tots/Mini Hash Browns(see notes)**",
-            "\u25a2",
-            "50g / 1/2 cup Cheddar, grated (or as needed)",
-            "\u25a2 \u2028\u2028100g / 3.5oz Sour Cream, or as needed",
-            "\u25a2 \u2028\u20285 slices of Streaky Bacon, cooked, cooled and finely diced",
-            "\u25a2 \u2028\u202830-45g / 1-1.5oz Pickled Jalape\u00f1os, finely diced",
-            "\u25a2 \u2028\u20281-2 tbsp finely diced Fresh Chives"
+            "**30x Frozen Tater Tots/Mini Hash Browns(see notes)**",
+            "**50g / 1/2 cup Cheddar, grated (or as needed)**",
+            "**100g / 3.5oz Sour Cream, or as needed**",
+            "5 slices of Streaky Bacon, cooked, cooled and finely diced",
+            "30-45g / 1-1.5oz Pickled Jalape\u00f1os, finely diced",
+            "1-2 tbsp finely diced Fresh Chives"
         ],
         "directions": [
             "Preheat the oven to 200C/400F.",
@@ -8207,8 +8808,8 @@ const RECIPES_DB = [
         ],
         "notes": [
             "**Notes**",
-            "*I like to use a rice cooker to cook rice. Or if I\u2019m in a real hurry, I get the frozen brown rice at Whole Foods, run it under lukewarm water until thawed, then drain.",
-            "** Water can be substituted, if oil free",
+            "I like to use a rice cooker to cook rice. Or if I\u2019m in a real hurry, I get the frozen brown rice at Whole Foods, run it under lukewarm water until thawed, then drain.",
+            "Water can be substituted, if oil free",
             "If you can't find mung beans, sub in lentils, chickpeas, or any protein you like."
         ],
         "tags": [
@@ -8225,8 +8826,20 @@ const RECIPES_DB = [
     {
         "id": "mango_salsa_salmon",
         "title": "Mango Salsa Salmon",
-        "description": "5 from 5 votes\nMango Salsa Salmon with Coconut Rice is a quick and healthy weeknight meal! Tender salmon seasoned with lime is Air Fried to perfection and topping with a sweet and tangy mango salsa.\nPREP TIME: 10 minutes\nCOOK TIME: 20 minutes\nTOTAL TIME: 30 minutes\nSERVINGS: 6\nCALORIES: 661\nCourse: Main Course\nEQUIPMENT\nAir Fryer or Oven, for salmon air fryer cooking method\nSheet Pan for salmon oven bake cooking method\nSauce Pan for rice",
+        "description": "",
         "ingredients": [
+            "5 from 5 votes",
+            "Mango Salsa Salmon with Coconut Rice is a quick and healthy weeknight meal! Tender salmon seasoned with lime is Air Fried to perfection and topping with a sweet and tangy mango salsa.",
+            "PREP TIME: 10 minutes",
+            "COOK TIME: 20 minutes",
+            "TOTAL TIME: 30 minutes",
+            "SERVINGS: 6",
+            "CALORIES: 661",
+            "Course: Main Course",
+            "EQUIPMENT",
+            "Air Fryer or Oven, for salmon air fryer cooking method",
+            "Sheet Pan for salmon oven bake cooking method",
+            "Sauce Pan for rice",
             "LIME SALMON",
             "6 salmon fillets, skinless",
             "2 tbsp olive oil",
@@ -8290,7 +8903,7 @@ const RECIPES_DB = [
         "ingredients": [
             "6 Chicken Thighs",
             "Seasonings to your liking: onion powder, garlic powder, Cajun seasoning, pepper, paprika, Italian herbs, olive oil",
-            "**Sauce Ingredients**",
+            "Sauce Ingredients",
             "2 tbsp Butter",
             "2 Tbsp fresh minced Garlic",
             "1/2 cup Chicken broth",
@@ -8307,7 +8920,7 @@ const RECIPES_DB = [
             "Add your cheese while constantly stirring.",
             "Pour sauce over chicken and bake in the oven for 30-35 minutes at 400\u00b0F.",
             "Serve over Mashed Potatoes.",
-            "Recipe Notes",
+            "**Recipe Notes**",
             "You can adjust the level of spiciness by increasing or decreasing the amount of red pepper flakes.",
             "For a healthier option, you can use half-and-half or milk instead of heavy cream, though the sauce may be slightly thinner.",
             "This dish pairs wonderfully with pasta, rice, or crusty bread to soak up the delicious sauce."
@@ -8430,7 +9043,7 @@ const RECIPES_DB = [
         "title": "Mediterranean Egg Muffins",
         "description": "",
         "ingredients": [
-            "Here\u2019s what you\u2019ll need to make these flavorful egg muffins:",
+            "**Here\u2019s what you\u2019ll need to make these flavorful egg muffins:**",
             "(Makes 12 muffins, serves 6)",
             "6 large eggs",
             "1/4 cup (60g) crumbled goat cheese\u00a0(or vegan feta for a dairy-free option)",
@@ -8442,7 +9055,9 @@ const RECIPES_DB = [
             "1/4 teaspoon dried oregano\u00a0(optional)",
             "Cooking spray\u00a0or olive oil (for greasing the muffin tin)",
             "Step-by-Step Instructions",
-            "1. Preheat the Oven",
+            "1. Preheat the Oven"
+        ],
+        "directions": [
             "Preheat your oven to 350\u00b0F (175\u00b0C). Lightly grease a 12-cup muffin tin with cooking spray or olive oil.",
             "2. Prepare the Egg Mixture",
             "In a large mixing bowl, whisk the eggs until smooth.",
@@ -8453,15 +9068,15 @@ const RECIPES_DB = [
             "Bake for 15-18 minutes, or until the egg muffins are set and lightly golden on top.",
             "5. Cool and Serve",
             "Let the muffins cool in the tin for 5 minutes, then carefully remove them using a spoon or knife.",
-            "Serve warm or store for later.",
-            "Tips for the Best Egg Muffins",
+            "Serve warm or store for later."
+        ],
+        "notes": [
+            "**Tips for the Best Egg Muffins**",
             "Use Fresh Ingredients: Fresh spinach and high-quality sun-dried tomatoes make a big difference.",
             "Customize the Fillings: Add diced bell peppers, mushrooms, or cooked bacon for extra flavor.",
             "Make It Vegan: Use a plant-based egg substitute and vegan cheese.",
             "Store Properly: Keep the muffins in an airtight container in the fridge for up to 4 days or freeze for up to 2 months"
         ],
-        "directions": [],
-        "notes": [],
         "tags": [
             "Breakfast"
         ],
@@ -8475,9 +9090,30 @@ const RECIPES_DB = [
     {
         "id": "mediterranean_orzo_pasta_salad",
         "title": "Mediterranean Orzo Pasta Salad:",
-        "description": "\u25a21 1/2 cups orzo\n\u25a21 pint grape or cherry tomatoes, halved\n\u25a22 green onions, trimmed and chopped (both white and green parts)\n\u25a21 small green bell pepper, chopped\n\u25a21 English cucumber\n\u25a21 packed cup chopped parsley\n\u25a21/2 packed cup chopped fresh dill\n\u25a21/4 cup pitted Kalamata olives, sliced\n\u25a22 teaspoons capers\n\u25a2Feta cheese (optional), for garnish\nFor the Dressing\n\u25a21 lemon, zested and juiced\n\u25a21/4 cup extra virgin olive oil\n\u25a21 garlic clove, minced\n\u25a21 teaspoon dried oregano\n\u25a2Kosher salt\n\u25a2Black pepper",
-        "ingredients": [],
-        "directions": [],
+        "description": "",
+        "ingredients": [
+            "Salad",
+            "1 1/2 cups orzo",
+            "1 pint grape or cherry tomatoes, halved",
+            "2 green onions, trimmed and chopped (both white and green parts)",
+            "1 small green bell pepper, chopped",
+            "1 English cucumber",
+            "1 packed cup chopped parsley",
+            "1/2 packed cup chopped fresh dill",
+            "1/4 cup pitted Kalamata olives, sliced",
+            "2 teaspoons capers",
+            "Feta cheese (optional), for garnish",
+            "Dressing",
+            "1 lemon, zested and juiced",
+            "1/4 cup extra virgin olive oil",
+            "1 garlic clove, minced",
+            "1 teaspoon dried oregano",
+            "Kosher salt",
+            "Black pepper"
+        ],
+        "directions": [
+            "Mix and prepare dressing"
+        ],
         "notes": [],
         "tags": [
             "Salad"
@@ -8492,8 +9128,15 @@ const RECIPES_DB = [
     {
         "id": "mediterranean_pasta_salad",
         "title": "Mediterranean Pasta Salad",
-        "description": "5 from 43 votes\nJuicy tomatoes and cucumbers along with salty olives, red onion, tender pasta, and spinach are tossed together with creamy feta cheese in a homemade dressing for a crave-able salad that's so easy to make!\nPrep Time 25 minutes\nTotal Time 25 minutes\nCourse: Main Course, Pasta, SaladCuisine: American, Mediterranean Servings: 10 Calories: 271kcal Author: Donya Mullins\nEquipment\nStrainer",
+        "description": "",
         "ingredients": [
+            "5 from 43 votes",
+            "Juicy tomatoes and cucumbers along with salty olives, red onion, tender pasta, and spinach are tossed together with creamy feta cheese in a homemade dressing for a crave-able salad that's so easy to make!",
+            "Prep Time 25 minutes",
+            "Total Time 25 minutes",
+            "Course: Main Course, Pasta, SaladCuisine: American, Mediterranean Servings: 10 Calories: 271kcal Author: Donya Mullins",
+            "Equipment",
+            "Strainer",
             "12 ounces pasta",
             "1 cup halved grape tomatoes",
             "1 cup sliced and quartered cucumbers",
@@ -8651,7 +9294,14 @@ const RECIPES_DB = [
             "Salt and pepper to taste",
             "Olive oil spray"
         ],
-        "directions": [],
+        "directions": [
+            "Preheat the Oven: Set your oven to four hundred degrees F which creates the crispy cheese edges you want Line a large baking sheet with parchment paper for easy cleanup and to help the crisps lift right off once baked",
+            "Mix the Filling: Combine chopped spinach crumbled feta flour Parmesan eggs garlic powder oregano salt and pepper in a medium bowl Mix with a spoon or with clean hands until you cannot spot any dry flour and the spinach pieces are evenly coated Every bit of spinach should grab some cheese and flour so the crisps bake up consistently",
+            "Shape the Crisps: Use two spoons or a small cookie scoop to drop small mounds of the mixture onto your lined baking sheet Leave space between each so they have plenty of room to spread as they bake Aim for about one and a half inches wide for classic crisp size",
+            "Spray with Olive Oil: Hold the spray close and give each mound a light quick coat of olive oil Spray helps the tops bubble and brown without making the bottoms greasy",
+            "Bake to Perfection: Slide the tray in the center of your preheated oven Set a timer for ten minutes and check at that point Crisps should be golden on the edges and the cheese fully melted If needed give them an extra two minutes but watch closely to avoid burning",
+            "Cool before Serving: Let the crisps rest on the tray for three minutes to finish setting This helps them firm up so you can pick them up in one piece Serve warm or at room temperature"
+        ],
         "notes": [],
         "tags": [
             "Appetizer"
@@ -8667,7 +9317,7 @@ const RECIPES_DB = [
     {
         "id": "mexican_cabbage_soup",
         "title": "Mexican Cabbage Soup",
-        "description": "Ready In 20 m\nRecipe By: Breana Lai\n\u201cBased on a popular weight-loss plan, this healthy cabbage soup recipe gets tons of flavor and a metabolism-boosting kick from spicy chiles.\u201d",
+        "description": "Ready In 20 m",
         "ingredients": [
             "2 tablespoons extra-virgin olive oil",
             "2 cups chopped onions",
@@ -8689,6 +9339,8 @@ const RECIPES_DB = [
             "Crumbled queso fresco, nonfat plain Greek yogurt and/or diced avocado for garnish"
         ],
         "directions": [
+            "**Recipe By: Breana Lai**",
+            "\u201cBased on a popular weight-loss plan, this healthy cabbage soup recipe gets tons of flavor and a metabolism-boosting kick from spicy chiles.\u201d",
             "1",
             "Heat oil in a large soup pot (8-quart or larger) over medium heat. Add onions, carrot, celery, poblano (or bell pepper) and garlic; cook, stirring frequently, until softened, 10 to 12 minutes. Add cabbage; cook, stirring occasionally, until slightly softened, about 10 minutes more. Add tomato paste, chipotle, cumin and coriander; cook, stirring, for 1 minute more.",
             "2",
@@ -8742,9 +9394,26 @@ const RECIPES_DB = [
     {
         "id": "mexican_pizza_ingredients",
         "title": "Mexican Pizza Ingredients",
-        "description": "Tortillas (see below for notes on flour vs corn)\nRefried Beans\nGround Beef\nTaco Seasoning\nEnchilada Sauce\nColby Jack Cheese\nDiced Tomatoes\nOil\nHow to Make Mexican Pizza\nThe first step is to make the taco meat.\u00a0 You can use ground beef or ground turkey and whatever taco seasoning you like.\u00a0 Just make it like you would for taco night.\nNext you want to get the tortillas nice and crispy.\u00a0 If you have a griddle or large skillet that fits more than one, break it out for this.\u00a0 Add a little bit of oil to your pan and heat the tortillas over a medium high heat.\u00a0 You want to flip them frequently so they don\u2019t burn.\u00a0 But cook for 4-5 minutes until they are crispy.\nNow you start assembling.\u00a0 Spread a layer of refried beans along the bottom of the tortilla.\u00a0 Top with a layer of taco meat.\nOnce you have your filling, add the second tortilla and top with enchilada sauce.\u00a0 You don\u2019t want too much, or it will get soggy.\nAdd a few diced tomatoes and an even layer of cheese over the sauce.\nNow you bake until the cheese is melted, the tortillas are crispy and everything is hot!\nI like to let them sit for a minute before I slice them so it doesn\u2019t make a huge mess.\u00a0 Serve with salsa, sour cream, guacamole, or just as is!",
-        "ingredients": [],
-        "directions": [],
+        "description": "",
+        "ingredients": [
+            "Tortillas (see below for notes on flour vs corn)",
+            "Refried Beans",
+            "Ground Beef",
+            "Taco Seasoning",
+            "Enchilada Sauce",
+            "Colby Jack Cheese",
+            "Diced Tomatoes",
+            "Oil"
+        ],
+        "directions": [
+            "The first step is to make the taco meat.\u00a0 You can use ground beef or ground turkey and whatever taco seasoning you like.\u00a0 Just make it like you would for taco night.",
+            "Next you want to get the tortillas nice and crispy.\u00a0 If you have a griddle or large skillet that fits more than one, break it out for this.\u00a0 Add a little bit of oil to your pan and heat the tortillas over a medium high heat.\u00a0 You want to flip them frequently so they don\u2019t burn.\u00a0 But cook for 4-5 minutes until they are crispy.",
+            "Now you start assembling.\u00a0 Spread a layer of refried beans along the bottom of the tortilla.\u00a0 Top with a layer of taco meat.",
+            "Once you have your filling, add the second tortilla and top with enchilada sauce.\u00a0 You don\u2019t want too much, or it will get soggy.",
+            "Add a few diced tomatoes and an even layer of cheese over the sauce.",
+            "Now you bake until the cheese is melted, the tortillas are crispy and everything is hot!",
+            "I like to let them sit for a minute before I slice them so it doesn\u2019t make a huge mess.\u00a0 Serve with salsa, sour cream, guacamole, or just as is!"
+        ],
         "notes": [],
         "tags": [
             "Entree"
@@ -8818,15 +9487,8 @@ const RECIPES_DB = [
             "2 teaspoons Italian seasoning or 1 teaspoon each dried basil and garlic powder",
             "1 cup dry rigatoni or penne pasta",
             "2 cups baby spinach",
-            "Shaved Parmesan and/or fresh basil (optional)"
-        ],
-        "directions": [
-            "In a Dutch oven combine the tomatoes, water, beans, broth, sweet pepper, seasoning, and pasta. Bring to boiling over high heat. Reduce heat to medium. Cook, covered, for 10 minutes, stirring occasionally, just until pasta is barely tender.",
-            "Stir in spinach. Ladle into soup bowls. Top with Parmesan cheese and/or fresh basil.",
-            "From the Test Kitchen",
-            "PANTRY:",
-            "Italian seasoning, vegetable or chicken stock",
-            "SHOPPING LIST:",
+            "Shaved Parmesan and/or fresh basil (optional)",
+            "**SHOPPING LIST:**",
             "diced tomatoes with Italian herbs: $1.89",
             "yellow sweet pepper $2.00",
             "dry rigatoni: $0.30",
@@ -8834,8 +9496,15 @@ const RECIPES_DB = [
             "baby spinach: $0.75",
             "total: $6.13",
             "cost per serving: $1.53",
-            "CHANGE UP:",
+            "**CHANGE UP:**",
             "For a heartier version of this soup, substitute browned Italian sausage or cut-up chicken for the garbanzo beans. Vary the greens by swapping chopped fresh chard or kale for the spinach."
+        ],
+        "directions": [
+            "In a Dutch oven combine the tomatoes, water, beans, broth, sweet pepper, seasoning, and pasta. Bring to boiling over high heat. Reduce heat to medium. Cook, covered, for 10 minutes, stirring occasionally, just until pasta is barely tender.",
+            "Stir in spinach. Ladle into soup bowls. Top with Parmesan cheese and/or fresh basil.",
+            "From the Test Kitchen",
+            "**PANTRY:**",
+            "Italian seasoning, vegetable or chicken stock"
         ],
         "notes": [
             "**Nutrition Facts (Minestrone)**",
@@ -8857,18 +9526,23 @@ const RECIPES_DB = [
         "description": "Cheesecakes\u2014Creamy, Dreamy & Made to Impress!",
         "ingredients": [
             "**Crust:**",
-            "- 1 cup crushed vanilla wafers",
-            "- 3 tbsp melted butter",
-            "Cheesecake filling:",
-            "- 8 oz cream cheese, softened",
-            "- 1/2 cup sweetened condensed milk",
-            "- 1/2 cup mashed banana"
+            "1 cup crushed vanilla wafers",
+            "3 tbsp melted butter",
+            "**Cheesecake filling:**",
+            "8 oz cream cheese, softened",
+            "1/2 cup sweetened condensed milk",
+            "1/2 cup mashed banana"
         ],
-        "directions": [],
-        "notes": [
-            "The original recipe card image is preserved below for your reference:",
-            "Original Image Card 1"
+        "directions": [
+            "Preheat the oven to 325 degrees F. Put liners into 18 medium muffin cups. In a small bowl mix together the vanilla wafer crumbs and melted butter.",
+            "Spoon a heaping Tablespoon of this crumb mixture into each muffin cup. Then pack the crusts down well. Bake the crusts for 5 minutes, then remove from the oven and allow to cool.",
+            "While the wafer crusts are baking, blend cream cheese with granulated sugar.",
+            "Beat in eggs, vanilla, and mashed bananas. Try not to overmix.",
+            "Place about 3 Tablespoons of filling into each muffin cup, on top of the cookie crust. You can fill them almost to the top because they don\u2019t rise much. Just make sure to leave a little room to easily peel the muffin liner off.",
+            "Bake at 325 degrees F for 20 minutes. Then turn off the heat, prop the door open, and leave the cheesecakes in the oven for another 10 minutes. After removing from the oven, allow to cool at room temperature for at least \u00bd an hour, then move them to the refrigerator to completely cool (for at least an hour).",
+            "Top with an optional garnish of whipped cream, banana slices, and mini nilla wafers."
         ],
+        "notes": [],
         "tags": [
             "Dessert"
         ],
@@ -8881,8 +9555,26 @@ const RECIPES_DB = [
     {
         "id": "mini_pumpkin_pies",
         "title": "Mini Pumpkin Pies",
-        "description": "Prep Time\n20 minutes\nCook Time 55 minutes\nTotal Time 1hour  hour 15 minutes\nAuthor Amy Palanjian\nCuisine American\nCourse Dessert\nCalories 226kcal\nServings 12\n14.5 ounces pumpkin puree (canned or homemade)\n\u00bc cup milk (or cream)\n\u00bc cup honey\n\u00bc cup sugar\n4 eggs\n2 teaspoons pumpkin pie spice\n1 teaspoon vanilla extract\n14 ounces refrigerated mini pie crust\nWhipped cream or vanilla ice cream, optional",
-        "ingredients": [],
+        "description": "Prep Time",
+        "ingredients": [
+            "20 minutes",
+            "Cook Time 55 minutes",
+            "Total Time 1hour  hour 15 minutes",
+            "Author Amy Palanjian",
+            "Cuisine American",
+            "Course Dessert",
+            "Calories 226kcal",
+            "Servings 12",
+            "14.5 ounces pumpkin puree (canned or homemade)",
+            "\u00bc cup milk (or cream)",
+            "\u00bc cup honey",
+            "\u00bc cup sugar",
+            "4 eggs",
+            "2 teaspoons pumpkin pie spice",
+            "1 teaspoon vanilla extract",
+            "14 ounces refrigerated mini pie crust",
+            "Whipped cream or vanilla ice cream, optional"
+        ],
         "directions": [
             "Preheat the oven to 350 degrees F. Very lightly grease a 12 cup muffin pan.",
             "Add the pumpkin, milk, honey, sugar, eggs, pumpkin pie spice, and vanilla to a large bowl. Whisk until smooth",
@@ -8905,8 +9597,12 @@ const RECIPES_DB = [
     {
         "id": "morning_glory_muffins",
         "title": "Morning Glory Muffins",
-        "description": "5 from 47 Ratings\nMorning Glory Muffins are as if an apple cake and carrot cake got married, filled with so many goodies, they certainly are a fantastic way to start the day!\nPrep Time: 20 minsCook Time: 25 minsTotal Time: 45 mins\nServings: 18 muffins",
+        "description": "",
         "ingredients": [
+            "5 from 47 Ratings",
+            "**Morning Glory Muffins are as if an apple cake and carrot cake got married, filled with so many goodies, they certainly are a fantastic way to start the day!**",
+            "**Prep Time: 20 minsCook Time: 25 minsTotal Time: 45 mins**",
+            "**Servings: 18 muffins**",
             "1 cup vegetable oil",
             "3 large eggs",
             "3 teaspoons vanilla",
@@ -8990,27 +9686,27 @@ const RECIPES_DB = [
         "description": "",
         "ingredients": [
             "SALAD",
-            "\u25a2 14 oz (400 g) butternut squash - peeled and diced",
-            "\u25a2 1 beet - peeled and diced, about 1 cup cubed",
-            "\u25a2 1 tbsp (5 g) ras el hanout",
-            "Ras el hanout is a fragrant North African spice blend, often used in Moroccan cooking. It typically includes spices like cumin, coriander, cinnamon, paprika, turmeric, and ginger, creating a warm and earthy flavor. If you don\u2019t have ras el hanout, you can substitute it with a mix of cumin, coriander, paprika, and a pinch of cinnamon and ginger.",
-            "\u25a2 2.5 tsp (12.5 ml) olive look oil - divided",
-            "\u25a2 1.5 cups (282 g) butter beans - cooked",
-            "\u25a2 1.75 oz (50 g) whole-grain pearl couscous - dried",
-            "\u25a2 \u00bc tsp (0.5 g) turmeric",
-            "\u25a2 1 cucumber - chopped",
-            "\u25a2 2 spring onions - thinly sliced",
-            "\u25a2 1 cup (30 g) baby spinach - roughly chopped",
-            "\u25a2 \u00bd cup (22 g) fresh mint - finely chopped",
-            "\u25a2 2 tbsp (30 g) raisins",
-            "\u25a2 10 pistachios - roughly chopped",
-            "\u25a2 sea salt flakes - to taste",
+            "14 oz (400 g) butternut squash - peeled and diced",
+            "1 beet - peeled and diced, about 1 cup cubed",
+            "1 tbsp (5 g) ras el hanout",
+            "**Ras el hanout is a fragrant North African spice blend, often used in Moroccan cooking. It typically includes spices like cumin, coriander, cinnamon, paprika, turmeric, and ginger, creating a warm and earthy flavor. If you don\u2019t have ras el hanout, you can substitute it with a mix of cumin, coriander, paprika, and a pinch of cinnamon and ginger.**",
+            "2.5 tsp (12.5 ml) olive look oil - divided",
+            "1.5 cups (282 g) butter beans - cooked",
+            "1.75 oz (50 g) whole-grain pearl couscous - dried",
+            "\u00bc tsp (0.5 g) turmeric",
+            "1 cucumber - chopped",
+            "2 spring onions - thinly sliced",
+            "1 cup (30 g) baby spinach - roughly chopped",
+            "\u00bd cup (22 g) fresh mint - finely chopped",
+            "2 tbsp (30 g) raisins",
+            "10 pistachios - roughly chopped",
+            "sea salt flakes - to taste",
             "DRESSING",
-            "\u25a2 2 tbsp (30 ml) lemon juice",
-            "\u25a2 1.5 tbsp (22.5 g) hulled tahini",
-            "\u25a2 1 tbsp (15 ml) maple syrup",
-            "\u25a2 2 tsp (10 g) harissa paste",
-            "\u25a2 2 tbsp (30 ml) water"
+            "2 tbsp (30 ml) lemon juice",
+            "1.5 tbsp (22.5 g) hulled tahini",
+            "1 tbsp (15 ml) maple syrup",
+            "2 tsp (10 g) harissa paste",
+            "2 tbsp (30 ml) water"
         ],
         "directions": [
             "Preheat the oven to 400\u00b0F (200\u00b0C).",
@@ -9035,8 +9731,9 @@ const RECIPES_DB = [
     {
         "id": "mushroom_risotto",
         "title": "Mushroom Risotto",
-        "description": "http://www.eatingwell.com/recipes/mushroom_risotto.html\nFrom EatingWell:\u00a0 Winter 2003, The Essential EatingWell Cookbook (2004)\nAlthough traditional risottos use refined arborio rice and require constant stirring, you can achieve excellent results with this oven-baked version using short-grain brown rice, taking advantage of its whole-grain benefits.\n4 servings, about 1 cup each | Active Time: 20 minutes | Total Time: 1 hour 20 minutes",
+        "description": "http://www.eatingwell.com/recipes/mushroom_risotto.html\nFrom EatingWell:\u00a0 Winter 2003, The Essential EatingWell Cookbook (2004)\nAlthough traditional risottos use refined arborio rice and require constant stirring, you can achieve excellent results with this oven-baked version using short-grain brown rice, taking advantage of its whole-grain benefits.",
         "ingredients": [
+            "4 servings, about 1 cup each | Active Time: 20 minutes | Total Time: 1 hour 20 minutes",
             "1 ounce dried porcini mushrooms, (1 1/2 cups)",
             "1 1/2 cups hot water",
             "4 teaspoons extra-virgin olive oil, divided",
@@ -9081,17 +9778,17 @@ const RECIPES_DB = [
         "title": "Mushroom Spinach Soup",
         "description": "This Mushroom Spinach Soup is a delicious and healthy way to enjoy your greens! \ud83c\udf3f\ud83c\udf44 it's sure to become a new favorite.",
         "ingredients": [
-            "- 2 tbsp olive oil",
-            "- 1 onion, chopped",
-            "- 2 cloves garlic, minced",
-            "- 8 oz cremini mushrooms, sliced",
-            "- 8 oz shiitake mushrooms, sliced",
-            "- 6 cups vegetable broth",
-            "- 1 cup coconut milk",
-            "- 4 cups baby spinach",
-            "- 1 tbsp lemon juice",
-            "- Salt and pepper to taste",
-            "- Fresh parsley, for garnish (optional)"
+            "2 tbsp olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "8 oz cremini mushrooms, sliced",
+            "8 oz shiitake mushrooms, sliced",
+            "6 cups vegetable broth",
+            "1 cup coconut milk",
+            "4 cups baby spinach",
+            "1 tbsp lemon juice",
+            "Salt and pepper to taste",
+            "Fresh parsley, for garnish (optional)"
         ],
         "directions": [
             "1. In a large pot, heat the olive oil over medium heat. Add the chopped onion and cook for 5 minutes, or until softened.",
@@ -9118,9 +9815,24 @@ const RECIPES_DB = [
     {
         "id": "napa_cabbage_salad",
         "title": "NAPA CABBAGE SALAD",
-        "description": "Shred cabbage\nSPRINKLE SALT 1 TEA SPOON\nLET IT SIT FOR 5MIN\nSQUEEZE WATER OUT\nLIGHT SOY SAUCE 1 TEA SPOON\nBLACK VINEGAR 2 TEA SPOON\nSUGAR 1/3 TEA SPOON\nCHICKEN BOUILLON 1/3 TEA SPOON\nSLICED GARLIC 1 TEA SPOON\nDRIED RED CHILI 1/2 TEA SPOON\nCHILI POWDER 1/2 TEA SPOON\nCILANTRO 1 TEA SPOON\nBOILING OIL 3 TEA SPOON",
-        "ingredients": [],
-        "directions": [],
+        "description": "",
+        "ingredients": [
+            "LIGHT SOY SAUCE 1 TEA SPOON",
+            "BLACK VINEGAR 2 TEA SPOON",
+            "SUGAR 1/3 TEA SPOON",
+            "CHICKEN BOUILLON 1/3 TEA SPOON",
+            "SLICED GARLIC 1 TEA SPOON",
+            "DRIED RED CHILI 1/2 TEA SPOON",
+            "CHILI POWDER 1/2 TEA SPOON",
+            "CILANTRO 1 TEA SPOON",
+            "BOILING OIL 3 TEA SPOON"
+        ],
+        "directions": [
+            "Shred cabbage",
+            "SPRINKLE SALT 1 TEA SPOON",
+            "LET IT SIT FOR 5MIN",
+            "SQUEEZE WATER OUT"
+        ],
         "notes": [],
         "tags": [
             "Salad"
@@ -9133,9 +9845,26 @@ const RECIPES_DB = [
     {
         "id": "nasi_goreng",
         "title": "Nasi Goreng",
-        "description": "Makes: 6 servings\nactive time: 30 minutes total: 30 minutes\n\uf0feHeart Health \uf0feDiabetes \uf0feWeight Loss \uf0feGluten Free\nWhole almonds add beneficial monounsatu- rated fats to EatingWell\u2019s spin on this Indone- sian-style fried rice. For added flavor, texture and nutritional oomph, our Nasi Goreng is brimming with fresh vegetables and accom- panied with fresh slices of cool cucumber and tomato. To make it vegetarian we\u2019ve substituted soy sauce for the fish sauce that\u2019s typically used as a seasoning.\n3 \u00a0large eggs, beaten\n4 \u00a0small shallots, peeled\n3 cloves garlic, peeled\n2 tablespoons whole almonds 2 small chile peppers, seeded\nand diced\n2 tablespoons peanut or canola oil,\ndivided\n2 cups finely chopped or shredded\nvegetables, such as yellow bell\npepper, cabbage and broccoli 2 tablespoons reduced-sodium\nsoy sauce\n2 tablespoons kecap manis (see Tip) 4 cups cooked and cooled brown rice 2 scallions, thinly sliced\n1 medium tomato, sliced\n1 small cucumber, sliced\n1. Generously coat a wok or large skillet with cooking spray and heat over medium-high heat. Pour in eggs, reduce heat to medium- low and cook, lifting the edges so uncooked egg flows underneath, until mostly set, 1 to 2 minutes. Slide out of the pan onto a clean cutting board. When cool enough to handle, cut into thin strips.\n2. Place shallots, garlic, almonds and chiles in a food processor. Process to a thick paste. Heat 1 tablespoon oil in the wok (or pan) over medium-high heat. Add the paste and cook until fragrant, about 2 minutes. Transfer to a small bowl.\n3. Heat the remaining 1 tablespoon oil over medium-high heat. Add vegetables and cook, stirring, until crisp-tender, about 2 min- utes. Add the shallot paste, soy sauce, kecap manis and rice and stir until combined and heated through, about 2 minutes more. Transfer the Nasi Goreng to a platter. Top with the strips of egg and scallions. Arrange tomato and cucumber slices around the edges.\nPer serving: 295 calories; 10 g fat (2 g sat, 4 g mono); 96 mg cholesterol; 43 g carbohy- drate; 4 g added sugars; 9 g protein; 4 g fiber; 358 mg sodium; 417 mg potassium. nutrition bonus: Vitamin C (81% daily value), Magnesium (22% dv).\nCarbohydrate servings: 3 exchanges: 2 starch, 1 vegetable, medium-fat meat, 1 fat\nTip: Kecap manis is a thick, palm sugar- sweetened soy sauce. it\u2019s used as a flavoring, marinade or condiment in indonesian cooking. Find it in asian food markets or online at importfood.com.\nto substitute for kecap manis, whisk 1 part molasses with 1 part reduced- sodium soy sauce.",
-        "ingredients": [],
-        "directions": [],
+        "description": "Makes: 6 servings\nactive time: 30 minutes total: 30 minutes\nWhole almonds add beneficial monounsaturated fats to EatingWell\u2019s spin on this Indonesian-style fried rice. For added flavor, texture and nutritional oomph, our Nasi Goreng is brimming with fresh vegetables and accompanied with fresh slices of cool cucumber and tomato. To make it vegetarian we\u2019ve substituted soy sauce for the fish sauce that\u2019s typically used as a seasoning.",
+        "ingredients": [
+            "3 large eggs, beaten",
+            "4 small shallots, peeled",
+            "3 cloves garlic, peeled",
+            "2 tablespoons whole almonds 2 small chile peppers, seeded and diced",
+            "2 tablespoons peanut oil",
+            "2 cups finely chopped or shredded vegetables, such as yellow bell pepper, cabbage and broccoli 2 tablespoons reduced-sodium",
+            "soy sauce",
+            "2 tablespoons kecap manis (see Tip) 4 cups cooked and cooled brown rice 2 scallions, thinly sliced. Kecap manis is a thick, palm sugar- sweetened soy sauce. it\u2019s used as a flavoring, marinade or condiment in Indonesian cooking. Find it in Asian food markets or online at importfood.com.  to substitute for kecap manis, whisk 1 part molasses with 1 part reduced- sodium soy sauce.",
+            "1 medium tomato, sliced",
+            "1 small cucumber, sliced"
+        ],
+        "directions": [
+            "1. Generously coat a wok or large skillet with cooking spray and heat over medium-high heat. Pour in eggs, reduce heat to medium- low and cook, lifting the edges so uncooked egg flows underneath, until mostly set, 1 to 2 minutes. Slide out of the pan onto a clean cutting board. When cool enough to handle, cut into thin strips.",
+            "2. Place shallots, garlic, almonds and chiles in a food processor. Process to a thick paste. Heat 1 tablespoon oil in the wok (or pan) over medium-high heat. Add the paste and cook until fragrant, about 2 minutes. Transfer to a small bowl.",
+            "3. Heat the remaining 1 tablespoon oil over medium-high heat. Add vegetables and cook, stirring, until crisp-tender, about 2 min- utes. Add the shallot paste, soy sauce, kecap manis and rice and stir until combined and heated through, about 2 minutes more. Transfer the Nasi Goreng to a platter. Top with the strips of egg and scallions. Arrange tomato and cucumber slices around the edges.",
+            "Per serving: 295 calories; 10 g fat (2 g sat, 4 g mono); 96 mg cholesterol; 43 g carbohy- drate; 4 g added sugars; 9 g protein; 4 g fiber; 358 mg sodium; 417 mg potassium. nutrition bonus: Vitamin C (81% daily value), Magnesium (22% dv).",
+            "Carbohydrate servings: 3 exchanges: 2 starch, 1 vegetable, medium-fat meat, 1 fat"
+        ],
         "notes": [],
         "tags": [
             "Entree"
@@ -9151,8 +9880,13 @@ const RECIPES_DB = [
     {
         "id": "no_knead_rosemary_bread",
         "title": "NO KNEAD ROSEMARY BREAD",
-        "description": "yield: 8 SERVINGS prep: 1\n15 MINUTES\ncook: 40 MINUTES\nTotal 55 MINUTES\nA basic, FOOLPROOF homemade bread recipe here! Anyone can make this! I PROMISE!!!! And the bread comes out just perfect!\n4.8 stars (173 ratings)",
+        "description": "yield: 8 SERVINGS prep: 1",
         "ingredients": [
+            "15 MINUTES",
+            "cook: 40 MINUTES",
+            "Total 55 MINUTES",
+            "A basic, FOOLPROOF homemade bread recipe here! Anyone can make this! I PROMISE!!!! And the bread comes out just perfect!",
+            "4.8 stars (173 ratings)",
             "3 cups all-purpose flour",
             "3 cloves garlic, minced",
             "1 tablespoon finely chopped fresh rosemary, or more, to taste",
@@ -9187,19 +9921,21 @@ const RECIPES_DB = [
     },
     {
         "id": "nordstrom_lime_and_chicken_cilantro_salad_dressing",
-        "title": "NORDSTROM LIME AND CHICKEN CILANTRO SALAD DRESSING",
-        "description": "READY IN: 5 mins\nSERVES: 8\nYIELDS: 1\u00a0bottle dressing",
+        "title": "Nordstrom Lime and Chicken Cilantro Salad Dressing",
+        "description": "READY IN: 5 mins\nSERVES: 8\nYIELDS: 1 bottle dressing",
         "ingredients": [
-            "1\u20443\u00a0cup\u00a0seasoned rice vinegar",
-            "1\u20444\u00a0cup\u00a0lime juice",
-            "1 \u00a0garlic clove",
-            "2 \u00a0teaspoons\u00a0chipotle chiles",
-            "2 \u00a0teaspoons\u00a0honey",
-            "1\u20442\u00a0teaspoon\u00a0salt",
-            "3\u20444\u00a0cup\u00a0canola oil",
-            "1 \u00a0cup\u00a0cilantro"
+            "1\u20443 cup seasoned rice vinegar",
+            "1\u20444 cup lime juice",
+            "1 garlic clove",
+            "2 teaspoons chipotle chiles",
+            "2 teaspoons honey",
+            "1\u20442 teaspoons salt",
+            "3\u20444 cup canola oil",
+            "1 cup cilantro"
         ],
-        "directions": [],
+        "directions": [
+            "Mix together"
+        ],
         "notes": [],
         "tags": [
             "Salad"
@@ -9207,29 +9943,6 @@ const RECIPES_DB = [
         "methods": [],
         "images": [
             "images/nordstrom_lime_and_chicken_cilantro_salad_dressing_1.jpg"
-        ]
-    },
-    {
-        "id": "oat_and_apple_pancakes",
-        "title": "Oat and apple pancakes",
-        "description": "1 cup oatmeal and 2 apples. I eat this every day for breakfast and have lost 10 kg! No flour! No sugar...",
-        "ingredients": [
-            "1 cup oatmeal.",
-            "2 apples.",
-            "2 eggs.",
-            "150g yogurt..",
-            "1 teaspoon baking powder. .."
-        ],
-        "directions": [],
-        "notes": [],
-        "tags": [
-            "Breakfast"
-        ],
-        "methods": [
-            "Bake"
-        ],
-        "images": [
-            "images/oat_and_apple_pancakes_1.jpg"
         ]
     },
     {
@@ -9315,9 +10028,28 @@ const RECIPES_DB = [
     {
         "id": "one_pot_black_pepper_chicken",
         "title": "One Pot Black Pepper Chicken:",
-        "description": "1 lbs Chicken Breasts (Boneless-skinless / Cubed)\n1 Red Bell Pepper (seeded and cut into strips)\n1 tsp Black Pepper (Cracked)\n1-inch Ginger Root (Peeled and chopped)\n2 cloves Garlic (Peeled and minced)\n3 tbsp Soy Sauce\n3 tbsp White Vinegar\n1 tbsp Honey\n2 tbsp Olive Oil\nStep 1: In a medium-sized bowl whisk together half of the soy sauce (1 \u00bd tbsp), half of the vinegar (1 \u00bd tbsp), and the honey.\nStep 2: Add the cubed chicken to the sauce and toss to coat. Marinate inside the refrigerator for at least 30 minutes.\nStep 3:\u00a0 In a large skillet add olive oil and heat to medium-low. Add the garlic and ginger and cook for 30 seconds or until garlic is golden.\nMix together and make sure not to burn the garlic and ginger mixture.\nStep 4:\u00a0 Add the marinated chicken with the sauce and cook for 3 minutes.\nStep 5: One chicken is cooked, add the bell pepper strips along with the remaining soy sauce, vinegar and black pepper.\nStir and cook for 10 minutes until peppers have softened.\nStep 6:\u00a0 To serve, spoon chicken over or alongside brown rice or quinoa.",
-        "ingredients": [],
-        "directions": [],
+        "description": "",
+        "ingredients": [
+            "1 lbs Chicken Breasts (Boneless-skinless / Cubed)",
+            "1 Red Bell Pepper (seeded and cut into strips)",
+            "1 tsp Black Pepper (Cracked)",
+            "1-inch Ginger Root (Peeled and chopped)",
+            "2 cloves Garlic (Peeled and minced)",
+            "3 tbsp Soy Sauce",
+            "3 tbsp White Vinegar",
+            "1 tbsp Honey",
+            "2 tbsp Olive Oil"
+        ],
+        "directions": [
+            "Step 1: In a medium-sized bowl whisk together half of the soy sauce (1 \u00bd tbsp), half of the vinegar (1 \u00bd tbsp), and the honey.",
+            "Step 2: Add the cubed chicken to the sauce and toss to coat. Marinate inside the refrigerator for at least 30 minutes.",
+            "Step 3:\u00a0 In a large skillet add olive oil and heat to medium-low. Add the garlic and ginger and cook for 30 seconds or until garlic is golden.",
+            "Mix together and make sure not to burn the garlic and ginger mixture.",
+            "Step 4:\u00a0 Add the marinated chicken with the sauce and cook for 3 minutes.",
+            "Step 5: One chicken is cooked, add the bell pepper strips along with the remaining soy sauce, vinegar and black pepper.",
+            "Stir and cook for 10 minutes until peppers have softened.",
+            "Step 6:\u00a0 To serve, spoon chicken over or alongside brown rice or quinoa."
+        ],
         "notes": [],
         "tags": [
             "Entree"
@@ -9435,9 +10167,26 @@ const RECIPES_DB = [
     {
         "id": "oven_crisp_black_bean_and_corn_flautas",
         "title": "Oven-Crisp Black Bean and Corn Flautas",
-        "description": "Serves 6\n30 minutes or fewer\nThis recipe proves that corn tortillas don'\u0092t need to be fried to have the same satisfying crunch as tortilla chips. Be sure to cool the filling before you put it in the tortillas; otherwise they\u0092ll crack.\n2 tsp. olive oil\n1 medium onion, chopped (about 1 cup)\n2 cloves garlic, minced (about 2 tsp.)\n2 15-oz. cans black beans, rinsed and drained\n2 tsp. chili powder\n1 16-oz. tub prepared salsa, divided\n1 cup fresh or frozen corn kernels\n12 6-inch corn tortillas\n\u00bc cup chopped cilantro\n1. Heat oil in skillet over medium heat. Cook onion 3 to 5 minutes, or until soft. Add garlic, and cook 1 minute, or until translucent and fragrant.\n2. Stir in beans, chili powder, and 1 cup water. Reduce heat to medium low, and simmer 10 minutes, or until most of liquid has evaporated. Remove from heat. Mash beans until mixture is thickened but still chunky, and some beans remain whole. Stir in 1 cup salsa and corn, and season with salt and pepper. Cool.\n3. Preheat oven to 425\u00b0F. Coat 2 large baking sheets with cooking spray. Spoon \u2153 cup black bean mixture down center of tortilla. Roll tortilla around filling, and secure closed with toothpick. Set on prepared baking sheet. Repeat with remaining tortillas and black bean mixture. Bake 6 to 10 minutes, or until tortillas are browned and crisp.\n4. Meanwhile, combine cilantro and remaining salsa in small bowl. Place 2 flautas on each plate, and top with remaining salsa.",
-        "ingredients": [],
-        "directions": [],
+        "description": "Serves 6",
+        "ingredients": [
+            "30 minutes or fewer",
+            "This recipe proves that corn tortillas don't need to be fried to have the same satisfying crunch as tortilla chips. Be sure to cool the filling before you put it in the tortillas. Otherwise they\u2019ll crack.",
+            "2 tsp. olive oil",
+            "1 medium onion, chopped (about 1 cup)",
+            "2 cloves garlic, minced (about 2 tsp.)",
+            "2 15-oz. cans black beans, rinsed and drained",
+            "2 tsp. chili powder",
+            "1 16-oz. tub prepared salsa, divided",
+            "1 cup fresh or frozen corn kernels",
+            "12 6-inch corn tortillas",
+            "\u00bc cup chopped cilantro"
+        ],
+        "directions": [
+            "1. Heat oil in skillet over medium heat. Cook onion 3 to 5 minutes, or until soft. Add garlic, and cook 1 minute, or until translucent and fragrant.",
+            "2. Stir in beans, chili powder, and 1 cup water. Reduce heat to medium low, and simmer 10 minutes, or until most of liquid has evaporated. Remove from heat. Mash beans until mixture is thickened but still chunky, and some beans remain whole. Stir in 1 cup salsa and corn, and season with salt and pepper. Cool.",
+            "3. Preheat oven to 425\u00b0F. Coat 2 large baking sheets with cooking spray. Spoon \u2153 cup black bean mixture down center of tortilla. Roll tortilla around filling, and secure closed with toothpick. Set on prepared baking sheet. Repeat with remaining tortillas and black bean mixture. Bake 6 to 10 minutes, or until tortillas are browned and crisp.",
+            "4. Meanwhile, combine cilantro and remaining salsa in small bowl. Place 2 flautas on each plate, and top with remaining salsa."
+        ],
         "notes": [],
         "tags": [
             "Entree"
@@ -9454,12 +10203,12 @@ const RECIPES_DB = [
         "title": "Pan-Seared Salmon with a Creamy Florentine Sauce",
         "description": "",
         "ingredients": [
-            "For the Salmon:",
+            "**For the Salmon:**",
             "Tender mushrooms",
             "4 salmon fillets, skin on or off",
             "Salt and black pepper to taste",
             "2 tablespoons olive oil",
-            "For the Creamy Florentine Sauce:",
+            "**For the Creamy Florentine Sauce:**",
             "2 tablespoons unsalted butter",
             "3 cloves garlic, minced",
             "1 cup heavy cream",
@@ -9471,9 +10220,9 @@ const RECIPES_DB = [
             "Salt and black pepper to taste"
         ],
         "directions": [
-            "Prepare the Salmon:",
+            "**Prepare the Salmon:**",
             "Season the salmon fillets with salt and black pepper on both sides. In a large skillet, heat the olive oil over medium-high heat. Once the oil is hot, add the salmon fillets, skin-side down if the skin is on. Cook for 4-5 minutes on each side, or until the salmon is cooked through and flakes easily with a fork. Remove the salmon from the skillet and set aside.",
-            "Make the Florentine Sauce:",
+            "**Make the Florentine Sauce:**",
             "In the same skillet, melt the butter over medium heat. Add the minced garlic and saut\u00e9 for about 1 minute until fragrant. Pour in the chicken broth and bring to a simmer, scraping up any browned bits from the bottom of the skillet.",
             "Add the heavy cream and stir to combine. Let the sauce simmer for 2-3 minutes until it begins to thicken. Stir in the Parmesan cheese, chopped spinach, lemon juice, and dried Italian herbs. Cook for another 2-3 minutes until the spinach is wilted and the sauce is creamy. Season with salt and black pepper to taste."
         ],
@@ -9539,8 +10288,9 @@ const RECIPES_DB = [
     {
         "id": "pasta_with_parsley_walnut_pesto",
         "title": "Pasta with Parsley-Walnut Pesto",
-        "description": "http://www.eatingwell.com/recipes/pasta_with_parsley_walnut_pesto.html\nFrom EatingWell:\u00a0 The Essential EatingWell Cookbook (2004)\nRemaking this classic high-calorie, high-fat pasta sauce was a great success. By adding fresh breadcrumbs to the pesto, we were able to use much less oil. The pesto still coats the pasta nicely and its herbal flavor remains intense and vibrant. Parsley is more than just a garnish\u2014it's a rich source of carotenoids and vitamin C.\n4 servings | Active Time: 25 minutes | Total Time: 30 minutes",
+        "description": "http://www.eatingwell.com/recipes/pasta_with_parsley_walnut_pesto.html\nFrom EatingWell:\u00a0 The Essential EatingWell Cookbook (2004)\nRemaking this classic high-calorie, high-fat pasta sauce was a great success. By adding fresh breadcrumbs to the pesto, we were able to use much less oil. The pesto still coats the pasta nicely and its herbal flavor remains intense and vibrant. Parsley is more than just a garnish\u2014it's a rich source of carotenoids and vitamin C.",
         "ingredients": [
+            "4 servings | Active Time: 25 minutes | Total Time: 30 minutes",
             "2 tablespoons walnuts",
             "2 slices whole-wheat country bread, crusts trimmed",
             "1 cup packed fresh parsley leaves",
@@ -9577,12 +10327,12 @@ const RECIPES_DB = [
         "description": "PREP TIME 15 minutes\nCOOK TIME 20 minutes\nTOTAL TIME 35 minutes",
         "ingredients": [
             "Embrace the crispy delight with 3 cups of Rice Krispies cereal.",
-            "Savor the creamy luxury with 1 1/2 cups of chocolate chips. Opt for vegan chocolate chips for a plant-based treat!",
-            "Add 1 cup of chunky peanut butter for robust nutty flavors.",
-            "Sweeten your creation with 6 tablespoons of honey.",
-            "Just a hint of enchantment with 1/8 teaspoon of salt."
+            "Savor the creamy luxury with 1 1/2 cups of chocolate chips. Opt for vegan chocolate chips for a plant-based treat!"
         ],
         "directions": [
+            "Add 1 cup of chunky peanut butter for robust nutty flavors.",
+            "Sweeten your creation with 6 tablespoons of honey.",
+            "Just a hint of enchantment with 1/8 teaspoon of salt.",
             "Begin by preparing your muffin tin with either paper or silicone liners to ensure a neat release.",
             "Warm a saucepan over low heat and blend the peanut butter, honey, and salt. Stir until the mixture is smooth and fluid, then take off the heat.",
             "Fold the Rice Krispies into the peanut butter mixture until well-coated.",
@@ -9611,9 +10361,17 @@ const RECIPES_DB = [
     {
         "id": "peanut_butter_cookies",
         "title": "Peanut Butter Cookies",
-        "description": "My favorite healthy cookie recipe!\nThese are really great 4 ingredient healthy peanut butter cookies. I always hide a few or my husband will have them gone before I get a chance!\n1 cup peanut butter (I like crunchy, recipe calls for creamy)\n1/2 cup Maple syrup\n1 tsp Vanilla\n1 cup finely ground Almond Flour from blanched almonds.\nMix peanut butter, maple syrup and vanilla. Add extras (I add 1/3 cup organic roasted salted peanuts)\nMix in almond flour. With a scoop or spoon drop onto parchment papered cookie sheet, smash down lightly with a fork, sprinkle a few salt flakes on top and bake at 350 for 12-14 min.",
-        "ingredients": [],
-        "directions": [],
+        "description": "My favorite healthy cookie recipe!\nThese are really great 4 ingredient healthy peanut butter cookies. I always hide a few or my husband will have them gone before I get a chance!",
+        "ingredients": [
+            "1 cup peanut butter (I like crunchy, recipe calls for creamy)",
+            "1/2 cup Maple syrup",
+            "1 tsp Vanilla",
+            "1 cup finely ground Almond Flour from blanched almonds."
+        ],
+        "directions": [
+            "Mix peanut butter, maple syrup and vanilla. Add extras (I add 1/3 cup organic roasted salted peanuts)",
+            "Mix in almond flour. With a scoop or spoon drop onto parchment papered cookie sheet, smash down lightly with a fork, sprinkle a few salt flakes on top and bake at 350 for 12-14 min."
+        ],
         "notes": [],
         "tags": [
             "Dessert"
@@ -9650,7 +10408,7 @@ const RECIPES_DB = [
             "1 teaspoon freshly grated ginger"
         ],
         "directions": [
-            "To make the peanut sauce, whisk together peanut butter, soy sauce, lime juice, brown sugar, chili garlic sauce and ginger in a small bowl. Whisk in 2-3 tablespoons water until desired consistency is reached; set aside.",
+            "**To make the peanut sauce, whisk together peanut butter, soy sauce, lime juice, brown sugar, chili garlic sauce and ginger in a small bowl. Whisk in 2-3 tablespoons water until desired consistency is reached; set aside.**",
             "Heat vegetable oil and sesame oil in a large skillet over medium high heat.\u00a0Add ground chicken, mushrooms, carrot and shallot. Cook until browned, about 5-7 minutes, making sure to crumble the chicken as it cooks; drain excess fat.",
             "Stir in garlic and ginger until fragrant, about 1 minute.",
             "Stir in hoisin sauce, chili garlic sauce and fish sauce until heated through, about 30 seconds. Remove from heat; stir in cilantro.",
@@ -9683,22 +10441,22 @@ const RECIPES_DB = [
             "\u00bd cup chocolate chips, melted (for dipping)"
         ],
         "directions": [
-            "Mix the Dry Ingredients:",
+            "**Mix the Dry Ingredients:**",
             "In a large bowl, combine the toasted pecans, graham cracker crumbs, brown sugar, and salt.",
-            "Incorporate the Wet Ingredients:",
+            "**Incorporate the Wet Ingredients:**",
             "Stir in the maple syrup, apple juice (or bourbon), and vanilla extract until the mixture is well combined and holds together when pressed.",
-            "Form the Balls:",
+            "**Form the Balls:**",
             "Roll the mixture into 1-inch balls and place them on a parchment-lined baking sheet.",
-            "Chill the Balls:",
+            "**Chill the Balls:**",
             "Freeze the balls for about 30 minutes to firm them up.",
-            "Dip in Chocolate:",
+            "**Dip in Chocolate:**",
             "Dip each ball into the melted chocolate, coating them either partially or fully according to your preference.",
-            "Set the Chocolate:",
+            "**Set the Chocolate:**",
             "Place the chocolate-dipped balls back on the parchment paper and allow the chocolate to set completely.",
-            "Store:",
+            "**Store:**",
             "Transfer the pecan pie balls to an airtight container and store them in the refrigerator until ready to serve.",
             "Other Attachments",
-            "- Attachment-0E09AAEE (Type: public.heic, Size: Unknown bytes)"
+            "Attachment-0E09AAEE (Type: public.heic, Size: Unknown bytes)"
         ],
         "notes": [],
         "tags": [
@@ -9725,15 +10483,16 @@ const RECIPES_DB = [
             "1/4 teaspoon crushed red pepper",
             "1 (10-oz) bag frozen chopped kale (or spinach)",
             "2 tablespoons balsamic vinegar",
-            "1/4 cup fresh basil leaves, torn",
-            "Steps",
+            "1/4 cup fresh basil leaves, torn"
+        ],
+        "directions": [
+            "**Steps**",
             "Preheat oven to 375\u00baF. In a small bowl, stir together bread crumbs, cheese, 2 tablespoons oil and pepper. Spread evenly on shallow baking sheet. Bake 6-8 minutes or until golden and crisp, stirring halfway. Set aside.",
             "Bring a large pot of water to boil for pasta. Combine in a blender or food processor; tomatoes, peppers and salt. Blend or process until almost smooth; set aside.",
             "Preheat large saute pan on medium 1-2 minutes. Place remaining 1 tablespoon oil, garlic, onions and crushed red pepper; cook 1 minutes, stirring often. Stir in pasta sauce and kale; reduce heat to low and simmer, uncovered, 12\u201315 minutes or until slightly thickened, stirring occasionally.",
             "Cook pasta following package instructions; drain well and transfer to large bowl. Stir balsamic vinegar and basil into pasta sauce.",
             "Add pasta to sauce mixture; stir to coat. Transfer to a platter and top with toasted bread crumbs. Serve immediately."
         ],
-        "directions": [],
         "notes": [],
         "tags": [
             "Entree"
@@ -9750,8 +10509,11 @@ const RECIPES_DB = [
     {
         "id": "pickled_red_onions_add_a_sweet_tangy_pop_of_flavor_to_salads_sandwiches",
         "title": "Pickled red onions add a sweet & tangy pop of flavor to salads, sandwiches\u2026",
-        "description": "Pickled red onions add a sweet & tangy pop of flavor to salads, sandwiches, burgers, and more! Once you make them, they'll keep in the fridge for up to 2 weeks.\nEquipment\n10-oz. Mason Jars\nMandoline (makes it super easy to make thin slices!)\nMedium Pot",
+        "description": "Pickled red onions add a sweet & tangy pop of flavor to salads, sandwiches, burgers, and more! Once you make them, they'll keep in the fridge for up to 2 weeks.\nEquipment",
         "ingredients": [
+            "10-oz. Mason Jars",
+            "Mandoline (makes it super easy to make thin slices!)",
+            "Medium Pot",
             "2 small red onions",
             "2 cups white vinegar",
             "2 cups water",
@@ -9821,8 +10583,11 @@ const RECIPES_DB = [
     {
         "id": "pita_bread",
         "title": "Pita bread",
-        "description": "\u2605\u2605\u2605\u2605\u2605\n4.9 from 136 reviews\nAuthor: Suzy Karadsheh Total Time: 1 hour 48 minutes Yield: 8 whole pitas 1x\nMy family's authentic, fool-proof pita bread recipe is easy to make and requires a few ingredients you may already have on hand! Mix up the very simple dough, let it rise, and experience the magic of fresh, warm, perfectly puffy homemade pita bread. Baking",
+        "description": "\u2605\u2605\u2605\u2605\u2605",
         "ingredients": [
+            "4.9 from 136 reviews",
+            "Author: Suzy Karadsheh Total Time: 1 hour 48 minutes Yield: 8 whole pitas 1x",
+            "My family's authentic, fool-proof pita bread recipe is easy to make and requires a few ingredients you may already have on hand! Mix up the very simple dough, let it rise, and experience the magic of fresh, warm, perfectly puffy homemade pita bread. Baking",
             "Water",
             "2 tsp active dry yeast",
             "1/2 tsp sugar",
@@ -9838,7 +10603,11 @@ const RECIPES_DB = [
             "Divide the dough.\u00a0Deflate the dough and place it on a clean work surface. Divide the dough into 7 to 8 equal pieces and shape them into balls. Cover with a towel and leave them for 10 minutes or so to rest.",
             "Shape the pitas.\u00a0Using a floured rolling pin, roll one of the pieces into a circle that's 8-9 inches wide and about a quarter inch thick. It helps to lift and turn the dough frequently as you roll so that dough doesn't stick to your counter too much. (If dough starts to stick, sprinkle a tiny bit of flour). If the dough starts to spring back, set it aside to rest for a few minutes, then continue rolling. Repeat with the other pieces of dough. (Once you get going, you can be cooking one pita while rolling another, if you like). You have two options for baking the pita from here.",
             "To bake pita in the oven:\u00a0Heat the oven to 475 degrees F and place a heavy-duty baking pan or large cast iron skillet on the middle rack to heat. Working in batches, place the rolled-out pitas directly on the hot baking baking sheet (I was only able to fit 2 at a time). Bake for 2 minutes on one side, and then, using a pair of tongs, carefully turn pita over to bake for 1 minute on the other side.\u00a0 The pita will puff nicely and should be ready. Remove from the oven and cover the baked pitas with a clean towel while you work on the rest of the pitas.",
-            "To cook pita on stovetop:\u00a0Heat a cast iron skillet over medium-high heat. (Test by adding a couple drops of water to the skillet, the skillet is ready when the beads of water sizzle immediately). Drizzle a tiny bit of extra virgin olive oil and wipe off any excess. Working with one pita at a time, lay a rolled-out pita on the skillet and bake for 30 seconds, until bubbles start to form. Using a spatula, flip the pita over and cook for 1-2 minutes on\u00a0 the other side, until large toasted spots appear on the underside. Flip again and cook another 1-2 minutes to toast the other side. The pita is ready when it puffs up forming a pocket (sometimes, with this method, the pita may not puff or may only form a small pocket. Try pressing the surface of the pita gently with a clean towel). Keep baked pita covered with a clean towel while you work on the 0 seconds of 1 minute, 43 seconds"
+            "To cook pita on stovetop:\u00a0Heat a cast iron skillet over medium-high heat. (Test by adding a couple drops of water to the skillet, the skillet is ready when the beads of water sizzle immediately). Drizzle a tiny bit of extra virgin olive oil and wipe off any excess. Working with one pita at a time, lay a rolled-out pita on the skillet and bake for 30 seconds, until bubbles start to form. Using a spatula, flip the pita over and cook for 1-2 minutes on\u00a0 the other side, until large toasted spots appear on the underside. Flip again and cook another 1-2 minutes to toast the other side. The pita is ready when it puffs up forming a pocket (sometimes, with this method, the pita may not puff or may only form a small pocket. Try pressing the surface of the pita gently with a clean towel). Keep baked pita covered with a clean towel while you work on the 0 seconds of 1 minute, 43 seconds",
+            "**Method: Baked**",
+            "Cuisine: Mediterranean",
+            "Keywords: Pita bread, homemade pita bread, bread",
+            "Find it online: https://www.themediterraneandish.com/homemade-pita-bread-recipe/"
         ],
         "notes": [
             "**NOTES**",
@@ -9849,11 +10618,7 @@ const RECIPES_DB = [
             "Visit our online shop to browse quality Mediterranean ingredients, including extra virgin olive oils and all-natural and organic spices",
             "Prep Time: 1 hour 45 mins",
             "Cook Time: 3 mins",
-            "Category: Pita Bread",
-            "Method: Baked",
-            "Cuisine: Mediterranean",
-            "Keywords: Pita bread, homemade pita bread, bread",
-            "Find it online: https://www.themediterraneandish.com/homemade-pita-bread-recipe/"
+            "Category: Pita Bread"
         ],
         "tags": [
             "Bread"
@@ -9886,7 +10651,7 @@ const RECIPES_DB = [
         "directions": [
             "Chop well-rinsed leeks (white part only; 2 cups); chop garlic and thyme.",
             "Peel potatoes and cut into 1/2-inch cubes.",
-            "Steps",
+            "**Steps**",
             "Preheat large stockpot on low 2\u20133 minutes. Place oil in pan, then add leeks and garlic; cook and stir 7\u20138 minutes or until tender (do not brown).",
             "Stir in stock, salt, pepper, potatoes, and thyme; bring to a boil. Reduce heat to low; simmer 20 minutes or until potatoes are tender when pierced with a fork.",
             "Remove pan from heat; puree soup with a stick blender. (Or you can use an electric blender; let soup cool 5\u20138 minutes, then puree in batches until smooth.) Chill 1 hour, stirring occasionally, or until cold.",
@@ -10045,9 +10810,7 @@ const RECIPES_DB = [
             "Plain Greek yogurt and/or snipped fresh cilantro (optional)"
         ],
         "directions": [
-            "1.",
             "In a 5- to 6-quart Dutch oven, cook onions in hot oil until tender, stirring occasionally. Add the garlic and cook for 2 minutes. Stir in the beans, sweet potato, zucchini, the water, broth, tomato paste, chili powder, cumin and oregano. Bring to boiling; reduce heat. Simmer, covered, for 5 minutes.",
-            "2.",
             "Stir in the quinoa. Return to boiling; reduce heat. Simmer, uncovered, for 20 to 25 minutes or until quinoa and potatoes are tender. Season to taste with salt and pepper. If you like, top each serving with Greek yogurt and/or cilantro."
         ],
         "notes": [
@@ -10070,9 +10833,27 @@ const RECIPES_DB = [
     {
         "id": "quinoa_stuffed_peppers",
         "title": "Quinoa-Stuffed Peppers",
-        "description": "Serves 8\nThis dish freezes well for future meals. Quinoa provides whole-grain goodness and a serving of protein.\n1 medium onion, finely chopped (1 cup)\n2 Tbs. olive oil\n2 ribs celery, finely chopped (\u00bd cup)\n1 Tbs. ground cumin\n2 cloves garlic, minced (2 tsp.)\n1 10-oz. pkg. frozen chopped spinach, thawed and squeezed dry\n2 15-oz. cans diced tomatoes, drained, liquid reserved\n1 15-oz. can black beans, rinsed and drained\n\u00be cup quinoa\n3 large carrots, grated (1\u00bd cups)\n1\u00bd cups grated reduced-fat pepper Jack cheese, divided\n4 large red bell peppers, halved lengthwise, ribs removed\n1. Heat oil in saucepan over medium heat. Add onion and celery, and cook 5 minutes, or until soft. Add cumin and garlic, and saut\u00e9 1 minute. Stir in spinach and drained tomatoes. Cook 5 minutes, or until most of liquid has evaporated.\n2. Stir in black beans, quinoa, carrots, and 2 cups water. Cover, and bring to a boil. Reduce heat to medium-low, and simmer 20 minutes, or until quinoa is tender. Stir in 1 cup cheese. Season with salt and pepper, if desired.\n3. Preheat oven to 350\u00b0F. Pour liquid from tomatoes in bottom of baking dish.\n4. Fill each bell pepper half with heaping \u00be-cup quinoa mixture, and place in baking dish. Cover with foil, and bake 1 hour. Uncover, and sprinkle each pepper with 1 Tbs. remaining cheese. Bake 15 minutes more, or until tops of stuffed peppers are browned. Let stand 5 minutes. Transfer stuffed peppers to serving plates, and drizzle each with pan juices before serving.",
-        "ingredients": [],
-        "directions": [],
+        "description": "Serves 8\nThis dish freezes well for future meals. Quinoa provides whole-grain goodness and a serving of protein.",
+        "ingredients": [
+            "1 medium onion, finely chopped (1 cup)",
+            "2 Tbs. olive oil",
+            "2 ribs celery, finely chopped (\u00bd cup)",
+            "1 Tbs. ground cumin",
+            "2 cloves garlic, minced (2 tsp.)",
+            "1 10-oz. pkg. frozen chopped spinach, thawed and squeezed dry",
+            "2 15-oz. cans diced tomatoes, drained, liquid reserved",
+            "1 15-oz. can black beans, rinsed and drained",
+            "\u00be cup quinoa",
+            "3 large carrots, grated (1\u00bd cups)",
+            "1\u00bd cups grated reduced-fat pepper Jack cheese, divided",
+            "4 large red bell peppers, halved lengthwise, ribs removed"
+        ],
+        "directions": [
+            "1. Heat oil in saucepan over medium heat. Add onion and celery, and cook 5 minutes, or until soft. Add cumin and garlic, and saut\u00e9 1 minute. Stir in spinach and drained tomatoes. Cook 5 minutes, or until most of liquid has evaporated.",
+            "2. Stir in black beans, quinoa, carrots, and 2 cups water. Cover, and bring to a boil. Reduce heat to medium-low, and simmer 20 minutes, or until quinoa is tender. Stir in 1 cup cheese. Season with salt and pepper, if desired.",
+            "3. Preheat oven to 350\u00b0F. Pour liquid from tomatoes in bottom of baking dish.",
+            "4. Fill each bell pepper half with heaping \u00be-cup quinoa mixture, and place in baking dish. Cover with foil, and bake 1 hour. Uncover, and sprinkle each pepper with 1 Tbs. remaining cheese. Bake 15 minutes more, or until tops of stuffed peppers are browned. Let stand 5 minutes. Transfer stuffed peppers to serving plates, and drizzle each with pan juices before serving."
+        ],
         "notes": [],
         "tags": [
             "Side"
@@ -10104,13 +10885,13 @@ const RECIPES_DB = [
             "Cook orzo in a pot of salted boiling water according to package directions (or about 9 minutes).",
             "In a medium bowl add 1 tablespoon olive oil, minced garlic, dijon mustard, lemon, salt and pepper. Once your orzo is done cooking, drain it and then add it to this bowl and toss. (the heat of the pasta will gently cook the raw garlic). Taste, adjust seasonings and set aside.",
             "In a medium skillet, heat a few teaspoons of olive oil, then add the chard stems, salt and pepper. Next, add the chard leaves and toss until just wilted (less than 2 minutes). Finish with a squeeze of lemon and remove from heat.",
-            "Assemble bowls with orzo, chard, feta and toasted walnuts."
+            "Assemble bowls with orzo, chard, feta and toasted walnuts.",
+            "**Recipe by Love and Lemons at http://www.loveandlemons.com/rainbow-chard-feta-orzo-bowls/**"
         ],
         "notes": [
             "**Notes**",
             "make this gluten free by subbing quinoa for orzo. (how to cook quinoa)",
-            "make this vegan by skipping the cheese.",
-            "Recipe by Love and Lemons at http://www.loveandlemons.com/rainbow-chard-feta-orzo-bowls/"
+            "make this vegan by skipping the cheese."
         ],
         "tags": [
             "Side"
@@ -10183,7 +10964,7 @@ const RECIPES_DB = [
             "7 oz (200 g) dark chocolate (55-70% cocoa)",
             "1 \u00bc cup (300g) whipping cream , cold",
             "Raspberry puree",
-            "Topping",
+            "**Topping**",
             "Fresh Raspberries",
             "Powdered sugar"
         ],
@@ -10224,9 +11005,41 @@ const RECIPES_DB = [
     {
         "id": "roasted_brussel_sprout_salad",
         "title": "Roasted Brussel Sprout Salad",
-        "description": "Serves 4\n5 mins prep\n15 mins cook\n20 mins total\nThis warm roasted brussels sprout salad is vibrant, served warm and drizzled with tangy honey mustard vinaigrette.\nWhat you need\narrow_forward_ios\nremove\n4 servings\nadd\n1 lb brussel sprouts\n1 tsp olive oil\n\u00bd tsp salt\n\u00bd tsp garlic powder\n1 apple, chopped Fuji or Gala\n\u00bc cup dried cranberries\n\u00bc cup shaved almonds\n\u00bc cup red onion, chopped\n\u2153 cup manchego, shredded *see notes\nDijon Honey Dressing\n3 \u00bd Tbsp dijon *taste as you go!\n2 Tbsp apple cider vinegar\n1 Tbsp honey or maple syrup *use more as needed\n1 Tbsp water\n\u00bd tsp salt\n\u00bc tsp pepper\nHow to make\narrow_forward_ios\nPreheat oven to 375\u00ba. If you're starting with whole Brussels sprouts, trim the stems and remove any tough outer leaves. Using a sharp knife slice them thinly. If you prefer a shortcut, opt for pre-shaved Brussels sprouts available at some grocery stores.\nOn a cooking sheet, combine the shaved Brussels sprouts 1 tsp oil, salt, pepper, and garlic powder. Mix well and roast in the oven for 12-14 minutes, tossing often to ensure an even cook. Meanwhile, add chopped apple, cranberries, almonds, red onion and cheese to a large salad bowl.\nIn a small bowl, whisk together the Dijon mustard, apple cider vinegar, honey, water, salt, and pepper. This dressing ties all the components together with a harmonious balance of tang and sweetness. Taste the dressing as you go, you may want more honey or syrup to sweeten it up. Once the Brussels sprouts are tender, add them to the large bowl, pour the dressing over everything and enjoy",
-        "ingredients": [],
-        "directions": [],
+        "description": "Serves 4",
+        "ingredients": [
+            "5 mins prep",
+            "15 mins cook",
+            "20 mins total",
+            "This warm roasted brussels sprout salad is vibrant, served warm and drizzled with tangy honey mustard vinaigrette.",
+            "**What you need**",
+            "arrow_forward_ios",
+            "remove",
+            "4 servings",
+            "add",
+            "1 lb brussel sprouts",
+            "1 tsp olive oil",
+            "\u00bd tsp salt",
+            "\u00bd tsp garlic powder",
+            "1 apple, chopped Fuji or Gala",
+            "\u00bc cup dried cranberries",
+            "\u00bc cup shaved almonds",
+            "\u00bc cup red onion, chopped",
+            "\u2153 cup manchego, shredded *see notes",
+            "Dijon Honey Dressing",
+            "3 \u00bd Tbsp dijon *taste as you go!",
+            "2 Tbsp apple cider vinegar",
+            "1 Tbsp honey or maple syrup *use more as needed",
+            "1 Tbsp water",
+            "\u00bd tsp salt",
+            "\u00bc tsp pepper"
+        ],
+        "directions": [
+            "**How to make**",
+            "arrow_forward_ios",
+            "Preheat oven to 375\u00ba. If you're starting with whole Brussels sprouts, trim the stems and remove any tough outer leaves. Using a sharp knife slice them thinly. If you prefer a shortcut, opt for pre-shaved Brussels sprouts available at some grocery stores.",
+            "On a cooking sheet, combine the shaved Brussels sprouts 1 tsp oil, salt, pepper, and garlic powder. Mix well and roast in the oven for 12-14 minutes, tossing often to ensure an even cook. Meanwhile, add chopped apple, cranberries, almonds, red onion and cheese to a large salad bowl.",
+            "In a small bowl, whisk together the Dijon mustard, apple cider vinegar, honey, water, salt, and pepper. This dressing ties all the components together with a harmonious balance of tang and sweetness. Taste the dressing as you go, you may want more honey or syrup to sweeten it up. Once the Brussels sprouts are tender, add them to the large bowl, pour the dressing over everything and enjoy"
+        ],
         "notes": [],
         "tags": [
             "Salad"
@@ -10276,7 +11089,7 @@ const RECIPES_DB = [
     {
         "id": "roasted_butternut_and_avocado_salad",
         "title": "ROASTED BUTTERNUT AND AVOCADO SALAD",
-        "description": "PREP TIME 10 mins\nCOOK TIME 35 mins\nTOTAL TIME 45 mins\nRoasted Butternut and Avocado Salad with Cashew Cream Dressing. This salad makes a satisfying and delicious main meal, and it's vegan and gluten-free!\nAuthor: Loving It Vegan\nRecipe type: Salad, Entree\nCuisine: Vegan\nServes: 2",
+        "description": "PREP TIME 10 mins\nCOOK TIME 35 mins\nTOTAL TIME 45 mins\nRoasted Butternut and Avocado Salad with Cashew Cream Dressing. This salad makes a satisfying and delicious main meal, and it's vegan and gluten-free!\nAuthor: Loving It Vegan",
         "ingredients": [
             "**For the Salad:**",
             "1 Large Butternut",
@@ -10288,14 +11101,19 @@ const RECIPES_DB = [
             "10 Sundried Tomatoes",
             "10 Green Pimento Olives",
             "1 Avocado",
-            "For the Cashew Cream Dressing:",
+            "**For the Cashew Cream Dressing:**",
             "\u00bd cup (75g) Cashews",
             "\u00bd Lemon (squeezed)",
             "Sprinkle Black Pepper",
             "1 tsp Soy Sauce",
             "\u00bc cup Water",
-            "1 Tbsp Date Honey/Maple Syrup",
-            "METHOD",
+            "1 Tbsp Date Honey/Maple Syrup"
+        ],
+        "directions": [
+            "**Recipe type: Salad, Entree**",
+            "Cuisine: Vegan",
+            "Serves: 2",
+            "**METHOD**",
             "Preheat the oven to 430 degrees fahrenheit (220 degrees celsius).",
             "Slice the butternut without peeling it or removing the seeds.",
             "Brush the slices with olive oil and sprinkle with dried herbs and then place onto a baking sheet covered with parchment paper.",
@@ -10306,7 +11124,6 @@ const RECIPES_DB = [
             "Slice up an avocado and divide evenly between the two plates.",
             "Pour cashew cream over the top of each salad."
         ],
-        "directions": [],
         "notes": [
             "**NUTRITION INFORMATION**",
             "Serving size:\u00a01 Serving (of 2) Calories:\u00a0721 Fat:\u00a036.7g Saturated fat:\u00a05.8g Carbohydrates:\u00a094.4g Sugar:\u00a032.7g Sodium:\u00a0450mg Fiber:\u00a024.9g Protein:\u00a017.2g"
@@ -10366,15 +11183,15 @@ const RECIPES_DB = [
         "title": "Roasted Butternut Squash with Cranberries and Walnuts",
         "description": "",
         "ingredients": [
-            "- 1 medium butternut squash, peeled and diced",
-            "- 1 cup fresh or dried cranberries",
-            "- 1 cup walnuts, chopped",
-            "- 3 tablespoons olive oil",
-            "- 1 tablespoon maple syrup (optional)",
-            "- 1 teaspoon cinnamon",
-            "- 1/2 teaspoon salt",
-            "- 1/4 teaspoon black pepper",
-            "- Fresh parsley for garnish (optional)"
+            "1 medium butternut squash, peeled and diced",
+            "1 cup fresh or dried cranberries",
+            "1 cup walnuts, chopped",
+            "3 tablespoons olive oil",
+            "1 tablespoon maple syrup (optional)",
+            "1 teaspoon cinnamon",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "Fresh parsley for garnish (optional)"
         ],
         "directions": [
             "1. Preheat the oven to 400\u00b0F (200\u00b0C).",
@@ -10402,15 +11219,15 @@ const RECIPES_DB = [
         "title": "Roasted Cabbage Salad by @melissa.d.gray",
         "description": "Roasted Cabbage Salad by @melissa.d.gray is a must-try if you love Caesar salad. Cabbage caramelizes in the oven before getting topped with a zesty, cheesy dressing reminiscent of Caesar, creating a profoundly gratifying side that complements roasted chicken, pork, or steak beautifully.",
         "ingredients": [
-            "- 1 small head green cabbage, chopped into 1-inch pieces (about 8 cups)",
-            "- 4 tablespoons extra-virgin olive oil, divided",
-            "- 1/4 teaspoon salt",
-            "- 2 tablespoons grated Parmesan cheese",
-            "- 2 tablespoons rice vinegar",
-            "- 1 1/2 teaspoons reduced-sodium soy sauce",
-            "- 1 teaspoon Dijon mustard",
-            "- 1 large clove garlic, grated with a Microplane",
-            "- 1/4 teaspoon ground pepper, plus more for garnish"
+            "1 small head green cabbage, chopped into 1-inch pieces (about 8 cups)",
+            "4 tablespoons extra-virgin olive oil, divided",
+            "1/4 teaspoon salt",
+            "2 tablespoons grated Parmesan cheese",
+            "2 tablespoons rice vinegar",
+            "1 1/2 teaspoons reduced-sodium soy sauce",
+            "1 teaspoon Dijon mustard",
+            "1 large clove garlic, grated with a Microplane",
+            "1/4 teaspoon ground pepper, plus more for garnish"
         ],
         "directions": [
             "1. Position oven racks in top third and lower third; preheat to 425\u00b0F. Toss cabbage with 2 tablespoons oil and salt in a large bowl until well coated. Spread in an even layer on 2 large rimmed baking sheets.",
@@ -10473,9 +11290,24 @@ const RECIPES_DB = [
     {
         "id": "roasted_peanut_kale_crunch_salad",
         "title": "Roasted Peanut Kale Crunch Salad",
-        "description": "Kale Crunch Salad:\n4 large stalks kale, stems removed\nhalf a head of green cabbage\n2 small fresno peppers, sliced\n1 cup peanuts, chopped\n1/2 cup chopped cilantro\n1/2 cup chopped green onions\nRoasted Peanut Vinaigrette:\n1/2 cup roasted peanut oil\n2 tablespoons rice vinegar\n1 clove garlic\n2 1/2 tablespoons sugar\n1 teaspoon coarse kosher salt (more to taste)\nfreshly ground black pepper\nCook Mode Prevent your screen from going dark",
-        "ingredients": [],
+        "description": "Kale Crunch Salad:",
+        "ingredients": [
+            "4 large stalks kale, stems removed",
+            "**half a head of green cabbage**",
+            "2 small fresno peppers, sliced",
+            "1 cup peanuts, chopped",
+            "1/2 cup chopped cilantro",
+            "1/2 cup chopped green onions",
+            "**Roasted Peanut Vinaigrette:**",
+            "1/2 cup roasted peanut oil",
+            "2 tablespoons rice vinegar",
+            "1 clove garlic",
+            "2 1/2 tablespoons sugar",
+            "1 teaspoon coarse kosher salt (more to taste)",
+            "**freshly ground black pepper**"
+        ],
         "directions": [
+            "Cook Mode Prevent your screen from going dark",
             "Make the Roasted Peanut Vinaigrette:Blend all ingredients in a small blender or food processor until smooth. (This is mostly to incorporate the garlic, so if you\u2019d rather, you can grate the garlic into the jar with the other ingredients and shake thoroughly to combine.)",
             "Prep the Salad:\u00a0Chop your herbs, peanuts, and fresno peppers.",
             "Chop the Kale and Cabbage: Using a food processor, pulse the kale and cabbage in batches until it is very finely chopped, stopping before the greens get too mushy. If they release too much water, just give them a gentle squeeze with a paper towel. Transfer to a large bowl.",
@@ -10505,7 +11337,7 @@ const RECIPES_DB = [
             "420g can lentils, drained and rinsed",
             "1/3 cup pomegranate seeds",
             "1-2 tbsp sesame seeds",
-            "Salad:",
+            "**Salad:**",
             "1 bunch of parsley, finely chopped",
             "Handful fresh mint, finely chopped",
             "1 tomato, finely diced",
@@ -10513,21 +11345,22 @@ const RECIPES_DB = [
             "1 cucumber, finely diced",
             "Juice from 1/2 lemon",
             "Olive oil",
-            "Hummus (or use store bought):",
+            "**Hummus (or use store bought):**",
             "400g can chickpeas, drained and rinsed",
             "1 1/2 tbsp olive oil",
             "Pinch of salt and pepper",
             "Juice from 1 lemon",
             "1/4 cup tahini",
             "1 small garlic clove, chopped",
-            "Water to thin if needed",
+            "Water to thin if needed"
+        ],
+        "directions": [
             "Preheat oven to 200\u00b0C/390\u00b0F and add the pumpkin to a lined baking tray. Add a pinch of salt and pepper and drizzle lightly with olive oil. Toss to coat and bake for 30-35 minutes.",
             "Rinse the quinoa in a fine mesh strainer and add to a pot with 2 cups water. Bring to boil then reduce heat to low and place on the lid. Keep the lid on until all the water is absorbed and the quinoa is cooked (about 10-15mins). Fluff with a fork and cool.",
             "In a bowl add the parsley, mint, tomato, onion, cucumber, lemon juice, pinch of salt and pepper and 1/2 tbsp olive oil. Toss to combine.",
             "Add all the hummus ingredients in small blender or processor and blend until creamy.",
             "Add the hummus on the bottom of the bowls, then quinoa, tabouli, pumpkin, lentils, pomegranate and sesame seeds. Enjoy!"
         ],
-        "directions": [],
         "notes": [],
         "tags": [
             "Salad"
@@ -10543,8 +11376,9 @@ const RECIPES_DB = [
     {
         "id": "roasted_vegetable_enchiladas",
         "title": "Roasted Vegetable Enchiladas",
-        "description": "http://www.eatingwell.com/recipes/roasted_vegetable_enchiladas.html\nFrom EatingWell:\u00a0 September/October 2007\nFilled with bell peppers, pinto beans, mushrooms and onions, these colorful enchiladas can be mostly made ahead--perfect for entertaining. Pass some crumbled queso fresco, chopped fresh cilantro and diced avocado at the table.\n6 servings, 2 enchiladas each | Active Time: 1 1/4 hours | Total Time: 1 1/2 hours",
+        "description": "http://www.eatingwell.com/recipes/roasted_vegetable_enchiladas.html\nFrom EatingWell:\u00a0 September/October 2007\nFilled with bell peppers, pinto beans, mushrooms and onions, these colorful enchiladas can be mostly made ahead--perfect for entertaining. Pass some crumbled queso fresco, chopped fresh cilantro and diced avocado at the table.",
         "ingredients": [
+            "6 servings, 2 enchiladas each | Active Time: 1 1/4 hours | Total Time: 1 1/2 hours",
             "**Sauce**",
             "1 poblano pepper, or green bell pepper",
             "2 teaspoons extra-virgin olive oil",
@@ -10558,7 +11392,7 @@ const RECIPES_DB = [
             "8 ounces tomatoes, roughly chopped, plus diced tomato for garnish",
             "1 cup vegetable broth, (see Note)",
             "1/2 cup packed fresh cilantro, coarsely chopped, plus more leaves for garnish",
-            "Filling",
+            "**Filling**",
             "3 bell peppers, (1 each red, yellow and orange), diced",
             "8 ounces cremini (baby portobello) mushrooms, diced",
             "3/4 cup diced red onion",
@@ -10597,9 +11431,21 @@ const RECIPES_DB = [
     {
         "id": "roasted_vegetables_with_creamy_tahini_yogurt_dressing",
         "title": "Roasted Vegetables with Creamy Tahini-Yogurt Dressing",
-        "description": "5 FROM 8 VOTES\nA vibrant and nutritious sheet pan dinner featuring roasted chickpeas and an array of vegetables paired with a creamy tahini-yogurt dressing. This vegan-friendly dish is quick to prepare, making it perfect for weeknight dinners or meal prepping.\nSERVINGS 4\nPREP TIME 15 minutes\nCOOK TIME 30 minutes\nTOTAL TIME 45 minutes\nEquipment\nLarge sheet pan\nMixing bowls\nWhisk\nMeasuring spoons and cups\nKnife and Cutting Board",
+        "description": "",
         "ingredients": [
-            "For the Sheet Pan Vegetables:",
+            "5 FROM 8 VOTES",
+            "A vibrant and nutritious sheet pan dinner featuring roasted chickpeas and an array of vegetables paired with a creamy tahini-yogurt dressing. This vegan-friendly dish is quick to prepare, making it perfect for weeknight dinners or meal prepping.",
+            "SERVINGS 4",
+            "PREP TIME 15 minutes",
+            "COOK TIME 30 minutes",
+            "TOTAL TIME 45 minutes",
+            "Equipment",
+            "Large sheet pan",
+            "Mixing bowls",
+            "Whisk",
+            "Measuring spoons and cups",
+            "Knife and Cutting Board",
+            "**For the Sheet Pan Vegetables:**",
             "1 can Chickpeas: 1 can drained and rinsed, 400 g / 15 oz",
             "1 Onion (large) sliced into wedges",
             "2 Sweet potato(medium) cubed, 450 g / 1 lb",
@@ -10607,7 +11453,7 @@ const RECIPES_DB = [
             "1 cup Cauliflower florets, 150 g / 5.3 oz",
             "2 tsp Seasoning paprika, cumin, salt, pepper, chili flakes as desired",
             "2-3 tbsp Olive oil 30\u201345 ml",
-            "For the Dressing:",
+            "**For the Dressing:**",
             "2 tbsp Tahini 30 g / 1 oz",
             "1/2 cup Vegan or Greek yogurt 120 g / 4 oz",
             "2 tbsp Lemon juice 30 ml",
@@ -10657,7 +11503,7 @@ const RECIPES_DB = [
             "Dash of garlic powder",
             "2 tablespoons olive oil",
             "Salt and black pepper to taste",
-            "For the Maple Dijon Tahini Dressing:",
+            "**For the Maple Dijon Tahini Dressing:**",
             "1/4 cup tahini",
             "1 tablespoon maple syrup",
             "1 tablespoon Dijon mustard",
@@ -10689,10 +11535,11 @@ const RECIPES_DB = [
     {
         "id": "roasted_veggie_glow_bowls",
         "title": "Roasted Veggie Glow Bowls",
-        "description": "Roasted Veggie Glow Bowls feature a mix of roasted cauliflower and carrots, protein-rich quinoa, and a dynamite golden tahini dressing. Nutrient-packed and perfect for meal prep.\nPrep Time  15 minutes\nCook Time 25 minutes\nTotal Time 40 minutes\nCourse: Grain Bowl, Main CourseCuisine: middle easternDiet: Gluten Free, Vegan Servings: 4Author: Jamie Vespa MS, RD\nEquipment\nLarge rimmed baking sheet\nMedium saucepan\nMixing bowls",
+        "description": "Roasted Veggie Glow Bowls feature a mix of roasted cauliflower and carrots, protein-rich quinoa, and a dynamite golden tahini dressing. Nutrient-packed and perfect for meal prep.\nPrep Time  15 minutes\nCook Time 25 minutes\nTotal Time 40 minutes",
         "ingredients": [
-            "1 medium head cauliflower, cut into florets(about 6 cups total)",
-            "www 3 large carrots, peeled and sliced at a diagonal into 1-inch chunks",
+            "Bowl",
+            "1 medium head cauliflower, cut into florets (about 6 cups total)",
+            "3 large carrots, peeled and sliced at a diagonal into 1-inch chunks",
             "3 Tbsp. extra-virgin olive oil, divided",
             "1 tsp. smoked paprika",
             "1 tsp. garlic powder",
@@ -10715,16 +11562,15 @@ const RECIPES_DB = [
             "1/4 tsp. kosher salt, or more to taste"
         ],
         "directions": [
-            "Preheat oven to 425\u00baF. Add cauliflower florets and carrots to a large rimmed baking sheet. Add 2 Tbsp. olive oil, smoked paprika, garlic powder, cumin, salt, and black pepper; toss well to coat.\u2028\u2028Roast for 25 to 30 minutes, tossing once halfway through, until crisp and caramelized.",
-            "Meanwhile, combine quinoa and broth in a medium saucepan over medium-high he zzzz z cc at. Bring mixture to a boil, reduce heat, cover, and gently simmer for 15 minutes, or until liquid is absorbed and quinoa is fluffy.\u00a0\u2028\u2028Remove lid and stir in kale and remaining 1 Tbsp. olive oil. Cover and keep warm until ready to serve. (The residual heat will wilt and soften the kale.)",
+            "Assemble equipment: Large rimmed baking sheet, Medium saucepan and Mixing bowls",
+            "Preheat oven to 425\u00baF. Add cauliflower florets and carrots to a large rimmed baking sheet. Add 2 Tbsp. olive oil, smoked paprika, garlic powder, cumin, salt, and black pepper; toss well to coat.",
+            "Roast for 25 to 30 minutes, tossing once halfway through, until crisp and caramelized.",
+            "Meanwhile, combine quinoa and broth in a medium saucepan over medium-high heat. Bring mixture to a boil, reduce heat, cover, and gently simmer for 15 minutes, or until liquid is absorbed and quinoa is fluffy.",
+            "Remove lid and stir in kale and remaining 1 Tbsp. olive oil. Cover and keep warm until ready to serve. (The residual heat will wilt and soften the kale.)",
             "Prepare Golden Tahini Dressing by combining tahini, vinegar, maple syrup, chili garlic sauce, curry powder, turmeric, and salt in a bowl; stir well. Gradually whisk in water in 1 Tbsp increments until sauce is smooth, and desired consistency is achieved. (I typically use 3 to 4 Tbsp, depending on how runny the tahini is.)",
             "Assemble bowls by dividing quinoa and kale mixture evenly between four bowls. Scatter roasted veggies overtop, and divide avocado slices evenly. Drizzle with Golden Tahini Dressing, and sprinkle pumpkin seeds overtop (1 Tbsp. per bowl). Finish by garnishing each bowl with chopped parsley."
         ],
         "notes": [
-            "**Notes**",
-            "Make-Ahead: Chop all of the veggies up to 3 days in advance and store in an airtight container in the fridge. You can also prep the Golden Tahini Dressing up to 4 days ahead and store in the fridge, tightly covered.",
-            "Store: It\u2019s best to store the leftover quinoa and veggies separately from the tahini dressing. This way, you can reheat the bowls without affecting the delicate fats in the dressing. The quinoa and veggies will last up to 4 days refrigerated. The tahini dressing will last up to 10 days.",
-            "Reheat: Transfer the quinoa mixture and veggies to a microwave-safe bowl and nook in 30 second intervals, stirring each time, until warm. Serve with tahini dressing, avocado, and parsley. (Note: the tahini sauce may need another 1 to 2 tsp of water mixed in to loosen it back up.)",
             "**Nutrition**",
             "Serving: 1bowl | Calories: 535kcal | Carbohydrates: 55g | Protein: 17g | Fat: 31g | Saturated Fat: 4g | Sodium: 890mg | Fiber: 13g | Sugar: 13.5g"
         ],
@@ -10742,8 +11588,9 @@ const RECIPES_DB = [
     {
         "id": "romaine_salad_with_orange_feta_beans",
         "title": "Romaine Salad with Orange, Feta & Beans",
-        "description": "http://www.eatingwell.com/recipes/romaine_salad_with_orange_feta_beans.html\nFrom EatingWell:\u00a0 March/April 2007, The EatingWell Diet (2007)\nAdding canned beans is a quick, convenient way to make a salad into a meal\u2014they boost the protein to make the salad more satisfying. This recipe calls for kidney beans, but other canned beans like cannellinis or black beans would also work nicely.\n2 servings, about 4 cups each | Active Time: 20 minutes | Total Time: 20 minutes",
+        "description": "http://www.eatingwell.com/recipes/romaine_salad_with_orange_feta_beans.html\nFrom EatingWell:\u00a0 March/April 2007, The EatingWell Diet (2007)\nAdding canned beans is a quick, convenient way to make a salad into a meal\u2014they boost the protein to make the salad more satisfying. This recipe calls for kidney beans, but other canned beans like cannellinis or black beans would also work nicely.",
         "ingredients": [
+            "2 servings, about 4 cups each | Active Time: 20 minutes | Total Time: 20 minutes",
             "Orange-Oregano Dressing",
             "1/2 teaspoon orange zest",
             "1/2 cup orange juice, preferably freshly squeezed",
@@ -10785,34 +11632,35 @@ const RECIPES_DB = [
     {
         "id": "salad_tostadas",
         "title": "Southwestern Salad Tostada",
-        "description": "Created by @maxiskitchen\nRecipe makes 6 tostadas | Total Prep + Cook Time: 35 minutes",
+        "description": "Created by @maxiskitchen",
         "ingredients": [
-            "For the Tostadas:",
-            "- 2 Tbsp Avocado Oil",
-            "- 6 Corn Tortillas",
-            "- Kosher Salt",
-            "For the Dressing:",
-            "- 1/2 Cup Light Sour Cream",
-            "- 2 Limes, juiced",
-            "- 1/4 Cup Cilantro",
-            "- 1 Clove Garlic",
-            "- 1/4 tsp Salt",
-            "- 1/4 tsp Pepper",
+            "**For the Tostadas:**",
+            "2 Tbsp Avocado Oil",
+            "6 Corn Tortillas",
+            "Kosher Salt",
+            "**For the Dressing:**",
+            "1/2 Cup Light Sour Cream",
+            "2 Limes, juiced",
+            "1/4 Cup Cilantro",
+            "1 Clove Garlic",
+            "1/4 tsp Salt",
+            "1/4 tsp Pepper",
             "**For the Salad:**",
-            "- 4 Cups Romaine, sliced thin (~1 Heart of Romaine)",
-            "- 3/4 Cup Cherry Tomatoes, sliced",
-            "- 1/2 of an Avocado, diced",
-            "- 1/2 Cup Jicama, diced small",
-            "- 1/2 Cup Black Beans",
-            "- 1/2 Cup Corn (frozen and thawed or canned)",
-            "- 1/4 Cup Shredded Mexican Cheese",
-            "- Kosher Salt & Pepper",
-            "On Top:",
-            "- Shredded Mexican Cheese",
-            "- Avocado, sliced",
-            "- Maldon Salt (optional)"
+            "4 Cups Romaine, sliced thin (~1 Heart of Romaine)",
+            "3/4 Cup Cherry Tomatoes, sliced",
+            "1/2 of an Avocado, diced",
+            "1/2 Cup Jicama, diced small",
+            "1/2 Cup Black Beans",
+            "1/2 Cup Corn (frozen and thawed or canned)",
+            "1/4 Cup Shredded Mexican Cheese",
+            "Kosher Salt & Pepper",
+            "**On Top:**",
+            "Shredded Mexican Cheese",
+            "Avocado, sliced",
+            "Maldon Salt (optional)"
         ],
         "directions": [
+            "**Recipe makes 6 tostadas | Total Prep + Cook Time: 35 minutes**",
             "Preheat oven to 400\u00b0F (convection if you have it) and drizzle 2 Tbsp avocado oil on a large baking sheet.",
             "Rub both sides of each tortilla in the oil and sprinkle with salt.",
             "Convection bake for 6 minutes on the first side, flip and bake for 3-5 more minutes until deep golden brown and crispy (if you are not using convection you may have to cook a bit longer).",
@@ -10850,9 +11698,22 @@ const RECIPES_DB = [
     {
         "id": "salsa",
         "title": "Salsa",
-        "description": "My new favorite way of making salsa at home. The recipe and method is from @chilesandsmoke so be sure to give him a follow. And this couldn\u2019t be any easier, put all these in a food processor and pulse: - 1 can diced fire roasted tomatoes- 2 chipotle peppers in adobo sauce + extra sauce- 1 jalapeno \u2013 no seeds- \u00bc white onion- \u00bc red onion- Zest from 1 lime- Juice from 1 lime- 1 handful of cilantro- 1 tbsp taco seasoning- Salt to taste It\u2019s so good! Save this one and give it a try \ud83d\udc4d\ud83c\udffb #grillinwithdad #salsa #easyrecipeideas #tasty #nomnom",
-        "ingredients": [],
-        "directions": [],
+        "description": "My new favorite way of making salsa at home. The recipe and method is from @chilesandsmoke so be sure to give him a follow. And this couldn\u2019t be any easier",
+        "ingredients": [
+            "1 can diced fire roasted tomatoes-",
+            "2 chipotle peppers in adobo sauce + extra sauce-",
+            "1 jalapeno \u2013 no seeds-",
+            "\u00bc white onion-",
+            "\u00bc red onion-",
+            "Zest from 1 lime-",
+            "Juice from 1 lime-",
+            "1 handful of cilantro-",
+            "1 tbsp taco seasoning-"
+        ],
+        "directions": [
+            "Put all into a food processor and pulse",
+            "Salt to taste"
+        ],
         "notes": [],
         "tags": [
             "Appetizer"
@@ -10926,14 +11787,37 @@ const RECIPES_DB = [
     {
         "id": "shaved_brussels_sprout_salad_with_pomegranate_and_candied_pecans",
         "title": "shaved brussels sprout salad with pomegranate and candied pecans",
-        "description": "Total Time: 40 minutes\nYield: 6-8 servings 1x\nSalad:\n12 ounces shaved brussels sprouts, stems removed\n1 \u00bd cups pomegranate arils\n1 \u00bd cups honeycrisp apple, diced\n1 cup pecans, candied (recipe below) or just toasted\n\u00be cup dried cranberries\n\u00be cup shaved parmesan\nVinaigrette:\n3 tablespoons extra virgin olive oil\n1 \u00bd tablespoons freshly squeezed lemon juice\n1 \u00bd tablespoons apple cider vinegar\n2 tablespoons dijon mustard\n1 tablespoon maple syrup or honey\n1 teaspoon salt\n\u00bd teaspoon black pepper\nCandied Pecans:\n2 cups chopped pecans\n\u2153 cup brown sugar\n1 tsp cinnamon\n\u00bc-\u00bd teaspoon cayenne\n1 tsp vanilla extract\n\u00be tsp salt\n1 \u00bd tbsp water",
-        "ingredients": [],
+        "description": "Total Time: 40 minutes\nYield: 6-8 servings 1x\nSalad:",
+        "ingredients": [
+            "12 ounces shaved brussels sprouts, stems removed",
+            "1 \u00bd cups pomegranate arils",
+            "1 \u00bd cups honeycrisp apple, diced",
+            "1 cup pecans, candied (recipe below) or just toasted",
+            "\u00be cup dried cranberries",
+            "\u00be cup shaved parmesan",
+            "**Vinaigrette:**",
+            "3 tablespoons extra virgin olive oil",
+            "1 \u00bd tablespoons freshly squeezed lemon juice",
+            "1 \u00bd tablespoons apple cider vinegar",
+            "2 tablespoons dijon mustard",
+            "1 tablespoon maple syrup or honey",
+            "1 teaspoon salt",
+            "\u00bd teaspoon black pepper",
+            "**Candied Pecans:**",
+            "2 cups chopped pecans",
+            "\u2153 cup brown sugar",
+            "1 tsp cinnamon",
+            "\u00bc-\u00bd teaspoon cayenne",
+            "1 tsp vanilla extract",
+            "\u00be tsp salt",
+            "1 \u00bd tbsp water"
+        ],
         "directions": [
-            "Candied Pecans:",
+            "**Candied Pecans:**",
             "Add everything but the pecans to a saucepan over medium heat and stir well, heating for 1 min. Add the pecans and stir well, then let cook for 3-5 minutes over medium heat, stirring often, until the glaze thickens and cooks down - it should look shiny and should be thick (if it's not, they will not set).",
             "Transfer to parchment paper to cool completely before breaking up.",
             "We only use half of this in the salad & the other half for snacking! If they are not crispy after cooling, you can put them in a 250\u02daF oven for ~10 minutes to further dry them out.",
-            "Salad:",
+            "**Salad:**",
             "Using the shredder attachment on your food processor, a mandoline, a knife, shred your brussels sprouts into 1/16\u201d shreds. You can also buy a bag of pre-shredded brussels sprouts at most grocery stores.",
             "Combine the brussels sprouts, pomegranate, apple, pecans, cranberries and parmesan in a bowl. Whisk together all of the dressing ingredients, pour over the salad, and toss.",
             "Let the salad sit for about 30 minutes before serving. As it sits, the acid in the dressing will soften up the sprouts. Serve with extra parmesan, pomegranate, and pecans."
@@ -10982,27 +11866,27 @@ const RECIPES_DB = [
             "Salt and pepper to taste",
             "Jalapeno (deseeded and diced)",
             "Lime (cut in half)",
-            "Flour tortillas",
-            "Sep 1. Preheat oven to 425 degrees",
-            "Sep 2. Line a baking sheet with parchment paper",
-            "Sep 3. Add the paprika, cumin, cayenne pepper, garlic powder, and salt and pepper to taste in a small bowl.",
-            "Sep 4. Stir in the olive oil.",
-            "Sep 5. Whisk until well blended.",
-            "Sep 6. Spoon the olive oil and seasonings into the ziploc bag.",
-            "Sep 7. Add the vegetables into the bag. (Including the sliced jalapenos)",
-            "Sep 8. Massage the vegetables into the bag.",
-            "Sep 9. Add the chicken strips in the bag.",
-            "Sep 10. Continue to massage the chicken, jalapenos,\u00a0 and vegetables in the bag.",
-            "Sep 11. Place the chicken in the center of the baking sheet.",
-            "\ufffc",
-            "Sep 12. Spread half of the vegetables on both sides of the chicken.",
-            "Sep 13. Bake at 425 degrees for 15 minutes.",
-            "Sep 14. Wrap the flour tortillas in foil.",
-            "Sep 15. Add them in the oven during the last 5 minutes of cooking.",
-            "Sep 16. Squeeze the lime over the entire pan.",
-            "Sep 17. Scoop the fajita mixture onto the tortillas."
+            "Flour tortillas"
         ],
-        "directions": [],
+        "directions": [
+            "1. Preheat oven to 425 degrees",
+            "2. Line a baking sheet with parchment paper",
+            "3. Add the paprika, cumin, cayenne pepper, garlic powder, and salt and pepper to taste in a small bowl.",
+            "4. Stir in the olive oil.",
+            "5. Whisk until well blended.",
+            "6. Spoon the olive oil and seasonings into the ziploc bag.",
+            "7. Add the vegetables into the bag. (Including the sliced jalapenos)",
+            "8. Massage the vegetables into the bag.",
+            "9. Add the chicken strips in the bag.",
+            "10. Continue to massage the chicken, jalapenos,\u00a0 and vegetables in the bag.",
+            "11. Place the chicken in the center of the baking sheet.",
+            "12. Spread half of the vegetables on both sides of the chicken.",
+            "13. Bake at 425 degrees for 15 minutes.",
+            "14. Wrap the flour tortillas in foil.",
+            "15. Add them in the oven during the last 5 minutes of cooking.",
+            "16. Squeeze the lime over the entire pan.",
+            "17. Scoop the fajita mixture onto the tortillas."
+        ],
         "notes": [],
         "tags": [
             "Entree"
@@ -11017,37 +11901,40 @@ const RECIPES_DB = [
     {
         "id": "sheet_pan_orange_chicken",
         "title": "Sheet Pan Orange Chicken",
-        "description": "is a total win when you want a healthy, homemade dinner fast and without the mess! Juicy chicken bites and crisp-tender veggies are coated in a sweet citrus glaze that is better than takeout. Serve over fluffy rice and your whole meal will be ready in under 30 minutes.\nPrep Time:\n10 minutes\nCook Time:\n18 minutes\nTotal Time:\n28 minutes\n4 Servings",
+        "description": "is a total win when you want a healthy, homemade dinner fast and without the mess! Juicy chicken bites and crisp-tender veggies are coated in a sweet citrus glaze that is better than takeout. Serve over fluffy rice and your whole meal will be ready in under 30 minutes.\nPrep Time: 10 minutes\nCook Time: 18 minutes\nTotal Time: 28 minutes",
         "ingredients": [
-            "For the chicken",
-            "\u25a2 1.5 pounds boneless, skinless chicken breast , or thighs",
-            "\u25a2 1 tablespoon sesame oil",
-            "\u25a2 2 tablespoons corn starch",
-            "\u25a2 1 teaspoon salt",
-            "\u25a2 1 teaspoon garlic powder",
-            "\u25a2 1 teaspoon paprika",
-            "\u25a2 2 teaspoons orange zest",
-            "\u25a2 2 bell peppers, red and green diced",
-            "\u25a2 1/2 sweet yellow onion, diced",
-            "For the sweet and sour sauce",
-            "\u25a2 1/2 cup brown sugar",
-            "\u25a2 1/2 cup orange juice",
-            "\u25a2 2 tablespoons rice vinegar",
-            "\u25a2 2 tablespoons soy sauce",
-            "\u25a2 1 teaspoon minced ginger",
-            "\u25a2 1 tablespoon cornstarch",
+            "4 Servings",
+            "**For the chicken**",
+            "1.5 pounds boneless, skinless chicken breast , or thighs",
+            "1 tablespoon sesame oil",
+            "2 tablespoons corn starch",
+            "1 teaspoon salt",
+            "1 teaspoon garlic powder",
+            "1 teaspoon paprika",
+            "2 teaspoons orange zest",
+            "2 bell peppers, red and green diced",
+            "1/2 sweet yellow onion, diced",
+            "**For the sweet and sour sauce**",
+            "1/2 cup brown sugar",
             "1/2 cup orange juice",
-            "\u25a2 2 tablespoons rice vinegar",
-            "\u25a2 2 tablespoons soy sauce",
-            "\u25a2 1 teaspoon minced ginger",
-            "\u25a2 1 tablespoon cornstarch"
+            "2 tablespoons rice vinegar",
+            "2 tablespoons soy sauce",
+            "1 teaspoon minced ginger",
+            "1 tablespoon cornstarch",
+            "1/2 cup orange juice",
+            "2 tablespoons rice vinegar",
+            "2 tablespoons soy sauce",
+            "1 teaspoon minced ginger",
+            "1 tablespoon cornstarch"
         ],
         "directions": [
             "Preheat oven to 400\u02daF.",
             "Cut the chicken into bite-sized pieces, about 1 inch. Season them with the salt garlic powder, paprika, and orange zest, then add the cornstarch and sesame oil and work the chicken until all of the seasoning is evenly coating it.",
-            "Place the chicken bites evenly spread out over a half sheet pan. Add the diced bell pepper and onion and spread into a single layer.\u2028\u2028Bake for 10 minutes.",
+            "Place the chicken bites evenly spread out over a half sheet pan. Add the diced bell pepper and onion and spread into a single layer.",
+            "Bake for 10 minutes.",
             "While the chicken is baking, whisk together the brown sugar, orange juice, vinegar, soy sauce, ginger and cornstarch.",
-            "At 10 minutes, remove the chicken and vegetables, pour the orange sauce over the top. Use a spatula to toss the chicken and veggies in the sauce and spread back out into a single layer.\u2028\u2028Return to the oven for an additional 7-8 minutes, or until chicken is cooked through (165\u02daF internal temp) and the sauce is thick and sticky.",
+            "At 10 minutes, remove the chicken and vegetables, pour the orange sauce over the top. Use a spatula to toss the chicken and veggies in the sauce and spread back out into a single layer.",
+            "Return to the oven for an additional 7-8 minutes, or until chicken is cooked through (165\u02daF internal temp) and the sauce is thick and sticky.",
             "Serve warm in bowls or over rice and enjoy!"
         ],
         "notes": [],
@@ -11065,9 +11952,21 @@ const RECIPES_DB = [
     {
         "id": "sheet_pan_roast_with_creamy_garlic_feta_sauce",
         "title": "Sheet Pan Roast with Creamy Garlic & Feta Sauce",
-        "description": "5 FROM 1 VOTE\nThis vegan-friendly Sheet Pan Roast with Creamy Garlic & Feta Sauce is a simple yet flavor-packed meal. Featuring roasted potatoes, chickpeas, zucchini, and bell peppers, it's topped with a rich sauce made from roasted garlic, vegan feta, tangy soy yogurt, and zesty lime juice. Perfect for busy weeknights or relaxed weekend dinners!\nSERVINGS 3\nPREP TIME 10 minutes\nCOOK TIME 30 minutes\nTOTAL TIME 40 minutes\nEquipment\nLarge sheet pan\nBlender or food processor\nSpatula\nKnife\nCutting board",
+        "description": "",
         "ingredients": [
-            "For the Roast:",
+            "5 FROM 1 VOTE",
+            "This vegan-friendly Sheet Pan Roast with Creamy Garlic & Feta Sauce is a simple yet flavor-packed meal. Featuring roasted potatoes, chickpeas, zucchini, and bell peppers, it's topped with a rich sauce made from roasted garlic, vegan feta, tangy soy yogurt, and zesty lime juice. Perfect for busy weeknights or relaxed weekend dinners!",
+            "SERVINGS 3",
+            "PREP TIME 10 minutes",
+            "COOK TIME 30 minutes",
+            "TOTAL TIME 40 minutes",
+            "Equipment",
+            "Large sheet pan",
+            "Blender or food processor",
+            "Spatula",
+            "Knife",
+            "Cutting board",
+            "**For the Roast:**",
             "4 Medium potatoes diced",
             "1 can chickpeas drained and rinsed",
             "2 Bell peppers chopped",
@@ -11076,7 +11975,7 @@ const RECIPES_DB = [
             "3 tbsp olive oil",
             "Salt and black pepper to taste",
             "1 tsp smoked paprika optional",
-            "For the Sauce:",
+            "**For the Sauce:**",
             "1 cup Soy yogurt",
             "3 tbsp Lime juice",
             "3-4 Dried tomatoes optional",
@@ -11086,15 +11985,15 @@ const RECIPES_DB = [
             "A handful of fresh parsley"
         ],
         "directions": [
-            "Preheat the Oven:",
+            "**Preheat the Oven:**",
             "Preheat your oven to 200 \u00b0C / 400 \u00b0F.",
-            "Prepare the Vegetables:",
+            "**Prepare the Vegetables:**",
             "Place potatoes, chickpeas, bell peppers, zucchini, and the whole garlic bulb on a large sheet pan. Drizzle with olive oil, sprinkle with salt, pepper, and smoked paprika (if using). Toss evenly and spread into a single layer.",
-            "Roast the Vegetables:",
+            "**Roast the Vegetables:**",
             "Roast for 25-30 minutes, stirring halfway through, until potatoes are golden and garlic is soft. Remove one roasted bell pepper and the garlic bulb for the sauce.",
-            "Prepare the Sauce:",
+            "**Prepare the Sauce:**",
             "In a blender, combine soy yogurt, lime juice, dried tomatoes, roasted garlic (squeezed from skin), roasted bell pepper, vegan feta, and parsley. Blend until smooth. Adjust consistency with water if needed.",
-            "Serve:",
+            "**Serve:**",
             "Arrange roasted vegetables on plates or a platter. Drizzle the sauce on top or serve on the side. Garnish with extra parsley if desired."
         ],
         "notes": [
@@ -11156,13 +12055,13 @@ const RECIPES_DB = [
             "Bring a large pot of salted water to a boil. Prepare the pasta according to the instructions on the package, cooking until al dente. Reserve \u00be cup pasta water before you drain the pasta. If you like, drizzle the pasta with a little olive oil to keep it from sticking together and set aside.",
             "In a large skillet, heat the oil and butter. Add the shallot, smashed garlic cloves, and a pinch of salt. Cook over medium-low heat until the shallot is soft and the garlic is fragrant, 3 to 5 minutes. Remove the garlic cloves.",
             "Stir the greens into the pan and cook until lightly wilted. Add the pasta, roasted cauliflower, and vinegar mixture and stir to coat. Stir in \u00bd to \u00be cup of the pasta water to create a light sauce. Add the hazelnuts, raisins, and parsley.",
-            "Season to taste with salt, pepper, and additional sambal, if desired. Serve with lemon wedges."
+            "Season to taste with salt, pepper, and additional sambal, if desired. Serve with lemon wedges.",
+            "**To make this vegan, don't use honey.**",
+            "**To make this gluten free, I used Whole Grain Rice Shells from Delallo.**",
+            "For the whole wheat version, I used Delallo's organic whole wheat shells."
         ],
         "notes": [
-            "**Notes**",
-            "To make this vegan, don't use honey.",
-            "To make this gluten free, I used Whole Grain Rice Shells from Delallo.",
-            "For the whole wheat version, I used Delallo's organic whole wheat shells."
+            "**Notes**"
         ],
         "tags": [
             "Side"
@@ -11216,7 +12115,7 @@ const RECIPES_DB = [
     {
         "id": "slow_cooker_coconut_chicken_curry_is_the_easiest_healthy_comfort_food",
         "title": "Slow Cooker Coconut Chicken Curry is the Easiest Healthy Comfort Food",
-        "description": "Prep Time: 10 minutes\nCook Time: 4 hours on high, 8 hours on low\nTotal Time: 4 hours 10 minutes on high, 8 hours 10 minutes on low\nServings: 4",
+        "description": "Prep Time: 10 minutes",
         "ingredients": [
             "2 lbs skinless, boneless chicken thighs, cut into cubes",
             "1 yellow onion, diced",
@@ -11232,6 +12131,9 @@ const RECIPES_DB = [
             "\u00bc cup fresh cilantro, roughly chopped"
         ],
         "directions": [
+            "Cook Time: 4 hours on high, 8 hours on low",
+            "Total Time: 4 hours 10 minutes on high, 8 hours 10 minutes on low",
+            "Servings: 4",
             "1. Place all ingredients except baby spinach, quinoa and cilantro in a 6-quart\u00a0slow cooker. Mix well to combine, cover and set on high for 4 hours or on low for 8 hours.",
             "2. \u00a0When ready to serve, open the lid and stir in baby spinach to wilt. Ladle curry over cooked quinoa or rice with a sprinkle of fresh cilantro. Serve.",
             "Spicy-hot curry is all about the cooling condiments. Smooth things out with this refreshing mint, yogurt and cucumber raita."
@@ -11251,9 +12153,31 @@ const RECIPES_DB = [
     {
         "id": "slow_cooker_eggplant_parmesan",
         "title": "Slow Cooker Eggplant Parmesan",
-        "description": "Serves: 8\n2 28-ounce cans tomatoes (crushed or whole variety such as San Marzano)\n1 yellow onion, halved\n4 tablespoons butter\n1/2 teaspoon salt\n3 large eggs\n1/3 cup prepared pesto\n1/4 cup milk\n1 1/2 cups plain bread crumbs\n1/4 cup plus 2 tablespoons grated Parmesan\n2 medium eggplants (about 2 1/2 pounds total), peeled and cut into 1/2-inch rounds\n1 8-ounce package Italian cheese blend\n1 pound spaghetti\n2 tablespoons olive oil\nFresh basil (optional)\nIn a large saucepan, combine the tomatoes, onion, butter, and salt. Bring to a boil, then reduce heat and let simmer for about 45 minutes. Break up any large tomato chunks with a spoon, remove onion, and set aside. (This can be done a day ahead to save time.)\nIn a medium bowl, whisk eggs, pesto and milk. In a second bowl, toss bread crumbs and 1/4 cup of Parmesan.\nSet aside 1/2 cup of the sauce. Coat slow cooker bowl with nonstick cooking spray. Spoon 1/2 cup of the sauce on bottom of slow cooker.\nDip each eggplant slice in egg mixture, then bread crumb mixture, and place on a cutting board. Layer one-third of the eggplant slices into slow cooker (about 8 pieces). Top with 1 cup sauce and 2/3 cup Italian cheese blend. Repeat twice. Cover and cook on LOW for 5 1/2 to 6 hours.\nDuring last 30 minutes of cooking time, bring a large pot of lightly salted water to a boil. Add spaghetti and cook 10 minutes. Drain and toss with remaining 2 tablespoons Parmesan and the olive oil\nHeat reserved sauce gently in microwave or saucepan. Serve alongside eggplant and spaghetti. Garnish with basil, if using.",
-        "ingredients": [],
-        "directions": [],
+        "description": "Serves: 8",
+        "ingredients": [
+            "2 28-ounce cans tomatoes (crushed or whole variety such as San Marzano)",
+            "1 yellow onion, halved",
+            "4 tablespoons butter",
+            "1/2 teaspoon salt",
+            "3 large eggs",
+            "1/3 cup prepared pesto",
+            "1/4 cup milk",
+            "1 1/2 cups plain bread crumbs",
+            "1/4 cup plus 2 tablespoons grated Parmesan",
+            "2 medium eggplants (about 2 1/2 pounds total), peeled and cut into 1/2-inch rounds",
+            "1 8-ounce package Italian cheese blend",
+            "1 pound spaghetti",
+            "2 tablespoons olive oil",
+            "Fresh basil (optional)"
+        ],
+        "directions": [
+            "In a large saucepan, combine the tomatoes, onion, butter, and salt. Bring to a boil, then reduce heat and let simmer for about 45 minutes. Break up any large tomato chunks with a spoon, remove onion, and set aside. (This can be done a day ahead to save time.)",
+            "In a medium bowl, whisk eggs, pesto and milk. In a second bowl, toss bread crumbs and 1/4 cup of Parmesan.",
+            "Set aside 1/2 cup of the sauce. Coat slow cooker bowl with nonstick cooking spray. Spoon 1/2 cup of the sauce on bottom of slow cooker.",
+            "Dip each eggplant slice in egg mixture, then bread crumb mixture, and place on a cutting board. Layer one-third of the eggplant slices into slow cooker (about 8 pieces). Top with 1 cup sauce and 2/3 cup Italian cheese blend. Repeat twice. Cover and cook on LOW for 5 1/2 to 6 hours.",
+            "During last 30 minutes of cooking time, bring a large pot of lightly salted water to a boil. Add spaghetti and cook 10 minutes. Drain and toss with remaining 2 tablespoons Parmesan and the olive oil",
+            "Heat reserved sauce gently in microwave or saucepan. Serve alongside eggplant and spaghetti. Garnish with basil, if using."
+        ],
         "notes": [],
         "tags": [
             "Entree"
@@ -11294,12 +12218,13 @@ const RECIPES_DB = [
             "If you own a stovetop-safe slow cooker insert: Heat the olive oil in the insert over medium heat on the stove. Add the onion and celery and\u00a0saute until tender, 5 to 7\u00a0minutes, before transferring to the slow cooker and continuing with the instructions below.",
             "If you do not own a slow cooker with a stovetop-safe insert (or wish to skip step one):\u00a0Place the insert on the slow-cooker base (this recipe will fit a 4-quart capacity slow cooker). Add the olive oil, onion, celery,\u00a0carrot, zucchini, potatoes, split red lentils, chopped tomatoes, parmigiano rind, bay leaves, thyme, chicken stock,\u00a0kosher salt, and black pepper. Stir together. Cook on high heat for 4-6 hours, or until the red lentils are tender (or alternatively, cook on low heat for 8-10 hours).",
             "In the last hour of cook time (or 2 hours, if you are cooking over low heat), add\u00a0the thinly sliced cabbage. Remove and discard the dried bay leaves and any tough thyme sprigs. Adjust the seasoning to taste salt and pepper - you will most likely need to be liberal on the salt for this soup!",
-            "Serve the soup and top each serving with a drizzle of extra virgin olive oil, a sprinkling of freshly chopped parsley, and freshly grated parmigiano-reggiano.",
-            "TIPS FOR SUCCESS:",
+            "Serve the soup and top each serving with a drizzle of extra virgin olive oil, a sprinkling of freshly chopped parsley, and freshly grated parmigiano-reggiano."
+        ],
+        "notes": [
+            "**TIPS FOR SUCCESS:**",
             "Older lentils\u00a0tend to dry out and might take\u00a0significantly longer to cook.",
             "Try to find a bag\u00a0at the grocery store or choose them from a bulk bin that gets refreshed often (i.e. not the bag of lentils that has been sitting in your convenience store for three years on the top shelf)."
         ],
-        "notes": [],
         "tags": [
             "Soup"
         ],
@@ -11331,11 +12256,11 @@ const RECIPES_DB = [
             "2 tablespoons fresh parsley chopped"
         ],
         "directions": [
-            "How to Make Creamed Spinach",
+            "**How to Make Creamed Spinach**",
             "Add heavy cream and minced garlic to a large skillet and bring to a visible boil. Add shredded Parmesan cheese and stir. Reduce to low-medium heat and keep stirring until the cheese melts, for about 2 or 4 minutes.",
             "Add fresh spinach, stir in the sauce on low-medium heat for a couple of minutes, just until the spinach starts to wilt and sinks into the sauce. You can remove from heat and cover to let spinach wilt, too. Season with salt and pepper, if needed.",
             "Top with fresh lemon zest.",
-            "How to Make Smoked Paprika Chicken",
+            "**How to Make Smoked Paprika Chicken**",
             "Generously season the chicken thighs with salt, freshly ground black pepper, and smoked paprika. Prepare a different skillet than what you used to make creamed spinach. It's best to use a cast-iron skillet to make chicken.",
             "Heat an empty cast-iron skillet over medium heat for 3 minutes. This allows the cast-iron skillet to heat through. Add 2 tablespoons of olive oil. Add chicken thighs. Cook the chicken on medium heat for 5 minutes, without moving it. This allows the chicken to sear.",
             "Flip the chicken thighs over, reduce heat to low-medium, and cook for about 5 more minutes or longer until it's cooked through. The meat thermometer should register\u00a0165\u00b0F (74\u00b0C) in the thickest part of the chicken. Remove from heat.",
@@ -11364,9 +12289,25 @@ const RECIPES_DB = [
     {
         "id": "southern_green_beans_recipe",
         "title": "Southern Green Beans Recipe",
-        "description": "Kitchen Tip: I use this knife\u00a0and this 9\u00d713 baking dish\u00a0to make this recipe.\nGreen Beans with Bacon and Potatoes\nbacon\nonion\nwhole green beans\nchicken stock\ngranulated garlic or garlic powder\nkosher salt\nground black pepper\nbaby potatoes\nbutter\nCook the bacon\u00a0and drain on a paper towel, reserving the bacon grease. Add the bacon grease to a dutch oven or large pot on the stove over medium-high heat. Add the onion to the pot and cook for 2-3 minutes, until softened.\nAdd the green beans, chicken stock, 1 teaspoon granulated garlic, and \u00bd teaspoon kosher salt. Stir and cover. Reduce the heat to low and simmer for 15 minutes.\nAfter 15 minutes, sprinkle the green beans with \u00bd teaspoon granulated garlic. Arrange the potatoes over the green beans. Dot with butter and sprinkle with the remaining salt and pepper. Cover and continue simmering for 25-30 minutes, until the potatoes are fork tender.\nStir gently and transfer to a serving dish. Crumble the bacon and sprinkle it over the green beans and potatoes.",
-        "ingredients": [],
-        "directions": [],
+        "description": "Kitchen Tip: I use a 9\u00d713 baking dish to make this recipe.",
+        "ingredients": [
+            "Green Beans with Bacon and Potatoes",
+            "bacon",
+            "onion",
+            "whole green beans",
+            "chicken stock",
+            "granulated garlic or garlic powder",
+            "kosher salt",
+            "ground black pepper",
+            "baby potatoes",
+            "butter"
+        ],
+        "directions": [
+            "Cook the bacon\u00a0and drain on a paper towel, reserving the bacon grease. Add the bacon grease to a dutch oven or large pot on the stove over medium-high heat. Add the onion to the pot and cook for 2-3 minutes, until softened.",
+            "Add the green beans, chicken stock, 1 teaspoon granulated garlic, and \u00bd teaspoon kosher salt. Stir and cover. Reduce the heat to low and simmer for 15 minutes.",
+            "After 15 minutes, sprinkle the green beans with \u00bd teaspoon granulated garlic. Arrange the potatoes over the green beans. Dot with butter and sprinkle with the remaining salt and pepper. Cover and continue simmering for 25-30 minutes, until the potatoes are fork tender.",
+            "Stir gently and transfer to a serving dish. Crumble the bacon and sprinkle it over the green beans and potatoes."
+        ],
         "notes": [],
         "tags": [
             "Side"
@@ -11414,16 +12355,16 @@ const RECIPES_DB = [
             "Active Time: 25 minutes",
             "Total Time: 40 minutes",
             "Heat oil in a large pot over high heat. Add zucchini, eggplant, onion, poblano and bell pepper. Cook, stirring often, until the vegetables are seared and starting to soften, about 5 minutes. Stir in okra, tomatoes, water, thyme, salt and pepper; bring to a boil.",
-            "Reduce heat to maintain a low simmer; partially cover and simmer, stirring often, until the vegetables are tender, 15 to 20 minutes. Remove from heat and stir in garlic and basil. Serve warm, at room temperature or even cold.",
-            "TIPS & NOTES",
-            "Make Ahead Tip: Cover and refrigerate for up to 3 days.",
-            "Seed your tomatoes for seed-free soups, sauces and stews: Cut the tomato in half crosswise and scoop out the seeds with your finger while gently squeezing."
+            "Reduce heat to maintain a low simmer; partially cover and simmer, stirring often, until the vegetables are tender, 15 to 20 minutes. Remove from heat and stir in garlic and basil. Serve warm, at room temperature or even cold."
         ],
         "notes": [
             "**NUTRITION PROFILE**",
             "Healthy weight | Heart healthy | Diabetes appropriate | Low carbohydrate | Low calorie | Low cholesterol | Low saturated fat | Low sodium | High fiber | High potassium | Gluten free |",
             "View Our Nutrition Guidelines \u00bb",
             "second row",
+            "**TIPS & NOTES**",
+            "Make Ahead Tip: Cover and refrigerate for up to 3 days.",
+            "Seed your tomatoes for seed-free soups, sauces and stews: Cut the tomato in half crosswise and scoop out the seeds with your finger while gently squeezing.",
             "**NUTRITION**",
             "Per serving: 84 calories; 2 g fat (0 g sat, 1 g mono); 0 mg cholesterol; 15 g carbohydrates; 0 g added sugars; 7 g total sugars; 3 g protein; 6 g fiber; 305 mg sodium; 671 mg potassium.",
             "**Nutrition Bonus: Vitamin C (84% daily value), Vitamin A (32% dv), Folate & Potassium (19% dv), Magnesium (16% dv)**"
@@ -11444,31 +12385,29 @@ const RECIPES_DB = [
         "title": "Southwest chowder",
         "description": "",
         "ingredients": [
-            "Vegetables:",
-            "1 tablespoon olive oil",
-            "1 onion, chopped",
-            "3 garlic cloves, minced",
-            "1 bell pepper, diced (any color)",
-            "1 zucchini, diced",
-            "1 sweet potato, peeled and diced",
-            "1 cup corn (fresh or frozen)",
-            "1 can black beans (15 oz), drained and rinsed",
-            "1 can diced tomatoes (15 oz)",
-            "4 cups vegetable or chicken broth",
-            "Seasonings:",
-            "1 tablespoon chili powder",
-            "1 teaspoon ground cumin",
-            "1 teaspoon smoked paprika",
-            "1/2 teaspoon ground coriander",
-            "Salt and pepper, to taste",
-            "1/4 teaspoon red pepper flakes (optional, for heat)",
-            "Optional Add-ins:",
-            "1/2 cup quinoa, uncooked (for extra protein and fiber)",
-            "1 lime, juiced",
-            "Fresh cilantro, for garnish",
-            "Avocado, sliced for serving"
+            "1 Tbsp. butter, olive oil or bacon drippings",
+            "1 medium onion, diced",
+            "3 ribs celery, diced",
+            "2 poblano peppers, seeded and diced",
+            "1 fresh jalapeno, seeded and diced",
+            "1 red bell pepper, seeded and diced",
+            "1 tsp. cumin",
+            "\u00bd tsp. chili powder",
+            "1 tsp. garlic powder",
+            "8 medium red potatoes, diced into \u00bd\u201d cubes",
+            "6 ears of fresh corn, shucked & cleaned (or for a super quick version, use 2 cans of creamed corn)",
+            "4 cups chicken stock or broth",
+            "Salt & Pepper",
+            "\u00bd cup heavy cream or half & half",
+            "3 Tbsp. corn starch",
+            "Garnish: Charred corn, crumbled bacon, cheese, sour cream, diced jalapeno",
+            "DIRECTION",
+            "If using fresh corn: Place a small bowl upside down in the center of a pie plate. Place the flat end of the corn cob onto the bowl base and carefully cut the corn kernels off the cob. The corn kernels will fall and collect in the pie plate. After the corn kernels are removed, scrape the cob with the back of a butter knife, collecting all the juices from the cob. Repeat for all six cobs. Remove the bowl from the pie plate and set the corn aside."
         ],
-        "directions": [],
+        "directions": [
+            "In a stock pot over medium heat, add butter or oil and the onion, celery and all the peppers. Season with 1 tsp of salt and saut\u00e9 for 5-7 minutes or until veggies start to get tender. Add the cumin, chili powder and garlic to the veggies and continue to cook for a minute. Add the stock, potatoes, and corn with all the liquid to the veggies. Bring to a boil and lower heat to simmer for 15 minutes or until potatoes are fork tender.",
+            "In a measuring cup, measure out the \u00bd cup of cream and add the cornstarch. Mix till combined. Once potatoes are tender, pour in the cream-cornstarch mixture. Bring the mixture back up to a simmer, stirring constantly till thickened. Taste and add salt and pepper as desired. Serve up into bowls and garnish as desired!"
+        ],
         "notes": [],
         "tags": [
             "Soup"
@@ -11484,9 +12423,34 @@ const RECIPES_DB = [
     {
         "id": "spicy_shakshuka",
         "title": "Spicy Shakshuka",
-        "description": "Serves 4\nCooking spray\n2 cups red bell peppers, seed and thinly sliced\n2 cups zucchini, cubed\n2 cups of diced tomatoes\n3 garlic cloves, thinly sliced\n1 tsp ground cumin\n1 tsp sweet paprika\n1/8 tsp cayenne\n1/4 tsp salt\n1/4 tsp black pepper\n5 ounces reduced-fat feta cheese, crumbled\n9 large eggs\nChopped cilantro for serving\nHeat oven to 375*.\nHeat sprayed large skillet over medium low heat.\nAdd bell pepper. Cook gently until very soft.\nAdd garlic & cook until tender, 1-2 minutes.\nStir in cumin, paprika, cayenne & cook 1 minute.\nPour in diced tomatoes & season w/salt & pepper; simmer until tomatoes have thickened, about 10 min.\nStir in feta.\nGently crack in eggs over tomatoes.\nTransfer skillet to oven & bake until eggs are just set, 7-10 min.\nSprinkle w/cilantro\nPer serving: 1 lean, 3 green, ~3 condiments",
-        "ingredients": [],
-        "directions": [],
+        "description": "Serves 4\nCooking spray",
+        "ingredients": [
+            "2 cups red bell peppers, seed and thinly sliced",
+            "2 cups zucchini, cubed",
+            "2 cups of diced tomatoes",
+            "3 garlic cloves, thinly sliced",
+            "1 tsp ground cumin",
+            "1 tsp sweet paprika",
+            "1/8 tsp cayenne",
+            "1/4 tsp salt",
+            "1/4 tsp black pepper",
+            "5 ounces reduced-fat feta cheese, crumbled",
+            "9 large eggs",
+            "Chopped cilantro for serving",
+            "Heat oven to 375*."
+        ],
+        "directions": [
+            "Heat sprayed large skillet over medium low heat.",
+            "Add bell pepper. Cook gently until very soft.",
+            "Add garlic & cook until tender, 1-2 minutes.",
+            "Stir in cumin, paprika, cayenne & cook 1 minute.",
+            "Pour in diced tomatoes & season w/salt & pepper; simmer until tomatoes have thickened, about 10 min.",
+            "Stir in feta.",
+            "Gently crack in eggs over tomatoes.",
+            "Transfer skillet to oven & bake until eggs are just set, 7-10 min.",
+            "Sprinkle w/cilantro",
+            "Per serving: 1 lean, 3 green, ~3 condiments"
+        ],
         "notes": [],
         "tags": [
             "Entree"
@@ -11511,7 +12475,7 @@ const RECIPES_DB = [
             "2 cup edamame",
             "2 cups cooked quinoa",
             "1 bunch cilantro chopped",
-            "DRESSING:",
+            "**DRESSING:**",
             "4 tbsp peanut butter",
             "2 tbsp tamari",
             "2 tbsp rice wine vinegar",
@@ -11540,8 +12504,9 @@ const RECIPES_DB = [
     {
         "id": "spicy_vegetable_lo_mein",
         "title": "Spicy Vegetable Lo Mein",
-        "description": "http://www.eatingwell.com/recipes/spicy_vegetable_lo_mein.html\nFrom EatingWell:\u00a0 March/April 2015\nSkip takeout and make a healthier Chinese lo mein at home that\u2019s packed with vegetables. Make sure you drain your noodles well before adding them, as wet noodles will turn your stir-fry into a soggy mess. For a less spicy option, omit the sriracha hot sauce.\n4 servings | Active Time: 35 minutes | Total Time: 35 minutes",
+        "description": "http://www.eatingwell.com/recipes/spicy_vegetable_lo_mein.html\nFrom EatingWell:\u00a0 March/April 2015\nSkip takeout and make a healthier Chinese lo mein at home that\u2019s packed with vegetables. Make sure you drain your noodles well before adding them, as wet noodles will turn your stir-fry into a soggy mess. For a less spicy option, omit the sriracha hot sauce.",
         "ingredients": [
+            "4 servings | Active Time: 35 minutes | Total Time: 35 minutes",
             "8 ounces lo mein noodles, linguine or spaghetti",
             "1 teaspoon toasted sesame oil",
             "12 ounces Chinese broccoli (see Tips) or broccolini",
@@ -11577,9 +12542,26 @@ const RECIPES_DB = [
     {
         "id": "sriracha_seared_tofu_and_spicy_udon_noodles",
         "title": "Sriracha-Seared Tofu and Spicy Udon Noodles",
-        "description": "Serves 6\n30 minutes or fewer\nJessie Grearson, a writer in Falmouth, Maine, likes making this quick, comforting meal for her family on weeknights. To amp up the heat, sprinkle with red pepper flakes and drizzle with extra sriracha.\n8 oz. udon noodles\n\u00bd cup broccoli florets\n2 Tbs. low-sodium soy sauce\n1 Tbs. sriracha chile-garlic sauce\n1 Tbs. toasted sesame oil\n1 14-oz. pkg. extra-firm tofu, cut into 3 slabs and patted dry\n\u2153 cup smooth peanut butter\nLime wedges, for garnish, optional\nFresh cilantro, for garnish, optional\n1. Brush grill grates with oil, and preheat grill to medium.\n2. Cook udon noodles according to package directions, drain, and set aside.\n3. Meanwhile, steam broccoli 5 minutes in steamer, or until crisp-tender.\n4. Combine soy sauce, sriracha, and sesame oil in small bowl. Brush tofu slabs with half of soy-sriracha mixture. Place tofu on grill, and cook 2 to 3 minutes per side, or until golden and grill-marked. Cut tofu into bite-size pieces.\n5. Add peanut butter to remaining soy-sriracha mixture, and stir to combine. Toss sauce with udon noodles and broccoli, and top with tofu. Serve with lime wedges and cilantro, if using.",
-        "ingredients": [],
-        "directions": [],
+        "description": "Serves 6",
+        "ingredients": [
+            "30 minutes or fewer",
+            "8 oz. udon noodles",
+            "\u00bd cup broccoli florets",
+            "2 Tbs. low-sodium soy sauce",
+            "1 Tbs. sriracha chile-garlic sauce",
+            "1 Tbs. toasted sesame oil",
+            "1 14-oz. pkg. extra-firm tofu, cut into 3 slabs and patted dry",
+            "\u2153 cup smooth peanut butter",
+            "Lime wedges, for garnish, optional",
+            "Fresh cilantro, for garnish, optional"
+        ],
+        "directions": [
+            "1. Brush grill grates with oil, and preheat grill to medium.",
+            "2. Cook udon noodles according to package directions, drain, and set aside.",
+            "3. Meanwhile, steam broccoli 5 minutes in steamer, or until crisp-tender.",
+            "4. Combine soy sauce, sriracha, and sesame oil in small bowl. Brush tofu slabs with half of soy-sriracha mixture. Place tofu on grill, and cook 2 to 3 minutes per side, or until golden and grill-marked. Cut tofu into bite-size pieces.",
+            "5. Add peanut butter to remaining soy-sriracha mixture, and stir to combine. Toss sauce with udon noodles and broccoli, and top with tofu. Serve with lime wedges and cilantro, if using."
+        ],
         "notes": [
             "**nutritional information**",
             "Per 3/4-cup:",
@@ -11591,8 +12573,7 @@ const RECIPES_DB = [
             "Cholesterol: 0 mg",
             "Sodium: 355 mg",
             "Fiber: 4 g",
-            "Sugar: 3 g",
-            "Vegan"
+            "Sugar: 3 g"
         ],
         "tags": [
             "Entree"
@@ -11649,9 +12630,24 @@ const RECIPES_DB = [
     {
         "id": "strawberry_dole_whip",
         "title": "Strawberry Dole Whip",
-        "description": "Making a Dole Whip at home is easier than you think. Here's a simple recipe:\n# Ingredients\n- 2 cups frozen strawberries\n- 1 cup frozen pineapple chunks\n- 1/2 cup coconut milk (or any milk of your choice)\n- 1-2 tablespoons honey or maple syrup (optional)\n# Instructions\n1. Combine the frozen strawberries, pineapple chunks, and coconut milk in a blender.\n2. Blend the mixture on high speed until smooth and creamy.\n3. Add honey or maple syrup if you want it sweeter.\n4. Blend again until well combined.\n5. Pour the mixture into bowls and serve immediately.\n# Tips\n- Use frozen fruit to give it a thicker, colder consistency.\n- Experiment with different types of milk, like almond or soy milk, for a non-dairy version.\n- Add a splash of citrus juice, like lemon or lime, for extra flavor.\nEnjoy your homemade Dole Whip!",
-        "ingredients": [],
-        "directions": [],
+        "description": "Making a Dole Whip at home is easier than you think. Here's a simple recipe:",
+        "ingredients": [
+            "2 cups frozen strawberries",
+            "1 cup frozen pineapple chunks",
+            "1/2 cup coconut milk (or any milk of your choice)",
+            "1-2 tablespoons honey or maple syrup (optional)"
+        ],
+        "directions": [
+            "1. Combine the frozen strawberries, pineapple chunks, and coconut milk in a blender.",
+            "2. Blend the mixture on high speed until smooth and creamy.",
+            "3. Add honey or maple syrup if you want it sweeter.",
+            "4. Blend again until well combined.",
+            "5. Pour the mixture into bowls and serve immediately.",
+            "# Tips",
+            "Use frozen fruit to give it a thicker, colder consistency.",
+            "Experiment with different types of milk, like almond or soy milk, for a non-dairy version.",
+            "Add a splash of citrus juice, like lemon or lime, for extra flavor."
+        ],
         "notes": [],
         "tags": [
             "Dessert"
@@ -11664,9 +12660,16 @@ const RECIPES_DB = [
     {
         "id": "strawberry_lemon_sorbet",
         "title": "Strawberry Lemon Sorbet",
-        "description": "(6-8 servings)\n5 cups frozen strawberries\n3/4 cup freshly squeezed lemon juice\n1/3 cup agave or honey\nAdd all ingredients to a food processor or blender and blend until completely smooth. This may take a few minutes since the strawberries are frozen. Stop to scrape down the sides in between blending to make sure everything is incorporated.\nEnjoy right away for a soft serve/smoothie bowl style, or scoop into lemon halves (after removing the fruit and pith) or a freezer container and freeze until set (about 3 hours).",
-        "ingredients": [],
-        "directions": [],
+        "description": "(6-8 servings)",
+        "ingredients": [
+            "5 cups frozen strawberries",
+            "3/4 cup freshly squeezed lemon juice",
+            "1/3 cup agave or honey"
+        ],
+        "directions": [
+            "Add all ingredients to a food processor or blender and blend until completely smooth. This may take a few minutes since the strawberries are frozen. Stop to scrape down the sides in between blending to make sure everything is incorporated.",
+            "Enjoy right away for a soft serve/smoothie bowl style, or scoop into lemon halves (after removing the fruit and pith) or a freezer container and freeze until set (about 3 hours)."
+        ],
         "notes": [],
         "tags": [
             "Dessert"
@@ -11687,7 +12690,7 @@ const RECIPES_DB = [
             "3 tablespoon honey",
             "1 medium lemon - juice freshly squeezed or more, to taste",
             "freshly ground black pepper to taste",
-            "Salad ingredients",
+            "**Salad ingredients**",
             "3 oz fresh baby spinach",
             "3 oz fresh arugula",
             "1 large mango cored, peeled, and diced",
@@ -11699,7 +12702,7 @@ const RECIPES_DB = [
         "directions": [
             "Make salad dressing",
             "Combine olive oil, mustard, lemon juice, and honey in a mason jar. Whisk well with a fork, until emulsified. Or, close with the lid, and shake vigorously. Add more lemon juice to taste.",
-            "Assembly",
+            "**Assembly**",
             "I prefer to arrange the strawberry mango salad in individual deep salad bowls for presentation purposes.",
             "Add fresh baby spinach and arugula mix to each individual salad bowl. Add diced mango, sliced strawberries, sliced red onion, and Feta cheese on top.",
             "Drizzle with the salad dressing. Season with a small amount of freshly ground black pepper. Top with pine nuts.",
@@ -11715,41 +12718,6 @@ const RECIPES_DB = [
         ],
         "images": [
             "images/strawberry_mango_salad_1.jpg"
-        ]
-    },
-    {
-        "id": "street_corn_chicken_rice_bowl",
-        "title": "Street Corn Chicken Rice Bowl",
-        "description": "A vibrant and flavorful dish combining juicy seasoned chicken, creamy street corn, and fluffy rice for a perfect one-bowl meal.",
-        "ingredients": [
-            "1 cup white or brown rice",
-            "2 cups water or chicken broth",
-            "2 tablespoons olive oil",
-            "2 chicken breasts, diced",
-            "1 teaspoon chili powder",
-            "1/2 teaspoon paprika",
-            "1/2 teaspoon cumin",
-            "Salt and pepper to taste",
-            "1 1/2 cups frozen or fresh corn kernels",
-            "1/4 cup mayonnaise",
-            "1/4 cup sour cream",
-            "1/4 teaspoon garlic powder",
-            "Juice of 1 lime",
-            "1/4 cup cotija or feta cheese, crumbled",
-            "2 tablespoons chopped cilantro",
-            "Optional toppings: diced avocado, salsa, or hot sauce"
-        ],
-        "directions": [],
-        "notes": [],
-        "tags": [
-            "Entree"
-        ],
-        "methods": [
-            "Boil",
-            "Saut\u00e9"
-        ],
-        "images": [
-            "images/street_corn_chicken_rice_bowl_1.jpg"
         ]
     },
     {
@@ -11780,7 +12748,7 @@ const RECIPES_DB = [
             "Stir until the cheese is melted.",
             "Fill the zucchini boats with equal amounts of filling.",
             "Bake for 20 minutes. Sprinkle the remaining ounce of cheese evenly over the top and bake 10 minutes longer.",
-            "Makes 4 servings:",
+            "**Makes 4 servings:**",
             "1 Lean",
             "2 Greens",
             "1 Condiment",
@@ -11801,7 +12769,7 @@ const RECIPES_DB = [
     {
         "id": "summer_chicken_dinner_with_red_currants_and_apricots",
         "title": "Summer Chicken Dinner with Red Currants and Apricots",
-        "description": "Summer Chicken Dinner with Red Currants, Apricots, and Honey-Lime Sauce is a simple one-pan 30-minute recipe that makes a beautiful, restaurant-worthy presentation! Packed with nutrients, it's a great recipe to use red currants in a savory main dish. This Mediterranean-style recipe is dairy-free, gluten-free, and high in protein.\nCourse Main Course\nCuisine American, Mediterranean\nKeyword chicken with red currants, savory recipe with red currants, summer chicken dinner\nPrep Time 10 minutes\nCook Time 20 minutes\nTotal Time 30 minutes\nServings 4 people\nCalories 395kcal\nAuthor Julia",
+        "description": "Summer Chicken Dinner with Red Currants, Apricots, and Honey-Lime Sauce is a simple one-pan 30-minute recipe that makes a beautiful, restaurant-worthy presentation! Packed with nutrients, it's a great recipe to use red currants in a savory main dish. This Mediterranean-style recipe is dairy-free, gluten-free, and high in protein.",
         "ingredients": [
             "Chicken",
             "1.5 lb chicken thighs boneless skinless",
@@ -11828,14 +12796,23 @@ const RECIPES_DB = [
             "Cook apricots",
             "To the same, now empty, skillet, on medium heat, add sliced apricots and slightly cook them in chicken juices, without overcooking, - about 3 or 5 minutes. They should not get mushy.",
             "At the very end, add honey and lime juice. Add more honey and more lime juice to taste, if you like.",
-            "Assembly",
+            "**Assembly**",
             "Add red currants to the skillet with cooked apricots. You don't need to cook the red currants - just stir them in.",
             "Add back the cooked chicken nestled in between the apricots and red currants. Reheat briefly. Remove from heat.",
             "Top with fresh thyme. Garnish with fresh lime slices."
         ],
         "notes": [
             "**Nutrition**",
-            "Calories: 395kcal | Carbohydrates: 34g | Protein: 35g | Fat: 15g | Saturated Fat: 3g | Polyunsaturated Fat: 2g | Monounsaturated Fat: 8g | Trans Fat: 0.03g | Cholesterol: 162mg | Sodium: 159mg | Potassium: 847mg | Fiber: 5g | Sugar: 26g | Vitamin A: 2459IU | Vitamin C: 33mg | Calcium: 61mg | Iron: 3mg"
+            "Calories: 395kcal | Carbohydrates: 34g | Protein: 35g | Fat: 15g | Saturated Fat: 3g | Polyunsaturated Fat: 2g | Monounsaturated Fat: 8g | Trans Fat: 0.03g | Cholesterol: 162mg | Sodium: 159mg | Potassium: 847mg | Fiber: 5g | Sugar: 26g | Vitamin A: 2459IU | Vitamin C: 33mg | Calcium: 61mg | Iron: 3mg",
+            "Course Main Course",
+            "Cuisine American, Mediterranean",
+            "Keyword chicken with red currants, savory recipe with red currants, summer chicken dinner",
+            "Prep Time 10 minutes",
+            "Cook Time 20 minutes",
+            "Total Time 30 minutes",
+            "Servings 4 people",
+            "Calories 395kcal",
+            "Author Julia"
         ],
         "tags": [
             "Entree"
@@ -11870,16 +12847,16 @@ const RECIPES_DB = [
         "directions": [
             "Stir sour cream, 1/4 cup chives, milk, lemon juice and 1/4 teaspoon salt in a small bowl until combined. Set aside.",
             "Heat oil in a large nonstick skillet over medium-high heat. Add zucchini, green beans and corn and cook, stirring, until beginning to brown, 6 to 8 minutes. Reduce heat to low; stir in ricotta, Monterey Jack, the remaining 1/4 cup chives, the remaining 1/2 teaspoon salt and pepper. Cook, stirring gently, until the cheese is melted, 1 to 2 minutes. Remove from the heat.",
-            "To roll cr\u00eapes, place one on a piece of parchment or wax paper (or leave it on the piece of plastic separating the cr\u00eapes in the package). Spoon one-fourth of the vegetable-cheese mixture (about 3/4 cup) down the center of the cr\u00eape. Use the paper (or plastic) to help you gently roll the cr\u00eape around the filling. Place the cr\u00eape seam-side down on a dinner plate. Repeat with the remaining cr\u00eapes and filling. Serve each cr\u00eape topped with 2 tablespoons of the reserved sauce and more chives, if desired.",
-            "TIPS & NOTES",
-            "Tips: To remove kernels, stand a cob on its stem end in a bowl and slice them off with a sharp, thin-bladed knife.",
-            "\u201cReady-to-use\u201d cr\u00e8pes are fast and convenient. Look for them in the produce section of the market or near refrigerated tortillas."
+            "To roll cr\u00eapes, place one on a piece of parchment or wax paper (or leave it on the piece of plastic separating the cr\u00eapes in the package). Spoon one-fourth of the vegetable-cheese mixture (about 3/4 cup) down the center of the cr\u00eape. Use the paper (or plastic) to help you gently roll the cr\u00eape around the filling. Place the cr\u00eape seam-side down on a dinner plate. Repeat with the remaining cr\u00eapes and filling. Serve each cr\u00eape topped with 2 tablespoons of the reserved sauce and more chives, if desired."
         ],
         "notes": [
             "**NUTRITION PROFILE**",
             "Diabetes appropriate | Low calorie | Low cholesterol | High calcium |",
             "View Our Nutrition Guidelines \u00bb",
             "second row",
+            "**TIPS & NOTES**",
+            "**Tips: To remove kernels, stand a cob on its stem end in a bowl and slice them off with a sharp, thin-bladed knife.**",
+            "\u201cReady-to-use\u201d cr\u00e8pes are fast and convenient. Look for them in the produce section of the market or near refrigerated tortillas.",
             "**NUTRITION**",
             "Per serving: 302 calories; 17 g fat (8 g sat, 6 g mono); 46 mg cholesterol; 25 g carbohydrates; 15 g protein; 3 g fiber; 687 mg sodium; 485 mg potassium.",
             "**Nutrition Bonus: Calcium & Vitamin C (35% daily value), Vitamin A (20% dv).**"
@@ -11942,18 +12919,18 @@ const RECIPES_DB = [
         "title": "Sun-Dried Tomato, Spinach, and Bacon Chicken",
         "description": "One of the best baked chicken breast recipes ever! \u00a0Chicken breasts are smothered with creamed spinach, sun-dried tomatoes, and bacon, and then baked in the oven. \u00a0Tender, moist, flavorful chicken. \u00a0No more boring chicken breasts!\nCourse Main Course\nCuisine American, Mediterranean\nPrep Time 20\nminutes\nminutes\nCook Time 40\nminutes\nminutes\nTotal Time 1\nhour\nhour\nServings 4 servings\nCalories 766kcal\nAuthor Julia",
         "ingredients": [
-            "Baked Chicken Breasts:",
+            "**Baked Chicken Breasts:**",
             "1.5 lb chicken (4 small chicken breasts or 2 large chicken breasts sliced horizontally in half)",
             "1 tablespoon butter",
             "0.5 oz Italian Dressing mix packet (half the packet)",
-            "Creamed spinach:",
+            "**Creamed spinach:**",
             "1 tablespoon vegetable oil",
             "6 oz baby spinach fresh",
             "4 garlic cloves minced",
             "\u2154 cup half and half",
             "\u2154 cup mozzarella cheese shredded",
             "\u215b teaspoon salt",
-            "Other ingredients:",
+            "**Other ingredients:**",
             "\u00bc cup sun-dried tomatoes drained of oil, chopped into smaller bites",
             "4 slices bacon cooked",
             "4 slices Pepper Jack cheese or Monterey cheese with jalapenos"
@@ -11961,9 +12938,9 @@ const RECIPES_DB = [
         "directions": [
             "Preheat the oven to 375 F.",
             "Butter the bottom of the baking dish. Season chicken breasts from both sides with the Italian salad dressing mix. Place the chicken breasts, flat side down, into the greased baking dish and bake for 15-20 minutes at 375 F.",
-            "How to make creamed spinach:",
+            "**How to make creamed spinach:**",
             "In the mean time, heat 1 tablespoon vegetable oil in a large skillet on medium heat. Add spinach and cook for only 1 or 2 minutes until it is heated through and starts to wilt. Remove from heat. Add minced garlic and half and half. Bring to boil. Add shredded mozzarella cheese and keep stirring, on high heat, until mozzarella cheese starts to melt - about 30 seconds. Reduce heat to simmer and keep stirring until you have a nice, smooth creamed spinach - about 30 seconds or 1 more minutes. The creamed spinach should be pretty thick in texture, not watery. If watery, bring to boil again and cook off extra liquid, constantly stirring. Season with salt. Remove from heat.",
-            "Smothered Chicken Breasts:",
+            "**Smothered Chicken Breasts:**",
             "Remove the baking pan with chicken breasts from the oven (you baked them for 15-20 minutes). Top each chicken breast with creamed spinach, sun-dried tomatoes (drained from oil and chopped into smaller bites), chopped cooked bacon, and broken slices of pepper jack cheese. Bake in the oven, uncovered for 15-20 more minutes, until the chicken is completely cooked through, no longer pink in the center, and the juices run clear."
         ],
         "notes": [
@@ -11984,7 +12961,7 @@ const RECIPES_DB = [
     {
         "id": "sweet_corn_zucchini_pie_delight",
         "title": "Sweet Corn Zucchini Pie Delight",
-        "description": "Butter: brings richness and helps the veggies caramelize for extra flavor Carefully choose unsalted butter for better control over seasoning\nYellow onion: adds natural sweetness and lovely aroma Pick an onion that feels firm with papery skin\nSweet corn: brings a pop of flavor and color Go for fresh ears when corn is in season\nZucchini: keeps the pie moist and melts into the filling Pick small to medium zucchini with glossy skin\nSliced mushrooms: give an earthy boost and extra heartiness Choose mushrooms that are firm and dry\nDried basil: infuses aromatic herbal notes Best when used fresh from a new jar\nDried oregano: gives background flavor and a rustic touch\nSalt: brings it all together and lets the ingredients shine\nShredded cheese: melts to create a gooey finish Use a mix of mozzarella and Swiss for melting and nutty depth Look for cheese that melts smoothly\nEggs: bind the filling and make it custardy Pick large eggs for best results\nStep-by-Step Instructions\nPrepare The Oven And Dish:\nSet your oven to 375 degrees Fahrenheit and grease a nine inch pie dish generously so nothing sticks and the pie releases easily later\nSaut\u00e9 The Onion:\nMelt butter in a large skillet over medium heat Add the diced onion and let it sweat gently for three minutes You want it to turn translucent and a little soft which lays the flavor base\nCook The Mushrooms:\nScatter the sliced mushrooms into the pan Stir and let them cook for four minutes Watch them shrink and turn golden edges should look slightly browned for best flavor\nAdd Corn And Zucchini:\nTip in the sweet corn kernels and thin zucchini slices Season with dried basil oregano and salt Cook this mix slowly six to eight minutes Stir once in a while so the veggies soften evenly and most of the moisture evaporates Your kitchen will smell amazing\nCool The Vegetables:\nRemove the skillet from the heat Let the veggie mixture rest for a few minutes so it is not so hot it will scramble the eggs in the next step\nMix Eggs And Cheese:\nIn a large mixing bowl whisk together eggs and shredded cheese until well combined The cheese should be nicely distributed in flecks\nCombine Everything:\nScrape the cooled veggie mixture into the bowl with egg and cheese Fold gently until every bit is coated evenly\nAssemble And Bake:\nPour this combined filling into your prepared pie dish Level the top with a spatula Slide the dish into your hot oven Bake it for thirty to thirty five minutes Keep an eye out for the top turning golden and the center just setting\nRest Before Slicing:\nOnce done let the pie cool in the dish for at least ten minutes This helps it firm up so you can slice beautifully and the flavors meld\nSweet Corn and Zucchini Pie\nAuthor: Lindsay OstromTotal Time: 1 hourYield: 6-8 (nutrition is for 8) 1x",
+        "description": "Butter: brings richness and helps the veggies caramelize for extra flavor Carefully choose unsalted butter for better control over seasoning\nYellow onion: adds natural sweetness and lovely aroma Pick an onion that feels firm with papery skin\nSweet corn: brings a pop of flavor and color Go for fresh ears when corn is in season\nZucchini: keeps the pie moist and melts into the filling Pick small to medium zucchini with glossy skin\nSliced mushrooms: give an earthy boost and extra heartiness Choose mushrooms that are firm and dry\nDried basil: infuses aromatic herbal notes Best when used fresh from a new jar\nDried oregano: gives background flavor and a rustic touch\nSalt: brings it all together and lets the ingredients shine\nShredded cheese: melts to create a gooey finish Use a mix of mozzarella and Swiss for melting and nutty depth Look for cheese that melts smoothly\nEggs: bind the filling and make it custardy Pick large eggs for best results\nStep-by-Step Instructions\nPrepare The Oven And Dish:",
         "ingredients": [
             "UNITS USM",
             "SCALE",
@@ -12003,6 +12980,25 @@ const RECIPES_DB = [
             "4 eggs, beaten"
         ],
         "directions": [
+            "Set your oven to 375 degrees Fahrenheit and grease a nine inch pie dish generously so nothing sticks and the pie releases easily later",
+            "**Saut\u00e9 The Onion:**",
+            "Melt butter in a large skillet over medium heat Add the diced onion and let it sweat gently for three minutes You want it to turn translucent and a little soft which lays the flavor base",
+            "**Cook The Mushrooms:**",
+            "Scatter the sliced mushrooms into the pan Stir and let them cook for four minutes Watch them shrink and turn golden edges should look slightly browned for best flavor",
+            "**Add Corn And Zucchini:**",
+            "Tip in the sweet corn kernels and thin zucchini slices Season with dried basil oregano and salt Cook this mix slowly six to eight minutes Stir once in a while so the veggies soften evenly and most of the moisture evaporates Your kitchen will smell amazing",
+            "**Cool The Vegetables:**",
+            "Remove the skillet from the heat Let the veggie mixture rest for a few minutes so it is not so hot it will scramble the eggs in the next step",
+            "**Mix Eggs And Cheese:**",
+            "In a large mixing bowl whisk together eggs and shredded cheese until well combined The cheese should be nicely distributed in flecks",
+            "**Combine Everything:**",
+            "Scrape the cooled veggie mixture into the bowl with egg and cheese Fold gently until every bit is coated evenly",
+            "**Assemble And Bake:**",
+            "Pour this combined filling into your prepared pie dish Level the top with a spatula Slide the dish into your hot oven Bake it for thirty to thirty five minutes Keep an eye out for the top turning golden and the center just setting",
+            "**Rest Before Slicing:**",
+            "Once done let the pie cool in the dish for at least ten minutes This helps it firm up so you can slice beautifully and the flavors meld",
+            "Sweet Corn and Zucchini Pie",
+            "Author: Lindsay OstromTotal Time: 1 hourYield: 6-8 (nutrition is for 8) 1x",
             "Preheat: Preheat the oven to 375 degrees.",
             "Saut\u00e9 Veggies: Heat the butter in a large, deep skillet over medium high heat. Add the onions, zucchini, and mushrooms. While the veggies saute, cut the corn kernels off the cob. Add them to the pan and continue to saute until the veggies are soft, 5-10 minutes. Remove from heat.",
             "Assemble in Pan: Once the mixture has cooled for a few minutes, stir in the basil, oregano, salt, cheese, and the beaten eggs. Line a pie pan (9-inch or larger) with parchment paper or just grease a pan with nonstick spray. Transfer the mixture to the pan. Arrange the top so as the zucchini slices lay flat and look nice. Top with a little extra cheese for looks.",
@@ -12078,7 +13074,6 @@ const RECIPES_DB = [
             "Preheat oven to 375 F.",
             "Toss cubed sweet potatoes with 2 tablespoons olive oil, salt, and pepper on a large, rimmed baking sheet (lined with parchment paper).",
             "Roast the potatoes for 15 or 20 minutes until soft.",
-            "h lm",
             "Proceed with the rest of the recipe while the sweet potatoes are in the oven.",
             "In a 10-inch or 12-inch cast iron skillet, cook the sausage, crumbling it, on medium heat on the stovetop for several minutes until it is cooked through. Drain any grease.",
             "Add spinach to the skillet with sausage and cook until it wilts.",
@@ -12114,7 +13109,7 @@ const RECIPES_DB = [
             "\u00bc cup extra virgin olive oil",
             "2 tablespoons maple syrup or honey",
             "2 tablespoons lime juice freshly squeezed",
-            "Salad ingredients",
+            "**Salad ingredients**",
             "6 oz baby spinach",
             "1 small green apple chopped",
             "1 small red apple chopped",
@@ -12131,7 +13126,7 @@ const RECIPES_DB = [
             "Roast at 400 F for 15 or 20 minutes on a medium rack. Mine were done after 10-15 minutes of roasting in a convection oven. Remove from the oven and let cool. Proceed with the rest of the recipe while the sweet potatoes are roasted.",
             "Make salad dressing",
             "In a mason jar, combine all of the ingredients for the salad dressing. Whisk together with a fork until emulsified.",
-            "Assembly",
+            "**Assembly**",
             "Add baby spinach, chopped apples, toasted pecans (some of them chopped), toasted pumpkin seeds, dried cranberries, feta cheese, and roasted sweet potatoes to a large mixing bowl.",
             "Add the salad dressing. Toss to combine. Distribute the salad into individual bowls (or into a large serving bowl) and serve."
         ],
@@ -12153,9 +13148,34 @@ const RECIPES_DB = [
     {
         "id": "sweet_potato_tray_bake_salad",
         "title": "Sweet potato tray bake salad",
-        "description": "Thank you @pickuplimes for this amazing salad. And yes, we will manage the kale as it\u2019s so much better when we do!\nSweet potato tray bake\n3 medium sweet potatoes, cut into 1 cm cubes\n1 medium red onion, sliced\n4 garlic cloves, peel left on\n1 tsp (5 mL) vegetable oil\n1 tsp (2 g) ground cumin\n\u00bd tsp paprika powder\n\u00bc tsp salt\n1 pinch ground black pepper\nKale salad base\n4 cups (100 g) kale, stems removed, chopped\n1 Tbsp (15 mL) olive oil\n1\u00bd cups (246 g) cooked chickpeas\n1 avocado, diced\n\u00bc cup (34 g) roasted unsalted almonds, chopped\nDressing\n1 Tbsp (15 mL) olive oil\n1 lemon, juiced\n6 fresh mint leaves, thinly sliced\n1 Tbsp (15 mL) apple cider vinegar\n1 Tbsp (15 mL) maple syrup\n\u00bd tsp onion powder",
-        "ingredients": [],
-        "directions": [],
+        "description": "",
+        "ingredients": [
+            "Salad",
+            "3 medium sweet potatoes, cut into 1 cm cubes",
+            "1 medium red onion, sliced",
+            "4 garlic cloves, peel left on",
+            "1 tsp (5 mL) vegetable oil",
+            "1 tsp (2 g) ground cumin",
+            "\u00bd tsp paprika powder",
+            "\u00bc tsp salt",
+            "1 pinch ground black pepper",
+            "Kale salad base",
+            "4 cups (100 g) kale, stems removed, chopped",
+            "1 Tbsp (15 mL) olive oil",
+            "1\u00bd cups (246 g) cooked chickpeas",
+            "1 avocado, diced",
+            "\u00bc cup (34 g) roasted unsalted almonds, chopped",
+            "Dressing",
+            "1 Tbsp (15 mL) olive oil",
+            "1 lemon, juiced",
+            "6 fresh mint leaves, thinly sliced",
+            "1 Tbsp (15 mL) apple cider vinegar",
+            "1 Tbsp (15 mL) maple syrup",
+            "\u00bd tsp onion powder"
+        ],
+        "directions": [
+            "Mix salad and dressing"
+        ],
         "notes": [],
         "tags": [
             "Salad"
@@ -12215,8 +13235,10 @@ const RECIPES_DB = [
             "\u00bd tsp Oregano",
             "1 cup Italian blend cheese, shredded",
             "1 cup Cheddar Cheese, shredded",
-            "\u00bd cup Parmesan Cheese, shredded",
-            "How To Make Tennessee Onions",
+            "\u00bd cup Parmesan Cheese, shredded"
+        ],
+        "directions": [
+            "**How To Make Tennessee Onions**",
             "Preheat the oven to 350*",
             "Spray a 9\u00d713 baking dish with nonstick spray",
             "Slice the onion into \u00bc inch rounds",
@@ -12230,7 +13252,6 @@ const RECIPES_DB = [
             "Place in the oven and bake for 35 to 40 minutes, or until the cheese begins to bubble and brown",
             "Serve immediately"
         ],
-        "directions": [],
         "notes": [],
         "tags": [
             "Side"
@@ -12263,7 +13284,7 @@ const RECIPES_DB = [
             "Serve on a platter and drizzle the left over sauce (if any). Sprinkle with sesame seeds.",
             "Enjoy!!!",
             "Makes 2 Servings",
-            "1 Serving Yields:",
+            "**1 Serving Yields:**",
             "1 Lean | 1/4 Green | 3 Condiments"
         ],
         "notes": [],
@@ -12283,25 +13304,37 @@ const RECIPES_DB = [
         "title": "Tex-Mex Chopped Salad",
         "description": "",
         "ingredients": [
-            "1/3 \u2028cup lime juice",
-            "1/3 \u2028cup olive oil",
-            "1 \u2028teaspoon sugar",
-            "1/2 \u2028teaspoon salt",
-            "1/4 \u2028teaspoon crushed red pepper",
-            "1 \u202810 ounce package frozen whole kernel corn, thawed, or fresh corn (about 2 cups), cooked",
-            "1 \u2028green sweet pepper, chopped",
-            "2 \u2028cups lightly packed cilantro, chopped",
+            "Dressing",
+            "1/3",
+            "cup lime juice",
+            "1/3",
+            "cup olive oil",
+            "1",
+            "teaspoon sugar",
+            "1/2",
+            "teaspoon salt",
+            "1/4",
+            "teaspoon crushed red pepper",
+            "Salad",
+            "1",
+            "10 ounce package frozen whole kernel corn, thawed, or fresh corn (about 2 cups), cooked",
+            "1",
+            "green sweet pepper, chopped",
+            "2",
+            "cups lightly packed cilantro, chopped",
             "15 ounce can black beans, rinsed and drained",
-            "2 \u2028cups grape or cherry tomatoes, halved",
-            "Q 1 \u2028avocado peeled, halved, pitted, peeled, and chopped",
-            "6 \u2028green onions, thinly sliced Directions In a screw-top jar combine the lime juice, oil, sugar, salt, and crushed red pepper. Shake well to combine; set aside.",
+            "2",
+            "cups grape or cherry tomatoes, halved",
+            "Q 1",
+            "avocado peeled, halved, pitted, peeled, and chopped",
+            "6",
+            "green onions, thinly sliced Directions In a screw-top jar combine the lime juice, oil, sugar, salt, and crushed red pepper. Shake well to combine; set aside.",
             "Arrange corn, sweet pepper, cilantro, black beans, tomatoes, avocado, and green onions on plates. Drizzle with dressing. From the Test Kitchen",
-            "TOPPING TIPS:",
-            "Top each salad with crushed tortilla chips.",
-            "*",
-            "Because hot chile peppers contain volatile oils that can burn your skin and eyes, avoid contact with chiles as much as possible. When working with chile peppers, wear plastic or rubber gloves. If your bare hands do touch the chile peppers, wash your hands well with soap and water."
+            "Crushed tortilla chips"
         ],
-        "directions": [],
+        "directions": [
+            "Mix the salad and dressing. Top each salad with crushed tortilla chips."
+        ],
         "notes": [
             "**Nutrition Facts (Tex-Mex Chopped Salad) Per serving: 400 kcal cal., 24 g fat (3 g sat. fat, 3 g polyunsaturated fat, 17 g monounsatured fat), 0 mg chol., 646 mg sodium, 44 g carb., 11 g fiber, 8 g sugar, 10 g pro. Percent Daily Values are based on a 2,000 calorie diet**"
         ],
@@ -12368,7 +13401,7 @@ const RECIPES_DB = [
     {
         "id": "thai_chicken_chop_salad",
         "title": "Thai chicken chop Salad",
-        "description": "This salad is under 400 calories and tastes amazing!\nIf you are a Thai Peanut Sauce fan- this Thai Chicken Chopped Salad is the best low calorie option \ud83d\ude0b\nJust 388 calories...\nMacros: 38g protein, 24g carbs, 15g fat",
+        "description": "This salad is under 400 calories and tastes amazing!\nIf you are a Thai Peanut Sauce fan- this Thai Chicken Chopped Salad is the best low calorie option. Just 388 calories...\nMacros: 38g protein, 24g carbs, 15g fat",
         "ingredients": [
             "**For the salad:**",
             "1 cup chopped lettuce",
@@ -12379,20 +13412,19 @@ const RECIPES_DB = [
             "1 green onion, chopped",
             "Cilantro, chopped",
             "3oz chicken breast, chopped",
-            "***Makes 1 salad",
-            "Peanut Sauce:",
+            "**Peanut Sauce:**",
             "50g PB2 powder",
             "1-1/2 TBS soy sauce",
-            "1- 1/2TBS Sriracha",
+            "1/2TBS Sriracha",
             "1-1/2 TBS maple syrup",
             "2 tsp sesame oil",
             "Dab of ginger",
             "Squeeze of lime juice",
-            "Optional add red chill flakes",
-            "***(This makes 2 servings so save half for later!)",
-            "Enjoy!"
+            "Optional add red chili flakes"
         ],
-        "directions": [],
+        "directions": [
+            "Mix salad and dressing"
+        ],
         "notes": [],
         "tags": [
             "Salad"
@@ -12451,9 +13483,38 @@ const RECIPES_DB = [
     {
         "id": "thai_composed_rice_salad_kao_yum_pahk_dai",
         "title": "Thai Composed Rice Salad (Kao Yum Pahk Dai)",
-        "description": "Serves 4\n30 minutes or fewer\nFor a Thai feast of flavors, textures, and colors, a mound of rice is surrounded by a variety of veggies and a sweet-tart fruit\u2014usually pineapple or green apple.\nDressing\n\u00bc cup lime juice\n\u00bc cup low-sodium soy sauce or tamari\n\u00bc cup chopped cilantro\n2 shallots, finely chopped (\u00bc cup)\n10 fresh basil or Thai basil leaves, thinly sliced\n2 Tbs. natural sugar, such as coconut sugar\n2 tsp. grated fresh ginger or galangal root\nSalad\n2 cups cooked brown rice, cooled\n1 cup fresh mung bean sprouts, or green sprouts, such as sweet pea shoots\n1 cup coarsely shredded carrots\n1 cup shredded green or red cabbage, or a combination\n1 cup diced pineapple or papaya, or 1 medium diced green apple\n1 cup thinly sliced cucumber, cut into half-circles\nGarnishes\n\u00bc cup thinly sliced lemongrass, optional\nLime wedges\n2 thinly sliced green onions, green parts only\n\u00bd cup toasted unsweetened shredded coconut\n1. To make Dressing: Stir together all ingredients in small bowl. Set aside.\n2. To make Salad: Coat soup bowl with nonstick cooking spray. Pack rice tightly into bowl, then invert rice onto middle of serving platter\nto form mound.\n3. Surround rice with sprouts, carrots, cabbage, pineapple, and cucumber in separate small mounds.\n4. Garnish platter with lemongrass (if using), lime wedges, and sliced green onion. Serve family-style, and pass Dressing and shredded coconut at the table for diners to serve themselves.",
-        "ingredients": [],
-        "directions": [],
+        "description": "Serves 4.",
+        "ingredients": [
+            "30 minutes or fewer",
+            "For a Thai feast of flavors, textures, and colors, a mound of rice is surrounded by a variety of veggies and a sweet-tart fruit\u2014usually pineapple or green apple.",
+            "INGREDIANTS",
+            "Dressing",
+            "\u00bc cup lime juice",
+            "\u00bc cup low-sodium soy sauce or tamari",
+            "\u00bc cup chopped cilantro",
+            "2 shallots, finely chopped (\u00bc cup)",
+            "10 fresh basil or Thai basil leaves, thinly sliced",
+            "2 Tbs. natural sugar, such as coconut sugar",
+            "2 tsp. grated fresh ginger or galangal root",
+            "Salad",
+            "2 cups cooked brown rice, cooled",
+            "1 cup fresh mung bean sprouts, or green sprouts, such as sweet pea shoots",
+            "1 cup coarsely shredded carrots",
+            "1 cup shredded green or red cabbage, or a combination",
+            "1 cup diced pineapple or papaya, or 1 medium diced green apple",
+            "1 cup thinly sliced cucumber, cut into half-circles",
+            "Garnishes",
+            "\u00bc cup thinly sliced lemongrass, optional",
+            "Lime wedges",
+            "2 thinly sliced green onions, green parts only",
+            "\u00bd cup toasted unsweetened shredded coconut"
+        ],
+        "directions": [
+            "1. To make Dressing: Stir together all ingredients in small bowl. Set aside.",
+            "2. To make Salad: Coat soup bowl with nonstick cooking spray. Pack rice tightly into bowl, then invert rice onto middle of serving platter to form mound.",
+            "3. Surround rice with sprouts, carrots, cabbage, pineapple, and cucumber in separate small mounds.",
+            "4. Garnish platter with lemongrass (if using), lime wedges, and sliced green onion. Serve family-style, and pass Dressing and shredded coconut at the table for diners to serve themselves."
+        ],
         "notes": [
             "**nutritional information**",
             "Per Serving (1/2 cup rice and 1 1/4 cups vegetables):",
@@ -12465,8 +13526,7 @@ const RECIPES_DB = [
             "Cholesterol: 0 mg",
             "Sodium: 735 mg",
             "Fiber: 6 g",
-            "Sugar: 16 g",
-            "Vegan"
+            "Sugar: 16 g"
         ],
         "tags": [
             "Salad"
@@ -12490,7 +13550,7 @@ const RECIPES_DB = [
             "1/2 bunch cilantro chopped",
             "2/3 cup chopped roasted peanuts",
             "Kosher salt and pepper to taste",
-            "Dressing:",
+            "**Dressing:**",
             "1/4 cup creamy peanut butter",
             "2 tablespoons coconut aminos",
             "1 lemon zest, and juice",
@@ -12520,8 +13580,10 @@ const RECIPES_DB = [
     {
         "id": "thai_red_curry_with_vegetables",
         "title": "Thai Red Curry with Vegetables",
-        "description": "4.9 from 67 reviews\nAuthor:\u00a0Cookie and Kate\nRecipe type:\u00a0Entree\nCuisine:\u00a0Thai\nPrep time:\u00a0 10 mins\nCook time:\u00a0 30 mins\nTotal time:\u00a0 40 mins\nServes:\u00a04 servings\nThis Thai red curry recipe is so easy to make at home! It's much tastier than takeout and healthier, too. Feel free to change up the vegetables (you'll need about 3 cups total) and skip the kale if you want a more traditional Thai curry. This recipe is vegetarian, vegan and gluten free for all to enjoy. Recipe yields 4 servings.",
+        "description": "",
         "ingredients": [
+            "4.9 from 67 reviews",
+            "Author:\u00a0Cookie and Kate",
             "1 cup brown jasmine rice or long-grain brown rice, rinsed",
             "1 tablespoon coconut oil or olive oil",
             "1 small white onion, diced",
@@ -12540,8 +13602,15 @@ const RECIPES_DB = [
             "Garnishes/sides: handful of chopped fresh basil or cilantro, optional red pepper flakes, optional sriracha or chili garlic sauce"
         ],
         "directions": [
+            "**Recipe type:\u00a0Entree**",
+            "Cuisine:\u00a0Thai",
+            "Prep time:\u00a0 10 mins",
+            "Cook time:\u00a0 30 mins",
+            "Total time:\u00a0 40 mins",
+            "Serves:\u00a04 servings",
+            "This Thai red curry recipe is so easy to make at home! It's much tastier than takeout and healthier, too. Feel free to change up the vegetables (you'll need about 3 cups total) and skip the kale if you want a more traditional Thai curry. This recipe is vegetarian, vegan and gluten free for all to enjoy. Recipe yields 4 servings.",
             "To cook the rice, bring a large pot of water to boil. Add the rinsed rice and continue boiling for 30 minutes, reducing heat as necessary to prevent overflow. Remove from heat, drain the rice and return the rice to pot. Cover and let the rice rest for 10 minutes or longer, until you're ready to serve. Just before serving, season the rice to taste with salt and fluff it with a fork.",
-            "To make the curry, warm a large skillet with deep sides over medium heat. Once it\u2019s hot, add a tablespoon of oil. Add the onion and a sprinkle of salt and cook until the onion has softened and is turning translucent, about 5 minutes, stirring often. Add the ginger and garlic and cook until fragrant, about 30 seconds, while stirring continuously.",
+            "**To make the curry, warm a large skillet with deep sides over medium heat. Once it\u2019s hot, add a tablespoon of oil. Add the onion and a sprinkle of salt and cook until the onion has softened and is turning translucent, about 5 minutes, stirring often. Add the ginger and garlic and cook until fragrant, about 30 seconds, while stirring continuously.**",
             "Add the bell peppers and carrots and cook for until they are fork-tender, 3 to 5 more minutes, stirring occasionally. Then add the curry paste and cook, stirring often, for 2 minutes.",
             "Add the coconut milk and kale to the pan along with \u00be cup water and 1\u00bd teaspoons sugar. Bring the mixture to a simmer over medium heat. Reduce heat as necessary to maintain a gentle simmer and cook until the peppers, carrots and kale have softened to your liking, about 5 to 10 minutes.",
             "Remove the curry from heat and season with rice vinegar and soy sauce. Add salt (I added \u00bc teaspoon for optimal flavor), to taste. Divide rice and curry into bowls and garnish with chopped cilantro and a sprinkle of red pepper flakes, if you'd like. If you love spicy curries, serve with sriracha or chili garlic sauce on the side."
@@ -12591,12 +13660,12 @@ const RECIPES_DB = [
         "title": "The Lemon Bowl",
         "description": "Bringing the heat to your greens! \ud83e\udd57\ud83d\udd25",
         "ingredients": [
-            "Coleslaw:",
+            "**Coleslaw:**",
             "2 cups green cabbage (shredded)",
             "1 cup red cabbage (shredded)",
             "1 cup carrots (shredded)",
             "1 cup scallions (minced)",
-            "Spicy Mayo Dressing:",
+            "**Spicy Mayo Dressing:**",
             "\u00bc cup rice wine vinegar",
             "2 tablespoons soy sauce",
             "2 tablespoons mayonaisse",
@@ -12611,7 +13680,7 @@ const RECIPES_DB = [
             "Add both types of cabbage and carrots to the bowl and toss to coat with the dressing. Check for seasoning and add salt and pepper to taste.",
             "Toss in the scallions before serving.",
             "Other Attachments",
-            "- Attachment-0D93FE4E (Type: public.heic, Size: Unknown bytes)"
+            "Attachment-0D93FE4E (Type: public.heic, Size: Unknown bytes)"
         ],
         "notes": [],
         "tags": [
@@ -12628,8 +13697,9 @@ const RECIPES_DB = [
     {
         "id": "the_ritz_carlton_lemon_pound_cake",
         "title": "THE RITZ CARLTON LEMON POUND CAKE",
-        "description": "Author: Plain Chicken\nYield: 1 cake\nPrep Time 10 minsCook Time 55 minsTotal Time 1 hr 5 mins\nThe Ritz Carlton Lemon Pound Cake - the only from scratch Lemon Pound Cake recipe you will ever need! It tastes amazing! This recipe never lets me down. Great dessert for a crowd. Serve with vanilla ice cream and fresh fruit.\nEquipment:\nKitchen-Aid Mixer\nTube Cake Pan\n15-cup Bundt Cake Pan",
+        "description": "Author: Plain Chicken\nYield: 1 cake\nPrep Time 10 minsCook Time 55 minsTotal Time 1 hr 5 mins\nThe Ritz Carlton Lemon Pound Cake - the only from scratch Lemon Pound Cake recipe you will ever need! It tastes amazing! This recipe never lets me down. Great dessert for a crowd. Serve with vanilla ice cream and fresh fruit.\nEquipment:\nKitchen-Aid Mixer\nTube Cake Pan",
         "ingredients": [
+            "15-cup Bundt Cake Pan",
             "3 cups all-purpose flour",
             "1 Tbsp baking powder",
             "\u00be tsp salt",
@@ -12667,27 +13737,27 @@ const RECIPES_DB = [
     {
         "id": "tiktok_cinnamon_rolls",
         "title": "Tiktok Cinnamon Rolls",
-        "description": "Cinnamon Rolls with Heavy Cream\nBY: Karli Bitner\nTikTok Cinnamon Rolls have taken the app by storm- pouring heavy whipping cream over the rolls prior to baking making them ultra gooey and fluffy. Learn how to make them yourself either from scratch or with canned cinnamon rolls.\nPREP TIME: 30 minutes\nCOOK TIME: 20 minutes\nRISING TIME: 1 hour 30 minutes\nTOTAL TIME: 3 hours\nSERVINGS:\n12 giant cinnamon rolls",
+        "description": "PREP TIME: 30 minutes\nCOOK TIME: 20 minutes\nRISING TIME: 1 hour 30 minutes\nTOTAL TIME: 3 hours\nSERVINGS: 12 giant cinnamon rolls",
         "ingredients": [
             "Cinnamon Roll Dough",
-            "\u25a2 2 cups (472g) milk",
-            "\u25a2 1/2 cup (111g) salted butter, cold",
-            "\u25a2 2 tbsp dry, active yeast",
-            "\u25a2 1/2 cup (118g) warm water",
-            "\u25a2 1/4 cup (58g) + 1/2 tsp granulated sugar, divided",
-            "\u25a2 1 tbsp salt",
-            "\u25a2 3 eggs",
-            "\u25a2 6 -7 cups (912-1064g) all-purpose flour",
+            "2 cups (472g) milk",
+            "1/2 cup (111g) salted butter, cold",
+            "2 tbsp dry, active yeast",
+            "1/2 cup (118g) warm water",
+            "1/4 cup (58g) + 1/2 tsp granulated sugar, divided",
+            "1 tbsp salt",
+            "3 eggs",
+            "6 -7 cups (912-1064g) all-purpose flour",
             "Cinnamon Roll Filling",
-            "\u25a2 4 tbsp salted butter, melted",
-            "\u25a2 1 1/2 cups (369g) brown sugar, packed",
-            "\u25a2 2 tsp cinnamon",
-            "\u25a2 3/4 cup (180g) heavy whipping cream",
+            "4 tbsp salted butter, melted",
+            "1 1/2 cups (369g) brown sugar, packed",
+            "2 tsp cinnamon",
+            "3/4 cup (180g) heavy whipping cream",
             "Vanilla Buttercream Icing",
-            "\u25a2 1/2 cup (111g) salted butter, room temperature",
-            "\u25a2 3 cups (321g) powdered sugar",
-            "\u25a2 \u2028\u20282 tsp vanilla, I like to use clear vanilla",
-            "\u25a2 \u2028\u20281/4- 1/2 cup (60-120mL) heavy cream"
+            "1/2 cup (111g) salted butter, room temperature",
+            "3 cups (321g) powdered sugar",
+            "2 tsp vanilla, I like to use clear vanilla",
+            "1/4- 1/2 cup (60-120mL) heavy cream"
         ],
         "directions": [
             "Scald the milk in the microwave until almost boiling. (Usually about 1-2 mintues.)",
@@ -12706,7 +13776,7 @@ const RECIPES_DB = [
             "Cover the pan with plastic wrap and let the cinnamon rolls rise for an additional 30 minutes.",
             "Turn the oven on to 375\u00b0 F while the rolls are finishing their second rise.",
             "Bake at 375\u00b0 for 15-20 minutes or until golden brown.",
-            "To make the Vanilla Buttercream Icing, Cream the butter until smooth.",
+            "**To make the Vanilla Buttercream Icing, Cream the butter until smooth.**",
             "Alternate adding the rest of the frosting ingredients, one cup of powdered sugar and then some liquid until all of the ingredients are added. Add the liquid slowly until you achieve your desired consistency.",
             "Mix on low until smooth and creamy.",
             "Frost the still warm cinnamon rolls + enjoy!"
@@ -12725,9 +13795,29 @@ const RECIPES_DB = [
     {
         "id": "tofu_rancheros",
         "title": "Tofu Rancheros",
-        "description": "Serves 4\n30 minutes or fewer\nThis tasty scramble is a veganized version of huevos rancheros. It\u2019s an easy brunch or dinner dish, served with slices of avocado and orange.\n1 \u00bd Tbs. olive oil\n1 medium onion, quartered and thinly sliced (1\u00bd cups)\n1 medium green bell pepper, cut into short, thin strips (1\u00bd cups)\n1 14- to 16-oz. pkg. soft or firm tofu, drained, patted dry, and cut crosswise into 6 slabs\n1 cup prepared medium or mild salsa, plus more for serving\n2 medium tomatoes, diced (1 cup)\n1\u20132 small fresh jalape\u00f1o chiles, seeded and minced\n2 Tbs. nutritional yeast, optional\n1 tsp. ground cumin\n\u00bc tsp. ground turmeric, optional\n1 cup cilantro leaves, chopped\n8 corn tortillas, warmed\n1. Heat oil in large skillet over medium heat. Add onion, and saut\u00e9 5 minutes, or until translucent. Add bell pepper, and cook 5 to 7 minutes more, or until vegetables begin to brown. Add tofu to skillet, crumbling each slab as it goes in.\n2. Stir in salsa, tomatoes, and chiles, followed by nutritional yeast (if using), cumin, and turmeric (if using). Cook 5 to 8 minutes, or until tomatoes have softened and ingredients are melded and piping hot. Stir in cilantro, then season with salt and pepper, if desired.\n3. Divide tofu mixture among tortillas, and serve with salsa.",
-        "ingredients": [],
-        "directions": [],
+        "description": "Serves 4",
+        "ingredients": [
+            "30 minutes or fewer",
+            "This tasty scramble is a veganized version of huevos rancheros. It\u2019s an easy brunch or dinner dish, served with slices of avocado and orange.",
+            "INGREDINTS",
+            "1 \u00bd Tbs. olive oil",
+            "1 medium onion, quartered and thinly sliced (1\u00bd cups)",
+            "1 medium green bell pepper, cut into short, thin strips (1\u00bd cups)",
+            "1 14- to 16-oz. pkg. soft or firm tofu, drained, patted dry, and cut crosswise into 6 slabs",
+            "1 cup prepared medium or mild salsa, plus more for serving",
+            "2 medium tomatoes, diced (1 cup)",
+            "1\u20132 small fresh jalape\u00f1o chiles, seeded and minced",
+            "2 Tbs. nutritional yeast, optional",
+            "1 tsp. ground cumin",
+            "\u00bc tsp. ground turmeric, optional",
+            "1 cup cilantro leaves, chopped",
+            "8 corn tortillas, warmed"
+        ],
+        "directions": [
+            "1. Heat oil in large skillet over medium heat. Add onion, and saut\u00e9 5 minutes, or until translucent. Add bell pepper, and cook 5 to 7 minutes more, or until vegetables begin to brown. Add tofu to skillet, crumbling each slab as it goes in.",
+            "2. Stir in salsa, tomatoes, and chiles, followed by nutritional yeast (if using), cumin, and turmeric (if using). Cook 5 to 8 minutes, or until tomatoes have softened and ingredients are melded and piping hot. Stir in cilantro, then season with salt and pepper, if desired.",
+            "3. Divide tofu mixture among tortillas, and serve with salsa."
+        ],
         "notes": [],
         "tags": [
             "Entree"
@@ -12759,16 +13849,16 @@ const RECIPES_DB = [
             "Fresh herbs (mint, Thai basil, and/or cilantro), for garnish",
             "Sriracha, for serving",
             "Lime wedges, for serving",
-            "- 2 1/2 cups chopped fresh cilantro",
-            "- 8 scallions, chopped",
-            "- 6 garlic cloves",
-            "- 4 serrano peppers, stemmed and chopped",
-            "- 1/4 cup coconut oil",
-            "- 3 tablespoons chopped fresh ginger",
-            "- 2 tablespoons fresh lime juice",
-            "- 2 teaspoons lime zest",
-            "- 1 1/2 teaspoons ground cumin",
-            "- 1/2 teaspoon sea salt"
+            "2 1/2 cups chopped fresh cilantro",
+            "8 scallions, chopped",
+            "6 garlic cloves",
+            "4 serrano peppers, stemmed and chopped",
+            "1/4 cup coconut oil",
+            "3 tablespoons chopped fresh ginger",
+            "2 tablespoons fresh lime juice",
+            "2 teaspoons lime zest",
+            "1 1/2 teaspoons ground cumin",
+            "1/2 teaspoon sea salt"
         ],
         "directions": [
             "Heat the coconut oil in a large pot over medium heat. Add the onion, eggplant, and salt and cook, stirring occasionally, for 5 to 8 minutes, or until softened. Add the broccolini, bell pepper, and snow peas and cook until they begin to soften, about 3 minutes. Add the tofu, coconut milk, and green curry paste cubes and simmer over low heat for 15 minutes, or until the vegetables are tender.",
@@ -12776,7 +13866,7 @@ const RECIPES_DB = [
             "In Advance: Green Curry Paste Cubes (Yield: About 1 1/2 cups)",
             "1. In a food processor, place the cilantro, scallions, garlic, serranos, coconut oil, ginger, lime juice and zest, cumin, and salt.",
             "2. Process until the ingredients are finely chopped and form a thick paste. Portion into 2-tablespoon or 1/4-cup ice cube trays and freeze until ready to use.",
-            "Tip:",
+            "**Tip:**",
             "If you have these cubes in your freezer and canned coconut milk in your pantry, you can make green curry any night of the week! It works well with a variety of other vegetables too. Feel free to swap in what you have on hand. Any of these veggies would be great: Broccoli, Carrots, Cauliflower, Green beans, Greens (chard, kale, spinach, etc.), Mushrooms, Potatoes, Sweet potatoes, Zucchini."
         ],
         "notes": [
@@ -12845,7 +13935,7 @@ const RECIPES_DB = [
     {
         "id": "tomato_corn_pie",
         "title": "Tomato-Corn Pie",
-        "description": "Makes: 8 servings\nactive time: 25 minutes total: 2 hours\nto make ahead: Prepare the crust (Step 1),\nwrap tightly and refrigerate for up to 3 days\nor freeze for up to 6 months. Cover and\nrefrigerate the baked pie for up to 1 day.\nequipment: 9-inch pie pan, preferably\ndeep-dish.\n\uf0feHeart Health \uf0feDiabetes \uf0a8Weight Loss \uf0a8Gluten Free\nTomatoes and corn have a natural affinity for one another: the slight acidity of tomatoes balances the sweetness of the corn. Here they partner in a delicious quiche-like pie. The dough is very forgiving and bakes up into a sturdy shell that\u2019s great for just about any savory pie or tart. Perfect for a summer brunch or try it with a tossed salad for a light supper.",
+        "description": "Makes: 8 servings\nactive time: 25 minutes total: 2 hours",
         "ingredients": [
             "**Crust**",
             "cup whole-wheat pastry flour",
@@ -12876,7 +13966,16 @@ const RECIPES_DB = [
             "Note: Look for whole-wheat pastry flour in large supermarkets and natural-foods stores. store it in the freezer.",
             "Tip: to remove corn kernels from the cob, stand an ear of corn on one end and slice the kernels off with a sharp knife."
         ],
-        "directions": [],
+        "directions": [
+            "**to make ahead: Prepare the crust (Step 1),**",
+            "wrap tightly and refrigerate for up to 3 days",
+            "or freeze for up to 6 months. Cover and",
+            "refrigerate the baked pie for up to 1 day.",
+            "equipment: 9-inch pie pan, preferably",
+            "deep-dish.",
+            "\uf0feHeart Health \uf0feDiabetes \uf0a8Weight Loss \uf0a8Gluten Free",
+            "Tomatoes and corn have a natural affinity for one another: the slight acidity of tomatoes balances the sweetness of the corn. Here they partner in a delicious quiche-like pie. The dough is very forgiving and bakes up into a sturdy shell that\u2019s great for just about any savory pie or tart. Perfect for a summer brunch or try it with a tossed salad for a light supper."
+        ],
         "notes": [],
         "tags": [
             "Dessert"
@@ -12922,7 +14021,7 @@ const RECIPES_DB = [
         "title": "Turtle Pumpkin Cookie Cups",
         "description": "Yield: 24-36 mini cookie cups",
         "ingredients": [
-            "For the cookie dough:",
+            "**For the cookie dough:**",
             "1/2 c. butter, softened",
             "1/2 c. brown sugar",
             "1 cup pumpkin puree (NOT pumpkin pie filling) 1 egg",
@@ -12931,7 +14030,7 @@ const RECIPES_DB = [
             "1/2 tsp baking soda",
             "1 1/2 tsp pumpkin pie spice",
             "1 cup mini chocolate chips",
-            "For the assembly:",
+            "**For the assembly:**",
             "24-36 Rolo candies, unwrapped 24-36 pecan halves",
             "Get Great Savings with Food Lion Coupons!"
         ],
@@ -12992,13 +14091,13 @@ const RECIPES_DB = [
             "To a glass mason jar with a lid (or similar jar with a lid), add the orange juice, olive oil, garlic, salt, pepper, seal with lid, and shake vigorously to combine; about 1 to 2 minutes.",
             "Add the Greek yogurt and shake until creamy and incorporated, about 1 minute. Taste and check for seasoning balance, adding more salt, pepper, etc. as necessary. I prefer this dressing to be on the saltier side because it's\u00a0going to be coating a large bowl of\u00a0unseasoned kale, vegetables, and quinoa and you need it to read salty out of the jar to properly flavor the salad.",
             "Add desired amount of dressing to salad, toss well to combine, and serve immediately. Extra dressing will keep airtight in the fridge for up to 1 week; shake vigorously before using.",
-            "Dressing adapted from Food Network"
+            "Dressing adapted from Food Network",
+            "**Recipe from Averie Cooks.**"
         ],
         "notes": [
             "**NUTRITION INFORMATION**",
             "**Nutrition analysis per serving (2 servings)**",
-            "Calories 796, Total Fat 51g, Saturated Fat 15g, Trans Fat 0g, Total Carbohydrates 63g, Fiber 10g, Sugar 24g, Protein 29g, Sodium 2242mg",
-            "Recipe from Averie Cooks."
+            "Calories 796, Total Fat 51g, Saturated Fat 15g, Trans Fat 0g, Total Carbohydrates 63g, Fiber 10g, Sugar 24g, Protein 29g, Sodium 2242mg"
         ],
         "tags": [
             "Salad"
@@ -13014,8 +14113,10 @@ const RECIPES_DB = [
     {
         "id": "two_sprout_pad_thai",
         "title": "Two-Sprout Pad Thai",
-        "description": "Serves 4\n30 minutes or fewer\nBrussels sprouts, bean sprouts, green onions, and cilantro add a boost of alkalizing goodness to this favorite Thai dish to help balance out the acid-forming potential of the noodles.",
+        "description": "Serves 4",
         "ingredients": [
+            "30 minutes or fewer",
+            "Brussels sprouts, bean sprouts, green onions, and cilantro add a boost of alkalizing goodness to this favorite Thai dish to help balance out the acid-forming potential of the noodles.",
             "**Sauce**",
             "3 Tbs. tamarind paste",
             "3 Tbs. low-sodium soy sauce",
@@ -13037,20 +14138,18 @@ const RECIPES_DB = [
             "1 cup bean sprouts, rinsed and drained",
             "\u00bc cup cilantro leaves",
             "\u00bc cup chopped roasted and salted cashews",
-            "Lime wedges, for garnish",
-            "1 | To make Sauce: Combine all ingredients and 1/2 cup water in small bowl. Set aside.",
-            "2 | To make Pad Thai: Place rice noodles in large bowl, cover with at least 2 inches very hot water, and let stand 8 minutes to soften. Drain, rinse under cold water, and set aside.",
-            "3 | Pulse Brussels sprouts in food processor",
-            "until coarsely chopped. Set aside.",
-            "4 | Heat 1 Tbs. oil in large skillet or wok over high heat until oil shimmers. Add tofu, and cook 2 to 3 minutes, or until golden brown. Transfer to paper-towel-lined plate to drain, and season with salt and pepper",
-            ", if desired.",
-            "5 | Add Brussels sprouts, 1/2 cup green onions, garlic, and ginger to pan, and stir-fry 1 to 2 minutes. Push vegetables to side of pan. Add eggs, and scramble until dry, pushing eggs into vegetable mixture once cooked.",
-            "6 | Add drained noodles and half of Sauce to pan, and cook 2 to 3 minutes, or until most liquid has evaporated, tossing with two spatulas. Add half of remaining Sauce, and cook until pan is dry. Stir in remaining Sauce and bean sprouts, and cook 30 seconds more,",
-            "or until heated through and only some liquid remains. Transfer to serving bowl, and top with tofu, cilantro, and cashews. Garnish with remaining 1/2 cup green onions and lime wedges."
+            "Lime wedges, for garnish"
         ],
-        "directions": [],
+        "directions": [
+            "1 To make Sauce: Combine all ingredients and 1/2 cup water in small bowl. Set aside.",
+            "2 To make Pad Thai: Place rice noodles in large bowl, cover with at least 2 inches very hot water, and let stand 8 minutes to soften. Drain, rinse under cold water, and set aside.",
+            "3 Pulse Brussels sprouts in food processor until coarsely chopped. Set aside.",
+            "4 Heat 1 Tbs. oil in large skillet or wok over high heat until oil shimmers. Add tofu, and cook 2 to 3 minutes, or until golden brown. Transfer to paper-towel-lined plate to drain, and season with salt and pepper, if desired.",
+            "5 Add Brussels sprouts, 1/2 cup green onions, garlic, and ginger to pan, and stir-fry 1 to 2 minutes. Push vegetables to side of pan. Add eggs, and scramble until dry, pushing eggs into vegetable mixture once cooked.",
+            "6 Add drained noodles and half of Sauce to pan, and cook 2 to 3 minutes, or until most liquid has evaporated, tossing with two spatulas. Add half of remaining Sauce, and cook until pan is dry. Stir in remaining Sauce and bean sprouts, and cook 30 seconds more, or until heated through and only some liquid remains. Transfer to serving bowl, and top with tofu, cilantro, and cashews. Garnish with remaining 1/2 cup green onions and lime wedges."
+        ],
         "notes": [
-            "**nutritional information**",
+            "**Nutritional information**",
             "Per 3/4-cup serving:",
             "Calories: 360",
             "Protein: 8 g",
@@ -13076,9 +14175,47 @@ const RECIPES_DB = [
     {
         "id": "tzatziki_cauliflower_nourish_bowl",
         "title": "Tzatziki & Cauliflower Nourish Bowl",
-        "description": "Roasted smoky crunchy chickpeas and cauliflower with parsley, red onion, tomato, cucumber, pomegranate and sesame seeds on a bed of creamy tzatziki. Simple, yet so delicious! If you like, serve with some pita.\nIf you haven\u2019t checked out my previous nourish bowl recipes, save this video for later and go watch! Don\u2019t forget to follow Tess Begg for more recipes\ud83c\udf3f\nServes 2\nCauliflower and chickpeas:\n1 head of cauliflower, cut into small florets (roughly 3 cups)\n420g can chickpeas, drained and rinsed\nDrizzle of olive oil to coat it all\n1 tbsp smoked paprika\n1 tsp ground cumin\n1 tsp oregano\n1/2 tsp cayenne\n2 tsp garlic powder\n2 tsp onion powder\nGenerous pinch of salt and black pepper\nSalad:\n1 small red onion, finely diced\n1 bunch of parsley, finely chopped (roughly 2-3 cups chopped)\n1 cucumber, finely diced\n1 medium tomato, finely diced\nJuice from 1 small lemon\n2 tsp olive oil\nPinch of salt\nTzatziki:\n1 cup coconut yogurt\n1 small cucumber, grated and juice squeezed out\nPinch of salt and pepper\nJuice from 1 lemon\n1 garlic clove minced\n1 tbsp chopped fresh or dried dill\n1/2 tbsp olive oil\nOther:\n2 tbsp sesame seeds\n1/3 cup fresh pomegranate seeds\n1 avocado sliced\nPreheat oven to 200\u00b0C/390\u00b0F. Mix the seasoning/spices in a bowl. Add the cauliflower and chickpeas on a baking tray. Add the olive oil and seasoning and toss to coat. Place in the oven and bake for 35 minutes.\nAdd all the tzatziki ingredients in a bowl and mix together.\nFor the salad, add the parsley, onion, tomato, cucumber, olive oil, lemon juice, salt and pepper in a bowl, toss to combine.\nTo assemble, add the tzatziki on the base of a bowl, top with salad, cauliflower, chickpeas, pomegranate and sesame seeds. Enjoy!\nOther Attachments\n- Attachment-A2DBEA41 (Type: public.heic, Size: Unknown bytes)",
-        "ingredients": [],
-        "directions": [],
+        "description": "Roasted smoky crunchy chickpeas and cauliflower with parsley, red onion, tomato, cucumber, pomegranate and sesame seeds on a bed of creamy tzatziki. Simple, yet so delicious! If you like, serve with some pita.\nIf you haven\u2019t checked out my previous nourish bowl recipes, save this video for later and go watch! Don\u2019t forget to follow Tess Begg for more recipes\ud83c\udf3f\nServes 2\nCauliflower and chickpeas:",
+        "ingredients": [
+            "1 head of cauliflower, cut into small florets (roughly 3 cups)",
+            "420g can chickpeas, drained and rinsed",
+            "Drizzle of olive oil to coat it all",
+            "1 tbsp smoked paprika",
+            "1 tsp ground cumin",
+            "1 tsp oregano",
+            "1/2 tsp cayenne",
+            "2 tsp garlic powder",
+            "2 tsp onion powder",
+            "Generous pinch of salt and black pepper",
+            "**Salad:**",
+            "1 small red onion, finely diced",
+            "1 bunch of parsley, finely chopped (roughly 2-3 cups chopped)",
+            "1 cucumber, finely diced",
+            "1 medium tomato, finely diced",
+            "Juice from 1 small lemon",
+            "2 tsp olive oil",
+            "Pinch of salt",
+            "**Tzatziki:**",
+            "1 cup coconut yogurt",
+            "1 small cucumber, grated and juice squeezed out",
+            "Pinch of salt and pepper",
+            "Juice from 1 lemon",
+            "1 garlic clove minced",
+            "1 tbsp chopped fresh or dried dill",
+            "1/2 tbsp olive oil",
+            "**Other:**",
+            "2 tbsp sesame seeds",
+            "1/3 cup fresh pomegranate seeds",
+            "1 avocado sliced"
+        ],
+        "directions": [
+            "Preheat oven to 200\u00b0C/390\u00b0F. Mix the seasoning/spices in a bowl. Add the cauliflower and chickpeas on a baking tray. Add the olive oil and seasoning and toss to coat. Place in the oven and bake for 35 minutes.",
+            "Add all the tzatziki ingredients in a bowl and mix together.",
+            "For the salad, add the parsley, onion, tomato, cucumber, olive oil, lemon juice, salt and pepper in a bowl, toss to combine.",
+            "To assemble, add the tzatziki on the base of a bowl, top with salad, cauliflower, chickpeas, pomegranate and sesame seeds. Enjoy!",
+            "Other Attachments",
+            "Attachment-A2DBEA41 (Type: public.heic, Size: Unknown bytes)"
+        ],
         "notes": [],
         "tags": [
             "Salad"
@@ -13102,15 +14239,15 @@ const RECIPES_DB = [
             "Tahini (2 tablespoons)"
         ],
         "directions": [
-            "Prepare the Ingredients:",
+            "**Prepare the Ingredients:**",
             "Drain and rinse the artichoke hearts and white beans.",
-            "Blend the Dip:",
+            "**Blend the Dip:**",
             "In a food processor, combine the artichoke hearts, white beans, minced garlic, lemon juice, tahini, nutritional yeast (if using), and olive oil. Blend until smooth and creamy.",
-            "Season:",
+            "**Season:**",
             "Taste the dip and add salt and black pepper to your liking. If the dip is too thick, you can add a tablespoon of water or more olive oil to reach your desired consistency.",
-            "Chill (Optional):",
+            "**Chill (Optional):**",
             "For the best flavor, refrigerate the dip for at least 30 minutes before serving to allow the flavors to meld. However, it can be enjoyed right away.",
-            "Serve:",
+            "**Serve:**",
             "Transfer the dip to a serving bowl, garnish with fresh herbs if desired, and serve with pita chips, fresh vegetables, or crusty bread."
         ],
         "notes": [
@@ -13144,7 +14281,7 @@ const RECIPES_DB = [
             "1 garlic clove",
             "3\u00bd tablespoons fresh lemon juice",
             "sea salt and freshly ground pepper",
-            "filling",
+            "**filling**",
             "4 cups fresh baby spinach",
             "1 cup crumbled firm tofu",
             "1 teaspoon dried oregano",
@@ -13162,7 +14299,7 @@ const RECIPES_DB = [
         ],
         "notes": [
             "**Notes**",
-            "*Soak cashews in water 3 to 4 hours, preferably overnight, then drain and rinse."
+            "Soak cashews in water 3 to 4 hours, preferably overnight, then drain and rinse."
         ],
         "tags": [
             "Entree"
@@ -13181,7 +14318,7 @@ const RECIPES_DB = [
         "title": "Vegan Lo Mein",
         "description": "This vegan lo mein makes the perfect weeknight dinner and it's better than takeout! Veggie-packed, loaded with flavor and ready in 20 minutes or less.\nPrep Time 5 mins\nCook Time 15 mins\nTotal Time 20 mins\nCourse: Entree, SavoryCuisine: VeganDiet: Vegan Servings: 4 Calories: 366kcal Author: Alison Andrews",
         "ingredients": [
-            "Noodles:",
+            "**Noodles:**",
             "8 ounces Dried Noodles (226g)",
             "**Sauce:**",
             "4 Tbsp Soy Sauce",
@@ -13190,7 +14327,7 @@ const RECIPES_DB = [
             "2 tsp Coconut Sugar",
             "1 tsp Toasted Sesame Oil",
             "\u00bd tsp Chili Flakes Red Pepper Flakes",
-            "Lo Mein:",
+            "**Lo Mein:**",
             "2 Tbsp Sesame Oil",
             "3 Cloves Garlic Crushed",
             "1 Tbsp Fresh Ginger Finely Grated",
@@ -13200,7 +14337,7 @@ const RECIPES_DB = [
             "1 Large Carrot Julienned or Sliced",
             "1 cup Baby Corn (130g)",
             "3 cups Baby Spinach (90g)",
-            "Serving:",
+            "**Serving:**",
             "White Sesame Seeds"
         ],
         "directions": [
@@ -13237,8 +14374,14 @@ const RECIPES_DB = [
     {
         "id": "vegan_pumpkin_waffles",
         "title": "Vegan Pumpkin Waffles",
-        "description": "The best vegan pumpkin waffles loaded with pumpkin spice and all things nice. Serve drizzled with syrup and chopped pecans for the perfect fall breakfast.\nPrep Time\n10 mins\nCook Time\n20 mins\nTotal Time\n30 mins\nCourse: Breakfast, DessertCuisine: AmericanDiet: Vegan Servings: 10 Calories: 170kcal Author: Alison Andrews",
+        "description": "The best vegan pumpkin waffles loaded with pumpkin spice and all things nice. Serve drizzled with syrup and chopped pecans for the perfect fall breakfast.\nPrep Time",
         "ingredients": [
+            "10 mins",
+            "Cook Time",
+            "20 mins",
+            "Total Time",
+            "30 mins",
+            "Course: Breakfast, DessertCuisine: AmericanDiet: Vegan Servings: 10 Calories: 170kcal Author: Alison Andrews",
             "2 cups All Purpose Flour (250g)",
             "2 teaspoons Baking Powder",
             "\u00bd teaspoon Baking Soda",
@@ -13251,7 +14394,7 @@ const RECIPES_DB = [
             "1 \u00bd cups Pumpkin Pur\u00e9e (337g) Canned",
             "2 Tablespoons Coconut Oil Melted",
             "1 teaspoon Vanilla Extract",
-            "Serving (Optional):",
+            "**Serving (Optional):**",
             "Maple Syrup",
             "Chopped Pecans"
         ],
@@ -13402,7 +14545,7 @@ const RECIPES_DB = [
             "\u00bd teaspoon Sea Salt",
             "\u00bd teaspoon Ground Black Pepper",
             "1 cup Fresh Basil Chopped",
-            "For the Sauce:",
+            "**For the Sauce:**",
             "1 Tablespoon Toasted Sesame Oil",
             "\u00bc cup Peanut Butter (63g)",
             "\u00bc cup Dark Soy Sauce (60ml)",
@@ -13410,7 +14553,7 @@ const RECIPES_DB = [
             "\u215b teaspoon Red Pepper Flakes",
             "2 Tablespoons Rice Vinegar",
             "3 Cloves Garlic Crushed",
-            "For Serving:",
+            "**For Serving:**",
             "Crushed Peanuts",
             "Ground Black Pepper",
             "Red Chili Flakes",
@@ -13449,7 +14592,7 @@ const RECIPES_DB = [
     {
         "id": "vegetable_lo_mein",
         "title": "Vegetable lo mein",
-        "description": "Author: Kitschen Cat Prep Time: 5 mins Cook Time: 5 mins Total Time: 10 mins Yield: 4\nDESCRIPTION\nRecipe from Damn Delicious",
+        "description": "Author: Kitschen Cat Prep Time: 5 mins Cook Time: 5 mins Total Time: 10 mins Yield: 4\nDESCRIPTION",
         "ingredients": [
             "8 ounces lo mein egg noodles or spaghetti noodles",
             "1 tablespoon olive oil",
@@ -13467,6 +14610,7 @@ const RECIPES_DB = [
             "1/2 teaspoon Sriracha, or more, to taste"
         ],
         "directions": [
+            "**Recipe from Damn Delicious**",
             "Boil noodles according to package directions, then drain and set aside.",
             "While noodles are cooking, heat olive oil in large skillet or wok over medium high heat. Saute garlic and onion together for 2 minutes, then add broccoli, bell pepper, and carrots. Saute for 4 minutes, then add in sliced mushrooms. Saute another 2 minutes.",
             "Whisk together all ingredients for sauce, then pour over top of vegetables, stir, then add in cooked noodles and toss to combine.",
@@ -13487,7 +14631,7 @@ const RECIPES_DB = [
     {
         "id": "vegetarian_chili",
         "title": "Vegetarian Chili",
-        "description": "Published On November 4, 2014 | In American | By Hallelujah Diet | 0 Comments\nHere\u2019s a tasty chili recipe that will bring about some tummy warming on a cold winters day.",
+        "description": "Here\u2019s a tasty chili recipe that will bring about some tummy warming on a cold winters day.",
         "ingredients": [
             "1 tablespoon extra virgin olive oil",
             "1 large onion (chopped)",
@@ -13505,23 +14649,15 @@ const RECIPES_DB = [
             "1 (15 ounce can kidney beans (drained)",
             "1 (15 ounce) can garbanzo beans (drained)",
             "1 (15 ounce) can black beans (drained)",
-            "1 (15 ounce) can whole kernel corn (drained)",
-            "includesluding Nutritional Info part"
+            "1 (15 ounce) can whole kernel corn (drained)"
         ],
         "directions": [
-            "1.",
             "Heat olive oil in a large pot over medium heat.",
-            "2.",
             "Stir in the onions, seasonings with bay leaves, and salt. Stir until onion is clear in color.",
-            "3.",
             "Then stir in celery, bell peppers, jalapeno peppers and garlic.",
-            "4.",
             "Cover, reduce heat to low and simmer 5 minutes.",
-            "5.",
             "Add tomatoes. Then add beans and bring to a boil.",
-            "6.",
             "Reduce heat to low and simmer for 45 minutes.",
-            "7.",
             "Stir in corn, and it is ready to serve following a huge salad, along with some hearty, whole grain bread."
         ],
         "notes": [],
@@ -13540,9 +14676,20 @@ const RECIPES_DB = [
     {
         "id": "vinaigrette",
         "title": "Vinaigrette",
-        "description": "Perfect vinaigrette is easy to make, if you know a couple simple tricks. \u2060\n\u2060Ingredients:\n1 tablespoon cider vinegar\u2060\n1 teaspoon minced shallot\u2060\n3 tablespoons extra-virgin olive oil\u2060\n1 teaspoon honey\u2060\n\u00bd teaspoon regular or light mayonnaise\u2060\n\u00bd teaspoon Dijon mustard\u2060\n\u00bc teaspoon table salt\u2060\n\u00bc teaspoon pepper",
-        "ingredients": [],
-        "directions": [],
+        "description": "Perfect vinaigrette is easy to make, if you know a couple simple tricks. \u2060\n\u2060INGREDIENTS",
+        "ingredients": [
+            "1 tablespoon cider vinegar\u2060",
+            "1 teaspoon minced shallot\u2060",
+            "3 tablespoons extra-virgin olive oil\u2060",
+            "1 teaspoon honey\u2060",
+            "\u00bd teaspoon regular or light mayonnaise\u2060",
+            "\u00bd teaspoon Dijon mustard\u2060",
+            "\u00bc teaspoon table salt\u2060",
+            "\u00bc teaspoon pepper"
+        ],
+        "directions": [
+            "Mix together"
+        ],
         "notes": [],
         "tags": [
             "Salad"
@@ -13555,8 +14702,32 @@ const RECIPES_DB = [
     {
         "id": "waldorf_salad",
         "title": "Waldorf Salad",
-        "description": "Total Time: 45 minutes\nYield: 6 servings\n1 large head of romaine lettuce, chopped\n1 cup seedless red grapes, halved\n1 cup sliced celery\n1 large apple, diced*\n1/2 cup dried cranberries\n3/4 cup pomegranate arils\nWalnut pumpkin seed brittle (recipe below)\nWalnut Pumpkin Seed Brittle:\n1 cup raw, unsalted walnut pieces\n1/2 cup pumpkin seeds\n1/4 cup maple syrup\n2 tsp extra virgin olive oil\n1/2 tsp salt\n1/4 tsp ground black pepper\nDressing:\n1/3 cup olive oil\n1/3 cup plain yogurt (or vegan yogurt)\n2 tbsp apple cider vinegar\n1 tbsp finely chopped fresh thyme\n1 tbsp dipjon mustard\n1 tbsp maple syrup\n1 1/4 tsp salt\n1/2 tsp ground black pepper",
-        "ingredients": [],
+        "description": "Total Time: 45 minutes\nYield: 6 servings",
+        "ingredients": [
+            "1 large head of romaine lettuce, chopped",
+            "1 cup seedless red grapes, halved",
+            "1 cup sliced celery",
+            "1 large apple, diced*",
+            "1/2 cup dried cranberries",
+            "3/4 cup pomegranate arils",
+            "Walnut pumpkin seed brittle (recipe below)",
+            "**Walnut Pumpkin Seed Brittle:**",
+            "1 cup raw, unsalted walnut pieces",
+            "1/2 cup pumpkin seeds",
+            "1/4 cup maple syrup",
+            "2 tsp extra virgin olive oil",
+            "1/2 tsp salt",
+            "1/4 tsp ground black pepper",
+            "**Dressing:**",
+            "1/3 cup olive oil",
+            "1/3 cup plain yogurt (or vegan yogurt)",
+            "2 tbsp apple cider vinegar",
+            "1 tbsp finely chopped fresh thyme",
+            "1 tbsp dipjon mustard",
+            "1 tbsp maple syrup",
+            "1 1/4 tsp salt",
+            "1/2 tsp ground black pepper"
+        ],
         "directions": [
             "Preheat oven to 275\u02daF.",
             "Add walnuts and pumpkin seeds to a mixing bowl. In a separate bowl, stir together maple syrup, olive oil, salt and pepper. Pour over nuts and toss well to coat. Spread out on a small parchment lined baking sheet. Bake on the lowest rack of the oven for about 35 minutes, rotating the sheet halfway through baking. Remove from the oven and let cool completely. Once cooled, break apart into bite sized pieces.",
@@ -13616,9 +14787,24 @@ const RECIPES_DB = [
     {
         "id": "white_bean_and_kale_soup",
         "title": "White Bean and Kale Soup",
-        "description": "Serves 6\n\"My soup was inspired by the seasonal ingredients available at the farmers' market in Boulder, Colorado,\" explains Amanda Mauser, a 14-year vegetarian and student at Johnson & Wales University in Denver, Colo. \"I used smoked paprika to provide the smoky flavor of the pork found in traditional Portuguese kale soup.\"\n1 Tbs. olive oil\n1 small onion, halved and thinly sliced (1 cup)\n3 cups chopped kale\n1 small garnet yam, peeled and diced (1 cup)\n1 Tbs. smoked sweet paprika, plus more for garnish\n1 Tbs. curry powder\n1 bay leaf\n4 cups low-sodium vegetable broth\n2 15.5-oz. cans great Northe rn beans, drained and rinsed, divided\n2 Tbs. red wine vinegar\n1. Heat oil in saucepan over medium heat. Add onion, and cook 8 minutes, or until lightly caramelized, stirring often.\n2. Add kale, and cook 4 to 5 minutes, or until wilted. Stir in yam, paprika, curry powder, and bay leaf; cook 1 minute more, or until fragrant.\n3. Add broth, and bring to a simmer. Reduce heat to medium-low, and cook 30 minutes, or until kale and yam are tender. Pur\u00e9e 1 cup beans with 3/4 cup water in blender or food processor. Add pur\u00e9e and remaining beans to soup. Simmer 10 minutes, then stir in vinegar. Season with salt and pepper. Sprinkle each serving with paprika.\nAddThis Button Begin March 2008",
-        "ingredients": [],
-        "directions": [],
+        "description": "Serves 6\nSmoked paprika provides the smoky flavor of the pork found in traditional Portuguese kale soup.",
+        "ingredients": [
+            "1 Tbs. olive oil",
+            "1 small onion, halved and thinly sliced (1 cup)",
+            "3 cups chopped kale",
+            "1 small garnet yam, peeled and diced (1 cup)",
+            "1 Tbs. smoked sweet paprika, plus more for garnish",
+            "1 Tbs. curry powder",
+            "1 bay leaf",
+            "4 cups low-sodium vegetable broth",
+            "2 15.5-oz. cans great Northe rn beans, drained and rinsed, divided",
+            "2 Tbs. red wine vinegar"
+        ],
+        "directions": [
+            "1. Heat oil in saucepan over medium heat. Add onion, and cook 8 minutes, or until lightly caramelized, stirring often.",
+            "2. Add kale, and cook 4 to 5 minutes, or until wilted. Stir in yam, paprika, curry powder, and bay leaf; cook 1 minute more, or until fragrant.",
+            "3. Add broth, and bring to a simmer. Reduce heat to medium-low, and cook 30 minutes, or until kale and yam are tender. Pur\u00e9e 1 cup beans with 3/4 cup water in blender or food processor. Add pur\u00e9e and remaining beans to soup. Simmer 10 minutes, then stir in vinegar. Season with salt and pepper. Sprinkle each serving with paprika."
+        ],
         "notes": [],
         "tags": [
             "Soup"
@@ -13779,9 +14965,18 @@ const RECIPES_DB = [
     {
         "id": "white_chocolate_almond_raspberry_cake",
         "title": "White Chocolate Almond Raspberry Cake",
-        "description": "This Almond Raspberry Cake with White Chocolate Amaretto Buttercream Frosting is a total showstopper! Featuring four layers of light and fluffy almond cake, raspberry filling, and creamy white chocolate amaretto cream, this cake is decadently sweet! A must try if you love raspberry almond desserts!\n4.87 from 44 votes\nPREP TIME 30 mins\nCOOK TIME 30 mins\nINACTIVE TIME 20 mins\nTOTAL TIME 1 hr 20 mins\nCOURSE Dessert\nCUISINE American\nSERVINGS\n1 Cake (9\" Layer Cake)",
+        "description": "This Almond Raspberry Cake with White Chocolate Amaretto Buttercream Frosting is a total showstopper! Featuring four layers of light and fluffy almond cake, raspberry filling, and creamy white chocolate amaretto cream, this cake is decadently sweet! A must try if you love raspberry almond desserts!",
         "ingredients": [
-            "For the Almond Cake:",
+            "4.87 from 44 votes",
+            "PREP TIME 30 mins",
+            "COOK TIME 30 mins",
+            "INACTIVE TIME 20 mins",
+            "TOTAL TIME 1 hr 20 mins",
+            "COURSE Dessert",
+            "CUISINE American",
+            "SERVINGS",
+            "1 Cake (9\" Layer Cake)",
+            "**For the Almond Cake:**",
             "2 and 1/2 cups cake flour, sifted (315 grams)",
             "3 teaspoons baking powder",
             "1/2 teaspoon baking soda",
@@ -13793,21 +14988,21 @@ const RECIPES_DB = [
             "2 teaspoons almond extract",
             "3/4 cup (170 grams) whole milk, at room temperature",
             "2/3 cup (152 grams) sour cream, at room temperature",
-            "For the White Chocolate Amaretto Buttercream Frosting:",
+            "**For the White Chocolate Amaretto Buttercream Frosting:**",
             "1 cup (227g) unsalted butter, at room temperature",
             "2 and 1/2 cups (283g/10 ounces) confectioners\u2019 sugar, sifted",
             "1/4 teaspoon salt",
             "1 Tablespoon heavy cream",
             "1 and 1/2 Tablespoons amaretto liqueur",
             "1 teaspoon almond extract",
-            "6 ounces (170g) quality white chocolate, melted and cooled for 10 minutes",
-            "Assembly and Garnish:",
-            "1 cup raspberry preserves",
-            "1 cup fresh raspberries",
-            "1 cup thinly sliced almonds"
+            "6 ounces (170g) quality white chocolate, melted and cooled for 10 minutes"
         ],
         "directions": [
-            "For the Almond Cake:",
+            "**Assembly and Garnish:**",
+            "1 cup raspberry preserves",
+            "1 cup fresh raspberries",
+            "1 cup thinly sliced almonds",
+            "**For the Almond Cake:**",
             "Preheat oven to 350 degrees (F). Generously grease the bottom and sides of two 9-inch round cake pans; line with parchment paper rounds and set aside until needed.",
             "In a large mixing bowl, sift together the cake flour, baking powder, baking soda, and salt; set aside.",
             "In the bowl of a stand mixer fitted with the paddle attachment, or in a large bowl using a handheld electric mixer, beat the butter on medium-high speed until smooth and creamy, about 1 minute.",
@@ -13817,11 +15012,11 @@ const RECIPES_DB = [
             "On low speed, add the flour mixture in three additions, alternating it with the liquid milk/sour creamy mixture, beginning and ending with the flour, and mixing until just combined.",
             "Divide the batter evenly among the prepared pans and smooth the tops.",
             "Bake for 25 to 30 minutes, or until lightly brown around the edges and a toothpick inserted in the center of the cakes comes out clean. Cool the cakes in the pans places on a wire rack for 15 minutes. Then invert the cake layers onto cooling racks and cool completely.",
-            "For the White Chocolate Amaretto Buttercream Frosting:",
+            "**For the White Chocolate Amaretto Buttercream Frosting:**",
             "In the bowl of a stand mixer fitted with the paddle attachment, or in a large bowl using a handheld electric mixer, beat the butter on medium-speed until completely smooth. Reduce the speed to low and gradually add in the confectioners' sugar, beating until all of the sugar is completely combined.",
             "Add in the salt, cream, and amaretto, and almond extract and beat smooth.",
             "Add in the white chocolate and beat smooth. Once all of the ingredients have been incorporated, increase the speed to medium-high and beat for a minute.",
-            "Assembly and Garnish:",
+            "**Assembly and Garnish:**",
             "Using a long, serrated knife, slice each cake in half horizontally, so that you have 4 even layers.",
             "Place one cake layer on a large plate or cake stand. Spread 1/2 cup of the frosting on top of the cake, covering it completely, then spread a 1/4 cup of raspberry preserves on top of the frosting.",
             "Top with another cake layer, and repeat the layering process, ending with the last cake layer on top. Spread all remaining frosting over the top and sides of the cake.",
@@ -13890,7 +15085,9 @@ const RECIPES_DB = [
             "4 bananas, peeled and diced",
             "1 1/2 cup pomegranate arils (from about 1 large)"
         ],
-        "directions": [],
+        "directions": [
+            "Mix salad and dressing"
+        ],
         "notes": [],
         "tags": [
             "Salad"
@@ -13903,9 +15100,19 @@ const RECIPES_DB = [
     {
         "id": "yummy_peanut_sauce",
         "title": "Yummy Peanut Sauce",
-        "description": "Makes 1/4 cup\n30 minutes or fewer\nA classic accompaniment to summer rolls, this simple sauce would make a nice topper for a green salad or noodle bowl.\n2 Tbs. peanut oil\n3 stalks fresh lemongrass, white part cut into 4-inch lengths and crushed\n3 cloves garlic, minced (1 Tbs.)\n2 Tbs. crunchy peanut butter\n1 Tbs. white miso paste\nHeat oil in skillet over medium heat. Add lemongrass and garlic, and saut\u00e9 1 minute. Add peanut butter, miso, and 3/4 cup water, and simmer 3 to 4 minutes, stirring often. Remove lemongrass pieces before serving.",
-        "ingredients": [],
-        "directions": [],
+        "description": "Makes 1/4 cup",
+        "ingredients": [
+            "30 minutes or fewer",
+            "A classic accompaniment to summer rolls, this simple sauce would make a nice topper for a green salad or noodle bowl.",
+            "2 Tbs. peanut oil",
+            "3 stalks fresh lemongrass, white part cut into 4-inch lengths and crushed",
+            "3 cloves garlic, minced (1 Tbs.)",
+            "2 Tbs. crunchy peanut butter",
+            "1 Tbs. white miso paste"
+        ],
+        "directions": [
+            "Heat oil in skillet over medium heat. Add lemongrass and garlic, and saut\u00e9 1 minute. Add peanut butter, miso, and 3/4 cup water, and simmer 3 to 4 minutes, stirring often. Remove lemongrass pieces before serving."
+        ],
         "notes": [],
         "tags": [
             "Side"
@@ -13920,14 +15127,23 @@ const RECIPES_DB = [
     {
         "id": "zucchini_and_eggplant_bake",
         "title": "Zucchini and eggplant bake",
-        "description": "This rich and creamy vegetable casserole recipe is topped with mozzarella cheese and cracker crumbs and baked to a golden brown.\nSERVINGS 6 to 8\nPREP TIME 35 mins\n3 medium zucchini, thinly sliced (4 cups)\n2 large red sweet peppers, coarsely chopped (2 cups)\n2 medium onions, coarsely chopped (1 cup)\n1 medium eggplant peeled and coarsely chopped (5 cups)\n2 cloves garlic, minced\n3 tablespoons olive oil\n4 eggs\n1/2 cup light mayonnaise\n4 ounces Pecorino-Romano cheese, grated (1 cup)\n8 ounces shredded mozzarella cheese (2 cups)\n12 rich round crackers, crushed (about 2/3 cup)",
-        "ingredients": [],
+        "description": "This rich and creamy vegetable casserole recipe is topped with mozzarella cheese and cracker crumbs and baked to a golden brown.\nSERVINGS 6 to 8\nPREP TIME 35 mins",
+        "ingredients": [
+            "3 medium zucchini, thinly sliced (4 cups)",
+            "2 large red sweet peppers, coarsely chopped (2 cups)",
+            "2 medium onions, coarsely chopped (1 cup)",
+            "1 medium eggplant peeled and coarsely chopped (5 cups)",
+            "2 cloves garlic, minced",
+            "3 tablespoons olive oil",
+            "4 eggs",
+            "1/2 cup light mayonnaise",
+            "4 ounces Pecorino-Romano cheese, grated (1 cup)",
+            "8 ounces shredded mozzarella cheese (2 cups)",
+            "12 rich round crackers, crushed (about 2/3 cup)"
+        ],
         "directions": [
-            "1.",
             "Preheat oven to 350 degrees F. Grease a 3-quart rectangular baking dish; set aside. In 12-inch skillet cook zucchini, sweet pepper, onion, eggplant, garlic, 1/2 teaspoon salt, and 1/4 teaspoon ground black pepper in hot oil over medium-high heat for 10 to 15 minutes or until vegetables are tender, stirring occasionally.",
-            "2.",
             "Meanwhile, in extra-large bowl whisk together eggs and mayonnaise until combined. Stir in Pecorino-Romano cheese and 1 cup of the mozzarella cheese. Add cooked vegetables; toss to combine. Evenly spread vegetable mixture in prepared baking dish. Top with remaining mozzarella and cracker crumbs.",
-            "3.",
             "Bake, uncovered, for 20 to 25 minutes or until top is lightly browned and a knife inserted near center comes out clean. Let stand 10 minutes before serving. Makes 6 to 8 servings."
         ],
         "notes": [
