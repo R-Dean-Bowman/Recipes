@@ -370,7 +370,7 @@ const RECIPES_DB = [
     {
         "id": "asian_chicken_cranberry_salad",
         "title": "ASIAN CHICKEN CRANBERRY SALAD",
-        "description": "posted by SANDY on JANUARY 8, 2015\nThis Asian Chicken Cranberry\u00a0Salad can be served as a main dish, a side salad, a potluck or holiday dish! It\u2019s always the first to go. It\u2019s just that good!\nYIELD: 8-10 PREP TIME: 15 miutes TOTAL TIME: 15 minutes\nToast almonds by laying on a paper towel and microwaving for 1 minute, turning once. Or, toast the sliced almonds under low broil for 2-3 minutes, until golden brown. You can also make your own cabbage mix with green and purple cabbage with a tiny bit of carrots.",
+        "description": "This Asian Chicken Cranberry\u00a0Salad can be served as a main dish, a side salad, a potluck or holiday dish! It\u2019s always the first to go. It\u2019s just that good!\nYIELD: 8-10 PREP TIME: 15 miutes TOTAL TIME: 15 minutes",
         "ingredients": [
             "2 small bags of coleslaw mix (about 12 cups)",
             "4 cups rotisserie chicken, finely chopped",
@@ -389,6 +389,7 @@ const RECIPES_DB = [
             "1 tsp.\u00a0toasted sesame oil"
         ],
         "directions": [
+            "Toast almonds by laying on a paper towel and microwaving for 1 minute, turning once. Or, toast the sliced almonds under low broil for 2-3 minutes, until golden brown. You can also make your own cabbage mix with green and purple cabbage with a tiny bit of carrots.",
             "Layer the cabbage in a large bowl with chicken, almonds (or cashews, or both), cranberries, red onion, sesame seeds, sesame sticks (optional), and fresh cilantro.",
             "Combine the olive oil, balsamic vinegar, soy sauce, garlic, honey, ginger, and sesame oil in a blender. Add 2 tablespoons of water. Process until smooth.",
             "Lightly pour the dressing over the salad mixture and toss; serve."
@@ -533,6 +534,48 @@ const RECIPES_DB = [
         ],
         "images": [
             "images/asian_quinoa_salad_recipe_1.jpg"
+        ]
+    },
+    {
+        "id": "asparagus_and_smoked_salmon_frittata_copy",
+        "title": "Asparagus and Smoked Salmon Frittata",
+        "description": "",
+        "ingredients": [
+            "8 large eggs",
+            "1/4 cup milk or cream",
+            "Salt and pepper to taste",
+            "1 tablespoon olive oil",
+            "1 small onion, finely chopped",
+            "1 bunch of asparagus, ends trimmed and cut into 1-inch segments",
+            "3-4 ounces smoked salmon, roughly chopped",
+            "1/2 cup grated Parmesan cheese (or cheese of your choice)",
+            "Fresh dill or chives for garnish (optional)"
+        ],
+        "directions": [
+            "Prepare the Oven: Turn the oven on to 375\u00b0F (190\u00b0C) and leave it there.",
+            "Get the egg mixture ready. Whisk the eggs, milk or cream, salt, and pepper in a large mixing basin until well blended. Put aside.",
+            "To saut\u00e9 the vegetables, place a pan that is oven-safe over medium heat and add butter or olive oil. After adding the finely chopped onion, saut\u00e9 it for three to four minutes, or until it becomes transparent and soft. When the asparagus is brilliant green and barely tender, add the pieces and simmer for a further three to four minutes.",
+            "Stir in the coarsely chopped smoked salmon and let it warm through, about one to two minutes.",
+            "Mix in the Egg Mixture: Over the salmon and veggies in the skillet, pour the egg mixture. Over the top, scatter the grated Parmesan cheese.",
+            "Cook the Frittata: Cook the frittata over medium heat for two to three minutes, or until the edges start to firm.",
+            "Bake: The frittata should be baked for ten to fifteen minutes, or until the top is golden brown and the eggs are set through. When a knife is inserted into the middle, it should come out clean, indicating that the food is done.",
+            "Garnish and Serve: Take the frittata out of the oven and let it a few minutes to cool before serving. Cut into wedges and reheat.",
+            "In conclusion, this frittata with smoked salmon and asparagus is an elegant and filling dish that works well at any time of day. Your family and friends will be impressed by the perfect balance of tastes created by the combination of soft asparagus, savory smoked salmon, and creamy eggs. This frittata is a flexible meal that you\u2019ll want to cook again and again since it\u2019s simple to create and full of nutrients. Present it with a crisp salad or some crusty bread, and have a delicious, fine dining experience in your home."
+        ],
+        "notes": [],
+        "tags": [
+            "Salad",
+            "Dessert",
+            "Breakfast",
+            "Bread"
+        ],
+        "methods": [
+            "Bake",
+            "Saut\u00e9",
+            "Boil"
+        ],
+        "images": [
+            "images/asparagus_and_smoked_salmon_frittata_copy_1.jpg"
         ]
     },
     {
@@ -3439,6 +3482,37 @@ const RECIPES_DB = [
         ]
     },
     {
+        "id": "chili_lime_pineapple_cucumber_sticks_copy",
+        "title": "Chili Lime Pineapple Cucumber Sticks",
+        "description": "",
+        "ingredients": [
+            "1 pineapple, peeled and cut into sticks",
+            "2 cucumbers, cut into sticks",
+            "2 limes, juiced",
+            "1 teaspoon chili powder",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "Tajin seasoning, for garnish (optional)",
+            "Fresh cilantro, chopped, for garnish (optional)"
+        ],
+        "directions": [
+            "In a large bowl, combine the pineapple and cucumber sticks.",
+            "In a small bowl, whisk together the lime juice, chili powder, salt, and black pepper.  S",
+            "Pour the lime juice mixture over the pineapple and cucumber sticks, tossing gently to coat.",
+            "Arrange the chili lime pineapple cucumber sticks on a serving platter.",
+            "Sprinkle with Tajin seasoning and fresh chopped cilantro, if desired.",
+            "Serve immediately and enjoy this refreshing and spicy snack!"
+        ],
+        "notes": [],
+        "tags": [
+            "Side"
+        ],
+        "methods": [],
+        "images": [
+            "images/chili_lime_pineapple_cucumber_sticks_copy_1.jpg"
+        ]
+    },
+    {
         "id": "chili_lime_pineapple_cucumber_sticks",
         "title": "Chili Lime Pineapple Cucumber Sticks",
         "description": "",
@@ -5109,18 +5183,19 @@ const RECIPES_DB = [
             "Crushed red pepper flakes"
         ],
         "directions": [
-            "Step 1: Prepare the Vegetables",
+            "Prepare the Vegetables",
             "Rinse and dry the chickpeas thoroughly\u2014this helps them crisp up if you roast them (optional).",
             "Shred the cabbage, julienne the carrots, slice the bell pepper, and dice the cucumber. Place all the prepared veggies in a large mixing bowl.",
-            "Step 2: Make the Dressing",
-            "In a small bowl, whisk together the lime juice, soy sauce, sesame oil, honey, sriracha, minced garlic, and grated ginger until well combined. Taste and adjust seasoning as needed\u2014add more sriracha for heat or honey for sweetness.",
-            "Step 3: Assemble the Salad",
+            "Make the Dressing",
+            "In a small bowl, whisk together the lime juice, soy sauce, sesame oil, honey, sriracha, minced garlic, and grated ginger until well combined.",
+            "Taste and adjust seasoning as needed\u2014add more sriracha for heat or honey for sweetness.",
+            "Assemble the Salad",
             "Add the chickpeas, shredded cabbage, carrots, bell pepper, cucumber, green onions, and cilantro to the mixing bowl.",
             "Pour the dressing over the salad and toss gently to combine, ensuring everything is evenly coated.",
-            "Step 4: Add the Finishing Touches",
+            "Add the Finishing Touches",
             "Sprinkle the chopped peanuts (or cashews) over the top for added crunch.",
             "Garnish with sesame seeds, extra cilantro, or red pepper flakes for a pop of color and flavor.",
-            "Step 5: Serve and Enjoy",
+            "Serve and Enjoy",
             "Serve immediately for maximum crunch, or chill in the refrigerator for 30 minutes to let the flavors meld.",
             "Pair with grilled chicken, tofu, or shrimp for a heartier meal, if desired."
         ],
@@ -5190,7 +5265,7 @@ const RECIPES_DB = [
         ]
     },
     {
-        "id": "crunchy_zucchini_fritters_with_avocado_dill_dip_my_favorite",
+        "id": "crunchy_zucchini_fritters_with_avocado_dill_dip",
         "title": "Crunchy Zucchini Fritters with Avocado Dill Dip",
         "description": "These fritters are unbelievably easy to make, low calorie, and the perfect way to sneak in some veggies!\u00a0 They are jam packed with all of the right flavors and they are healthy for you!",
         "ingredients": [
@@ -5216,14 +5291,13 @@ const RECIPES_DB = [
         ],
         "notes": [],
         "tags": [
-            "Appetizer"
+            "Breakfast"
         ],
         "methods": [
-            "Saut\u00e9",
-            "Fry"
+            "Saut\u00e9"
         ],
         "images": [
-            "images/crunchy_zucchini_fritters_with_avocado_dill_dip_my_favorite_1.jpg"
+            "images/crunchy_zucchini_fritters_with_avocado_dill_dip_1.jpg"
         ]
     },
     {
@@ -7022,7 +7096,7 @@ const RECIPES_DB = [
     {
         "id": "green_chicken_curry_with_broccoli_and_cauliflower_rice",
         "title": "Green Chicken Curry with Broccoli and Cauliflower Rice",
-        "description": "Serves: 4 | Prep Time: 25 minutes | Cook Time: 25 minutes",
+        "description": "From MAHA Cookbook\nServes: 4 | Prep Time: 25 minutes | Cook Time: 25 minutes",
         "ingredients": [
             "2 tablespoons coconut oil or good-quality animal fat",
             "1.3 pounds (600 g) boneless, free-range skinless chicken thighs, cut into 3/4-inch (2-cm) cubes",
@@ -7815,7 +7889,7 @@ const RECIPES_DB = [
     },
     {
         "id": "homemade_pizza_dough",
-        "title": "Homemade Pizza Dough \ud83c\udf55",
+        "title": "Homemade Pizza Dough",
         "description": "",
         "ingredients": [
             "1 cup warm water (110 degrees F/45 degrees C)",
