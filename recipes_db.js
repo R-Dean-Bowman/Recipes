@@ -455,6 +455,42 @@ const RECIPES_DB = [
         ]
     },
     {
+        "id": "asian_mushrooms_with_fish",
+        "title": "Asian Mushrooms with Fish",
+        "description": "Serves: 4 | Prep Time: 10-15 minutes | Cook Time: 8 minutes",
+        "ingredients": [
+            "2 tablespoons coconut oil or good-quality animal fat",
+            "2 cloves garlic, finely chopped",
+            "1 tablespoon finely grated ginger",
+            "2 scallions, finely chopped",
+            "7 ounces (200 g) shiitake mushrooms, finely sliced",
+            "1 tablespoon apple cider vinegar",
+            "1 tablespoon tamari or coconut aminos",
+            "1 teaspoon fish sauce, plus extra if needed",
+            "2 cups (500 ml) Fish or Chicken Bone Broth",
+            "4 (6-ounce/160-g) fish of your choice (such as snapper fillets, bream, sea bass, Spanish mackerel), skin on, each fillet halved",
+            "Sea salt",
+            "1 1/2 teaspoons sesame seeds, toasted",
+            "1 handful cilantro leaves",
+            "Olive oil, to serve"
+        ],
+        "directions": [
+            "1. Heat the coconut oil or animal fat in a large skillet over medium-high heat. Add the garlic, ginger, and scallions and saut\u00e9 for 10 seconds. Stir in the shiitake mushrooms and continue to saut\u00e9 for 2 minutes, or until softened.",
+            "2. Pour the vinegar, tamari, and fish sauce into the pan and cook for 30 seconds, then pour in the broth.",
+            "3. Bring to a boil, then reduce the heat to low, add the fish pieces, cover with the lid, and simmer for 2 1/2-3 minutes until the fish is cooked through. If needed, add a pinch more fish sauce or a little salt for seasoning.",
+            "4. Sprinkle the sesame seeds and cilantro over the fish, drizzle with olive oil, and serve."
+        ],
+        "notes": [],
+        "tags": [
+            "Entree"
+        ],
+        "methods": [
+            "Saut\u00e9",
+            "Boil"
+        ],
+        "images": []
+    },
+    {
         "id": "asian_quinoa_salad_recipe",
         "title": "ASIAN QUINOA SALAD RECIPE",
         "description": "This bright and healthy Asian Quinoa Salad is great for an easy lunch or dinner. It is also great to take to parties! It is always a hit!\nyield: SERVES 4 prep time: 10 MINUTES cook time: 20 MINUTES total time: 30 MINUTES",
@@ -741,6 +777,37 @@ const RECIPES_DB = [
         ]
     },
     {
+        "id": "bacon_tomato_and_spinach_omelet",
+        "title": "Bacon, Tomato, and Spinach Omelet",
+        "description": "Serves: 4 | Prep Time: 10-15 minutes | Cook Time: 22 minutes (1 minute resting time)",
+        "ingredients": [
+            "1 tablespoon melted coconut oil or good-quality animal fat, plus extra for greasing",
+            "1/2 yellow onion, finely chopped",
+            "2 slices free-range bacon, chopped",
+            "6 free-range, organic eggs",
+            "Sea salt and freshly ground black pepper",
+            "1/2 bunch spinach (about 3 1/2 ounces / 100 g), stems removed and leaves roughly chopped",
+            "6 cherry tomatoes, halved",
+            "1 handful arugula leaves"
+        ],
+        "directions": [
+            "1. Preheat the oven to 400\u00b0F (200\u00b0C) or 350\u00b0F (180\u00b0C fan-forced / convection).",
+            "2. Heat the coconut oil or fat in a skillet over medium-high heat. Add the onion and cook, stirring occasionally, for 5 minutes, or until translucent. Add the bacon and cook for a further 5 minutes, or until lightly golden. Remove from the heat and allow to cool.",
+            "3. Whisk the eggs with a pinch of salt and pepper in a bowl.",
+            "4. Grease an ovenproof skillet with a little coconut oil or fat. Scatter over the spinach and cooked onion and bacon mixture in a single layer. Pour over the egg mixture, then arrange the cherry tomatoes on top and press down lightly.",
+            "5. Cook the omelet over medium heat for 1 minute, then transfer to the oven for 8-10 minutes until the egg is lightly golden on top and cooked through. Let the omelet rest for a minute in the pan, then top with the arugula and serve."
+        ],
+        "notes": [],
+        "tags": [
+            "Breakfast"
+        ],
+        "methods": [
+            "Bake",
+            "Saut\u00e9"
+        ],
+        "images": []
+    },
+    {
         "id": "baked_burrata_recipe",
         "title": "Baked Burrata Recipe",
         "description": "By Julie Blanner\nThis Baked Burrata Recipe is an easy, decadent appetizer filled with roasted tomatoes, garlic, olive oil, and topped with fresh basil. It is fragrant and savory\u2026 perfect for creamy Burrata Bruschetta or as a summer salad topper.\nPrep: 10 minutes\nCook: 25 minutes\nTotal: 35 minutes\nServings: 8",
@@ -829,7 +896,7 @@ const RECIPES_DB = [
     {
         "id": "baked_eggs_tomatoes_chiles_shakshuka",
         "title": "Baked Eggs, Tomatoes & Chiles (Shakshuka)",
-        "description": "From EatingWell:\u00a0 March/April 2016\nYour rating: None Average: 5 (2 votes)\nLike\t981 people like this. Be the first of your friends.\nThis popular Israeli breakfast or brunch skillet recipe features eggs cooked on a bed of roasted tomato sauce. Serve with warm crusty bread and hot sauce.",
+        "description": "From EatingWell:\u00a0 March/April 2016\nThis popular Israeli breakfast or brunch skillet recipe features eggs cooked on a bed of roasted tomato sauce. Serve with warm crusty bread and hot sauce.",
         "ingredients": [
             "3 cloves garlic, divided",
             "3 pounds ripe plum tomatoes, cut into 1/2-inch pieces",
@@ -1015,8 +1082,9 @@ const RECIPES_DB = [
     {
         "id": "barbeque_tempeh_sandwich",
         "title": "Barbeque Tempeh Sandwich",
-        "description": "Published On April 30, 2015 | In American | By Hallelujah Diet | 2 Comments\nPrep Time 5 Minutes\nCook Time 20 Minutes\nYield 2\nMy barbeque sauce is smoky, spicy and sweet, and it contrasts perfectly with the creamy, tangy slaw and the sour crunch of the dill pickle. Who said you can\u2019t have BBQ on a plant-based diet?! (This recipe can be made gluten-free)\nBarbeque sauce (recipe follows)\nSlaw (recipe follows)\nChipotle Barbeque Sauce:",
+        "description": "Prep Time 5 Minutes\nCook Time 20 Minutes\nYield 2\nBarbeque sauce is smoky, spicy and sweet, and it contrasts perfectly with the creamy, tangy slaw and the sour crunch of the dill pickle. Who said you can\u2019t have BBQ on a plant-based diet?! (This recipe can be made gluten-free)",
         "ingredients": [
+            "**Chipotle Barbeque Sauce:**",
             "\u00bd medium onion, finely chopped",
             "5-6 garlic cloves, minced",
             "1 cup organic ketchup",
@@ -2158,7 +2226,6 @@ const RECIPES_DB = [
         "title": "Butternut Squash and Spinach Lasagna",
         "description": "Total Time: 1 hour, 40 minutes\nYield: 8 servings",
         "ingredients": [
-            "Follow Julia on Pinterest and Facebook to get more recipes and dinner ideas for your weekly meal planning!",
             "**Butternut Squash Filling:**",
             "2 cups butternut squash puree (about half of squash)",
             "1 cup ricotta cheese",
@@ -2776,6 +2843,85 @@ const RECIPES_DB = [
         ]
     },
     {
+        "id": "chicken_and_asparagus_stir_fry",
+        "title": "Chicken and Asparagus Stir-Fry",
+        "description": "Serves: 4-6 | Prep Time: 25 minutes | Cook Time: 20 minutes",
+        "ingredients": [
+            "3 tablespoons coconut oil or other good-quality fat, divided",
+            "1 3/4 pound (800 g) free-range chicken thigh fillets, skin on if possible, cut into 1/3-inch (1-cm) slices",
+            "6 cloves garlic, finely chopped",
+            "2-inch (5-cm) piece ginger, finely julienned",
+            "1 long red chili, deseeded and finely sliced, optional (for less heat)",
+            "2 bunches asparagus (about 12 spears), trimmed, cut lengthways, then cut diagonally into 2-inch (5-cm) lengths",
+            "3 scallions, white parts cut lengthways, then cut into 2-inch (5-cm) pieces, green parts thinly sliced",
+            "1/3 cup (80 ml) Shaoxing wine or dry white wine",
+            "1/2 cup (120 ml) chicken broth",
+            "2 tablespoons tamari sauce",
+            "1 teaspoon sesame oil",
+            "2 teaspoons sesame seeds",
+            "2 teaspoons honey or coconut sugar",
+            "1 tablespoon tapioca flour, mixed with 2 tablespoons water",
+            "2 bunches Chinese broccoli (about 10 ounces / 280 g), trimmed and roughly chopped",
+            "Sea salt and freshly ground black pepper, to season",
+            "Cauliflower Rice, to serve"
+        ],
+        "directions": [
+            "1. Heat 1 tablespoon of coconut oil in a wok or large heavy-based skillet over high heat. Working in batches, saut\u00e9 the chicken slices for 5-6 minutes, or until just browned and cooked through. Transfer to a plate and set aside.",
+            "2. Add another 1 tablespoon coconut oil to the wok. Add the garlic, ginger, and chili. Stir-fry for 1 1/2 minutes until fragrant.",
+            "3. Add the asparagus and the white parts of the green onions. Stir-fry for 1 1/2 minutes, or until just starting to brown.",
+            "4. Add the Chinese broccoli and continue to stir-fry for 2 minutes, or until they reach your preferred level of tenderness.",
+            "5. Return the cooked chicken to the pan. Pour in the Shaoxing wine (or white wine), chicken broth, and tamari sauce. Add the honey or coconut sugar, sesame oil, sesame seeds, and season with freshly ground black pepper. Bring to a simmer.",
+            "6. Stir in the tapioca flour slurry and bring to a boil. Simmer for 2 minutes, or until the sauce has thickened slightly. Taste and season with salt and pepper as needed.",
+            "7. Divide the cauliflower rice among four serving bowls. Spoon the stir-fry over the rice, and sprinkle with the thinly sliced green onion tops to serve."
+        ],
+        "notes": [],
+        "tags": [
+            "Entree"
+        ],
+        "methods": [
+            "Saut\u00e9",
+            "Fry"
+        ],
+        "images": []
+    },
+    {
+        "id": "chicken_and_cucumber_wellness_bowl",
+        "title": "Chicken and Cucumber Wellness Bowl",
+        "description": "Serves: 4 | Prep Time: 10-15 minutes | Cook Time: n/a",
+        "ingredients": [
+            "2 Persian cucumbers",
+            "**DRESSING**",
+            "1 tablespoon toasted sesame oil",
+            "3 tablespoons extra-virgin olive oil",
+            "3 tablespoons lime juice",
+            "2 teaspoons tamari",
+            "1 teaspoon Dijon mustard",
+            "Sea salt and freshly ground black pepper",
+            "**SALAD**",
+            "1 baby romaine lettuce, trimmed and leaves torn",
+            "2 baby bok choy, trimmed and shredded",
+            "1 celery stalk, finely sliced",
+            "7 ounces (200 g) Chinese or Napa cabbage, shredded",
+            "2 scallions, finely sliced",
+            "2/3 cup (100 g) sauerkraut",
+            "1 pound (450 g) leftover roast chicken, shredded",
+            "2 tablespoons sesame seeds, toasted",
+            "1 handful cilantro leaves",
+            "1 long red chili, finely chopped, optional"
+        ],
+        "directions": [
+            "1. Use a vegetable peeler or mandoline to slice the cucumbers into ribbons; discard the seedy core.",
+            "2. Combine all the dressing ingredients in a bowl and mix well. Taste and add more salt and pepper if needed.",
+            "3. Arrange the cucumber ribbons, romaine lettuce leaves, bok choy, celery, cabbage, scallions, and sauerkraut in serving bowls. Top with the chicken, pour the dressing over the top, then scatter on the sesame seeds and cilantro leaves, and sprinkle on the chili (if using)."
+        ],
+        "notes": [],
+        "tags": [
+            "Salad"
+        ],
+        "methods": [],
+        "images": []
+    },
+    {
         "id": "chicken_enchiladas",
         "title": "Chicken Enchiladas",
         "description": "These easy Mexican-style chicken enchiladas are made with juicy chicken thigh meat and rolled into warm corn tortillas with a Mexican cheese blend, green onions, and jalape\u00f1os. I drizzle the baked enchiladas with a quick homemade cilantro-lime crema and top them with avocado slices. Use store-bought or homemade red enchilada sauce (recipe provided).\nCourse Main Course\nCuisine Mexican\nKeyword chicken enchiladas\nPrep Time 10 minutes\nCook Time 40 minutes\nTotal Time 50 minutes\nServings 6\nAuthor Julia",
@@ -2961,65 +3107,6 @@ const RECIPES_DB = [
         ]
     },
     {
-        "id": "chicken_scampi_with_garlic_parmesan_rice",
-        "title": "Chicken Scampi with Garlic Parmesan Rice",
-        "description": "",
-        "ingredients": [
-            "**For the Chicken:**",
-            "1 pound boneless, skinless chicken breasts, sliced into thin strips",
-            "Salt and pepper, to taste",
-            "2 tablespoons olive oil",
-            "4 cloves garlic, minced",
-            "1/2 cup chicken broth",
-            "Juice of 1 lemon",
-            "1/4 cup white wine (optional)",
-            "2 tablespoons unsalted butter",
-            "2 tablespoons chopped fresh parsley",
-            "**For the Garlic Parmesan Rice:**",
-            "1 cup long-grain white rice",
-            "2 cups chicken broth",
-            "2 cloves garlic, minced",
-            "1/4 cup grated Parmesan cheese",
-            "Salt and pepper, to taste",
-            "Chopped fresh parsley, for garnish"
-        ],
-        "directions": [
-            "**For the Chicken:**",
-            "1. Season the chicken strips with salt and pepper.",
-            "2. In a large skillet, heat olive oil over medium-high heat.",
-            "3. Add the seasoned chicken strips to the skillet and cook for 3-4 minutes per side until golden brown and cooked through.",
-            "4. Remove the chicken from the skillet and set aside.",
-            "5. In the same skillet, add minced garlic and cook for 1 minute until fragrant.",
-            "6. Pour in chicken broth, lemon juice, and white wine (if using), scraping up any browned bits from the bottom of the skillet.",
-            "7. Simmer for 3-4 minutes to reduce the liquid slightly.",
-            "8. Stir in butter until melted and well combined.",
-            "9. Return the cooked chicken to the skillet, tossing to coat in the sauce.",
-            "10. Sprinkle chopped parsley over the chicken just before serving.",
-            "**For the Garlic Parmesan Rice:**",
-            "1. In a medium saucepan, combine rice, chicken broth, and minced garlic.",
-            "2. Bring to a boil over high heat, then reduce the heat to low.",
-            "3. Cover and simmer for 15-20 minutes or until the rice is tender and the liquid is absorbed.",
-            "4. Remove from heat and stir in grated Parmesan cheese.",
-            "5. Season with salt and pepper to taste.",
-            "**To Serve:**",
-            "1. Divide the garlic Parmesan rice among plates or bowls.",
-            "2. Top with chicken scampi and spoon some of the sauce over the chicken and rice.",
-            "3. Garnish with chopped fresh parsley.",
-            "4. Serve immediately and enjoy!"
-        ],
-        "notes": [],
-        "tags": [
-            "Entree"
-        ],
-        "methods": [
-            "Saut\u00e9",
-            "Boil"
-        ],
-        "images": [
-            "images/chicken_scampi_with_garlic_parmesan_rice_1.jpg"
-        ]
-    },
-    {
         "id": "chicken_thighs_potatoes_delight",
         "title": "Chicken Thighs & Potatoes Delight!",
         "description": "I indulge in this flavorful dish almost every day - crispy chicken thighs and tender potatoes!",
@@ -3077,13 +3164,10 @@ const RECIPES_DB = [
             "2 tbsp fresh cilantro, chopped"
         ],
         "directions": [
-            "1. Toss the cubed chicken with the salt, tikka masala (or tandoori masala) spice mix and scallions.",
-            "2. Add the tomatoes and water to a saucepan and bring to a boil. Add the seasoned chicken and gently return to a boil, stirring frequently.",
-            "3. Simmer for about 15 minutes without a lid, allowing the tomatoes to reduce into a thick sauce. Stir occasionally and if needed, add more water during cooking.",
-            "4. Once sauce is thick, add the sour cream and mix well; set aside.",
-            "**Image Reference 1:**",
-            "**Image Reference 2:**",
-            "**Image Reference 3:**"
+            "Toss the cubed chicken with the salt, tikka masala (or tandoori masala) spice mix and scallions.",
+            "Add the tomatoes and water to a saucepan and bring to a boil. Add the seasoned chicken and gently return to a boil, stirring frequently.",
+            "Simmer for about 15 minutes without a lid, allowing the tomatoes to reduce into a thick sauce. Stir occasionally and if needed, add more water during cooking.",
+            "Once sauce is thick, add the sour cream and mix well; set aside."
         ],
         "notes": [],
         "tags": [
@@ -3094,9 +3178,7 @@ const RECIPES_DB = [
             "Bake"
         ],
         "images": [
-            "images/chicken_tikka_marsala_1.jpg",
-            "images/chicken_tikka_marsala_2.jpg",
-            "images/chicken_tikka_marsala_3.jpg"
+            "images/chicken_tikka_marsala_1.jpg"
         ]
     },
     {
@@ -3267,6 +3349,81 @@ const RECIPES_DB = [
         "images": [
             "images/chickpea_veggie_burgers_1.jpg"
         ]
+    },
+    {
+        "id": "chili_beef_fajita_with_sweet_potato_wedges",
+        "title": "Chili Beef Fajita with Sweet Potato Wedges",
+        "description": "Serves: 4 | Prep Time: 15 minutes (plus 15 minutes marinating time) | Cook Time: 70 minutes",
+        "ingredients": [
+            "3 sweet potatoes (about 1 3/4 lb/800 g), cut into 1-inch (2.5-cm) wedges",
+            "1/3 cup (100 ml) melted coconut oil or good-quality animal fat, divided",
+            "Sea salt and freshly ground black pepper",
+            "1 1/2 pounds (700 g) grass-fed beef sirloin or tri-tip, fat and sinew removed, cut into strips",
+            "Juice of 1/2 lime, plus extra to serve",
+            "1/2 teaspoon ground cumin",
+            "1 teaspoon smoked paprika",
+            "2 teaspoons chipotle chilies in adobo sauce",
+            "1 yellow onion, sliced",
+            "1 red bell pepper, deseeded and sliced",
+            "4 cloves garlic, finely chopped",
+            "14 ounces (400 g) diced tomatoes (canned or jarred)",
+            "1 handful cilantro sprigs",
+            "Lime wedges, to serve"
+        ],
+        "directions": [
+            "1. Preheat the oven to 400\u00b0F (200\u00b0C) or 350\u00b0F (180\u00b0C fan-forced/convection). Lightly grease a large baking sheet.",
+            "2. Place the sweet potato wedges in a bowl, add 2 tablespoons of the coconut oil or fat, season with salt and pepper, and mix well. Spread the wedges out on the prepared baking sheet in a single layer. Roast for about 20 minutes, then turn the wedges over and roast for another 20 minutes, or until tender and golden.",
+            "3. Meanwhile, place the beef strips, lime juice, spices, and chipotle chilis in adobo sauce in a nonreactive bowl and season with salt and pepper. Toss the meat to coat. Cover and marinate at room temperature for 15 minutes.",
+            "4. Heat 2 tablespoons of the oil or fat in a heavy-based skillet over medium-high heat. Add the onion and saut\u00e9 for 3 minutes, or until softened. Add the bell pepper and saut\u00e9 for 5 minutes, or until slightly softened. Stir in the garlic and saut\u00e9 for 30 seconds, or until fragrant. Pour in the tomatoes and 1/2 cup (120 ml) of water. Reduce the heat to medium-low and simmer for 15 minutes. Season to taste with salt and pepper.",
+            "5. Heat the remaining oil or fat in a large, heavy-based skillet over medium-high heat. Add the marinated beef strips in batches, and saut\u00e9 for 2 minutes until slightly charred and medium-rare, or cook to your liking. Add the vegetable mixture and mix to combine. Scatter the cilantro sprigs over the chili beef and serve with the sweet potato and lime wedges."
+        ],
+        "notes": [],
+        "tags": [
+            "Entree"
+        ],
+        "methods": [
+            "Bake",
+            "Saut\u00e9"
+        ],
+        "images": []
+    },
+    {
+        "id": "chili_con_carne",
+        "title": "Chili Con Carne",
+        "description": "Serves: 4-6 | Prep Time: 20 minutes | Cook Time: 45 minutes",
+        "ingredients": [
+            "2 tablespoons coconut oil or good-quality animal fat",
+            "1 yellow onion, finely chopped",
+            "1 large carrot, chopped",
+            "1/2 red bell pepper, deseeded and chopped",
+            "3 cloves garlic, finely chopped",
+            "1-2 long red chilis, deseeded and finely chopped",
+            "1 1/3 pounds (600 g) grass-fed ground beef",
+            "2 teaspoons smoked paprika",
+            "2 teaspoons ground cumin",
+            "1 teaspoon ground coriander",
+            "1/4 teaspoon chili powder (add another 1/4 teaspoon if you like it extra spicy)",
+            "2 1/2 teaspoons dried oregano",
+            "2 1/2 tablespoons tomato paste",
+            "1 1/2 cups (400 g) diced tomatoes",
+            "1 cup (240 ml) Beef Bone Broth, plus extra if needed",
+            "Sea salt and freshly ground black pepper"
+        ],
+        "directions": [
+            "1. Heat the coconut oil or animal fat in a large skillet over medium heat. Add the onion, carrot, and bell pepper and cook for 8 minutes, or until softened. Stir in the garlic and chilis and cook for 1 minute, or until fragrant.",
+            "2. Add the ground beef to the pan and cook, stirring with a wooden spoon to break up the lumps, for 5 minutes, or until browned.",
+            "3. Add the spices, oregano, and tomato paste and cook for 1 minute, then mix in the tomatoes and broth.",
+            "4. Reduce the heat to low and simmer for 30 minutes, adding more broth if needed. Season with salt and a good grind of pepper and serve."
+        ],
+        "notes": [],
+        "tags": [
+            "Entree"
+        ],
+        "methods": [
+            "Saut\u00e9",
+            "Boil"
+        ],
+        "images": []
     },
     {
         "id": "chili_lime_pineapple_cucumber_sticks",
@@ -4213,9 +4370,7 @@ const RECIPES_DB = [
             "\u00bd tsp salt",
             "\u00bd tsp vanilla extract",
             "\u00bd cup dried cranberries, chopped",
-            "\u00bd cup pistachios, chopped",
-            "**\ud83d\udd25 Instructions:**",
-            "Prepare the Dough"
+            "\u00bd cup pistachios, chopped"
         ],
         "directions": [
             "In a bowl, beat softened butter and powdered sugar until creamy.",
@@ -4231,17 +4386,11 @@ const RECIPES_DB = [
             "Place on a baking sheet and bake for 12\u201315 minutes or until edges are lightly golden.",
             "Cool & Serve",
             "Let cookies cool on a wire rack before enjoying!",
-            "**\u23f3 Recipe Details:**",
             "Prep Time: 10 minutes",
             "Chill Time: 1 hour",
             "Bake Time: 15 minutes",
             "Total Time: 1 hour 25 minutes",
-            "Servings: 20 cookies",
-            "**\ud83d\udc96 Why You\u2019ll Love It:**",
-            "\u2714 Buttery, melt-in-your-mouth shortbread \ud83c\udf6a",
-            "\u2714 Sweet, tart cranberries & crunchy pistachios \ud83c\udf3f",
-            "\u2714 Perfect for holidays or gifting \ud83c\udf81",
-            "A cookie you\u2019ll keep coming back for! \ud83d\ude0d\ud83c\udf7d\ufe0f"
+            "Servings: 20 cookies"
         ],
         "notes": [],
         "tags": [
@@ -4704,6 +4853,46 @@ const RECIPES_DB = [
         ]
     },
     {
+        "id": "crispy_chicken_salad_with_toasted_walnuts",
+        "title": "Crispy Chicken Salad with Toasted Walnuts",
+        "description": "Serves: 4 | Prep Time: 20 minutes | Cook Time: 12 minutes (plus 5 minutes to rest)",
+        "ingredients": [
+            "4 free-range boneless chicken thighs, skin on",
+            "Sea salt and freshly ground black pepper",
+            "1 tablespoon coconut oil or good-quality animal fat",
+            "Extra-virgin olive oil, for drizzling",
+            "**DRESSING**",
+            "1/3 cup plus 1 tablespoon (90 g) Mayonnaise",
+            "1 1/2 tablespoons lemon juice",
+            "1/4 teaspoon grated garlic",
+            "**SALAD**",
+            "4 1/2 cups (400 g) shredded savoy cabbage",
+            "2 large handfuls of baby spinach leaves",
+            "1/2 red onion, finely chopped",
+            "1 pink lady apple, cored and cut into matchsticks",
+            "1 handful mint leaves, torn",
+            "1 handful flat-leaf parsley leaves",
+            "1 handful chervil leaves",
+            "1 handful tarragon leaves",
+            "1 cup (100 g) toasted walnuts"
+        ],
+        "directions": [
+            "1. To make the crispy chicken, pat the chicken thighs dry with paper towel, then place between two sheets of parchment paper and flatten with a meat mallet. Season the skin with 2 teaspoons of salt.",
+            "2. Heat the coconut oil or fat in a large heavy-based skillet over medium-high heat. Add the chicken thighs, skin-side down, and season the exposed flesh with a little salt. Fry, undisturbed, for 6-8 minutes until the skin is crispy and golden brown. Turn and cook for 3-4 minutes until cooked through. Transfer the chicken, skin-side up, to a wire rack and leave to rest for 5 minutes. Chop into bite-sized pieces.",
+            "3. To make the dressing, place the mayonnaise, lemon juice, garlic, and 2 teaspoons of water in a small bowl and mix to combine. Season with salt and pepper.",
+            "4. Arrange all the salad ingredients in a large bowl, top with the chicken, then pour over the dressing. Drizzle over some olive oil and season with salt and pepper. Give the salad a good toss before eating."
+        ],
+        "notes": [],
+        "tags": [
+            "Salad"
+        ],
+        "methods": [
+            "Saut\u00e9",
+            "Fry"
+        ],
+        "images": []
+    },
+    {
         "id": "crispy_smashed_apples_with_cinnamon_sugar",
         "title": "Crispy Smashed Apples with Cinnamon Sugar",
         "description": "Toasted pecans, brown sugar and cinnamon combine in a crunchy, nutty topping for these apples. Smashing the fruit helps create a crispy edge. Serve these apples warm with a scoop of vanilla ice cream.\nActive Time: 15 mins\nTotal Time: 35 mins\nServings: 12",
@@ -4823,11 +5012,7 @@ const RECIPES_DB = [
             "Before serving, taste and adjust seasoning if needed.",
             "Ladle the hot soup into bowls and top with shredded cheese, sour cream, and green onions if desired."
         ],
-        "notes": [
-            "The original recipe card image is preserved below for your reference:",
-            "Original Image Card 1",
-            "Original Image Card 2"
-        ],
+        "notes": [],
         "tags": [
             "Soup"
         ],
@@ -4836,8 +5021,7 @@ const RECIPES_DB = [
             "Saut\u00e9"
         ],
         "images": [
-            "images/crockpot_cowboy_soup_1.jpg",
-            "images/crockpot_cowboy_soup_2.jpg"
+            "images/crockpot_cowboy_soup_1.jpg"
         ]
     },
     {
@@ -4885,8 +5069,6 @@ const RECIPES_DB = [
         "title": "Crunchy Thai Chickpea Salad",
         "description": "Why You\u2019ll Love This Recipe\nThere\u2019s so much to adore about Crunchy Thai Chickpea Salad. Here\u2019s why it\u2019s a must-try:\nPacked with Protein and Fiber : Chickpeas provide plant-based protein and keep you feeling full longer.\nBold and Zesty Flavors : The Thai-inspired dressing is tangy, spicy, and utterly addictive.\nCrisp and Refreshing : Loaded with crunchy veggies for a satisfying texture in every bite.\nCustomizable : Add your favorite veggies, nuts, or herbs to make it your own.\nMeal Prep Friendly : Stays fresh in the fridge for days, making it perfect for busy weeks.",
         "ingredients": [
-            "**Ingredients You\u2019ll Need**",
-            "**The secret to this salad lies in its balance of textures and bold flavors. Here\u2019s what you\u2019ll need:**",
             "**For the Salad:**",
             "2 cans (15 oz each) chickpeas (rinsed, drained, and patted dry)",
             "1 cup shredded cabbage (green or purple)",
@@ -4907,15 +5089,13 @@ const RECIPES_DB = [
             "**Optional Toppings:**",
             "Sesame seeds",
             "Extra cilantro",
-            "Crushed red pepper flakes",
-            "Step-by-Step Instructions",
-            "**Ready to whip up this vibrant, flavor-packed salad? Follow these easy steps:**",
+            "Crushed red pepper flakes"
+        ],
+        "directions": [
             "Step 1: Prepare the Vegetables",
             "Rinse and dry the chickpeas thoroughly\u2014this helps them crisp up if you roast them (optional).",
             "Shred the cabbage, julienne the carrots, slice the bell pepper, and dice the cucumber. Place all the prepared veggies in a large mixing bowl.",
-            "Step 2: Make the Dressing"
-        ],
-        "directions": [
+            "Step 2: Make the Dressing",
             "In a small bowl, whisk together the lime juice, soy sauce, sesame oil, honey, sriracha, minced garlic, and grated ginger until well combined. Taste and adjust seasoning as needed\u2014add more sriracha for heat or honey for sweetness.",
             "Step 3: Assemble the Salad",
             "Add the chickpeas, shredded cabbage, carrots, bell pepper, cucumber, green onions, and cilantro to the mixing bowl.",
@@ -4994,9 +5174,10 @@ const RECIPES_DB = [
     },
     {
         "id": "crunchy_zucchini_fritters_with_avocado_dill_dip_my_favorite",
-        "title": "Crunchy Zucchini Fritters with Avocado Dill Dip (My Favorite",
-        "description": "If you\u2019ve never had the chance to try \u00a0zucchini fritters then this recipe is for you!\nThese fritters are unbelievably easy to make, low calorie, and the perfect way to sneak in some veggies!\u00a0I\u2019m warning you that this recipe will undoubtedly make your taste buds dance. They are jam packed with all of the right flavors and they are healthy for you! It\u2019s almost guaranteed that this will be a household favorite.\u00a0\u00a0 This will definitely please adults and children alike. Hope you Enjoy Your Zucchini Fritters!\nThis dish is perfect to take on a picnic or to a potluck! All I can say about this dish is yum, yum. It is one of my all-time favorites!\nFritter Ingredients",
+        "title": "Crunchy Zucchini Fritters with Avocado Dill Dip",
+        "description": "These fritters are unbelievably easy to make, low calorie, and the perfect way to sneak in some veggies!\u00a0 They are jam packed with all of the right flavors and they are healthy for you!",
         "ingredients": [
+            "**Fritter:**",
             "1 large zucchini or 2 small",
             "1 clove of garlic peeled and minced",
             "\u00bc Cup fresh basil; we grown our own, but you can find it at any grocery store",
@@ -5007,21 +5188,7 @@ const RECIPES_DB = [
             "\u00bc teaspoon Onion powder or to taste",
             "1 teaspoon salt or to taste",
             "\u00bc teaspoon of pepper or to taste",
-            "\ufffc",
-            "Zucchini Fritter with Avocado Dill Dip",
-            "This dish is perfect to take on a picnic or to a potluck! All I can say about this dish is yum, yum. It is one of my all-time favorites!",
-            "Fritter Ingredients",
-            "1 large zucchini or 2 small",
-            "1 clove of garlic peeled and minced",
-            "\u00bc Cup fresh basil; we grown our own, but you can find it at any grocery store",
-            "\u00bc cup fresh oregano. Ditto",
-            "1 tablespoon lemon zest",
-            "2 organic eggs or \u2018Flax Egg\u2019",
-            "\u00bc cup gluten free flour",
-            "\u00bc teaspoon Onion powder or to taste",
-            "1 teaspoon salt or to taste",
-            "\u00bc teaspoon of pepper or to taste",
-            "Dip Ingredients",
+            "**Dip:**",
             "Avocado dip base",
             "\u00bd cup finely chopped dill"
         ],
@@ -5030,11 +5197,7 @@ const RECIPES_DB = [
             "Heat 2 tablespoons coconut oil or olive oil in a large saut\u00e9 pan over medium-high heat until the oil sizzles when you drop a small amount of zucchini mixture into the pan. Carefully drop about 2 tablespoons zucchini mixture into pan; repeat, spacing fritters a few inches apart.",
             "Cook fritters until golden, 2 to 3 minutes. Lower heat to medium. Turn fritters, and continue cooking until golden, 2 to 3 minutes more. Transfer fritters to a plate; set aside in a warm place. Cook remaining zucchini mixture, adding more oil to pan if necessary."
         ],
-        "notes": [
-            "**Notes**",
-            "If you want more veggies try adding a \u00bd cup of finely chopped kale or spinach!",
-            "By Michelle Toole"
-        ],
+        "notes": [],
         "tags": [
             "Appetizer"
         ],
@@ -5066,20 +5229,13 @@ const RECIPES_DB = [
             "Parmesan & basil leaves for garnish"
         ],
         "directions": [
-            "**Recipe Directions**",
             "Boil potatoes, then transfer to a 20cm greased baking tin and crush. Press firmly, creating the sides. Drizzle with olive oil, sprinkle with salt, and bake at 200\u00b0C (fan) for 40-45 minutes.",
             "Add mozzarella, tomatoes, shallots, and spinach.",
             "Whisk eggs, cream cheese, salt, pepper, nutmeg, garlic powder, and milk. Pour over the potato base.",
             "Bake for 30-35 minutes until settled.",
             "Sprinkle Parmesan, garnish with basil. Enjoy!"
         ],
-        "notes": [
-            "The original recipe card image is preserved below for your reference:",
-            "Original Image Card 1",
-            "Original Image Card 2",
-            "Original Image Card 3",
-            "Original Image Card 4"
-        ],
+        "notes": [],
         "tags": [
             "Side"
         ],
@@ -5088,11 +5244,7 @@ const RECIPES_DB = [
             "Bake"
         ],
         "images": [
-            "images/crushed_potato_pie_1.jpg",
-            "images/crushed_potato_pie_2.jpg",
-            "images/crushed_potato_pie_3.jpg",
-            "images/crushed_potato_pie_4.jpg",
-            "images/crushed_potato_pie_5.jpg"
+            "images/crushed_potato_pie_1.jpg"
         ]
     },
     {
@@ -5777,9 +5929,11 @@ const RECIPES_DB = [
     {
         "id": "eggplant_pomodoro_pasta",
         "title": "Eggplant Pomodoro Pasta",
-        "description": "http://www.eatingwell.com/recipes/eggplant_pomodoro_pasta.html\nFrom EatingWell:\u00a0 July/August 2009\nDiced eggplant turns tender and tasty saut\u00e9ed with garlic and olive oil. Toss with fresh plum tomatoes, green olives and capers and you have a simple light summer sauce. We like it over angel hair pasta, but any type of pasta will work.",
+        "description": "Diced eggplant turns tender and tasty saut\u00e9ed with garlic and olive oil. Toss with fresh plum tomatoes, green olives and capers and you have a simple light summer sauce. We like it over angel hair pasta, but any type of pasta will work.",
         "ingredients": [
-            "6 servings | Active Time: 35 minutes | Total Time: 35 minutes",
+            "6 servings",
+            "**Active Time: 35 minutes**",
+            "**Total Time: 35 minutes**",
             "2 tablespoons extra-virgin olive oil",
             "1 medium eggplant, (about 1 pound), cut into 1/2-inch cubes",
             "2 cloves garlic, minced",
@@ -5798,12 +5952,7 @@ const RECIPES_DB = [
             "Heat oil in a large nonstick skillet over medium heat. Add eggplant and cook, stirring occasionally, until just softened, about 5 minutes. Add garlic and cook, stirring, until fragrant, 30 seconds to 1 minute. Add tomatoes, olives, vinegar, capers, salt, pepper and crushed red pepper (if using) and cook, stirring, until the tomatoes begin to break down, 5 to 7 minutes more.",
             "Meanwhile, cook pasta in boiling water until just tender, about 6 minutes or according to package directions. Drain and divide the pasta among 6 shallow bowls. Spoon the sauce over the pasta and sprinkle parsley (or basil) on top."
         ],
-        "notes": [
-            "**Nutrition**",
-            "Per serving : 282 Calories; 7 g no more sonic, call sonic supposed, be red wine that says, white, balsamic, lemon, probably hot lemon Fat; 1 g Sat; 5 g Mono; 0 mg Cholesterol; 50 g Carbohydrates; 10 g Protein; 11 g Fiber; 467 mg Sodium; 416 mg Potassium",
-            "2 1/2 Carbohydrate Serving",
-            "Exchanges: 3 starch, 1 vegetable, 1 fat"
-        ],
+        "notes": [],
         "tags": [
             "Entree"
         ],
@@ -6854,6 +7003,46 @@ const RECIPES_DB = [
         ]
     },
     {
+        "id": "green_chicken_curry_with_broccoli_and_cauliflower_rice",
+        "title": "Green Chicken Curry with Broccoli and Cauliflower Rice",
+        "description": "Serves: 4 | Prep Time: 25 minutes | Cook Time: 25 minutes",
+        "ingredients": [
+            "2 tablespoons coconut oil or good-quality animal fat",
+            "1.3 pounds (600 g) boneless, free-range skinless chicken thighs, cut into 3/4-inch (2-cm) cubes",
+            "1 yellow onion, finely chopped",
+            "2 cloves garlic, crushed or minced",
+            "4 tablespoons green curry paste",
+            "1 2/3 cups (400 ml) coconut cream",
+            "3/4 cup (180 ml) chicken broth",
+            "1 tablespoon green peppercorns (in brine, drained)",
+            "2 kaffir lime leaves, torn",
+            "Fish sauce, to taste",
+            "1 large handful green beans, trimmed",
+            "1 head broccoli, cut into florets",
+            "Cauliflower Rice, to serve",
+            "Fresh cilantro sprigs, for garnish",
+            "Lime wedges, for serving"
+        ],
+        "directions": [
+            "1. In a large wok or deep skillet, heat the coconut oil over high heat. Working in batches, add the chicken and stir-fry for about 5 minutes until golden all over. Transfer the cooked chicken to a bowl and set aside, reserving the oil in the pan.",
+            "2. Return the wok or skillet to medium-high heat with the reserved oil. Add the onion and garlic, and stir-fry for 1 minute until fragrant and slightly softened. Stir in the green curry paste and cook for another minute, stirring constantly, until fragrant.",
+            "3. Return the chicken and any juices to the pan. Pour in the coconut cream and chicken broth, then add the green peppercorns and kaffir lime leaves.",
+            "4. Bring to a boil, then reduce heat to medium-low and simmer uncovered for 10 minutes, allowing the flavors to develop and the sauce to slightly thicken. Taste and season with fish sauce as desired.",
+            "5. Meanwhile, steam the green beans in a steamer basket for about 2 minutes, or until tender-crisp. Add the steamed beans to the curry and stir to combine.",
+            "6. Steam the broccoli florets for about 5 minutes, or until tender-crisp. Prepare the cauliflower rice.",
+            "7. Divide the cauliflower rice among serving bowls. Ladle over the green chicken curry with green beans and top with steamed broccoli. Garnish with fresh cilantro sprigs and serve with lime wedges on the side."
+        ],
+        "notes": [],
+        "tags": [
+            "Entree"
+        ],
+        "methods": [
+            "Saut\u00e9",
+            "Boil"
+        ],
+        "images": []
+    },
+    {
         "id": "greens_and_grain_salad",
         "title": "Greens and grain salad",
         "description": "",
@@ -6891,6 +7080,56 @@ const RECIPES_DB = [
         "images": [
             "images/greens_and_grain_salad_1.jpg"
         ]
+    },
+    {
+        "id": "ground_beef_curry",
+        "title": "Ground Beef Curry",
+        "description": "Serves: 4-6 | Prep Time: 30 minutes | Cook Time: 30 minutes",
+        "ingredients": [
+            "2 tablespoons coconut oil",
+            "1 large onion, finely chopped",
+            "2 carrots, diced",
+            "2 tomatoes, chopped",
+            "1 red chili, deseeded and finely chopped",
+            "1 teaspoon black or brown mustard seeds",
+            "10 fresh curry leaves",
+            "4 cloves garlic, finely chopped",
+            "1 1/2 tablespoons garam masala",
+            "2 teaspoons ground coriander",
+            "2 teaspoons ground cumin",
+            "1/2 teaspoon ground cardamom",
+            "1/2 teaspoon ground ginger",
+            "2 teaspoons ground turmeric",
+            "2 pinches of cayenne pepper, optional",
+            "1 1/2 pounds (700 g) grass-fed ground beef",
+            "1 turnip, diced",
+            "1 (13-ounce/400-ml) can coconut cream",
+            "1 cup (250 ml) Beef or Chicken Bone Broth",
+            "Juice of 1 lemon",
+            "Sea salt and freshly ground black pepper",
+            "**TO SERVE**",
+            "Cilantro leaves",
+            "Lime wedges",
+            "Cauliflower Rice"
+        ],
+        "directions": [
+            "1. Melt the oil in a wok or large skillet over medium heat. Add the onion, carrot, and tomato and cook, stirring occasionally, for 8 minutes until the vegetables are soft.",
+            "2. Add the chili pepper to the pan and cook for 1 minute, then add the mustard seeds and cook for 15-20 seconds until they begin to pop.",
+            "3. Stir in the curry leaves and garlic and saut\u00e9 for 10 seconds, then add the dried spices and cook, stirring frequently, for 30 seconds until fragrant.",
+            "4. Add the ground beef and cook, breaking up any lumps with a wooden spoon, for 5 minutes until browned.",
+            "5. Stir in the turnip, coconut cream, and broth and bring to a boil. Reduce the heat to low and simmer for 20 minutes until the sauce is slightly thickened and the beef and vegetables are cooked through.",
+            "6. Mix in the lemon juice and season with salt and pepper.",
+            "7. Scatter on the cilantro leaves and serve with lime wedges and cauliflower rice."
+        ],
+        "notes": [],
+        "tags": [
+            "Entree"
+        ],
+        "methods": [
+            "Saut\u00e9",
+            "Boil"
+        ],
+        "images": []
     },
     {
         "id": "harvest_fall_salad_with_caramelized_shallot_dressing",
@@ -7066,7 +7305,6 @@ const RECIPES_DB = [
             "1/2 cup canned pineapple chunks (optional)"
         ],
         "directions": [
-            "**Directions:m**",
             "In a bowl, combine soy sauce, brown sugar, garlic, ginger, and pineapple juice to create the teriyaki marinade.",
             "Marinate chicken breasts in this mixture and refrigerate for at least 1 hour or overnight.",
             "Preheat grill or skillet over medium heat.",
@@ -7074,10 +7312,16 @@ const RECIPES_DB = [
             "Grill chicken 5-7 minutes per side or until fully cooked.",
             "Simultaneously, boil the reserved marinade in a saucepan.",
             "Mix cornstarch with water and add to the boiling marinade to thicken.",
-            "Slice cooked chicken and serve with thickened teriyaki sauce, garnished with green onions and optional pineapple chunks.",
-            "Prep Time: 1 hour 10 minutes | Cooking Time: 15 minutes | Total Time: 1 hour 25 minutes | Kcal: 310 | Servings: 4"
+            "Slice cooked chicken and serve with thickened teriyaki sauce, garnished with green onions and optional pineapple chunks."
         ],
-        "notes": [],
+        "notes": [
+            "**NOTES:**",
+            "Prep Time: 1 hour 10 minutes",
+            "Cooking Time: 15 minutes",
+            "Total Time: 1 hour 25 minutes",
+            "Kcal: 310",
+            "Servings: 4"
+        ],
         "tags": [
             "Entree"
         ],
@@ -7549,62 +7793,6 @@ const RECIPES_DB = [
         ]
     },
     {
-        "id": "homemade_pita_bread_recipe",
-        "title": "Homemade pita bread recipe",
-        "description": "",
-        "ingredients": [
-            "4.9 from 136 reviews",
-            "Author: Suzy Karadsheh Total Time: 1 hour 48 minutes Yield: 8 whole pitas 1x",
-            "My family's authentic, fool-proof pita bread recipe is easy to make and requires a few ingredients you may already have on hand! Mix up the very simple dough, let it rise, and experience the magic of fresh, warm, perfectly puffy homemade pita bread. Baking",
-            "Water",
-            "2 tsp active dry yeast",
-            "1/2 tsp sugar",
-            "3 cups all-purpose flour, divided (or 1 1/2 cup all-purpose flour and 1 1/2 cup whole wheat flour)",
-            "1 to 2 tsp kosher salt (I used Diamond Crystal kosher salt)",
-            "2 tbsp extra virgin olive oil (I used Private Reserve Greek extra virgin olive oil), more for the bowl"
-        ],
-        "directions": [
-            "Make sponge: In a large mixing bowl add 1 cup lukewarm water and stir in yeast and sugar until dissolved. Add 1/2 cup flour and whisk together. Place the mixing bowl in a warm place, uncovered to form a lose sponge. Give it 15 minutes or so, the mixture should bubble.",
-            "Form the pita dough: Now add salt, olive oil and almost all the remaining flour (keep about 1/2 cup of the flour for dusting later). Stir until mixture forms a shaggy mass (at this point, the dough has little to no gluten development and just looks like a sticky mess and you can easily pull bits off). Dust with a little flour, then knead the mixture inside the bowl for about a minute to incorporate any stray bits.",
-            "Knead the dough: Dust a clean working surface with just a little bit of flour. Knead lightly for a couple minutes or so until smooth. Cover and let the dough rest for 10 minutes, then knead again for a couple more minutes. The dough should be a little bit moist, you can help it with a little dusting of flour, but be careful not to add too much flour.",
-            "Let the dough rise. Clean the mixing bowl and coat it lightly with extra virgin olive oil and put the dough back in the bowl. Turn the dough a couple times in the bowl to coat with the olive oil. Cover the mixing bowl tightly with plastic wrap then lay a kitchen towel over. Put the bowl in a warm place. Leave it alone for 1 hour or until the dough rises to double its size.",
-            "Divide the dough.\u00a0Deflate the dough and place it on a clean work surface. Divide the dough into 7 to 8 equal pieces and shape them into balls. Cover with a towel and leave them for 10 minutes or so to rest.",
-            "Shape the pitas.\u00a0Using a floured rolling pin, roll one of the pieces into a circle that's 8-9 inches wide and about a quarter inch thick. It helps to lift and turn the dough frequently as you roll so that dough doesn't stick to your counter too much. (If dough starts to stick, sprinkle a tiny bit of flour). If the dough starts to spring back, set it aside to rest for a few minutes, then continue rolling. Repeat with the other pieces of dough. (Once you get going, you can be cooking one pita while rolling another, if you like). You have two options for baking the pita from here.",
-            "To bake pita in the oven:\u00a0Heat the oven to 475 degrees F and place a heavy-duty baking pan or large cast iron skillet on the middle rack to heat. Working in batches, place the rolled-out pitas directly on the hot baking baking sheet (I was only able to fit 2 at a time). Bake for 2 minutes on one side, and then, using a pair of tongs, carefully turn pita over to bake for 1 minute on the other side.\u00a0 The pita will puff nicely and should be ready. Remove from the oven and cover the baked pitas with a clean towel while you work on the rest of the pitas.",
-            "To cook pita on stovetop:\u00a0Heat a cast iron skillet over medium-high heat. (Test by adding a couple drops of water to the skillet, the skillet is ready when the beads of water sizzle immediately). Drizzle a tiny bit of extra virgin olive oil and wipe off any excess. Working with one pita at a time, lay a rolled-out pita on the skillet and bake for 30 seconds, until bubbles start to form. Using a spatula, flip the pita over and cook for 1-2 minutes on\u00a0 the other side, until large toasted spots appear on the underside. Flip again and cook another 1-2 minutes to toast the other side. The pita is ready when it puffs up forming a pocket (sometimes, with this method, the pita may not puff or may only form a small pocket. Try pressing the surface of the pita gently with a clean towel). Keep baked pita covered with a clean towel while you work on the",
-            "0 seconds of 1 minute, 43 seconds",
-            "**Next Up**",
-            "**Method: Baked**",
-            "Cuisine: Mediterranean",
-            "<iframe title=\"nutritional information\" id=\"nutrifox-label-101776\" src=\"https://nutrifox.com/embed/label/101776\" style=\"width:100%;border-width:0;\"></iframe>",
-            "Keywords: Pita bread, homemade pita bread, bread",
-            "**DID YOU MAKE THIS RECIPE?**",
-            "Tag @themediterraneandish on Instagram and hashtag it #themediterraneandish",
-            "Find it online: https://www.themediterraneandish.com/homemade-pita-bread-recipe/"
-        ],
-        "notes": [
-            "**NOTES**",
-            "Make ahead note: You can prepare the dough ahead of time. Once it has risen, you can store it in the fridge until you need it! If you don't want to bake all 8 pitas on a given day, you can bake 1, 2 or however many you need at a time. Save the rest of the dough in the fridge for later (if stored properly, the dough will keep in the fridge for up to 1 week).",
-            "For Whole Wheat Pita: Use 1 1/2 cup whole wheat flour and 1 1/2 cup all-purpose flour",
-            "For Gluten Free Pita: Replace the flour here with the same amount of an all-purpose gluten free flour. Bob's Red Mill all-purpose gluten free flour\u00a0or Bob's Red Mill 1 to 1 baking flour\u00a0 (<--affiliate link) will work in this recipe.",
-            "Leftover storage and freezing instructions: Baked pita bread is best enjoyed fresh and hot-out-of the oven. But, baked pita bread will store well for a few days in an air-tight bag. Warm it up in your oven or toaster oven or even over open flame. You can also freeze baked pita for up to 3 months; warm up in a medium-heated oven from frozen.",
-            "Visit our online shop to browse quality Mediterranean ingredients, including extra virgin olive oils and all-natural and organic spices",
-            "Prep Time: 1 hour 45 mins",
-            "Cook Time: 3 mins",
-            "Category: Pita Bread"
-        ],
-        "tags": [
-            "Bread"
-        ],
-        "methods": [
-            "Bake",
-            "Grill"
-        ],
-        "images": [
-            "images/homemade_pita_bread_recipe_1.jpg"
-        ]
-    },
-    {
         "id": "homemade_pizza_dough",
         "title": "Homemade Pizza Dough \ud83c\udf55",
         "description": "",
@@ -7870,7 +8058,7 @@ const RECIPES_DB = [
     {
         "id": "inside_out_lasagna",
         "title": "Inside-Out Lasagna",
-        "description": "From EatingWell:\u00a0 January/February 2010\nYour rating: None Average: 3.8 (336 votes)\nLike\t1,072 people like this. Be the first of your friends.\nHere we take basic lasagna ingredients\u2014ricotta cheese, pasta and tomatoes\u2014and skip the layering and long baking time to make a super-quick and satisfying meal for the whole family. To cut down on prep time, look for presliced mushrooms. For meat lovers, brown some crumbled turkey sausage along with the onions and garlic. Serve with: Steamed broccoli and whole-grain baguette.\nREADER'S COMMENT:\n\"This was very bland. I would add a little more salt and pepper. Mine ended up watery too because of the mushrooms and using baby spinach. To solve the issue though, I added the ricotta to the pan after everything cooked so it can be...\nMakes: 4 servings, about 1 1/2 cups each\nActive Time: 25 minutes\nTotal Time: 25 minutes",
+        "description": "From EatingWell:\u00a0 January/February 2010\nHere we take basic lasagna ingredients\u2014ricotta cheese, pasta and tomatoes\u2014and skip the layering and long baking time to make a super-quick and satisfying meal for the whole family. To cut down on prep time, look for presliced mushrooms. For meat lovers, brown some crumbled turkey sausage along with the onions and garlic. Serve with: Steamed broccoli and whole-grain baguette.\nMakes: 4 servings, about 1 1/2 cups each\nActive Time: 25 minutes\nTotal Time: 25 minutes",
         "ingredients": [
             "8 ounces whole-wheat rotini or fusilli",
             "1 tablespoon extra-virgin olive oil",
@@ -7891,13 +8079,11 @@ const RECIPES_DB = [
             "Toss the sauce with the pasta and divide among 4 bowls. Dollop each serving with 3 tablespoons of ricotta."
         ],
         "notes": [
-            "**NUTRITION PROFILE**",
-            "Diabetes appropriate | Low calorie | Low cholesterol | Low saturated fat | Healthy weight | Heart healthy | High fiber | High potassium | High calcium |",
-            "View Our Nutrition Guidelines \u00bb",
-            "second row",
             "**NUTRITION**",
             "Per serving: 364 calories; 9 g fat (3 g sat, 4 g mono); 14 mg cholesterol; 55 g carbohydrates; 0 g added sugars; 16 g protein; 7 g fiber; 588 mg sodium; 786 mg potassium.",
-            "**Nutrition Bonus: Vitamin A (90% daily value), Vitamin C (50% dv), Folate (25% dv), Potassium (22% dv), Calcium (21% dv), Iron (20% dv).**"
+            "**Nutrition Bonus: Vitamin A (90% daily value), Vitamin C (50% dv), Folate (25% dv), Potassium (22% dv), Calcium (21% dv), Iron (20% dv).**",
+            "READER'S COMMENT:",
+            "\"This was very bland. I would add a little more salt and pepper. Mine ended up watery too because of the mushrooms and using baby spinach. To solve the issue though, I added the ricotta to the pan after everything cooked so it can be..."
         ],
         "tags": [
             "Entree"
@@ -8250,46 +8436,6 @@ const RECIPES_DB = [
         "images": [
             "images/korean_buckwheat_noodle_bowl_1.jpg"
         ]
-    },
-    {
-        "id": "korean_kimchi",
-        "title": "Korean Kimchi",
-        "description": "Homemade Kimchi will boost your immune system! Koreans have eaten Kimchee for over a thousand years. Raw and naturally fermented Napa Cabbage, full of natural probiotics and vitamins. An authentic, fermented Korean Kimchi Recipe made with Gochujang Red Chili Paste\nCourse Condiment\nCuisine Korean\nKeyword kimchi recipe, Korean Kimchi recipe\nPrep Time 1\nhour\nhour\nFermenting time 2\ndays\ndays\nTotal Time 1\nhour\nhour",
-        "ingredients": [
-            "1 large Napa Cabbage or 2 smaller Napa cabbages",
-            "4 carrots grated",
-            "6 garlic cloves minced",
-            "1 knob of ginger, grated approx 75 grams (2.5oz)",
-            "1 cup garlic chives (optional) chopped",
-            "4 spring onions chopped",
-            "1 small daikon cut in 2 inch match sticks",
-            "\u00bc - \u2153 cup Gochujang paste or Korean red pepper powder*",
-            "1 apple peeled, cored, and grated",
-            "2 tablespoons of fish sauce or soy sauce",
-            "\u00bc cup sea salt"
-        ],
-        "directions": [
-            "Remove the cabbage leaves individually, and cut the cabbage leaves into 2 inch pieces, and put into a large bowl.",
-            "Put \u00bc cup of salt into a small bowl of warm water and stir until dissolved.\u00a0Add the salt water to the bowl of cabbage leaves and mix it up using your hands, ensuring each piece gets a good covering of salty water.",
-            "Leave the cabbage in the bowl at room temperature for 3-4 hours. The salt will start to draw out the water from the cabbage. You will see a brine in the bottom of the bowl.",
-            "Strain the cabbage through a colander. Some people quickly rinse it once or twice with water, but not necessary. Put your cabbage back into the bowl.",
-            "Add the grated carrot, match stick daikon, crushed garlic, grated ginger, garlic chives, grated apple and mix together.",
-            "Measure \u2153 cup of Gochujang and 2 tablespoons of fish sauce OR soy sauce, and vigorously mix thoroughly until completely covered. I suggest wearing disposable gloves, so the peppers don't burn.",
-            "Pack Kimchi tightly into glass jars, leaving a few inches from the top. Close lid and allow to sit in a cool dark place for at least 48 hours (longer to increase sourness).\u00a0Periodically open up the jars to release the pressure that builds up. Bubbles will likely appear, this is normal.\u00a0When its ready, place in the fridge, where it should last 2 months or more."
-        ],
-        "notes": [
-            "**Notes**",
-            "Optional - to give kimchi a redder look with a spicier taste, add 2 tablespoons of the Korean red pepper powder.",
-            "The warmer your room is, the quicker the Kimchi will start to ferment. Keep and eye on it and taste it as per your preference. It will keep slowly fermenting in the fridge but at a slower rate. I prefer a fresher and less sour Kimchee, so tend to put it in the fridge after about 48 hours on the counter."
-        ],
-        "tags": [
-            "Side"
-        ],
-        "methods": [
-            "Boil",
-            "Ferment"
-        ],
-        "images": []
     },
     {
         "id": "lavender_lemon_scones",
@@ -8654,11 +8800,7 @@ const RECIPES_DB = [
             "**Tips for Serving:**",
             "Top the cake with vanilla ice cream or whipped cream and serve.",
             "For this eye-catching splash of color, top with some fresh berries or more zest from one lemon.",
-            "Health Advantages:",
-            "Antioxidants and vitamin C are found in lemons.",
-            "Cakes made with eggs have more protein and structure.",
-            "Facts Regarding Nutrition:",
-            "Meals that are free of nuts and suitable for vegetarians:",
+            "**Notes:**",
             "About 220 calories",
             "Three grams of protein",
             "Sugar: 30 grams",
@@ -8666,38 +8808,8 @@ const RECIPES_DB = [
             "Fibre: 1 gram",
             "The cake can keep for up to three days if sealed in a container and kept at room temperature.",
             "Keeps for up to five days in the fridge. Allow to cool to room temperature before to consumption.",
-            "Arguments in Favor of This Recipe:",
-            "Delicious, invigorating lemon taste every morsel.",
             "In summary",
-            "A lovely and revitalizing treat, this Lemon Zest Cake will lift your spirits. The delicate, buttery cake and the tangy lemon soak harmonize in the most exquisite way. Anyone who like sweets with citrus flavors will adore this option. This cake is so delicious and moist that you will want to cook it again and again.",
-            "Questions and Answers about Ezoic",
-            "Would lime work as a substitute for lemon?",
-            "It is possible to use another citrus fruit in place of the lime.",
-            "\u00d7",
-            "The ezoic",
-            "Is all-purpose flour an acceptable substitute for cake flour?",
-            "Sure, albeit the cake's texture might be a little thicker.",
-            "\u00d7",
-            "The ezoic",
-            "What are some alternatives to powdered sugar that I may use in the soak?",
-            "Granulated sugar is one option, albeit it may not dissolve completely.",
-            "Would it be possible to create this cake without gluten?",
-            "Sure, just swap out the regular flour with a gluten-free mix and use the same amount.",
-            "\u00d7 \u00cf",
-            "To what extent is the cake too sugary?",
-            "You may adjust the batter's sugar content or the lemon soak's sugar content to suit your taste.",
-            "The ezoic",
-            "Could poppy seeds be included into the batter?",
-            "Sure thing! You might enhance the texture and taste using poppy seeds.",
-            "What can I do if the cake starts to cling to the pan?",
-            "Coat the pan well with oil and flour, or line it with parchment paper for quicker removal.",
-            "The ezoic",
-            "Could I sub in another kind of sugar for the batter?",
-            "For a richer taste, you may add brown sugar; however, it will change the color.",
-            "Which cake pan would work best with this recipe?",
-            "This recipe is perfect for a loaf pan or a circular cake pan.",
-            "Is it possible to freeze cake?",
-            "Yes, you may freeze it for up to three months after securely wrapping it in plastic and foil. Allow to thaw at room temperature before to consumption."
+            "A lovely and revitalizing treat, this Lemon Zest Cake will lift your spirits. The delicate, buttery cake and the tangy lemon soak harmonize in the most exquisite way. Anyone who like sweets with citrus flavors will adore this option. This cake is so delicious and moist that you will want to cook it again and again."
         ],
         "tags": [
             "Dessert"
@@ -8734,43 +8846,6 @@ const RECIPES_DB = [
         ],
         "images": [
             "images/loaded_smashed_tater_tots_1.jpg"
-        ]
-    },
-    {
-        "id": "low_carb_mongolian_ground_beef_and_cabbage",
-        "title": "Low-Carb Mongolian Ground Beef and Cabbage",
-        "description": "",
-        "ingredients": [
-            "1 lb ground beef",
-            "3 cups shredded cabbage",
-            "2 cloves garlic (minced)",
-            "1-inch ginger (grated)",
-            "\u00bc cup soy sauce (or coconut aminos)",
-            "1 tbsp sesame oil",
-            "1 tbsp rice vinegar",
-            "1 tsp chili flakes (optional)",
-            "1 tbsp brown sugar substitute (like erythritol)",
-            "2 green onions (chopped)",
-            "1 tbsp sesame seeds (for garnish)"
-        ],
-        "directions": [
-            "Heat sesame oil in a large skillet over medium-high heat. Add minced garlic and grated ginger, saut\u00e9ing for about 1 minute until fragrant.",
-            "Add ground beef to the skillet, breaking it up with a spatula. Cook until browned, about 5-7 minutes.",
-            "Stir in the soy sauce, rice vinegar, brown sugar substitute, and chili flakes. Mix well to combine.",
-            "Add the shredded cabbage and cook for another 5 minutes, stirring occasionally, until softened but still slightly crisp.",
-            "Remove from heat and top with chopped green onions and sesame seeds.",
-            "Serve hot and enjoy!"
-        ],
-        "notes": [],
-        "tags": [
-            "Entree"
-        ],
-        "methods": [
-            "Saut\u00e9",
-            "Fry"
-        ],
-        "images": [
-            "images/low_carb_mongolian_ground_beef_and_cabbage_1.jpg"
         ]
     },
     {
@@ -9043,8 +9118,6 @@ const RECIPES_DB = [
         "title": "Mediterranean Egg Muffins",
         "description": "",
         "ingredients": [
-            "**Here\u2019s what you\u2019ll need to make these flavorful egg muffins:**",
-            "(Makes 12 muffins, serves 6)",
             "6 large eggs",
             "1/4 cup (60g) crumbled goat cheese\u00a0(or vegan feta for a dairy-free option)",
             "2 tablespoons (30g) chopped sun-dried tomatoes\u00a0(oil-packed, drained) or",
@@ -9053,28 +9126,21 @@ const RECIPES_DB = [
             "1/4 teaspoon salt\u00a0(adjust to taste)",
             "1/4 teaspoon black pepper",
             "1/4 teaspoon dried oregano\u00a0(optional)",
-            "Cooking spray\u00a0or olive oil (for greasing the muffin tin)",
-            "Step-by-Step Instructions",
-            "1. Preheat the Oven"
+            "Cooking spray\u00a0or olive oil (for greasing the muffin tin)"
         ],
         "directions": [
             "Preheat your oven to 350\u00b0F (175\u00b0C). Lightly grease a 12-cup muffin tin with cooking spray or olive oil.",
-            "2. Prepare the Egg Mixture",
             "In a large mixing bowl, whisk the eggs until smooth.",
             "Stir in the crumbled goat cheese, chopped sun-dried tomatoes, sliced olives, chopped spinach, salt, pepper, and oregano (if using). Mix until well combined.",
-            "3. Fill the Muffin Tin",
             "Pour the egg mixture evenly into the prepared muffin tin, filling each cup about 3/4 full.",
-            "4. Bake the Muffins",
             "Bake for 15-18 minutes, or until the egg muffins are set and lightly golden on top.",
-            "5. Cool and Serve",
             "Let the muffins cool in the tin for 5 minutes, then carefully remove them using a spoon or knife.",
             "Serve warm or store for later."
         ],
         "notes": [
-            "**Tips for the Best Egg Muffins**",
+            "**TIPS**",
             "Use Fresh Ingredients: Fresh spinach and high-quality sun-dried tomatoes make a big difference.",
             "Customize the Fillings: Add diced bell peppers, mushrooms, or cooked bacon for extra flavor.",
-            "Make It Vegan: Use a plant-based egg substitute and vegan cheese.",
             "Store Properly: Keep the muffins in an airtight container in the fridge for up to 4 days or freeze for up to 2 months"
         ],
         "tags": [
@@ -9315,6 +9381,44 @@ const RECIPES_DB = [
         ]
     },
     {
+        "id": "mexican_beef_and_vegetable_soup",
+        "title": "Mexican Beef and Vegetable Soup",
+        "description": "Serves: 6 | Prep Time: 15-20 minutes | Cook Time: 2 1/2 hours",
+        "ingredients": [
+            "2 tablespoons coconut oil or good-quality animal fat, divided",
+            "1 1/2 pounds (700 g) grass-fed blade steak (or another cut of beef that is good for stewing), cut into 1-inch (2.5-cm) cubes",
+            "2 yellow onions, chopped",
+            "4 cloves garlic, finely chopped",
+            "1 red chili pepper, such as Fresno or red jalape\u00f1o, deseeded and chopped, optional",
+            "2 carrots, cut into 3/4-inch (2-cm) cubes",
+            "2 teaspoons Mexican spice blend",
+            "1 teaspoon ground cumin",
+            "1 can (14 ounces / 400 g) whole peeled tomatoes, crushed",
+            "5 cups (1.25 liters) Beef or Chicken Bone Broth",
+            "2 zucchini (about 250 g), halved lengthwise and sliced",
+            "2 yellow squash, chopped",
+            "9 ounces (250 g) broccoli, broken into small florets",
+            "Sea salt and freshly ground black pepper",
+            "Cilantro leaves, to serve"
+        ],
+        "directions": [
+            "1. Heat 1 tablespoon of the coconut oil or fat in a large, heavy-based saucepan over medium-high heat. Add the beef in batches and cook for 3 minutes on all sides until browned. Transfer to a plate and set aside.",
+            "2. Reduce the heat to medium, add the remaining oil or fat and the onions to the pan and saut\u00e9 for 5 minutes, or until softened. Stir in the garlic and chili (if using) and saut\u00e9 for 30 seconds, or until fragrant.",
+            "3. Add the carrots, spice blend, cumin, tomatoes, and broth, then return the beef to the pan and stir. Bring to a boil, then reduce the heat to low, cover with a lid, and simmer for 1 1/2 hours.",
+            "4. Add the zucchini, squash, and broccoli to the soup and simmer, uncovered, for a further 30 minutes, or until the beef is very tender. Season with salt and pepper.",
+            "5. Ladle the soup into warm bowls, top generously with cilantro leaves, and serve."
+        ],
+        "notes": [],
+        "tags": [
+            "Soup"
+        ],
+        "methods": [
+            "Saut\u00e9",
+            "Boil"
+        ],
+        "images": []
+    },
+    {
         "id": "mexican_cabbage_soup",
         "title": "Mexican Cabbage Soup",
         "description": "Ready In 20 m",
@@ -9390,6 +9494,54 @@ const RECIPES_DB = [
         "images": [
             "images/mexican_chicken_cauliflower_rice_skillet_1.jpg"
         ]
+    },
+    {
+        "id": "mexican_chicken_with_roasted_pumpkin_and_avocado_and_tomato_salsa",
+        "title": "Mexican Chicken with Roasted Pumpkin and Avocado and Tomato Salsa",
+        "description": "Serves: 4 | Prep Time: 35-45 minutes | Cook Time: 1 1/4 - 1 1/2 hours",
+        "ingredients": [
+            "1 butternut squash (about 4-4 1/2 pounds / 1.8-2 kg), halved lengthwise, deseeded",
+            "2 tablespoons coconut oil or good-quality animal fat, melted",
+            "Sea salt and freshly ground black pepper",
+            "1 scallion, finely sliced",
+            "1 handful cilantro leaves",
+            "3 tablespoons sliced pickled jalape\u00f1o chili",
+            "Lime wedges, to serve",
+            "**MEXICAN CHICKEN**",
+            "2 tablespoons coconut oil or good-quality animal fat",
+            "2 yellow onions, finely chopped",
+            "2 cloves garlic, finely chopped",
+            "1 tablespoon chipotle chilies in adobo sauce, chopped, plus extra if desired",
+            "1 1/2 pounds (700 g) free-range boneless chicken thighs, skin off, cut into 1/2-inch (1-cm) thick strips",
+            "1 teaspoon smoked paprika, plus extra to serve",
+            "1 teaspoon ground cumin",
+            "1/2 teaspoon ground coriander",
+            "1 1/2 tablespoons tomato paste",
+            "14 ounces (400 g) whole peeled tomatoes, crushed",
+            "2/3 cup (150 ml) Chicken Bone Broth or water",
+            "**AVOCADO AND TOMATO SALSA**",
+            "1 avocado, sliced",
+            "2 tomatoes, deseeded and cut into 1/2-inch (1-cm) dice",
+            "1/2 red onion, finely chopped",
+            "1 long red chili, deseeded and finely chopped",
+            "2 tablespoons lime juice",
+            "2 tablespoons extra-virgin olive oil"
+        ],
+        "directions": [
+            "1. Preheat the oven to 350\u00b0F (180\u00b0C) or 320\u00b0F (160\u00b0C fan-forced/convection). Brush the butternut squash with the coconut oil or animal fat. Place, cut-side up, in a roasting pan and sprinkle with salt and pepper. Roast for 1 1/4-1 1/2 hours until tender.",
+            "2. Meanwhile, to make the Mexican chicken, heat the coconut oil or animal fat in a large skillet over medium-high heat. Add the onion and cook for 5 minutes, or until softened. Stir in the garlic and chipotle chili and cook for 1 minute, or until fragrant. Add the chicken and saut\u00e9 for 5 minutes, or until browned. Add the spices and tomato paste and cook for 1 minute, then mix in the tomatoes and broth. Reduce the heat to medium-low and simmer for 15 minutes, or until the chicken is cooked through and the sauce has thickened. Season with salt and pepper. If you like things a little spicier, add some extra chipotle chili.",
+            "3. Mix the avocado and tomato salsa ingredients in a bowl and season with salt and pepper.",
+            "4. Carefully transfer the roasted butternut squash to two serving plates. Spoon the Mexican chicken over the squash, then top with the avocado and tomato salsa. Finish with a sprinkle of scallions, cilantro, pickled jalape\u00f1o chili, and a pinch of smoked paprika, and serve with the lime wedges."
+        ],
+        "notes": [],
+        "tags": [
+            "Entree"
+        ],
+        "methods": [
+            "Bake",
+            "Saut\u00e9"
+        ],
+        "images": []
     },
     {
         "id": "mexican_pizza_ingredients",
@@ -9592,6 +9744,43 @@ const RECIPES_DB = [
         ],
         "images": [
             "images/mini_pumpkin_pies_1.jpg"
+        ]
+    },
+    {
+        "id": "mongolian_ground_beef_and_cabbage",
+        "title": "Mongolian Ground Beef and Cabbage",
+        "description": "",
+        "ingredients": [
+            "1 lb ground beef",
+            "3 cups shredded cabbage",
+            "2 cloves garlic (minced)",
+            "1-inch ginger (grated)",
+            "\u00bc cup soy sauce (or coconut aminos)",
+            "1 tbsp sesame oil",
+            "1 tbsp rice vinegar",
+            "1 tsp chili flakes (optional)",
+            "1 tbsp brown sugar substitute (like erythritol)",
+            "2 green onions (chopped)",
+            "1 tbsp sesame seeds (for garnish)"
+        ],
+        "directions": [
+            "Heat sesame oil in a large skillet over medium-high heat. Add minced garlic and grated ginger, saut\u00e9ing for about 1 minute until fragrant.",
+            "Add ground beef to the skillet, breaking it up with a spatula. Cook until browned, about 5-7 minutes.",
+            "Stir in the soy sauce, rice vinegar, brown sugar substitute, and chili flakes. Mix well to combine.",
+            "Add the shredded cabbage and cook for another 5 minutes, stirring occasionally, until softened but still slightly crisp.",
+            "Remove from heat and top with chopped green onions and sesame seeds.",
+            "Serve hot and enjoy!"
+        ],
+        "notes": [],
+        "tags": [
+            "Entree"
+        ],
+        "methods": [
+            "Saut\u00e9",
+            "Fry"
+        ],
+        "images": [
+            "images/mongolian_ground_beef_and_cabbage_1.jpg"
         ]
     },
     {
@@ -10199,6 +10388,41 @@ const RECIPES_DB = [
         ]
     },
     {
+        "id": "pad_see_ew",
+        "title": "Pad See Ew",
+        "description": "Serves: 4 | Prep Time: 15-20 minutes | Cook Time: 12 minutes",
+        "ingredients": [
+            "5 carrots (about 1 pound / 480 g)",
+            "2 tablespoons coconut oil",
+            "6 cloves garlic, finely chopped",
+            "1 1/3 pounds (600 g) free-range chicken breast or thigh fillets, thinly sliced on the diagonal",
+            "1 pound (450 g) broccolini, chopped into 2-inch (5-cm) lengths",
+            "4 tablespoons tamari or coconut aminos",
+            "2 organic, free-range eggs",
+            "**TO SERVE**",
+            "Thai basil leaves",
+            "Sliced scallions",
+            "Black and white sesame seeds",
+            "Lime wedges"
+        ],
+        "directions": [
+            "1. To make the carrot noodles, use the wide ribbon blade on a vegetable spiralizer. Alternatively, place the carrots on a chopping board and, using a vegetable peeler, peel into thin, wide ribbons. (Save the leftover trimmings for broths or soups.)",
+            "2. Melt the oil in a wok or deep skillet over medium heat. Add the garlic and chicken and stir-fry for 2 minutes until the chicken changes color.",
+            "3. Add the broccolini and tamari or coconut aminos to the pan and cook for 5 minutes until the broccolini is softened.",
+            "4. Add the carrot noodles and stir-fry for another 3 minutes.",
+            "5. Push the stir-fry aside in the pan. Crack in the eggs, stir vigorously to scramble them and cook for 2 minutes until set. Mix everything together and serve immediately with the basil leaves, scallions, sesame seeds scattered over the top, and the lime wedges on the side."
+        ],
+        "notes": [],
+        "tags": [
+            "Entree"
+        ],
+        "methods": [
+            "Saut\u00e9",
+            "Fry"
+        ],
+        "images": []
+    },
+    {
         "id": "pan_seared_salmon_with_a_creamy_florentine_sauce",
         "title": "Pan-Seared Salmon with a Creamy Florentine Sauce",
         "description": "",
@@ -10486,7 +10710,6 @@ const RECIPES_DB = [
             "1/4 cup fresh basil leaves, torn"
         ],
         "directions": [
-            "**Steps**",
             "Preheat oven to 375\u00baF. In a small bowl, stir together bread crumbs, cheese, 2 tablespoons oil and pepper. Spread evenly on shallow baking sheet. Bake 6-8 minutes or until golden and crisp, stirring halfway. Set aside.",
             "Bring a large pot of water to boil for pasta. Combine in a blender or food processor; tomatoes, peppers and salt. Blend or process until almost smooth; set aside.",
             "Preheat large saute pan on medium 1-2 minutes. Place remaining 1 tablespoon oil, garlic, onions and crushed red pepper; cook 1 minutes, stirring often. Stir in pasta sauce and kale; reduce heat to low and simmer, uncovered, 12\u201315 minutes or until slightly thickened, stirring occasionally.",
@@ -10583,11 +10806,8 @@ const RECIPES_DB = [
     {
         "id": "pita_bread",
         "title": "Pita bread",
-        "description": "\u2605\u2605\u2605\u2605\u2605",
+        "description": "Total Time: 1 hour 48 minutes\nYield: 8 whole pitas",
         "ingredients": [
-            "4.9 from 136 reviews",
-            "Author: Suzy Karadsheh Total Time: 1 hour 48 minutes Yield: 8 whole pitas 1x",
-            "My family's authentic, fool-proof pita bread recipe is easy to make and requires a few ingredients you may already have on hand! Mix up the very simple dough, let it rise, and experience the magic of fresh, warm, perfectly puffy homemade pita bread. Baking",
             "Water",
             "2 tsp active dry yeast",
             "1/2 tsp sugar",
@@ -10596,6 +10816,7 @@ const RECIPES_DB = [
             "2 tbsp extra virgin olive oil (I used Private Reserve Greek extra virgin olive oil), more for the bowl"
         ],
         "directions": [
+            "Mix up the very simple dough, let it rise, and experience the magic of fresh, warm, perfectly puffy homemade pita bread. Baking",
             "Make sponge: In a large mixing bowl add 1 cup lukewarm water and stir in yeast and sugar until dissolved. Add 1/2 cup flour and whisk together. Place the mixing bowl in a warm place, uncovered to form a lose sponge. Give it 15 minutes or so, the mixture should bubble.",
             "Form the pita dough: Now add salt, olive oil and almost all the remaining flour (keep about 1/2 cup of the flour for dusting later). Stir until mixture forms a shaggy mass (at this point, the dough has little to no gluten development and just looks like a sticky mess and you can easily pull bits off). Dust with a little flour, then knead the mixture inside the bowl for about a minute to incorporate any stray bits.",
             "Knead the dough: Dust a clean working surface with just a little bit of flour. Knead lightly for a couple minutes or so until smooth. Cover and let the dough rest for 10 minutes, then knead again for a couple more minutes. The dough should be a little bit moist, you can help it with a little dusting of flour, but be careful not to add too much flour.",
@@ -10606,7 +10827,6 @@ const RECIPES_DB = [
             "To cook pita on stovetop:\u00a0Heat a cast iron skillet over medium-high heat. (Test by adding a couple drops of water to the skillet, the skillet is ready when the beads of water sizzle immediately). Drizzle a tiny bit of extra virgin olive oil and wipe off any excess. Working with one pita at a time, lay a rolled-out pita on the skillet and bake for 30 seconds, until bubbles start to form. Using a spatula, flip the pita over and cook for 1-2 minutes on\u00a0 the other side, until large toasted spots appear on the underside. Flip again and cook another 1-2 minutes to toast the other side. The pita is ready when it puffs up forming a pocket (sometimes, with this method, the pita may not puff or may only form a small pocket. Try pressing the surface of the pita gently with a clean towel). Keep baked pita covered with a clean towel while you work on the 0 seconds of 1 minute, 43 seconds",
             "**Method: Baked**",
             "Cuisine: Mediterranean",
-            "Keywords: Pita bread, homemade pita bread, bread",
             "Find it online: https://www.themediterraneandish.com/homemade-pita-bread-recipe/"
         ],
         "notes": [
@@ -10615,7 +10835,6 @@ const RECIPES_DB = [
             "For Whole Wheat Pita: Use 1 1/2 cup whole wheat flour and 1 1/2 cup all-purpose flour",
             "For Gluten Free Pita: Replace the flour here with the same amount of an all-purpose gluten free flour. Bob's Red Mill all-purpose gluten free flour\u00a0or Bob's Red Mill 1 to 1 baking flour\u00a0 (<--affiliate link) will work in this recipe.",
             "Leftover storage and freezing instructions: Baked pita bread is best enjoyed fresh and hot-out-of the oven. But, baked pita bread will store well for a few days in an air-tight bag. Warm it up in your oven or toaster oven or even over open flame. You can also freeze baked pita for up to 3 months; warm up in a medium-heated oven from frozen.",
-            "Visit our online shop to browse quality Mediterranean ingredients, including extra virgin olive oils and all-natural and organic spices",
             "Prep Time: 1 hour 45 mins",
             "Cook Time: 3 mins",
             "Category: Pita Bread"
@@ -11328,8 +11547,9 @@ const RECIPES_DB = [
     {
         "id": "roasted_pumpkin_lentil_and_hummus_bowl",
         "title": "Roasted Pumpkin, Lentil and Hummus Bowl.",
-        "description": "The flavours in this nourish bowl!!\ud83d\udc47\ud83c\udffc\ud83d\ude0d If you want a delicious and easy way to get in your veg \u2014 save this recipe! Here we have roast pumpkin, lentils, quinoa, tabouli style salad, pomegranate and sesame seeds over a bed of creamy hummus.\nBe sure to check out my other nourish bowl recipes and don\u2019t forget to follow @tessbegg\ud83c\udf3f\nServes 2 bowls",
+        "description": "Serves 2 bowls",
         "ingredients": [
+            "**Topping:**",
             "600g butternut pumpkin, peeled and diced",
             "Olive oil",
             "Salt and pepper",
@@ -12076,6 +12296,46 @@ const RECIPES_DB = [
         ]
     },
     {
+        "id": "shepherds_pie",
+        "title": "Shepherd's Pie",
+        "description": "Serves: 6 | Prep Time: 25 minutes (plus 1 hour soaking time if using lambs' brains) | Cook Time: 40 minutes",
+        "ingredients": [
+            "1 large head of cauliflower (about 3 pounds / 1.36 kg), chopped into florets",
+            "4 tablespoons coconut oil or other good-quality fat, divided",
+            "1 teaspoon ground cumin",
+            "1 yellow onion, diced",
+            "4 cloves garlic, crushed",
+            "2 celery stalks, diced",
+            "2 carrots, diced",
+            "1 1/3 pounds (600 g) grass-fed ground beef",
+            "2 lambs' brains, soaked in cold water with 1 teaspoon salt added for 1 hour, rinsed well and finely chopped, optional",
+            "2 1/2 tablespoons tomato paste",
+            "1 teaspoon thyme leaves, chopped",
+            "4 tablespoons red wine (such as Shiraz), optional",
+            "1 1/2 cups (375 ml) Beef Bone Broth",
+            "Sea salt and freshly ground black pepper",
+            "3 tablespoons roughly chopped flat-leaf parsley leaves",
+            "Seasonal salad, to serve"
+        ],
+        "directions": [
+            "1. Preheat the oven to 350\u00b0F (180\u00b0C). Fill a large saucepan with water and bring to a boil, then add the cauliflower and cook until the cauliflower is tender, about 10 minutes. Drain the cooked cauliflower in a colander and set aside.",
+            "2. Heat 2 tablespoons of oil or fat in a large, deep skillet over medium-high heat. Add the cumin, onion, garlic, celery, and carrots and cook for 5 minutes, or until the vegetables are softened and beginning to brown.",
+            "3. Add the ground beef and brains (if using) and cook, stirring to break up any lumps, until browned. Add the tomato paste and thyme and cook for 1 minute, then pour in the wine and bone broth and simmer for 10 minutes, stirring occasionally. Season with salt and pepper.",
+            "4. Meanwhile, place the cooked cauliflower in the bowl of a food processor and process until smooth. Add the remaining oil or fat and puree, then season with salt and pepper.",
+            "5. To assemble, spread the meat mixture into the base of an ovenproof dish and level with a spoon. Cover with the cauliflower puree and smooth the top out evenly. Bake for 30 minutes, or until the top is lightly golden. Sprinkle with the parsley and serve with a fresh salad of your choice."
+        ],
+        "notes": [],
+        "tags": [
+            "Entree"
+        ],
+        "methods": [
+            "Bake",
+            "Saut\u00e9",
+            "Boil"
+        ],
+        "images": []
+    },
+    {
         "id": "skillet_roasted_lemon_chicken",
         "title": "Skillet-Roasted Lemon Chicken",
         "description": "Total Time: 1 hr 25 min\nPrep: 25 min\nInactive: 15 min\nCook: 45 min\nYield:3 servings\nLevel:Easy",
@@ -12089,16 +12349,14 @@ const RECIPES_DB = [
             "2 large garlic cloves, thinly sliced",
             "1 (4-pound) chicken, backbone removed and butterflied",
             "1/2 cup dry white wine, such as Pinot Grigio",
-            "Juice of 1 lemon",
-            "ADD CHECKED ITEMS TO GROCERY LIST"
+            "Juice of 1 lemon"
         ],
         "directions": [
             "Preheat the oven to 450 degrees F.",
             "Place the thyme, fennel seeds, 1 tablespoon salt, and 1 teaspoon pepper in a mini food processor and process until ground. Pour the olive oil into a small glass measuring cup, stir in the herb mixture, and set aside.",
             "Distribute the lemon slices in a 12-inch cast iron skillet and distribute the onion and garlic on top. Place the chicken, skin side down, on top of the onion and brush with about half the oil and herb mixture. Turn the chicken skin side up, pat it dry with paper towels (very important!), and brush it all over with the rest of the oil and herb mixture.",
             "Roast the chicken for 30 minutes. Pour the wine into the pan (not on the chicken!) and roast for another 10 to15 minutes, until a meat thermometer inserted into the thickest part of the breast registers 155 to 160 degrees.",
-            "Remove the chicken from the oven, sprinkle it with the lemon juice, cover the skillet tightly with aluminum foil, and allow to rest for 10 to 15 minutes. Cut the chicken in quarters or eighths, sprinkle with salt, and serve hot with the pan juices, cooked lemon, and onion.",
-            "Read more at: http://www.foodnetwork.com/recipes/ina-garten/skillet-roasted-lemon-chicken.html?oc=linkback"
+            "Remove the chicken from the oven, sprinkle it with the lemon juice, cover the skillet tightly with aluminum foil, and allow to rest for 10 to 15 minutes. Cut the chicken in quarters or eighths, sprinkle with salt, and serve hot with the pan juices, cooked lemon, and onion."
         ],
         "notes": [],
         "tags": [
@@ -12134,9 +12392,8 @@ const RECIPES_DB = [
             "Cook Time: 4 hours on high, 8 hours on low",
             "Total Time: 4 hours 10 minutes on high, 8 hours 10 minutes on low",
             "Servings: 4",
-            "1. Place all ingredients except baby spinach, quinoa and cilantro in a 6-quart\u00a0slow cooker. Mix well to combine, cover and set on high for 4 hours or on low for 8 hours.",
-            "2. \u00a0When ready to serve, open the lid and stir in baby spinach to wilt. Ladle curry over cooked quinoa or rice with a sprinkle of fresh cilantro. Serve.",
-            "Spicy-hot curry is all about the cooling condiments. Smooth things out with this refreshing mint, yogurt and cucumber raita."
+            "Place all ingredients except baby spinach, quinoa and cilantro in a 6-quart\u00a0slow cooker. Mix well to combine, cover and set on high for 4 hours or on low for 8 hours.",
+            "When ready to serve, open the lid and stir in baby spinach to wilt. Ladle curry over cooked quinoa or rice with a sprinkle of fresh cilantro. Serve."
         ],
         "notes": [],
         "tags": [
@@ -12193,7 +12450,7 @@ const RECIPES_DB = [
     {
         "id": "slow_cooker_winter_vegetable_soup_with_split_red_lentils",
         "title": "SLOW COOKER WINTER VEGETABLE SOUP WITH SPLIT RED LENTILS",
-        "description": "YIELD: 4- 6 SERVINGS PREP TIME: 20 MINUTES COOK TIME: 5-6 HOURS (HIGH); 8-10 HOURS (SLOW)\nPRINT RECIPE",
+        "description": "YIELD: 4- 6 SERVINGS PREP TIME: 20 MINUTES COOK TIME: 5-6 HOURS (HIGH); 8-10 HOURS (SLOW)",
         "ingredients": [
             "2 tablespoons extra virgin olive oil",
             "1 large yellow onion, diced",
@@ -12322,7 +12579,7 @@ const RECIPES_DB = [
     {
         "id": "southern_ratatouille",
         "title": "Southern Ratatouille",
-        "description": "From EatingWell:\u00a0 July/August 2014\nAverage:\nCancel rating\nPoor\nOkay\nGood\nGreat\nAwesome\nYour rating: None Average: 3.7 (7 votes)\nLike\t73 people like this. Be the first of your friends.\nAdding okra to traditional ratatouille gives this French vegetable stew recipe Southern flair. It\u2019s delicious on the day it\u2019s cooked, but even better the next day. Serve as a side to grilled chicken or on top of thick, crusty bread.",
+        "description": "From EatingWell:\u00a0 July/August 2014\nAdding okra to traditional ratatouille gives this French vegetable stew recipe Southern flair. It\u2019s delicious on the day it\u2019s cooked, but even better the next day. Serve as a side to grilled chicken or on top of thick, crusty bread.\nMakes: 8 servings\nServing Size: about 1 cup\nActive Time: 25 minutes\nTotal Time: 40 minutes",
         "ingredients": [
             "1 tablespoon extra-virgin olive oil",
             "2 small zucchini, sliced 1/2 inch thick",
@@ -12340,28 +12597,10 @@ const RECIPES_DB = [
             "1/2 cup chopped fresh basil"
         ],
         "directions": [
-            "**Recipe**",
-            "li id=\"comment-count-tab\"><a href=\"http://www.eatingwell.com/recipes/southern_ratatouille.html?section=comments#tabs\">Add/Read Comments ()</a></li",
-            "Add/Read Reviews (0)",
-            "RIGHT COL",
-            "add to 'my eatingwell'",
-            "print",
-            "share",
-            "\ufffc",
-            "End Right Column second row",
-            "left column",
-            "Makes: 8 servings",
-            "Serving Size: about 1 cup",
-            "Active Time: 25 minutes",
-            "Total Time: 40 minutes",
             "Heat oil in a large pot over high heat. Add zucchini, eggplant, onion, poblano and bell pepper. Cook, stirring often, until the vegetables are seared and starting to soften, about 5 minutes. Stir in okra, tomatoes, water, thyme, salt and pepper; bring to a boil.",
             "Reduce heat to maintain a low simmer; partially cover and simmer, stirring often, until the vegetables are tender, 15 to 20 minutes. Remove from heat and stir in garlic and basil. Serve warm, at room temperature or even cold."
         ],
         "notes": [
-            "**NUTRITION PROFILE**",
-            "Healthy weight | Heart healthy | Diabetes appropriate | Low carbohydrate | Low calorie | Low cholesterol | Low saturated fat | Low sodium | High fiber | High potassium | Gluten free |",
-            "View Our Nutrition Guidelines \u00bb",
-            "second row",
             "**TIPS & NOTES**",
             "Make Ahead Tip: Cover and refrigerate for up to 3 days.",
             "Seed your tomatoes for seed-free soups, sauces and stews: Cut the tomato in half crosswise and scoop out the seeds with your finger while gently squeezing.",
@@ -12419,6 +12658,46 @@ const RECIPES_DB = [
         "images": [
             "images/southwest_chowder_1.jpg"
         ]
+    },
+    {
+        "id": "spaghetti_bolognese",
+        "title": "Spaghetti Bolognese",
+        "description": "Serves: 4 | Prep Time: 20 minutes | Cook Time: 45 minutes",
+        "ingredients": [
+            "**SPAGHETTI**",
+            "4 zucchini",
+            "2 carrots",
+            "2 tablespoons coconut oil or good-quality animal fat",
+            "1 yellow onion, chopped",
+            "1 carrot, diced",
+            "1 celery stalk, finely diced",
+            "4 cloves garlic, finely chopped",
+            "1 1/4 pounds (550 g) grass-fed ground beef (or ground venison, kangaroo, lamb, or emu)",
+            "2 tablespoons tomato paste",
+            "1 tablespoon chopped oregano leaves",
+            "3/4 cup (180 ml) dry, preservative-free red wine",
+            "2 cups (480 g) tomato puree or whole peeled tomatoes, crushed",
+            "1 1/4 cups (300 ml) Chicken Bone Broth",
+            "Pinch red pepper flakes, optional",
+            "Sea salt and freshly ground black pepper",
+            "Baby basil leaves, to serve"
+        ],
+        "directions": [
+            "1. To make the spaghetti, use the thick noodle blade on a spiralizer to create carrot and zucchini noodles. If you don't have a spiralizer, simply julienne the carrot and zucchini using a sharp knife. Set aside until needed.",
+            "2. Melt the oil or fat in a large skillet over medium-high heat. Add the onion, carrot, and celery and cook for 4-5 minutes until the onion is soft. Stir in the garlic and cook for 1 minute until fragrant and starting to brown. Add the ground beef and brown, breaking up any lumps with a wooden spoon, for 5-6 minutes.",
+            "3. Add the tomato paste, stir and cook for 1 minute. Mix in the oregano and wine and cook for 4-5 minutes until the wine has almost evaporated. Add the tomato puree, half the broth, and the red pepper flakes (if using) and season with salt and pepper. Simmer on low heat for 30 minutes, adding more broth if needed.",
+            "4. Bring a saucepan of salted water to boil. Add the carrot noodles and cook for 30 seconds, then add the zucchini noodles and cook for a further 30 seconds until just tender. Drain well.",
+            "5. Spoon the noodles into four serving bowls, top with the Bolognese, then sprinkle on the basil."
+        ],
+        "notes": [],
+        "tags": [
+            "Entree"
+        ],
+        "methods": [
+            "Saut\u00e9",
+            "Boil"
+        ],
+        "images": []
     },
     {
         "id": "spicy_shakshuka",
@@ -13238,7 +13517,6 @@ const RECIPES_DB = [
             "\u00bd cup Parmesan Cheese, shredded"
         ],
         "directions": [
-            "**How To Make Tennessee Onions**",
             "Preheat the oven to 350*",
             "Spray a 9\u00d713 baking dish with nonstick spray",
             "Slice the onion into \u00bc inch rounds",
@@ -13351,39 +13629,35 @@ const RECIPES_DB = [
     {
         "id": "thai_buddha_bowl_with_peanut_red_curry_sauce",
         "title": "Thai Buddha Bowl with Peanut Red Curry Sauce",
-        "description": "Serves: 4 Cooking Time: 15 minutes Total Cost: $10.59 Cost per serving: $2.65",
+        "description": "Serves: 4\nCooking Time: 15 minutes",
         "ingredients": [
-            "1 1/3 cups (260 grams) jasmine or basmati rice - $0.70",
-            "1 cup (240 ml) coconut milk - $0.69",
-            "\u00bd teaspoon sea salt - $0.02",
-            "3 tablespoons oil, divided - $0.16",
-            "2 small shallots, finely diced - $0.25",
-            "2 cloves of garlic, grated or minced - $0.16",
-            "1 tablespoon minced ginger - $0.10",
-            "2 tablespoons Thai red curry paste - $0.27",
-            "\u00bd cup (125 grams) peanut butter - $0.71",
-            "\u00bd - \u00be cup (120 \u2013 175 ml) warm water - $0.00",
-            "3 tablespoons soy sauce or tamari - $0.15",
-            "3 tablespoons lime juice \u2013 $0.75",
-            "1 tablespoon brown sugar - $0.03",
-            "A block (about 14 oz / 400 grams) extra-firm tofu, drained, pressed and cut into cubes - $1.49",
-            "2 tablespoons cornstarch - $0.08",
-            "1 medium-large carrot, finely sliced - $0.11",
-            "\u00bc of a red cabbage, shredded - $0.20",
-            "20 cherry tomatoes, halved or quartered - $1.60",
-            "20 snow peas, sliced in half $0.30",
-            "1 small mango, diced - $0.99",
-            "A small bunch of cilantro, chopped - $0.20",
-            "4 tablespoons crushed peanuts - $0.91"
+            "1 1/3 cups (260 grams) jasmine or basmati rice",
+            "1 cup (240 ml) coconut milk",
+            "\u00bd teaspoon sea salt",
+            "3 tablespoons oil, divided",
+            "2 small shallots, finely diced",
+            "2 cloves of garlic, grated or minced",
+            "1 tablespoon minced ginger",
+            "2 tablespoons Thai red curry paste",
+            "\u00bd cup (125 grams) peanut butter",
+            "\u00bd - \u00be cup (120 \u2013 175 ml) warm water",
+            "3 tablespoons soy sauce or tamari",
+            "3 tablespoons lime juice",
+            "1 tablespoon brown sugar",
+            "A block (about 14 oz / 400 grams) extra-firm tofu, drained, pressed and cut into cubes",
+            "2 tablespoons cornstarch",
+            "1 medium-large carrot, finely sliced",
+            "\u00bc of a red cabbage, shredded",
+            "20 cherry tomatoes, halved or quartered",
+            "20 snow peas, sliced in half",
+            "1 small mango, diced",
+            "A small bunch of cilantro, chopped",
+            "4 tablespoons crushed peanuts"
         ],
         "directions": [
-            "1",
             "Cook the rice according to the package directions. Once it\u2019s cooked and while it is still warm, stir through the coconut milk and salt.",
-            "2",
             "While the rice is cooking prepare the sauce. Heat a medium pan over medium-high heat. Add 1 tablespoon of oil, the shallots, garlic and ginger and fry, stirring, until soft and fragrant. Add the curry paste and an additional tablespoon of oil if necessary and fry for a couple of minutes until the curry paste darkens in colour and is very fragrant. Put the curry paste in a bowl and add the peanut butter, \u00bd cup of the water, soy sauce, lime juice and brown sugar and mix until smooth. Add as much of the remaining \u00bc cup of water as you want to reach a pourable consistency that you like.",
-            "3",
             "Put the cubed tofu in a plastic or ziplock bag with the cornstarch and shake it to coat. Heat the remaining 1 tablespoon of oil in the pan and fry the tofu, flipping from time to time, until it is golden brown and crispy on all sides. Remove to a paper towel-lined plate.",
-            "4",
             "Divide the rice between four bowls and top with the vegetables, cilantro and peanuts. Serve with the sauce on the side."
         ],
         "notes": [],
@@ -14031,13 +14305,11 @@ const RECIPES_DB = [
             "1 1/2 tsp pumpkin pie spice",
             "1 cup mini chocolate chips",
             "**For the assembly:**",
-            "24-36 Rolo candies, unwrapped 24-36 pecan halves",
-            "Get Great Savings with Food Lion Coupons!"
+            "24-36 Rolo candies, unwrapped 24-36 pecan halves"
         ],
         "directions": [
             "Preheat oven to 350oF. Lightly grease a miniature muffin tin with cooking spray.",
-            "Using an electric mixer, beat together the butter, brown sugar, and pumpkin puree. Mix in the",
-            "egg.",
+            "Using an electric mixer, beat together the butter, brown sugar, and pumpkin puree. Mix in the egg.",
             "Add the flour, baking powder, baking soda, and pumpkin pie spice. Mix well.",
             "Fold in the chocolate chips.",
             "Scoop 1 tbsp into each cup of the miniature muffin tin.",
@@ -14079,10 +14351,7 @@ const RECIPES_DB = [
             "1 teaspoon granulated sugar",
             "1/2 teaspoon salt, or to taste",
             "1/4 teaspoon pepper, or to taste",
-            "1 heaping tablespoon Greek yogurt (I used 0% fat, sour cream may be substituted)",
-            "Save $5 now with ibotta\u00ae",
-            "Schick Hydro\u00ae 5 and Edge\u00ae Shave Gel",
-            "Shop now at Walmart!"
+            "1 heaping tablespoon Greek yogurt (I used 0% fat, sour cream may be substituted)"
         ],
         "directions": [
             "Cook quinoa according to package directions, likely cooking with 1 cup water to the 1/2 cup dry quinoa. Transfer about half of the cooked quinoa to a very large bowl. I don't use all the quinoa for the salad and save the rest for another use. I find it too difficult to cook less than 1/2 cup dry quinoa.",
@@ -14091,11 +14360,9 @@ const RECIPES_DB = [
             "To a glass mason jar with a lid (or similar jar with a lid), add the orange juice, olive oil, garlic, salt, pepper, seal with lid, and shake vigorously to combine; about 1 to 2 minutes.",
             "Add the Greek yogurt and shake until creamy and incorporated, about 1 minute. Taste and check for seasoning balance, adding more salt, pepper, etc. as necessary. I prefer this dressing to be on the saltier side because it's\u00a0going to be coating a large bowl of\u00a0unseasoned kale, vegetables, and quinoa and you need it to read salty out of the jar to properly flavor the salad.",
             "Add desired amount of dressing to salad, toss well to combine, and serve immediately. Extra dressing will keep airtight in the fridge for up to 1 week; shake vigorously before using.",
-            "Dressing adapted from Food Network",
             "**Recipe from Averie Cooks.**"
         ],
         "notes": [
-            "**NUTRITION INFORMATION**",
             "**Nutrition analysis per serving (2 servings)**",
             "Calories 796, Total Fat 51g, Saturated Fat 15g, Trans Fat 0g, Total Carbohydrates 63g, Fiber 10g, Sugar 24g, Protein 29g, Sodium 2242mg"
         ],
@@ -14840,14 +15107,7 @@ const RECIPES_DB = [
             "Heat the olive oil in a large pot over medium heat. Add the carrots, kale stems, salt, and several grinds of pepper and cook for 4 minutes, or until softened. Add the beans, the bean cooking broth, and the water and simmer for 15 minutes. Add the orzo and simmer for 8 minutes.",
             "Stir in the red pepper, lemon juice, and kale leaves and cook for 2 minutes, or until the kale is wilted. If the soup is too thick, add 1/2 cup more water. Stir in the parsley and tarragon and serve with grated pecorino cheese, if desired."
         ],
-        "notes": [
-            "**Variations**",
-            "GLUTEN-FREE: Use gluten-free pasta.",
-            "VEGAN: Skip the cheese.",
-            "The original recipe card image is preserved below for your reference:",
-            "Original Image Card 1",
-            "Original Image Card 2"
-        ],
+        "notes": [],
         "tags": [
             "Soup"
         ],
@@ -14856,8 +15116,7 @@ const RECIPES_DB = [
             "Simmer"
         ],
         "images": [
-            "images/white_bean_orzo_soup_1.jpg",
-            "images/white_bean_orzo_soup_2.jpg"
+            "images/white_bean_orzo_soup_1.jpg"
         ]
     },
     {
