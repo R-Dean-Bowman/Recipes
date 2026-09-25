@@ -458,7 +458,7 @@ const RECIPES_DB = [
     {
         "id": "asian_mushrooms_with_fish",
         "title": "Asian Mushrooms with Fish",
-        "description": "Serves: 4\nPrep Time: 10-15 minutes\nCook Time: 8 minutes",
+        "description": "From MAHA Cookbook\nServes: 4\nPrep Time: 10-15 minutes\nCook Time: 8 minutes",
         "ingredients": [
             "2 tablespoons coconut oil or good-quality animal fat",
             "2 cloves garlic, finely chopped",
@@ -824,7 +824,7 @@ const RECIPES_DB = [
     {
         "id": "bacon_tomato_and_spinach_omelet",
         "title": "Bacon, Tomato, and Spinach Omelet",
-        "description": "Serves: 4\nPrep Time: 10-15 minutes",
+        "description": "From MAHA Cookbook\nServes: 4\nPrep Time: 10-15 minutes",
         "ingredients": [
             "1 tablespoon melted coconut oil or good-quality animal fat, plus extra for greasing",
             "1/2 yellow onion, finely chopped",
@@ -2893,7 +2893,7 @@ const RECIPES_DB = [
     {
         "id": "chicken_and_asparagus_stir_fry",
         "title": "Chicken and Asparagus Stir-Fry",
-        "description": "Serves: 4-6\nPrep Time: 25 minutes\nCook Time: 20 minutes",
+        "description": "From MAHA Cookbook\nServes: 4-6\nPrep Time: 25 minutes\nCook Time: 20 minutes",
         "ingredients": [
             "3 tablespoons coconut oil or other good-quality fat, divided",
             "1 3/4 pound (800 g) free-range chicken thigh fillets, skin on if possible, cut into 1/3-inch (1-cm) slices",
@@ -2937,7 +2937,7 @@ const RECIPES_DB = [
     {
         "id": "chicken_and_cucumber_wellness_bowl",
         "title": "Chicken and Cucumber Wellness Bowl",
-        "description": "Serves: 4\nPrep Time: 10-15 minutes",
+        "description": "From MAHA Cookbook\nServes: 4\nPrep Time: 10-15 minutes",
         "ingredients": [
             "2 Persian cucumbers",
             "**DRESSING**",
@@ -3405,7 +3405,7 @@ const RECIPES_DB = [
     {
         "id": "chili_beef_fajita_with_sweet_potato_wedges",
         "title": "Chili Beef Fajita with Sweet Potato Wedges",
-        "description": "Serves: 4\nPrep Time: 15 minutes (plus 15 minutes marinating time)\nCook Time: 70 minutes",
+        "description": "From MAHA Cookbook\nServes: 4\nPrep Time: 15 minutes (plus 15 minutes marinating time)\nCook Time: 70 minutes",
         "ingredients": [
             "3 sweet potatoes (about 1 3/4 lb/800 g), cut into 1-inch (2.5-cm) wedges",
             "1/3 cup (100 ml) melted coconut oil or good-quality animal fat, divided",
@@ -3444,7 +3444,7 @@ const RECIPES_DB = [
     {
         "id": "chili_con_carne",
         "title": "Chili Con Carne",
-        "description": "Serves: 4-6\nPrep Time: 20 minutes\nCook Time: 45 minutes",
+        "description": "From MAHA Cookbook\nServes: 4-6\nPrep Time: 20 minutes\nCook Time: 45 minutes",
         "ingredients": [
             "2 tablespoons coconut oil or good-quality animal fat",
             "1 yellow onion, finely chopped",
@@ -4942,7 +4942,7 @@ const RECIPES_DB = [
     {
         "id": "crispy_chicken_salad_with_toasted_walnuts",
         "title": "Crispy Chicken Salad with Toasted Walnuts",
-        "description": "Serves: 4\nPrep Time: 20 minutes",
+        "description": "From MAHA Cookbook\nServes: 4\nPrep Time: 20 minutes",
         "ingredients": [
             "**CHICKEN**",
             "4 free-range boneless chicken thighs, skin on",
@@ -7177,7 +7177,7 @@ const RECIPES_DB = [
     {
         "id": "ground_beef_curry",
         "title": "Ground Beef Curry",
-        "description": "Serves: 4-6 | Prep Time: 30 minutes | Cook Time: 30 minutes",
+        "description": "From MAHA Cookbook\nServes: 4-6 | Prep Time: 30 minutes | Cook Time: 30 minutes",
         "ingredients": [
             "2 tablespoons coconut oil",
             "1 large onion, finely chopped",
@@ -9478,7 +9478,7 @@ const RECIPES_DB = [
     {
         "id": "mexican_beef_and_vegetable_soup",
         "title": "Mexican Beef and Vegetable Soup",
-        "description": "Serves: 6\nPrep Time: 15-20 minutes\nCook Time: 2 1/2 hours",
+        "description": "From MAHA Cookbook\nServes: 6\nPrep Time: 15-20 minutes\nCook Time: 2 1/2 hours",
         "ingredients": [
             "2 tablespoons coconut oil or good-quality animal fat, divided",
             "1 1/2 pounds (700 g) grass-fed blade steak (or another cut of beef that is good for stewing), cut into 1-inch (2.5-cm) cubes",
@@ -9595,7 +9595,7 @@ const RECIPES_DB = [
     {
         "id": "mexican_chicken_with_roasted_pumpkin_and_avocado_and_tomato_salsa",
         "title": "Mexican Chicken with Roasted Pumpkin and Avocado and Tomato Salsa",
-        "description": "Serves: 4\nPrep Time: 35-45 minutes\nCook Time: 1 1/4 - 1 1/2 hours",
+        "description": "From MAHA Cookbook\nServes: 4\nPrep Time: 35-45 minutes\nCook Time: 1 1/4 - 1 1/2 hours",
         "ingredients": [
             "1 butternut squash (about 4-4 1/2 pounds / 1.8-2 kg), halved lengthwise, deseeded",
             "2 tablespoons coconut oil or good-quality animal fat, melted",
@@ -10489,7 +10489,7 @@ const RECIPES_DB = [
     {
         "id": "pad_see_ew",
         "title": "Pad See Ew",
-        "description": "Serves: 4\nPrep Time: 15-20 minutes\nCook Time: 12 minutes",
+        "description": "From MAHA Cookbook\nServes: 4\nPrep Time: 15-20 minutes\nCook Time: 12 minutes",
         "ingredients": [
             "5 carrots (about 1 pound / 480 g)",
             "2 tablespoons coconut oil",
@@ -12399,7 +12399,7 @@ const RECIPES_DB = [
     {
         "id": "shepherds_pie",
         "title": "Shepherd's Pie",
-        "description": "Serves: 6\nPrep Time: 25 minutes (plus 1 hour soaking time if using lambs' brains)\nCook Time: 40 minutes",
+        "description": "From MAHA Cookbook\nServes: 6\nPrep Time: 25 minutes (plus 1 hour soaking time if using lambs' brains)\nCook Time: 40 minutes",
         "ingredients": [
             "1 large head of cauliflower (about 3 pounds / 1.36 kg), chopped into florets",
             "4 tablespoons coconut oil or other good-quality fat, divided",
@@ -12765,7 +12765,7 @@ const RECIPES_DB = [
     {
         "id": "spaghetti_bolognese",
         "title": "Spaghetti Bolognese",
-        "description": "Serves: 4\nPrep Time: 20 minutes\nCook Time: 45 minutes",
+        "description": "From MAHA Cookbook\nServes: 4\nPrep Time: 20 minutes\nCook Time: 45 minutes",
         "ingredients": [
             "4 zucchini",
             "2 carrots",
