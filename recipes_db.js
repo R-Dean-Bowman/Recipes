@@ -457,7 +457,7 @@ const RECIPES_DB = [
     {
         "id": "asian_mushrooms_with_fish",
         "title": "Asian Mushrooms with Fish",
-        "description": "Serves: 4 | Prep Time: 10-15 minutes | Cook Time: 8 minutes",
+        "description": "Serves: 4\nPrep Time: 10-15 minutes\nCook Time: 8 minutes",
         "ingredients": [
             "2 tablespoons coconut oil or good-quality animal fat",
             "2 cloves garlic, finely chopped",
@@ -475,10 +475,10 @@ const RECIPES_DB = [
             "Olive oil, to serve"
         ],
         "directions": [
-            "1. Heat the coconut oil or animal fat in a large skillet over medium-high heat. Add the garlic, ginger, and scallions and saut\u00e9 for 10 seconds. Stir in the shiitake mushrooms and continue to saut\u00e9 for 2 minutes, or until softened.",
-            "2. Pour the vinegar, tamari, and fish sauce into the pan and cook for 30 seconds, then pour in the broth.",
-            "3. Bring to a boil, then reduce the heat to low, add the fish pieces, cover with the lid, and simmer for 2 1/2-3 minutes until the fish is cooked through. If needed, add a pinch more fish sauce or a little salt for seasoning.",
-            "4. Sprinkle the sesame seeds and cilantro over the fish, drizzle with olive oil, and serve."
+            "Heat the coconut oil or animal fat in a large skillet over medium-high heat. Add the garlic, ginger, and scallions and saut\u00e9 for 10 seconds. Stir in the shiitake mushrooms and continue to saut\u00e9 for 2 minutes, or until softened.",
+            "Pour the vinegar, tamari, and fish sauce into the pan and cook for 30 seconds, then pour in the broth.",
+            "Bring to a boil, then reduce the heat to low, add the fish pieces, cover with the lid, and simmer for 2 1/2-3 minutes until the fish is cooked through. If needed, add a pinch more fish sauce or a little salt for seasoning.",
+            "Sprinkle the sesame seeds and cilantro over the fish, drizzle with olive oil, and serve."
         ],
         "notes": [],
         "tags": [
@@ -488,7 +488,9 @@ const RECIPES_DB = [
             "Saut\u00e9",
             "Boil"
         ],
-        "images": []
+        "images": [
+            "images/asian_mushrooms_with_fish_1.jpg"
+        ]
     },
     {
         "id": "asian_quinoa_salad_recipe",
@@ -779,7 +781,7 @@ const RECIPES_DB = [
     {
         "id": "bacon_tomato_and_spinach_omelet",
         "title": "Bacon, Tomato, and Spinach Omelet",
-        "description": "Serves: 4 | Prep Time: 10-15 minutes | Cook Time: 22 minutes (1 minute resting time)",
+        "description": "Serves: 4\nPrep Time: 10-15 minutes",
         "ingredients": [
             "1 tablespoon melted coconut oil or good-quality animal fat, plus extra for greasing",
             "1/2 yellow onion, finely chopped",
@@ -791,11 +793,12 @@ const RECIPES_DB = [
             "1 handful arugula leaves"
         ],
         "directions": [
-            "1. Preheat the oven to 400\u00b0F (200\u00b0C) or 350\u00b0F (180\u00b0C fan-forced / convection).",
-            "2. Heat the coconut oil or fat in a skillet over medium-high heat. Add the onion and cook, stirring occasionally, for 5 minutes, or until translucent. Add the bacon and cook for a further 5 minutes, or until lightly golden. Remove from the heat and allow to cool.",
-            "3. Whisk the eggs with a pinch of salt and pepper in a bowl.",
-            "4. Grease an ovenproof skillet with a little coconut oil or fat. Scatter over the spinach and cooked onion and bacon mixture in a single layer. Pour over the egg mixture, then arrange the cherry tomatoes on top and press down lightly.",
-            "5. Cook the omelet over medium heat for 1 minute, then transfer to the oven for 8-10 minutes until the egg is lightly golden on top and cooked through. Let the omelet rest for a minute in the pan, then top with the arugula and serve."
+            "Cook Time: 22 minutes (1 minute resting time)",
+            "Preheat the oven to 400\u00b0F (200\u00b0C) or 350\u00b0F (180\u00b0C fan-forced / convection).",
+            "Heat the coconut oil or fat in a skillet over medium-high heat. Add the onion and cook, stirring occasionally, for 5 minutes, or until translucent. Add the bacon and cook for a further 5 minutes, or until lightly golden. Remove from the heat and allow to cool.",
+            "Whisk the eggs with a pinch of salt and pepper in a bowl.",
+            "Grease an ovenproof skillet with a little coconut oil or fat. Scatter over the spinach and cooked onion and bacon mixture in a single layer. Pour over the egg mixture, then arrange the cherry tomatoes on top and press down lightly.",
+            "Cook the omelet over medium heat for 1 minute, then transfer to the oven for 8-10 minutes until the egg is lightly golden on top and cooked through. Let the omelet rest for a minute in the pan, then top with the arugula and serve."
         ],
         "notes": [],
         "tags": [
@@ -805,7 +808,9 @@ const RECIPES_DB = [
             "Bake",
             "Saut\u00e9"
         ],
-        "images": []
+        "images": [
+            "images/bacon_tomato_and_spinach_omelet_1.jpg"
+        ]
     },
     {
         "id": "baked_burrata_recipe",
@@ -2845,7 +2850,7 @@ const RECIPES_DB = [
     {
         "id": "chicken_and_asparagus_stir_fry",
         "title": "Chicken and Asparagus Stir-Fry",
-        "description": "Serves: 4-6 | Prep Time: 25 minutes | Cook Time: 20 minutes",
+        "description": "Serves: 4-6\nPrep Time: 25 minutes\nCook Time: 20 minutes",
         "ingredients": [
             "3 tablespoons coconut oil or other good-quality fat, divided",
             "1 3/4 pound (800 g) free-range chicken thigh fillets, skin on if possible, cut into 1/3-inch (1-cm) slices",
@@ -2866,13 +2871,13 @@ const RECIPES_DB = [
             "Cauliflower Rice, to serve"
         ],
         "directions": [
-            "1. Heat 1 tablespoon of coconut oil in a wok or large heavy-based skillet over high heat. Working in batches, saut\u00e9 the chicken slices for 5-6 minutes, or until just browned and cooked through. Transfer to a plate and set aside.",
-            "2. Add another 1 tablespoon coconut oil to the wok. Add the garlic, ginger, and chili. Stir-fry for 1 1/2 minutes until fragrant.",
-            "3. Add the asparagus and the white parts of the green onions. Stir-fry for 1 1/2 minutes, or until just starting to brown.",
-            "4. Add the Chinese broccoli and continue to stir-fry for 2 minutes, or until they reach your preferred level of tenderness.",
-            "5. Return the cooked chicken to the pan. Pour in the Shaoxing wine (or white wine), chicken broth, and tamari sauce. Add the honey or coconut sugar, sesame oil, sesame seeds, and season with freshly ground black pepper. Bring to a simmer.",
-            "6. Stir in the tapioca flour slurry and bring to a boil. Simmer for 2 minutes, or until the sauce has thickened slightly. Taste and season with salt and pepper as needed.",
-            "7. Divide the cauliflower rice among four serving bowls. Spoon the stir-fry over the rice, and sprinkle with the thinly sliced green onion tops to serve."
+            "Heat 1 tablespoon of coconut oil in a wok or large heavy-based skillet over high heat. Working in batches, saut\u00e9 the chicken slices for 5-6 minutes, or until just browned and cooked through. Transfer to a plate and set aside.",
+            "Add another 1 tablespoon coconut oil to the wok. Add the garlic, ginger, and chili. Stir-fry for 1 1/2 minutes until fragrant.",
+            "Add the asparagus and the white parts of the green onions. Stir-fry for 1 1/2 minutes, or until just starting to brown.",
+            "Add the Chinese broccoli and continue to stir-fry for 2 minutes, or until they reach your preferred level of tenderness.",
+            "Return the cooked chicken to the pan. Pour in the Shaoxing wine (or white wine), chicken broth, and tamari sauce. Add the honey or coconut sugar, sesame oil, sesame seeds, and season with freshly ground black pepper. Bring to a simmer.",
+            "Stir in the tapioca flour slurry and bring to a boil. Simmer for 2 minutes, or until the sauce has thickened slightly. Taste and season with salt and pepper as needed.",
+            "Divide the cauliflower rice among four serving bowls. Spoon the stir-fry over the rice, and sprinkle with the thinly sliced green onion tops to serve."
         ],
         "notes": [],
         "tags": [
@@ -2882,12 +2887,14 @@ const RECIPES_DB = [
             "Saut\u00e9",
             "Fry"
         ],
-        "images": []
+        "images": [
+            "images/chicken_and_asparagus_stir_fry_1.jpg"
+        ]
     },
     {
         "id": "chicken_and_cucumber_wellness_bowl",
         "title": "Chicken and Cucumber Wellness Bowl",
-        "description": "Serves: 4 | Prep Time: 10-15 minutes | Cook Time: n/a",
+        "description": "Serves: 4\nPrep Time: 10-15 minutes",
         "ingredients": [
             "2 Persian cucumbers",
             "**DRESSING**",
@@ -2910,16 +2917,18 @@ const RECIPES_DB = [
             "1 long red chili, finely chopped, optional"
         ],
         "directions": [
-            "1. Use a vegetable peeler or mandoline to slice the cucumbers into ribbons; discard the seedy core.",
-            "2. Combine all the dressing ingredients in a bowl and mix well. Taste and add more salt and pepper if needed.",
-            "3. Arrange the cucumber ribbons, romaine lettuce leaves, bok choy, celery, cabbage, scallions, and sauerkraut in serving bowls. Top with the chicken, pour the dressing over the top, then scatter on the sesame seeds and cilantro leaves, and sprinkle on the chili (if using)."
+            "Use a vegetable peeler or mandoline to slice the cucumbers into ribbons; discard the seedy core.",
+            "Combine all the dressing ingredients in a bowl and mix well. Taste and add more salt and pepper if needed.",
+            "Arrange the cucumber ribbons, romaine lettuce leaves, bok choy, celery, cabbage, scallions, and sauerkraut in serving bowls. Top with the chicken, pour the dressing over the top, then scatter on the sesame seeds and cilantro leaves, and sprinkle on the chili (if using)."
         ],
         "notes": [],
         "tags": [
             "Salad"
         ],
         "methods": [],
-        "images": []
+        "images": [
+            "images/chicken_and_cucumber_wellness_bowl_1.jpg"
+        ]
     },
     {
         "id": "chicken_enchiladas",
@@ -3353,7 +3362,7 @@ const RECIPES_DB = [
     {
         "id": "chili_beef_fajita_with_sweet_potato_wedges",
         "title": "Chili Beef Fajita with Sweet Potato Wedges",
-        "description": "Serves: 4 | Prep Time: 15 minutes (plus 15 minutes marinating time) | Cook Time: 70 minutes",
+        "description": "Serves: 4\nPrep Time: 15 minutes (plus 15 minutes marinating time)\nCook Time: 70 minutes",
         "ingredients": [
             "3 sweet potatoes (about 1 3/4 lb/800 g), cut into 1-inch (2.5-cm) wedges",
             "1/3 cup (100 ml) melted coconut oil or good-quality animal fat, divided",
@@ -3371,11 +3380,11 @@ const RECIPES_DB = [
             "Lime wedges, to serve"
         ],
         "directions": [
-            "1. Preheat the oven to 400\u00b0F (200\u00b0C) or 350\u00b0F (180\u00b0C fan-forced/convection). Lightly grease a large baking sheet.",
-            "2. Place the sweet potato wedges in a bowl, add 2 tablespoons of the coconut oil or fat, season with salt and pepper, and mix well. Spread the wedges out on the prepared baking sheet in a single layer. Roast for about 20 minutes, then turn the wedges over and roast for another 20 minutes, or until tender and golden.",
-            "3. Meanwhile, place the beef strips, lime juice, spices, and chipotle chilis in adobo sauce in a nonreactive bowl and season with salt and pepper. Toss the meat to coat. Cover and marinate at room temperature for 15 minutes.",
-            "4. Heat 2 tablespoons of the oil or fat in a heavy-based skillet over medium-high heat. Add the onion and saut\u00e9 for 3 minutes, or until softened. Add the bell pepper and saut\u00e9 for 5 minutes, or until slightly softened. Stir in the garlic and saut\u00e9 for 30 seconds, or until fragrant. Pour in the tomatoes and 1/2 cup (120 ml) of water. Reduce the heat to medium-low and simmer for 15 minutes. Season to taste with salt and pepper.",
-            "5. Heat the remaining oil or fat in a large, heavy-based skillet over medium-high heat. Add the marinated beef strips in batches, and saut\u00e9 for 2 minutes until slightly charred and medium-rare, or cook to your liking. Add the vegetable mixture and mix to combine. Scatter the cilantro sprigs over the chili beef and serve with the sweet potato and lime wedges."
+            "Preheat the oven to 400\u00b0F (200\u00b0C) or 350\u00b0F (180\u00b0C fan-forced/convection). Lightly grease a large baking sheet.",
+            "Place the sweet potato wedges in a bowl, add 2 tablespoons of the coconut oil or fat, season with salt and pepper, and mix well. Spread the wedges out on the prepared baking sheet in a single layer. Roast for about 20 minutes, then turn the wedges over and roast for another 20 minutes, or until tender and golden.",
+            "Meanwhile, place the beef strips, lime juice, spices, and chipotle chilis in adobo sauce in a nonreactive bowl and season with salt and pepper. Toss the meat to coat. Cover and marinate at room temperature for 15 minutes.",
+            "Heat 2 tablespoons of the oil or fat in a heavy-based skillet over medium-high heat. Add the onion and saut\u00e9 for 3 minutes, or until softened. Add the bell pepper and saut\u00e9 for 5 minutes, or until slightly softened. Stir in the garlic and saut\u00e9 for 30 seconds, or until fragrant. Pour in the tomatoes and 1/2 cup (120 ml) of water. Reduce the heat to medium-low and simmer for 15 minutes. Season to taste with salt and pepper.",
+            "Heat the remaining oil or fat in a large, heavy-based skillet over medium-high heat. Add the marinated beef strips in batches, and saut\u00e9 for 2 minutes until slightly charred and medium-rare, or cook to your liking. Add the vegetable mixture and mix to combine. Scatter the cilantro sprigs over the chili beef and serve with the sweet potato and lime wedges."
         ],
         "notes": [],
         "tags": [
@@ -3385,12 +3394,14 @@ const RECIPES_DB = [
             "Bake",
             "Saut\u00e9"
         ],
-        "images": []
+        "images": [
+            "images/chili_beef_fajita_with_sweet_potato_wedges_1.jpg"
+        ]
     },
     {
         "id": "chili_con_carne",
         "title": "Chili Con Carne",
-        "description": "Serves: 4-6 | Prep Time: 20 minutes | Cook Time: 45 minutes",
+        "description": "Serves: 4-6\nPrep Time: 20 minutes\nCook Time: 45 minutes",
         "ingredients": [
             "2 tablespoons coconut oil or good-quality animal fat",
             "1 yellow onion, finely chopped",
@@ -3410,10 +3421,10 @@ const RECIPES_DB = [
             "Sea salt and freshly ground black pepper"
         ],
         "directions": [
-            "1. Heat the coconut oil or animal fat in a large skillet over medium heat. Add the onion, carrot, and bell pepper and cook for 8 minutes, or until softened. Stir in the garlic and chilis and cook for 1 minute, or until fragrant.",
-            "2. Add the ground beef to the pan and cook, stirring with a wooden spoon to break up the lumps, for 5 minutes, or until browned.",
-            "3. Add the spices, oregano, and tomato paste and cook for 1 minute, then mix in the tomatoes and broth.",
-            "4. Reduce the heat to low and simmer for 30 minutes, adding more broth if needed. Season with salt and a good grind of pepper and serve."
+            "Heat the coconut oil or animal fat in a large skillet over medium heat. Add the onion, carrot, and bell pepper and cook for 8 minutes, or until softened. Stir in the garlic and chilis and cook for 1 minute, or until fragrant.",
+            "Add the ground beef to the pan and cook, stirring with a wooden spoon to break up the lumps, for 5 minutes, or until browned.",
+            "Add the spices, oregano, and tomato paste and cook for 1 minute, then mix in the tomatoes and broth.",
+            "Reduce the heat to low and simmer for 30 minutes, adding more broth if needed. Season with salt and a good grind of pepper and serve."
         ],
         "notes": [],
         "tags": [
@@ -3423,7 +3434,9 @@ const RECIPES_DB = [
             "Saut\u00e9",
             "Boil"
         ],
-        "images": []
+        "images": [
+            "images/chili_con_carne_1.jpg"
+        ]
     },
     {
         "id": "chili_lime_pineapple_cucumber_sticks",
@@ -4855,8 +4868,9 @@ const RECIPES_DB = [
     {
         "id": "crispy_chicken_salad_with_toasted_walnuts",
         "title": "Crispy Chicken Salad with Toasted Walnuts",
-        "description": "Serves: 4 | Prep Time: 20 minutes | Cook Time: 12 minutes (plus 5 minutes to rest)",
+        "description": "Serves: 4\nPrep Time: 20 minutes",
         "ingredients": [
+            "**CHICKEN**",
             "4 free-range boneless chicken thighs, skin on",
             "Sea salt and freshly ground black pepper",
             "1 tablespoon coconut oil or good-quality animal fat",
@@ -4877,10 +4891,11 @@ const RECIPES_DB = [
             "1 cup (100 g) toasted walnuts"
         ],
         "directions": [
-            "1. To make the crispy chicken, pat the chicken thighs dry with paper towel, then place between two sheets of parchment paper and flatten with a meat mallet. Season the skin with 2 teaspoons of salt.",
-            "2. Heat the coconut oil or fat in a large heavy-based skillet over medium-high heat. Add the chicken thighs, skin-side down, and season the exposed flesh with a little salt. Fry, undisturbed, for 6-8 minutes until the skin is crispy and golden brown. Turn and cook for 3-4 minutes until cooked through. Transfer the chicken, skin-side up, to a wire rack and leave to rest for 5 minutes. Chop into bite-sized pieces.",
-            "3. To make the dressing, place the mayonnaise, lemon juice, garlic, and 2 teaspoons of water in a small bowl and mix to combine. Season with salt and pepper.",
-            "4. Arrange all the salad ingredients in a large bowl, top with the chicken, then pour over the dressing. Drizzle over some olive oil and season with salt and pepper. Give the salad a good toss before eating."
+            "Cook Time: 12 minutes (plus 5 minutes to rest)",
+            "**To make the crispy chicken, pat the chicken thighs dry with paper towel, then place between two sheets of parchment paper and flatten with a meat mallet. Season the skin with 2 teaspoons of salt.**",
+            "Heat the coconut oil or fat in a large heavy-based skillet over medium-high heat. Add the chicken thighs, skin-side down, and season the exposed flesh with a little salt. Fry, undisturbed, for 6-8 minutes until the skin is crispy and golden brown. Turn and cook for 3-4 minutes until cooked through. Transfer the chicken, skin-side up, to a wire rack and leave to rest for 5 minutes. Chop into bite-sized pieces.",
+            "**To make the dressing, place the mayonnaise, lemon juice, garlic, and 2 teaspoons of water in a small bowl and mix to combine. Season with salt and pepper.**",
+            "Arrange all the salad ingredients in a large bowl, top with the chicken, then pour over the dressing. Drizzle over some olive oil and season with salt and pepper. Give the salad a good toss before eating."
         ],
         "notes": [],
         "tags": [
@@ -4890,7 +4905,9 @@ const RECIPES_DB = [
             "Saut\u00e9",
             "Fry"
         ],
-        "images": []
+        "images": [
+            "images/crispy_chicken_salad_with_toasted_walnuts_1.jpg"
+        ]
     },
     {
         "id": "crispy_smashed_apples_with_cinnamon_sugar",
@@ -7024,13 +7041,13 @@ const RECIPES_DB = [
             "Lime wedges, for serving"
         ],
         "directions": [
-            "1. In a large wok or deep skillet, heat the coconut oil over high heat. Working in batches, add the chicken and stir-fry for about 5 minutes until golden all over. Transfer the cooked chicken to a bowl and set aside, reserving the oil in the pan.",
-            "2. Return the wok or skillet to medium-high heat with the reserved oil. Add the onion and garlic, and stir-fry for 1 minute until fragrant and slightly softened. Stir in the green curry paste and cook for another minute, stirring constantly, until fragrant.",
-            "3. Return the chicken and any juices to the pan. Pour in the coconut cream and chicken broth, then add the green peppercorns and kaffir lime leaves.",
-            "4. Bring to a boil, then reduce heat to medium-low and simmer uncovered for 10 minutes, allowing the flavors to develop and the sauce to slightly thicken. Taste and season with fish sauce as desired.",
-            "5. Meanwhile, steam the green beans in a steamer basket for about 2 minutes, or until tender-crisp. Add the steamed beans to the curry and stir to combine.",
-            "6. Steam the broccoli florets for about 5 minutes, or until tender-crisp. Prepare the cauliflower rice.",
-            "7. Divide the cauliflower rice among serving bowls. Ladle over the green chicken curry with green beans and top with steamed broccoli. Garnish with fresh cilantro sprigs and serve with lime wedges on the side."
+            "In a large wok or deep skillet, heat the coconut oil over high heat. Working in batches, add the chicken and stir-fry for about 5 minutes until golden all over. Transfer the cooked chicken to a bowl and set aside, reserving the oil in the pan.",
+            "Return the wok or skillet to medium-high heat with the reserved oil. Add the onion and garlic, and stir-fry for 1 minute until fragrant and slightly softened. Stir in the green curry paste and cook for another minute, stirring constantly, until fragrant.",
+            "Return the chicken and any juices to the pan. Pour in the coconut cream and chicken broth, then add the green peppercorns and kaffir lime leaves.",
+            "Bring to a boil, then reduce heat to medium-low and simmer uncovered for 10 minutes, allowing the flavors to develop and the sauce to slightly thicken. Taste and season with fish sauce as desired.",
+            "Meanwhile, steam the green beans in a steamer basket for about 2 minutes, or until tender-crisp. Add the steamed beans to the curry and stir to combine.",
+            "Steam the broccoli florets for about 5 minutes, or until tender-crisp. Prepare the cauliflower rice.",
+            "Divide the cauliflower rice among serving bowls. Ladle over the green chicken curry with green beans and top with steamed broccoli. Garnish with fresh cilantro sprigs and serve with lime wedges on the side."
         ],
         "notes": [],
         "tags": [
@@ -7040,7 +7057,9 @@ const RECIPES_DB = [
             "Saut\u00e9",
             "Boil"
         ],
-        "images": []
+        "images": [
+            "images/green_chicken_curry_with_broccoli_and_cauliflower_rice_1.jpg"
+        ]
     },
     {
         "id": "greens_and_grain_salad",
@@ -7113,13 +7132,13 @@ const RECIPES_DB = [
             "Cauliflower Rice"
         ],
         "directions": [
-            "1. Melt the oil in a wok or large skillet over medium heat. Add the onion, carrot, and tomato and cook, stirring occasionally, for 8 minutes until the vegetables are soft.",
-            "2. Add the chili pepper to the pan and cook for 1 minute, then add the mustard seeds and cook for 15-20 seconds until they begin to pop.",
-            "3. Stir in the curry leaves and garlic and saut\u00e9 for 10 seconds, then add the dried spices and cook, stirring frequently, for 30 seconds until fragrant.",
-            "4. Add the ground beef and cook, breaking up any lumps with a wooden spoon, for 5 minutes until browned.",
-            "5. Stir in the turnip, coconut cream, and broth and bring to a boil. Reduce the heat to low and simmer for 20 minutes until the sauce is slightly thickened and the beef and vegetables are cooked through.",
-            "6. Mix in the lemon juice and season with salt and pepper.",
-            "7. Scatter on the cilantro leaves and serve with lime wedges and cauliflower rice."
+            "Melt the oil in a wok or large skillet over medium heat. Add the onion, carrot, and tomato and cook, stirring occasionally, for 8 minutes until the vegetables are soft.",
+            "Add the chili pepper to the pan and cook for 1 minute, then add the mustard seeds and cook for 15-20 seconds until they begin to pop.",
+            "Stir in the curry leaves and garlic and saut\u00e9 for 10 seconds, then add the dried spices and cook, stirring frequently, for 30 seconds until fragrant.",
+            "Add the ground beef and cook, breaking up any lumps with a wooden spoon, for 5 minutes until browned.",
+            "Stir in the turnip, coconut cream, and broth and bring to a boil. Reduce the heat to low and simmer for 20 minutes until the sauce is slightly thickened and the beef and vegetables are cooked through.",
+            "Mix in the lemon juice and season with salt and pepper.",
+            "Scatter on the cilantro leaves and serve with lime wedges and cauliflower rice."
         ],
         "notes": [],
         "tags": [
@@ -7129,7 +7148,9 @@ const RECIPES_DB = [
             "Saut\u00e9",
             "Boil"
         ],
-        "images": []
+        "images": [
+            "images/ground_beef_curry_1.jpg"
+        ]
     },
     {
         "id": "harvest_fall_salad_with_caramelized_shallot_dressing",
@@ -9383,7 +9404,7 @@ const RECIPES_DB = [
     {
         "id": "mexican_beef_and_vegetable_soup",
         "title": "Mexican Beef and Vegetable Soup",
-        "description": "Serves: 6 | Prep Time: 15-20 minutes | Cook Time: 2 1/2 hours",
+        "description": "Serves: 6\nPrep Time: 15-20 minutes\nCook Time: 2 1/2 hours",
         "ingredients": [
             "2 tablespoons coconut oil or good-quality animal fat, divided",
             "1 1/2 pounds (700 g) grass-fed blade steak (or another cut of beef that is good for stewing), cut into 1-inch (2.5-cm) cubes",
@@ -9402,11 +9423,11 @@ const RECIPES_DB = [
             "Cilantro leaves, to serve"
         ],
         "directions": [
-            "1. Heat 1 tablespoon of the coconut oil or fat in a large, heavy-based saucepan over medium-high heat. Add the beef in batches and cook for 3 minutes on all sides until browned. Transfer to a plate and set aside.",
-            "2. Reduce the heat to medium, add the remaining oil or fat and the onions to the pan and saut\u00e9 for 5 minutes, or until softened. Stir in the garlic and chili (if using) and saut\u00e9 for 30 seconds, or until fragrant.",
-            "3. Add the carrots, spice blend, cumin, tomatoes, and broth, then return the beef to the pan and stir. Bring to a boil, then reduce the heat to low, cover with a lid, and simmer for 1 1/2 hours.",
-            "4. Add the zucchini, squash, and broccoli to the soup and simmer, uncovered, for a further 30 minutes, or until the beef is very tender. Season with salt and pepper.",
-            "5. Ladle the soup into warm bowls, top generously with cilantro leaves, and serve."
+            "Heat 1 tablespoon of the coconut oil or fat in a large, heavy-based saucepan over medium-high heat. Add the beef in batches and cook for 3 minutes on all sides until browned. Transfer to a plate and set aside.",
+            "Reduce the heat to medium, add the remaining oil or fat and the onions to the pan and saut\u00e9 for 5 minutes, or until softened. Stir in the garlic and chili (if using) and saut\u00e9 for 30 seconds, or until fragrant.",
+            "Add the carrots, spice blend, cumin, tomatoes, and broth, then return the beef to the pan and stir. Bring to a boil, then reduce the heat to low, cover with a lid, and simmer for 1 1/2 hours.",
+            "Add the zucchini, squash, and broccoli to the soup and simmer, uncovered, for a further 30 minutes, or until the beef is very tender. Season with salt and pepper.",
+            "Ladle the soup into warm bowls, top generously with cilantro leaves, and serve."
         ],
         "notes": [],
         "tags": [
@@ -9416,7 +9437,9 @@ const RECIPES_DB = [
             "Saut\u00e9",
             "Boil"
         ],
-        "images": []
+        "images": [
+            "images/mexican_beef_and_vegetable_soup_1.jpg"
+        ]
     },
     {
         "id": "mexican_cabbage_soup",
@@ -9498,7 +9521,7 @@ const RECIPES_DB = [
     {
         "id": "mexican_chicken_with_roasted_pumpkin_and_avocado_and_tomato_salsa",
         "title": "Mexican Chicken with Roasted Pumpkin and Avocado and Tomato Salsa",
-        "description": "Serves: 4 | Prep Time: 35-45 minutes | Cook Time: 1 1/4 - 1 1/2 hours",
+        "description": "Serves: 4\nPrep Time: 35-45 minutes\nCook Time: 1 1/4 - 1 1/2 hours",
         "ingredients": [
             "1 butternut squash (about 4-4 1/2 pounds / 1.8-2 kg), halved lengthwise, deseeded",
             "2 tablespoons coconut oil or good-quality animal fat, melted",
@@ -9528,10 +9551,10 @@ const RECIPES_DB = [
             "2 tablespoons extra-virgin olive oil"
         ],
         "directions": [
-            "1. Preheat the oven to 350\u00b0F (180\u00b0C) or 320\u00b0F (160\u00b0C fan-forced/convection). Brush the butternut squash with the coconut oil or animal fat. Place, cut-side up, in a roasting pan and sprinkle with salt and pepper. Roast for 1 1/4-1 1/2 hours until tender.",
-            "2. Meanwhile, to make the Mexican chicken, heat the coconut oil or animal fat in a large skillet over medium-high heat. Add the onion and cook for 5 minutes, or until softened. Stir in the garlic and chipotle chili and cook for 1 minute, or until fragrant. Add the chicken and saut\u00e9 for 5 minutes, or until browned. Add the spices and tomato paste and cook for 1 minute, then mix in the tomatoes and broth. Reduce the heat to medium-low and simmer for 15 minutes, or until the chicken is cooked through and the sauce has thickened. Season with salt and pepper. If you like things a little spicier, add some extra chipotle chili.",
-            "3. Mix the avocado and tomato salsa ingredients in a bowl and season with salt and pepper.",
-            "4. Carefully transfer the roasted butternut squash to two serving plates. Spoon the Mexican chicken over the squash, then top with the avocado and tomato salsa. Finish with a sprinkle of scallions, cilantro, pickled jalape\u00f1o chili, and a pinch of smoked paprika, and serve with the lime wedges."
+            "Preheat the oven to 350\u00b0F (180\u00b0C) or 320\u00b0F (160\u00b0C fan-forced/convection). Brush the butternut squash with the coconut oil or animal fat. Place, cut-side up, in a roasting pan and sprinkle with salt and pepper. Roast for 1 1/4-1 1/2 hours until tender.",
+            "Meanwhile, to make the Mexican chicken, heat the coconut oil or animal fat in a large skillet over medium-high heat. Add the onion and cook for 5 minutes, or until softened. Stir in the garlic and chipotle chili and cook for 1 minute, or until fragrant. Add the chicken and saut\u00e9 for 5 minutes, or until browned. Add the spices and tomato paste and cook for 1 minute, then mix in the tomatoes and broth. Reduce the heat to medium-low and simmer for 15 minutes, or until the chicken is cooked through and the sauce has thickened. Season with salt and pepper. If you like things a little spicier, add some extra chipotle chili.",
+            "Mix the avocado and tomato salsa ingredients in a bowl and season with salt and pepper.",
+            "Carefully transfer the roasted butternut squash to two serving plates. Spoon the Mexican chicken over the squash, then top with the avocado and tomato salsa. Finish with a sprinkle of scallions, cilantro, pickled jalape\u00f1o chili, and a pinch of smoked paprika, and serve with the lime wedges."
         ],
         "notes": [],
         "tags": [
@@ -9541,7 +9564,9 @@ const RECIPES_DB = [
             "Bake",
             "Saut\u00e9"
         ],
-        "images": []
+        "images": [
+            "images/mexican_chicken_with_roasted_pumpkin_and_avocado_and_tomato_salsa_1.jpg"
+        ]
     },
     {
         "id": "mexican_pizza_ingredients",
@@ -10390,7 +10415,7 @@ const RECIPES_DB = [
     {
         "id": "pad_see_ew",
         "title": "Pad See Ew",
-        "description": "Serves: 4 | Prep Time: 15-20 minutes | Cook Time: 12 minutes",
+        "description": "Serves: 4\nPrep Time: 15-20 minutes\nCook Time: 12 minutes",
         "ingredients": [
             "5 carrots (about 1 pound / 480 g)",
             "2 tablespoons coconut oil",
@@ -10406,11 +10431,11 @@ const RECIPES_DB = [
             "Lime wedges"
         ],
         "directions": [
-            "1. To make the carrot noodles, use the wide ribbon blade on a vegetable spiralizer. Alternatively, place the carrots on a chopping board and, using a vegetable peeler, peel into thin, wide ribbons. (Save the leftover trimmings for broths or soups.)",
-            "2. Melt the oil in a wok or deep skillet over medium heat. Add the garlic and chicken and stir-fry for 2 minutes until the chicken changes color.",
-            "3. Add the broccolini and tamari or coconut aminos to the pan and cook for 5 minutes until the broccolini is softened.",
-            "4. Add the carrot noodles and stir-fry for another 3 minutes.",
-            "5. Push the stir-fry aside in the pan. Crack in the eggs, stir vigorously to scramble them and cook for 2 minutes until set. Mix everything together and serve immediately with the basil leaves, scallions, sesame seeds scattered over the top, and the lime wedges on the side."
+            "**To make the carrot noodles, use the wide ribbon blade on a vegetable spiralizer. Alternatively, place the carrots on a chopping board and, using a vegetable peeler, peel into thin, wide ribbons. (Save the leftover trimmings for broths or soups.)**",
+            "Melt the oil in a wok or deep skillet over medium heat. Add the garlic and chicken and stir-fry for 2 minutes until the chicken changes color.",
+            "Add the broccolini and tamari or coconut aminos to the pan and cook for 5 minutes until the broccolini is softened.",
+            "Add the carrot noodles and stir-fry for another 3 minutes.",
+            "Push the stir-fry aside in the pan. Crack in the eggs, stir vigorously to scramble them and cook for 2 minutes until set. Mix everything together and serve immediately with the basil leaves, scallions, sesame seeds scattered over the top, and the lime wedges on the side."
         ],
         "notes": [],
         "tags": [
@@ -10420,7 +10445,9 @@ const RECIPES_DB = [
             "Saut\u00e9",
             "Fry"
         ],
-        "images": []
+        "images": [
+            "images/pad_see_ew_1.jpg"
+        ]
     },
     {
         "id": "pan_seared_salmon_with_a_creamy_florentine_sauce",
@@ -12298,7 +12325,7 @@ const RECIPES_DB = [
     {
         "id": "shepherds_pie",
         "title": "Shepherd's Pie",
-        "description": "Serves: 6 | Prep Time: 25 minutes (plus 1 hour soaking time if using lambs' brains) | Cook Time: 40 minutes",
+        "description": "Serves: 6\nPrep Time: 25 minutes (plus 1 hour soaking time if using lambs' brains)\nCook Time: 40 minutes",
         "ingredients": [
             "1 large head of cauliflower (about 3 pounds / 1.36 kg), chopped into florets",
             "4 tablespoons coconut oil or other good-quality fat, divided",
@@ -12318,11 +12345,11 @@ const RECIPES_DB = [
             "Seasonal salad, to serve"
         ],
         "directions": [
-            "1. Preheat the oven to 350\u00b0F (180\u00b0C). Fill a large saucepan with water and bring to a boil, then add the cauliflower and cook until the cauliflower is tender, about 10 minutes. Drain the cooked cauliflower in a colander and set aside.",
-            "2. Heat 2 tablespoons of oil or fat in a large, deep skillet over medium-high heat. Add the cumin, onion, garlic, celery, and carrots and cook for 5 minutes, or until the vegetables are softened and beginning to brown.",
-            "3. Add the ground beef and brains (if using) and cook, stirring to break up any lumps, until browned. Add the tomato paste and thyme and cook for 1 minute, then pour in the wine and bone broth and simmer for 10 minutes, stirring occasionally. Season with salt and pepper.",
-            "4. Meanwhile, place the cooked cauliflower in the bowl of a food processor and process until smooth. Add the remaining oil or fat and puree, then season with salt and pepper.",
-            "5. To assemble, spread the meat mixture into the base of an ovenproof dish and level with a spoon. Cover with the cauliflower puree and smooth the top out evenly. Bake for 30 minutes, or until the top is lightly golden. Sprinkle with the parsley and serve with a fresh salad of your choice."
+            "Preheat the oven to 350\u00b0F (180\u00b0C). Fill a large saucepan with water and bring to a boil, then add the cauliflower and cook until the cauliflower is tender, about 10 minutes. Drain the cooked cauliflower in a colander and set aside.",
+            "Heat 2 tablespoons of oil or fat in a large, deep skillet over medium-high heat. Add the cumin, onion, garlic, celery, and carrots and cook for 5 minutes, or until the vegetables are softened and beginning to brown.",
+            "Add the ground beef and brains (if using) and cook, stirring to break up any lumps, until browned. Add the tomato paste and thyme and cook for 1 minute, then pour in the wine and bone broth and simmer for 10 minutes, stirring occasionally. Season with salt and pepper.",
+            "Meanwhile, place the cooked cauliflower in the bowl of a food processor and process until smooth. Add the remaining oil or fat and puree, then season with salt and pepper.",
+            "To assemble, spread the meat mixture into the base of an ovenproof dish and level with a spoon. Cover with the cauliflower puree and smooth the top out evenly. Bake for 30 minutes, or until the top is lightly golden. Sprinkle with the parsley and serve with a fresh salad of your choice."
         ],
         "notes": [],
         "tags": [
@@ -12333,7 +12360,9 @@ const RECIPES_DB = [
             "Saut\u00e9",
             "Boil"
         ],
-        "images": []
+        "images": [
+            "images/shepherds_pie_1.jpg"
+        ]
     },
     {
         "id": "skillet_roasted_lemon_chicken",
@@ -12662,9 +12691,8 @@ const RECIPES_DB = [
     {
         "id": "spaghetti_bolognese",
         "title": "Spaghetti Bolognese",
-        "description": "Serves: 4 | Prep Time: 20 minutes | Cook Time: 45 minutes",
+        "description": "Serves: 4\nPrep Time: 20 minutes\nCook Time: 45 minutes",
         "ingredients": [
-            "**SPAGHETTI**",
             "4 zucchini",
             "2 carrots",
             "2 tablespoons coconut oil or good-quality animal fat",
@@ -12683,11 +12711,11 @@ const RECIPES_DB = [
             "Baby basil leaves, to serve"
         ],
         "directions": [
-            "1. To make the spaghetti, use the thick noodle blade on a spiralizer to create carrot and zucchini noodles. If you don't have a spiralizer, simply julienne the carrot and zucchini using a sharp knife. Set aside until needed.",
-            "2. Melt the oil or fat in a large skillet over medium-high heat. Add the onion, carrot, and celery and cook for 4-5 minutes until the onion is soft. Stir in the garlic and cook for 1 minute until fragrant and starting to brown. Add the ground beef and brown, breaking up any lumps with a wooden spoon, for 5-6 minutes.",
-            "3. Add the tomato paste, stir and cook for 1 minute. Mix in the oregano and wine and cook for 4-5 minutes until the wine has almost evaporated. Add the tomato puree, half the broth, and the red pepper flakes (if using) and season with salt and pepper. Simmer on low heat for 30 minutes, adding more broth if needed.",
-            "4. Bring a saucepan of salted water to boil. Add the carrot noodles and cook for 30 seconds, then add the zucchini noodles and cook for a further 30 seconds until just tender. Drain well.",
-            "5. Spoon the noodles into four serving bowls, top with the Bolognese, then sprinkle on the basil."
+            "**To make the spaghetti, use the thick noodle blade on a spiralizer to create carrot and zucchini noodles. If you don't have a spiralizer, simply julienne the carrot and zucchini using a sharp knife. Set aside until needed.**",
+            "Melt the oil or fat in a large skillet over medium-high heat. Add the onion, carrot, and celery and cook for 4-5 minutes until the onion is soft. Stir in the garlic and cook for 1 minute until fragrant and starting to brown. Add the ground beef and brown, breaking up any lumps with a wooden spoon, for 5-6 minutes.",
+            "Add the tomato paste, stir and cook for 1 minute. Mix in the oregano and wine and cook for 4-5 minutes until the wine has almost evaporated. Add the tomato puree, half the broth, and the red pepper flakes (if using) and season with salt and pepper. Simmer on low heat for 30 minutes, adding more broth if needed.",
+            "Bring a saucepan of salted water to boil. Add the carrot noodles and cook for 30 seconds, then add the zucchini noodles and cook for a further 30 seconds until just tender. Drain well.",
+            "Spoon the noodles into four serving bowls, top with the Bolognese, then sprinkle on the basil."
         ],
         "notes": [],
         "tags": [
@@ -12697,7 +12725,9 @@ const RECIPES_DB = [
             "Saut\u00e9",
             "Boil"
         ],
-        "images": []
+        "images": [
+            "images/spaghetti_bolognese_1.jpg"
+        ]
     },
     {
         "id": "spicy_shakshuka",
